@@ -66,6 +66,9 @@ def doc(g):
          '## Good for / not for', '', f'- **Good for:** {"; ".join(good)}', f'- **Not ideal for:** {"; ".join(bad)}', '',
          '---', '',
          f'*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../{quote(zf)}).*', '']
+    from detail import en_section
+    k = L.index('---')
+    L[k:k] = en_section(i, open(f'{BG}/{zf}').read())
     if unk or '资料待补' in tags:
         L.insert(4, '> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.\n')
     return '\n'.join(L)

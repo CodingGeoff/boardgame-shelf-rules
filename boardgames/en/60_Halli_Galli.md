@@ -60,6 +60,45 @@ Flip fruit cards; when exactly five of one fruit is visible, ring the bell first
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 56 张水果牌（香蕉、草莓、青柠、李子，每张 1–5 个）、1 个铃铛
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Players flip cards in front of them.
+2. Exactly 5 of one fruit is showing.
+3. Everyone rings; I'm fastest and take the cards.
+4. A wrong ring pays each player a card.
+
+### Scoring example
+
+- Last player with cards wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Many variants.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../60_%E5%BE%B7%E5%9B%BD%E5%BF%83%E8%84%8F%E7%97%85_Halli_Galli_%E5%90%AB%E9%93%83%E5%84%BF%E5%93%8D%E5%8F%AE%E5%BD%93%E6%89%A9%E5%85%85.md).*

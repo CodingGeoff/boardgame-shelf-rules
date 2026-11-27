@@ -60,6 +60,45 @@ Four face-down cards of which you peek at two; swap and use powers, then call CA
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数字牌 0–13（0 和 13 各 2 张，1–12 各 4 张）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Peek 2 of your 4 cards.
+2. I draw a 2 and swap out an 11.
+3. I draw a Peek card and use it.
+4. I call CABO; others get one more turn.
+
+### Scoring example
+
+- Hand totals; reach 100 and you're out.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../68_CABO.md).*

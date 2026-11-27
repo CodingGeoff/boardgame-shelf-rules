@@ -61,6 +61,47 @@ Explore a haunted house; at some point the Haunt begins, one player becomes the 
 - **Good for:** most board gamers
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 房间板块（地下室 / 一楼 / 楼上）、6 个探险者角色卡（四项属性：速度、力量、理智、知识）、事件卡、物品卡、预兆卡、8 颗特制骰（每面 0/1/2）、两本剧本书：**《背叛者之书》**（Traitor's Tome）和**《幸存者秘籍》**（Secrets of Survival），各 50 个“作祟”剧本。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Explorers start in the entrance hall; I open a door and draw a room.
+2. An omen symbol: draw an omen and roll 6 dice for the haunt.
+3. The roll is under the omen count — the haunt begins.
+4. Look up the haunt and traitor; the traitor leaves to read their book.
+5. Each side pursues their goal.
+
+### Scoring example
+
+- Win per the haunt scenario.
+
+### Rules FAQ / rulings
+
+- **Q: How many dice for haunt rolls?**  
+  A: Six dice; trigger if below the omen count.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 5 players.
+
+### Official variants & expansions
+
+- Widow's Walk; 3rd ed differs.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../86_%E5%B1%B1%E5%B1%8B%E6%83%8A%E9%AD%82%E7%AC%AC%E4%BA%8C%E7%89%88_Betrayal_at_House_on_the_Hill.md).*

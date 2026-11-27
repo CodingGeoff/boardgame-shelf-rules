@@ -59,6 +59,47 @@ Grab the right wooden object: if a card shows an object in its true colour, grab
 - **Good for:** big parties; families with young children; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 铁盒、**5 个木制物件**（如白色幽灵、绿色瓶子、老鼠、**蓝色木桶**等，本作新增**木桶**；具体颜色以盒内为准）、**土耳其帽（Fez）**、图卡。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Flip a card.
+2. Five items on the table.
+3. An item matches in shape and colour — grab it.
+4. If nothing matches, grab the item with neither shape nor colour shown.
+5. Most cards wins.
+
+### Scoring example
+
+- Most cards.
+
+### Rules FAQ / rulings
+
+- **Q: Wrong grab?**  
+  A: Give back a card.
+
+### Player-count differences
+
+- 2–8.
+- Best with: 3-6 players.
+
+### Official variants & expansions
+
+- Spooky Doo variant.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../112_%E5%B9%BD%E7%81%B5%E5%BF%AB%E6%89%8B%E9%AC%BC%E5%BD%B1%E5%B9%A2%E5%B9%A2_Ghost_Blitz_Spooky_Doo.md).*

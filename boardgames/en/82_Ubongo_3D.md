@@ -58,6 +58,47 @@
 - **Good for:** fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 36 张题板（每张双面：一面用 3 块、一面用 4 块，难度不同）、每人一套立体多格块（共 40 块）、骰子、沙漏、宝石（红 4 分、蓝 3 分、绿 2 分、棕 1 分）和布袋。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone has the same 3D pieces and a puzzle card.
+2. Roll to choose which pieces to use; flip the timer.
+3. Build the shape covering the area exactly at the required height.
+4. First to finish shouts 'Ubongo' and takes gems; others finishing in time also take.
+5. Most gem value after the rounds wins.
+
+### Scoring example
+
+- Score gems per rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Can pieces overhang?**  
+  A: No.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Easy/hard puzzle sides.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../82_%E4%B9%8C%E9%82%A6%E6%9E%9C3D_Ubongo_3D.md).*

@@ -60,6 +60,44 @@ Make all your pigs dirty: mud dirties them, barns protect from rain, lightning d
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player has 3 clean pigs.
+2. I play Mud on one of mine.
+3. He plays Rain: all unprotected pigs wash clean.
+4. I play a Barn and a Lightning Rod.
+
+### Scoring example
+
+- First with all pigs dirty wins.
+
+### Rules FAQ / rulings
+
+- **Q: Does a barn stop rain?**  
+  A: Yes; lightning destroys barns unless a lightning rod protects them; a barn door stops the farmer.
+
+### Player-count differences
+
+- 2–4; fewer players means more pigs each.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- Editions like Drecksau Total add cards; Dirty Pig supports up to 6.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../50_%E8%84%8F%E5%B0%8F%E7%8C%AA_Drecksau.md).*

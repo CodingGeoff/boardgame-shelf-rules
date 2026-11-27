@@ -62,6 +62,45 @@ Survival on a lifeboat: secret love and hate, rowing, thirst, grabbing supplies 
 - **Good for:** talkative groups who enjoy acting and bluffing; people who love deduction and guessing identities
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 6 张角色牌、6 张位置牌、6 张喜爱牌、6 张憎恨牌、42 张物资牌、24 张航海牌、21 枚伤害指示物、3 枚海鸥指示物；部分版本附 3 个扩展（各 10 张牌）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Front seats are stronger; secret Friend/Enemy cards.
+2. Each round: grab supplies, row or swap, fight, navigate.
+3. I fight my neighbour; others take sides.
+4. Overboard characters suffer thirst.
+
+### Scoring example
+
+- Score survivors, beloved and items on landfall.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–6.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../37_%E9%AA%87%E6%B5%AA%E6%B1%82%E7%94%9F_Lifeboat.md).*

@@ -61,6 +61,45 @@ Ladder-climbing with a fixed hand order: play sets or runs, or scout a card from
 - **Good for:** short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 45 张双数字牌、分数指示物、搜查（Scout）指示物、Scout & Show 指示物、起始玩家标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. You can't reorder your hand, only flip it upside-down.
+2. I play a 3-4-5 run, beating the current set.
+3. He Scouts: takes an end card from my set into his hand.
+4. I get his scout token.
+
+### Scoring example
+
+- Collected cards + tokens − cards left in hand.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../57_SCOUT.md).*

@@ -56,6 +56,42 @@ Probably a version of Gizmos; see document 21 for the rules.
 - **Good for:** most board gamers
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Plays like Gizmos: pick, build, file, research.
+2. Chains trigger more resources.
+3. Check edition differences in the rulebook.
+
+### Scoring example
+
+- See rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- Possibly a Gizmos edition.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../23_%E7%A7%91%E5%AD%A6%E7%88%86%E7%8F%A0.md).*

@@ -63,6 +63,46 @@ Hidden-faction shootout: three integrity cards decide whether you are honest or 
 - **Good for:** big parties; people who love deduction and guessing identities; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 诚信卡 24 张、装备卡 16 张、枪卡 4 张、受伤卡 2 张、首席调查员卡 1 张。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 3 integrity cards each.
+2. I investigate A.
+3. I take equipment and a gun.
+4. I shoot A.
+5. Kill the Agent or Kingpin.
+
+### Scoring example
+
+- Kill the enemy leader.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–8.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- Bomb expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../131_%E6%97%A0%E9%97%B4%E9%A3%8E%E4%BA%91_Good_Cop_Bad_Cop.md).*

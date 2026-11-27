@@ -59,6 +59,47 @@ Pass pest cards face down while claiming a type; the receiver calls true/false o
 - **Good for:** talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 64 张牌：8 种害虫各 8 张（蟑螂、蝙蝠、苍蝇、蟾蜍、老鼠、蝎子、蜘蛛、臭虫）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Deal all 64 cards.
+2. I pass a card to A: 'Scorpion.'
+3. A peeks and passes to B: 'Spider.'
+4. B says 'false' — correct, so A takes the card face up.
+5. A collects a 4th scorpion and loses.
+
+### Scoring example
+
+- Four of a kind (5 with 2p) or no cards to pass loses.
+
+### Rules FAQ / rulings
+
+- **Q: Can the last player pass?**  
+  A: No, he must guess.
+
+### Player-count differences
+
+- 2–6; 2p needs 5 of a kind.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Related titles exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../53_%E8%9F%91%E8%9E%82%E6%89%91%E5%85%8B_Kakerlaken_Poker.md).*

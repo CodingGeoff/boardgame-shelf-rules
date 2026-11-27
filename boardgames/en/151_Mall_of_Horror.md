@@ -57,6 +57,53 @@ Zombies surround a mall: choose rooms secretly, then vote who gets thrown out wh
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 版图 1 张（商场的 6 个地点）
+- [ ] 封锁标记 5 个
+- [ ] 角色标记 21 个
+- [ ] 僵尸 30 个
+- [ ] 投票转盘 6 个
+- [ ] 骰子 4 颗、骰盅 1 个
+- [ ] 行动卡 21 张
+- [ ] 保安队长徽章 1 个
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 3 characters each.
+2. Zombies appear by dice.
+3. Vote for the security chief.
+4. A zone overflows; vote a victim.
+5. Highest surviving score wins.
+
+### Scoring example
+
+- Sum surviving characters.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../151_%E5%83%B5%E5%B0%B8%E5%95%86%E5%9C%BA_Mall_of_Horror.md).*

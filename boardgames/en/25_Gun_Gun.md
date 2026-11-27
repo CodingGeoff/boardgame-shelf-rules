@@ -63,6 +63,43 @@ A two-player duel with two personified guns each: load ammo, fire each gun once 
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I load ammo into my left gun.
+2. Fire: each gun once per turn for HIT damage.
+3. He blocks with equipment.
+4. Refill at end of turn.
+
+### Scoring example
+
+- Reduce 30 HP to 0.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- OVERHEAT adds heat and guns.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../25_%E6%9E%AA%E4%B8%8E%E6%9E%AA_Gun_and_Gun_%E5%90%ABOVERHEAT%E6%89%A9%E5%B1%95.md).*

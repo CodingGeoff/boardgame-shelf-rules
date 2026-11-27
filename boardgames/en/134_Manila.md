@@ -60,6 +60,44 @@ The harbour master auction: place workers on boats, ports, shipyards, pirates or
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Auction for harbour master.
+2. I place a worker on a ship.
+3. Dice move ships.
+4. I use the pilot.
+5. A stock hits 30.
+
+### Scoring example
+
+- Cash + shares.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../134_%E9%A9%AC%E5%B0%BC%E6%8B%89_Manila.md).*

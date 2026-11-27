@@ -65,6 +65,48 @@ A comedic team deduction game in an elevator: a hidden Farter team knows which f
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 193 张卡牌（65 张角色卡互不重复、行动卡、身份卡、进阶超自然身份卡、发言顺序号码牌、环境（屁）牌、血量卡）+ 10 个底座
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Floor 1 environment: 'well ventilated' — no damage; everyone speaks in order.
+2. Floor 2: a fart floor — affected players lose 1 health; everyone then points on three.
+3. The most-voted player is eliminated regardless of health.
+4. Ties revote between the tied; another tie means nobody leaves.
+
+### Scoring example
+
+- A team loses immediately when fully eliminated; after 8 floors, more survivors wins.
+
+### Rules FAQ / rulings
+
+- **Q: Can you be voted out with health left?**  
+  A: Yes.
+- **Q: Can I skip playing an action?**  
+  A: Yes, then you take no action this floor.
+
+### Player-count differences
+
+- 5–10, components by player count.
+- Best with: 7-8 players.
+
+### Official variants & expansions
+
+- Advanced roles per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../06_%E5%B1%81%E8%80%85%E5%85%88%E7%9F%A5.md).*

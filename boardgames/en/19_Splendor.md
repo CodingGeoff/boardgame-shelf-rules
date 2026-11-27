@@ -59,6 +59,50 @@ Take gems, buy development cards and use their permanent discounts to snowball t
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 40 个筹码**：翡翠（绿）、钻石（白）、蓝宝石（蓝）、玛瑙（黑）、红宝石（红）各 7 个；黄金（万能）5 个
+- [ ] 90 张发展卡**：等级 1 有 40 张，等级 2 有 30 张，等级 3 有 20 张
+- [ ] 10 张贵族卡**
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I take 3 gems of different colours.
+2. Next turn I buy a level-1 card — a permanent discount of that colour.
+3. I reserve a card and take a gold (wild).
+4. I meet a noble's requirement; the noble visits (+3).
+
+### Scoring example
+
+- At 15 points finish the round; ties go to fewer cards.
+
+### Rules FAQ / rulings
+
+- **Q: Gem limit?**  
+  A: 10.
+- **Q: Taking 2 of one colour?**  
+  A: Only if 4+ remain.
+
+### Player-count differences
+
+- Gems: 4/5/7 per colour; nobles = players + 1.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Expansions: Cities, Orient.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../19_%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3_Splendor.md).*

@@ -63,6 +63,43 @@ One guesser, one honest explainer and everyone else bluffs definitions of strang
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone closes eyes for 9 seconds; the honest player peeks.
+2. The guesser reads the word; all explain (bluffers invent).
+3. He uses a 'Gong San Xiao' card to grill someone.
+4. He picks the honest player — both score the difficulty.
+
+### Scoring example
+
+- Honest pick: both score difficulty; bluffer pick: bluffer scores. Cards: bluffer −1/guesser +1; on honest, guesser −3.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–8.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../35_%E7%9E%8E%E6%8E%B0%E7%8E%8B.md).*

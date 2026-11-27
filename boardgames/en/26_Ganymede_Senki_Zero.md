@@ -58,6 +58,43 @@ Stack transparent part cards on transparent mech cards, then brawl with dice.
 - **Good for:** short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draft 2 mechs + 4 parts each.
+2. Overlay parts; stats add visually.
+3. Battle in turns rolling dice.
+4. Destroyed mechs are out.
+
+### Scoring example
+
+- Destroy enemy mechs.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../26_%E5%8A%A0%E5%B0%BC%E9%87%87%E5%BE%B7%E6%88%98%E8%AE%B0_ZERO_PLUS.md).*

@@ -61,6 +61,49 @@ A lightweight duel card game: play creatures to attack, but each player has two 
 - **Good for:** couples / head-to-head duels; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 48 张生物卡（First Contact 基础包；中文版具体张数以实物为准）
+- [ ] 4 张 Mindbug（心灵虫）卡，规则说明书
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I play a 'shark warrior (power 7)'; my opponent immediately uses a Mindbug to steal it.
+2. I attack with a power-5 creature; he blocks with a power-6 one and mine dies.
+3. Next turn I use my own Mindbug to steal his newly played 'poison spider'.
+4. I attack with it; he can't block well and loses 1 life.
+
+### Scoring example
+
+- Each player has 3 life; reduce the opponent to 0.
+
+### Rules FAQ / rulings
+
+- **Q: Can Mindbugs be reused?**  
+  A: No — you have 2, each used once.
+- **Q: Who gets a stolen creature's 'play' effect?**  
+  A: The player who stole it.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Several sets can be mixed.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../05_%E5%BF%83%E7%81%B5%E8%99%AB_Mindbug.md).*

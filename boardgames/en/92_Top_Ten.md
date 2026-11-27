@@ -60,6 +60,47 @@ Fully cooperative: each player has a secret number 1–10 and answers a theme to
 - **Good for:** big parties; friends who prefer working together; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 主题卡（中文版约 100 张、400 道题，蓝色温和题 / 红色成人题）、1–10 数字牌、独角兽标记、说明书。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The captain reads a theme.
+2. Others get secret numbers 1–10.
+3. They describe answers matching their number.
+4. The captain orders them.
+5. Mistakes cost hearts.
+
+### Scoring example
+
+- Cooperative per rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Can I say my number?**  
+  A: No.
+
+### Player-count differences
+
+- 4–9.
+- Best with: 5-7 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../92_%E8%84%91%E6%B4%9E%E9%87%8F%E8%A1%A8_Top_Ten.md).*

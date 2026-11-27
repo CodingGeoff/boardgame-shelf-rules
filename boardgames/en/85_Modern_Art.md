@@ -60,6 +60,45 @@ Knizia's auction classic: auction paintings in five formats and drive artists' v
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I play an artist card and announce the auction type.
+2. A wins and pays me.
+3. When an artist's 5th card appears, the round ends.
+4. Top three artists are worth 30/20/10 and accumulate over rounds.
+5. Most money after 4 rounds wins.
+
+### Scoring example
+
+- Paintings sell for accumulated artist values; most money wins.
+
+### Rules FAQ / rulings
+
+- **Q: If I buy my own painting?**  
+  A: Pay the bank.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Several editions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../85_%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF_Modern_Art.md).*

@@ -60,6 +60,45 @@ Run a research institute: launch probes, scan stars, analyse data and find alien
 - **Good for:** experienced gamers who want a deep think
 - **Not ideal for:** relaxed chatting sessions
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Launch a probe for 2 credits.
+2. Orbit for 1 credit + 1 energy.
+3. Scan: mark Earth's sector and another by discard colour.
+4. Sector filled; I have most signals and gain a red trace.
+5. After 5 rounds score.
+
+### Scoring example
+
+- Most VP.
+
+### Rules FAQ / rulings
+
+- **Q: Two probes?**  
+  A: Requires tech.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../118_%E5%9C%B0%E5%A4%96%E6%96%87%E6%98%8E_SETI.md).*

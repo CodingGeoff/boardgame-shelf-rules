@@ -59,6 +59,44 @@ A 16-card game: hold one card, draw one, play one; guard guesses, baron compares
 - **Good for:** people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 1 card each; draw 1, play 1.
+2. I play Guard guessing 'Priest' — correct, he's out.
+3. He plays Baron comparing; I'm lower and out.
+4. When the deck runs out, highest card wins a token.
+
+### Scoring example
+
+- First to the token target.
+
+### Rules FAQ / rulings
+
+- **Q: Countess with King/Prince?**  
+  A: Must discard the Countess.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- Many themed editions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../62_%E6%83%85%E4%B9%A6_Love_Letter.md).*

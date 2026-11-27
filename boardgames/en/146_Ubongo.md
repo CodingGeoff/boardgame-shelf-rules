@@ -58,6 +58,51 @@ Real-time puzzle race: roll to see which pieces to use and fill your board befor
 - **Good for:** fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 拼图卡 36 张，正反两面分别是 3 片和 4 片难度
+- [ ] 每人一套 12 片多联方块
+- [ ] 宝石若干
+- [ ] 计时沙漏
+- [ ] 符号骰
+- [ ] 宝石版图
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Same pieces and puzzle cards.
+2. Roll to choose pieces.
+3. Race to fill the shape.
+4. First shouts Ubongo.
+5. Most gems wins.
+
+### Scoring example
+
+- Score gems.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Easy/hard sides.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../146_%E4%B9%8C%E9%82%A6%E6%9E%9C_Ubongo.md).*

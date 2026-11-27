@@ -61,6 +61,44 @@ Draw a bomb cat and you are out unless you defuse it; use skip, peek and attack 
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Deal hands including defuses; shuffle bombs (players − 1) in.
+2. I play See the Future and spot a bomb 2nd from top.
+3. I play Skip, ending my turn without drawing.
+4. Next player draws the bomb, defuses it and secretly reinserts it.
+
+### Scoring example
+
+- Last player alive.
+
+### Rules FAQ / rulings
+
+- **Q: Nope timing?**  
+  A: Any time, against any action except Defuse/Bomb.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../34_%E7%82%B8%E5%BC%B9%E7%8C%AB_Bomb_Kittens.md).*

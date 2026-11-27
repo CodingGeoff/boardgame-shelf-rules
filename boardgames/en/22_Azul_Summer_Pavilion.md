@@ -59,6 +59,52 @@ Third Azul: take tiles, build star-shaped pavilions with a rotating wild colour,
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 132 块菱形瓷砖：6 种颜色各 22 块
+- [ ] 9 个工厂圆盘、1 块中央计分版图（含回合和**百搭色**轨道）
+- [ ] 4 块玩家版图：6 个颜色星形 + 1 个中央星形，每个星形有标着 1–6 的格子
+- [ ] 起始玩家标记、分数标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Round 1 wild is purple. I take all orange tiles (2) from a factory plus 1 purple wild.
+2. The first to take from the centre gets the start marker and loses points equal to tiles taken.
+3. Placing: I fill a '3' space in the orange star by paying 3 tiles (2 orange + 1 wild).
+4. Score 1 + connected tiles in that star.
+5. At round end I may keep only 4 leftover tiles; extras cost points.
+
+### Scoring example
+
+- After 6 rounds score completed stars and the bonuses in the rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Can I take only wilds?**  
+  A: Yes, one at a time.
+- **Q: Centre star rule?**  
+  A: One tile of each colour.
+
+### Player-count differences
+
+- 2–4; factories 5/7/9.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Third Azul title; see rulebook for expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../22_%E5%BD%A9%E7%A0%96%E5%A4%A7%E5%B8%88%E5%A4%8F%E5%AE%AB_Azul_Summer_Pavilion.md).*

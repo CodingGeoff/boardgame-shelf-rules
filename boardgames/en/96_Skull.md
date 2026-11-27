@@ -60,6 +60,47 @@ Three roses and one skull each: place discs face down, then bid how many you can
 - **Good for:** talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 每人 1 块杯垫（翻面表示赢过 1 次）+ 4 张圆片：**3 张玫瑰、1 张骷髅**。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 4 coasters: 3 roses, 1 skull.
+2. Everyone places a coaster face down.
+3. I bid: 'I can flip 3 without a skull.'
+4. Others raise or pass; I must flip mine first.
+5. I hit a skull and lose a coaster.
+
+### Scoring example
+
+- Two successes, or last with coasters.
+
+### Rules FAQ / rulings
+
+- **Q: Must I flip mine first?**  
+  A: Yes.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../96_%E9%AA%B7%E9%AB%85%E4%B8%8E%E7%8E%AB%E7%91%B0_Skull.md).*

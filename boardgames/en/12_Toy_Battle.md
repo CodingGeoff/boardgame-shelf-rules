@@ -62,6 +62,48 @@ Two toy factions fight over a carpet: each turn either draw 2 tiles or deploy 1,
 - **Good for:** couples / head-to-head duels; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 双面游戏版图，上面有连接的格子、双方**总部（HQ）**和若干**奖章**区域
+- [ ] 双方各一套**玩具板块**，每块有 1–N 的力量值，有的带特殊能力
+- [ ] 奖章标记，双方的牌架（tile rack）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I Refill: draw 2 tiles (rack limit 8).
+2. He Deploys a strength-3 toy on an empty space connected to his HQ.
+3. I deploy a strength 4 over his 3 (must be strictly higher).
+4. I enclose a medal area and take the medal.
+
+### Scoring example
+
+- Capture the enemy HQ or reach the medal target.
+
+### Rules FAQ / rulings
+
+- **Q: Can equal strength capture?**  
+  A: No, strictly higher only.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Double-sided board — see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../12_%E7%8E%A9%E5%85%B7%E5%A4%A7%E6%88%98_Toy_Battle.md).*

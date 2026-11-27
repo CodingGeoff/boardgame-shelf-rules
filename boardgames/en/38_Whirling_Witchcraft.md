@@ -61,6 +61,43 @@ Witches play recipe cards simultaneously, transform ingredients on their workben
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone simultaneously plays a recipe card (direction chosen before reveal).
+2. Use each played recipe once to transform ingredients.
+3. Pass cauldron ingredients to the next player.
+4. Complete orders for points.
+
+### Scoring example
+
+- Per rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../38_%E6%AF%92%E9%80%97%E9%AD%94%E8%8D%AF%E5%B8%88_Whirling_Witchcraft.md).*

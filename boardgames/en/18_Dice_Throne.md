@@ -62,6 +62,44 @@ A fighting-game-style dice duel: each hero has unique dice faces and an ability 
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I roll 5 dice up to 3 times, aiming for a large straight.
+2. My hero's straight ability deals 7.
+3. He plays a reaction card reducing 2.
+4. I spend CP on an upgrade.
+
+### Scoring example
+
+- Reduce the opponent to 0 HP.
+
+### Rules FAQ / rulings
+
+- **Q: Can dice-manipulation cards be used on the opponent's turn?**  
+  A: Per card timing; some can.
+
+### Player-count differences
+
+- 2–6: 1v1, 2v2, 3v3 or FFA.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Seasons of heroes mix freely.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../18_Dice_Throne_%E9%87%8D%E5%88%B6%E7%89%88%E7%AC%AC%E4%B8%80%E5%AD%A3.md).*

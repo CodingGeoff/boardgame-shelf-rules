@@ -59,6 +59,45 @@ Collect origami sea creatures for sets, play pairs for effects, and end the roun
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 58 张牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw from a discard or draw 2 keep 1.
+2. Play a crab pair to take from a discard.
+3. With 7 points I call 'last chance'.
+4. Others take one turn; I score colour bonus.
+
+### Scoring example
+
+- Stop or Last Chance; first to 40 (by players).
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Extra Salt expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../59_%E6%8A%98%E7%BA%B8%E6%B5%B7%E6%B4%8B_Sea_Salt_and_Paper.md).*

@@ -61,6 +61,47 @@ Cheating is allowed: moth cards can only be secretly dumped, but the guard bug c
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数字牌（1–5）、四种虫子行动牌、8 张作弊飞蛾、1 张守卫虫
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The oldest player gets the guard bug; 8 cards each.
+2. Top is 3; I play 4.
+3. I play a Mosquito: slowest slapper receives a card from each player.
+4. I sneak a moth under the table while the guard looks away.
+5. The guard catches someone: he takes back the moth, takes a card from the guard and becomes guard.
+
+### Scoring example
+
+- Moth 10, action 5, number 1 penalty; lowest after rounds wins.
+
+### Rules FAQ / rulings
+
+- **Q: Can the guard cheat?**  
+  A: No, but he may play moths normally.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../52_%E4%BD%9C%E5%BC%8A%E9%A3%9E%E8%9B%BE_Mogel_Motte.md).*

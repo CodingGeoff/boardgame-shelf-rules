@@ -59,6 +59,52 @@ Three years of 12 seasons: draft ability cards and split them across years, then
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 游戏图板、水晶轨（计分）
+- [ ] 年份和季节指示物
+- [ ] 魔法师面板 4 块
+- [ ] 藏书指示物 8 个
+- [ ] 能量指示物 16 个，分四种元素：风、火、水、土
+- [ ] 季节骰 20 颗
+- [ ] 魔法卡：基础 60 张 + 进阶 40 张
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draft 9 cards for 3 years.
+2. Season dice: energy and summoning.
+3. Summon an item.
+4. Season advances.
+5. Score after 3 years.
+
+### Scoring example
+
+- Crystals + cards − penalties.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Seasons expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../132_%E5%AD%A3%E8%8A%82%E4%BC%A0%E8%AF%B4_%E5%9B%9B%E5%AD%A3%E7%89%A9%E8%AF%AD_Seasons.md).*

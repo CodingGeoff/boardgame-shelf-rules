@@ -61,6 +61,51 @@ Two-player Splendor: take gems from a shared board, buy development cards, fight
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 67 张发展卡（3 个等级）、4 张皇室卡
+- [ ] 25 个标记：每种宝石（白、蓝、绿、红、黑）各 4 个、**珍珠 2 个**、**黄金 3 个**
+- [ ] 5×5 标记版图**、标记袋
+- [ ] 3 个特权卷轴（Privilege）
+- [ ] 胜利条件提示卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I take 3 adjacent tokens in a straight line (no gold).
+2. They are all one colour, so my opponent gains a privilege.
+3. Next turn I buy a level-2 card with tokens plus bonuses, gaining a bonus and crowns.
+4. He spends a privilege, then refills the board — I gain a privilege.
+5. I reach 10 crowns and win instantly.
+
+### Scoring example
+
+- Win with 20 points, 10 crowns, or 10 points in one colour.
+
+### Rules FAQ / rulings
+
+- **Q: Must tokens be in a line?**  
+  A: Yes, adjacent in a line.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- No expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../16_%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3%E5%AF%B9%E5%86%B3_Splendor_Duel.md).*

@@ -60,6 +60,45 @@ Wear a hidden taboo word on your forehead; lure others into saying theirs while 
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 题目卡（含空白卡）、头带
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone wears a hidden taboo card.
+2. Chat freely, steering others into their words.
+3. Someone says their word, takes the penalty and loses a life.
+4. Last player with a card wins.
+
+### Scoring example
+
+- Two lives each; last survivor wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Blank cards for custom words.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../36_%E5%AE%B3%E4%BD%A0%E5%9C%A8%E5%BF%83%E5%8F%A3%E9%9A%BE%E5%BC%80.md).*

@@ -59,6 +59,47 @@ Build machines powered by energy marbles and trigger chain reactions.
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 能量分配器**（弹珠滑道）+ **52 颗能量弹珠**：红、黄、蓝、黑各 13 颗
+- [ ] 装置卡**：等级 I、II、III，外加起始装置卡
+- [ ] 玩家面板（能量存储区、档案区）、胜利点标记、首位玩家标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I pick a marble from the dispenser.
+2. I build a gizmo: 'when you pick red, pick one more'.
+3. Chain: pick red → extra pick → triggers another gizmo.
+4. I file a gizmo for later.
+
+### Scoring example
+
+- Ends at 16 gizmos or 4 level-III; most points.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../21_%E7%88%86%E7%8F%A0%E5%8F%91%E6%98%8E_Gizmos.md).*

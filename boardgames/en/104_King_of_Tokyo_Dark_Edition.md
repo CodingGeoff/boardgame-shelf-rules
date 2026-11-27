@@ -60,6 +60,47 @@ Monster brawl: roll Yahtzee-style dice to score, heal, gain energy or attack; ho
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 6 个怪兽板（生命和胜利点转盘）、6 颗黑色怪兽骰 + 2 颗绿色额外骰、能量块、能力卡、东京城（+东京湾）、**邪恶值轨道和邪恶板块**。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Roll 6 dice, reroll twice.
+2. Three 3s: 3 points; 2 claws deal damage.
+3. The monster in Tokyo yields; I enter (+1).
+4. Start my turn in Tokyo: +2.
+5. First to 20 wins.
+
+### Scoring example
+
+- 20 VP or last survivor.
+
+### Rules FAQ / rulings
+
+- **Q: Can I heal in Tokyo?**  
+  A: No.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Dark Edition adds wickedness.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../104_%E4%B8%9C%E4%BA%AC%E4%B9%8B%E7%8E%8B%E6%9A%97%E9%BB%91%E6%97%A0%E7%95%8C_King_of_Tokyo_Dark_Edition.md).*

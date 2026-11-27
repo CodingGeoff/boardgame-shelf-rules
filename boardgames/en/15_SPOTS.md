@@ -60,6 +60,49 @@ Fill dog cards with spots by rolling dice through trick cards; if the yard total
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 狗狗卡**：每张画着一只小狗，身上有不同点数的斑点格子
+- [ ] 若干**骰子**，骰面是斑点点数
+- [ ] 技巧卡（Trick）**：可以执行的掷骰动作
+- [ ] 零食（Treat）**标记：可以重掷
+- [ ] 院子（Yard）**卡：存放骰子；**骨头**标记，计分辅助（以实物为准）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I perform a trick, rolling dice as shown.
+2. Place dice on matching spots on a dog; others go to the yard.
+3. Yard over 7 — bust; lose this turn's progress.
+4. I spent a treat to reroll.
+
+### Scoring example
+
+- First to finish 6 dogs wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4 with solo mode.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../15_%E7%8B%97%E8%BF%90%E5%BD%93%E9%AA%B0_SPOTS.md).*

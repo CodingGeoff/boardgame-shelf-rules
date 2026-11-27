@@ -58,6 +58,45 @@ Build your bear park with polyomino tiles: covering icons grants new tiles and p
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. A starting park board and tile each.
+2. I place a tile covering an icon and take the matching new piece (green area, enclosure or park board).
+3. Bigger enclosures are worth more but run out fast.
+4. Completing a park board earns the top bear statue available.
+5. When someone fills all boards, finish the round and score.
+
+### Scoring example
+
+- Tile values + statues (+ achievements).
+
+### Rules FAQ / rulings
+
+- **Q: Can tiles overhang?**  
+  A: No.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Achievement variant; expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../90_%E7%86%8A%E7%86%8A%E5%85%AC%E5%9B%AD_Barenpark.md).*

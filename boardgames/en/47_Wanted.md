@@ -60,6 +60,45 @@ Flip character cards; only when a character performs their own job's action does
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 人物牌（小偷、银行家、法官、警察，各种不同动作）、警徽牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Players flip cards to the centre in turn.
+2. Policeman with badge: grab a badge; slowest takes the pile.
+3. Mismatched combos: stay still; reacting is a mistake.
+4. First to empty their deck wins.
+
+### Scoring example
+
+- First to empty deck wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../47_%E9%80%9A%E7%BC%89%E4%BB%A4.md).*

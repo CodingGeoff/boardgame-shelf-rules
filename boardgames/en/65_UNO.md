@@ -61,6 +61,46 @@ Match colour or number, punish the next player with +2, +4, skip and reverse, an
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 108 张（新版 112 张，含白牌和洗手牌）：红黄绿蓝各 0×1、1–9×2；每色跳过、反转、+2 各 2 张；万能牌、万能 +4 各 4 张
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Match colour or number.
+2. I play +2; next draws 2 and skips.
+3. With one card I must call UNO.
+4. Empty your hand to win.
+
+### Scoring example
+
+- Winner scores others' cards; first to 500.
+
+### Rules FAQ / rulings
+
+- **Q: Can +2 stack?**  
+  A: Not officially.
+
+### Player-count differences
+
+- 2–10.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Many editions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../65_UNO.md).*

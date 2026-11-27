@@ -58,6 +58,53 @@ A realistic experience game: vote on choices in the life of Lee Ji-hye, an ordin
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 人生版图 1 张
+- [ ] 说明书 1 本、答案解析书 1 本
+- [ ] 李智慧卡牌 4 组
+- [ ] 身份证 1 张、角色牌 5 张
+- [ ] 白板笔、履历表
+- [ ] 属性记录板 1 个、5 色方粒（代表五项属性）
+- [ ] 挡板 1 张（李智慧玩家用来遮挡答案）
+- [ ] 计时器
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. One plays Lee Ji-hye; others protect attributes.
+2. Read a life event and vote.
+3. Choices shift attributes.
+4. Advance through life.
+5. Discuss with the answer book.
+
+### Scoring example
+
+- Cooperative per rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../136_%E6%9D%8E%E6%99%BA%E6%85%A7%E7%94%9F%E5%AD%98%E6%B8%B8%E6%88%8F.md).*

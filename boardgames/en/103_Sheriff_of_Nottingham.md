@@ -59,6 +59,47 @@ Smuggle goods into the city: bag goods, declare a legal type and count; the sher
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 货物卡：**合法货物**（苹果、奶酪、面包、鸡）、**违禁品**（胡椒、蜂蜜酒、丝绸、弩等）、皇家货物、商人袋子（带扣）、金币、商人摊位板、警长标记。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. A is sheriff.
+2. Others bag goods and declare.
+3. A inspects my bag: honest — he pays me.
+4. B's bag isn't inspected; contraband gets through.
+5. Score goods and king/queen bonuses.
+
+### Scoring example
+
+- Goods + contraband + coins + bonuses.
+
+### Rules FAQ / rulings
+
+- **Q: Can bribes be promises?**  
+  A: Yes, but non-binding.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../103_%E8%AF%BA%E4%B8%81%E6%B1%89%E8%AD%A6%E9%95%BF%E7%AC%AC%E4%BA%8C%E7%89%88_Sheriff_of_Nottingham.md).*

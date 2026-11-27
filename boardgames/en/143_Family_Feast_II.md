@@ -49,6 +49,43 @@ See the rulebook in the box.
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example
+
+Public information is too limited for a reliable example. For a first game:
+
+1. Read the turn sequence and win conditions in the box rulebook;
+2. Play one open-handed practice round;
+3. Note any house rules on this page for next time.
+
+### Scoring example
+
+See the rulebook.
+
+### Rules FAQ
+
+- **Q: Are the rules online?** A: Very little public info; use the box rulebook.
+
+### Player counts
+
+See the box.
+
+### Variants & expansions
+
+See the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../143_%E5%AE%B6%E5%AE%B4II%E6%AC%A2%E4%B9%90%E5%8D%87%E7%BA%A7_%E8%B5%84%E6%96%99%E5%BE%85%E8%A1%A5.md).*

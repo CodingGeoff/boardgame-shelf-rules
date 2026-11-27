@@ -61,6 +61,45 @@ Flip cards one by one; stop when you like. A duplicate number busts; 7 unique nu
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 94 张牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I flip 5, then 9, then a Freeze action.
+2. I freeze an opponent, banking his current total.
+3. I flip another 5 — a duplicate: bust, 0 this round.
+4. Later I get 7 unique numbers: Flip 7 bonus +15.
+
+### Scoring example
+
+- Sum numbers (+modifiers); first to 200.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../55_FLIP_7.md).*

@@ -59,6 +59,45 @@ Spice Road: use merchant cards to produce, upgrade and trade four spices and cla
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 2 starting cards.
+2. Play a produce card for 2 yellow.
+3. Upgrade 2 yellow into red.
+4. Claim a point card and a coin.
+5. Game ends when someone claims 5 (4p).
+
+### Scoring example
+
+- Point cards + coins + non-yellow spices.
+
+### Rules FAQ / rulings
+
+- **Q: How to recover cards?**  
+  A: Rest action.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Eastern Wonders, New World.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../116_%E9%A6%99%E6%96%99%E4%B9%8B%E8%B7%AF_%E9%A6%99%E6%96%99%E4%B8%96%E7%BA%AA_Century_%E5%90%AB%E7%A5%9E%E7%A7%98%E4%B8%9C%E6%96%B9%E4%B8%8E%E6%96%B0%E4%B8%96%E7%95%8C.md).*

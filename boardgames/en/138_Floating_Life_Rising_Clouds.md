@@ -63,6 +63,54 @@ Chinese-style light strategy (Yaofish Games): scholars rise and fall in official
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数量
+- [ ] 顺境板块：8
+- [ ] 逆境板块：18
+- [ ] 起点板块：1
+- [ ] 终点板块：1
+- [ ] 浮生板块：32
+- [ ] 书生：18
+- [ ] 骰子：1
+- [ ] 守卫：8
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Roll one die.
+2. Move a scholar exactly.
+3. Leaving an empty tile triggers the rule.
+4. Opponents move guards.
+5. Score fortune and adversity tiles.
+
+### Scoring example
+
+- Sum tiles per rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../138_%E6%B5%AE%E7%94%9F%E9%9D%92%E4%BA%91%E5%BD%95.md).*

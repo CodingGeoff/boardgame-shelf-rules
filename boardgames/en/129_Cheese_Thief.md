@@ -62,6 +62,47 @@ No-moderator 10-minute deduction: everyone secretly rolls a die; on the night co
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 身份牌（奶酪大盗、贪睡鼠，6 人以上加背锅鼠）、骰子、树桩造型骰盅、海绵奶酪。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 6p: thief, 4 sleepyheads, 1 scapegoat; secret rolls.
+2. Count 1 to 6 at night; matching players wake.
+3. I wake alone on 3 and peek at a die: 5.
+4. On 5 two players wake; the thief steals and the other sees him.
+5. Discuss, vote together, and resolve per rulebook.
+
+### Scoring example
+
+- Team victory; nobody is eliminated.
+
+### Rules FAQ / rulings
+
+- **Q: Can I peek when others are awake?**  
+  A: No, only when alone.
+
+### Player-count differences
+
+- 4–8 (4p uses 2 dice each).
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../129_%E5%A5%B6%E9%85%AA%E5%A4%A7%E7%9B%97_Cheese_Thief.md).*

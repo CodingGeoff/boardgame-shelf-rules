@@ -59,6 +59,43 @@ A tabletop MOBA: teams of heroes pick cards simultaneously and resolve by initia
 - **Good for:** big parties
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. All choose a card; resolve by initiative.
+2. I move 2 and kill a minion.
+3. He blocks with a defence ≥ attack.
+4. After 4 turns check the push.
+
+### Scoring example
+
+- Throne push, final push, or enemy out of lives.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–10.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../73_%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E5%AE%88%E5%8D%ABII_Guards_of_Atlantis_II.md).*

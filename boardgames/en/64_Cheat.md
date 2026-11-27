@@ -59,6 +59,43 @@ With a standard deck, play cards face down in order A, 2, 3… K while claiming;
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Play in rank order: I play 2 face down claiming two Aces.
+2. Next claims one 2.
+3. Someone calls 'Cheat!'
+4. Liar takes the pile, else the caller does.
+
+### Scoring example
+
+- First to empty hand.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–10.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Many house rules.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../64_%E5%90%B9%E7%89%9B.md).*

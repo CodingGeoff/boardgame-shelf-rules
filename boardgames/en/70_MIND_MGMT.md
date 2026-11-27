@@ -61,6 +61,43 @@ One recruiter moves secretly and recruits; rogue agents ask about locations to p
 - **Good for:** people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The Recruiter moves secretly, logging on a hidden map.
+2. Agents move and ask about traits.
+3. The Recruiter answers truthfully.
+4. Agents deduce and capture him.
+
+### Scoring example
+
+- Recruiter reaches the target or agents catch him.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–5.
+- Best with: 3-5 players.
+
+### Official variants & expansions
+
+- Campaign unlocks.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../70_%E5%BF%83%E7%81%B5%E7%89%B9%E5%B7%A5_MIND_MGMT.md).*

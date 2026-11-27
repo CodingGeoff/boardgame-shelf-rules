@@ -60,6 +60,45 @@ Flip cards while chanting 'taco, cat, goat, cheese, pizza'; when the card matche
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 64 张牌：塔可、猫咪、山羊、起司、比萨，以及特殊牌猩猩、土拨鼠、独角鲸（异色款用来干扰判断）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Players flip in turn chanting Taco, Cat, Goat, Cheese, Pizza.
+2. I say 'Goat' and flip a goat — everyone slaps.
+3. Last slapper takes the pile.
+4. Action cards (gorilla, narwhal…) require a gesture first.
+
+### Scoring example
+
+- Empty your hand and win the next slap.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–8.
+- Best with: 4-8 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../48_%E7%8C%AB%E5%92%AA%E5%8D%B7%E9%A5%BC%E7%BE%8A_Taco_Cat_Goat_Cheese_Pizza.md).*

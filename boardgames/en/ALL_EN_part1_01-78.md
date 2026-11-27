@@ -149,6 +149,52 @@ A real-time cooperative escape room in a deck of cards: reveal numbered cards, c
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 每个剧本 1 副约 60 张的卡组（背面印数字或字母）
+- [ ] 免费 App（Unlock!，iOS/Android），负责计时、机关、密码、提示和罚时
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Start the 60-minute timer in the app and flip the start card: it shows a room with 11, 35 and 46 in the corners.
+2. Everyone searches the deck: 11 is a blue key, 35 is a red locker.
+3. Blue + red can be combined: 11 + 35 = 46; card 46 exists, so flip it and get what was inside the locker.
+4. A note gives a clue to a 4-digit code; the group discusses and enters 0429 in the app — correct, a new area opens.
+5. Someone tries 11 + 20 = 31; that card is a penalty card and the app deducts time.
+
+### Scoring example
+
+- The app rates you: more time left, fewer hints and penalties = more stars (max 5). E.g. 8 minutes left with 2 hints ≈ 3–4 stars.
+
+### Rules FAQ / rulings
+
+- **Q: Can we look at card fronts freely?**  
+  A: No — keep the deck number-side up and only reveal cards whose numbers you have found.
+- **Q: Only red + blue combine?**  
+  A: Yes, normally a blue object plus a red object (scenario exceptions aside). Grey cards don't combine.
+- **Q: A card says 'discard xx'?**  
+  A: Do it — those cards are no longer needed, which keeps the table clean.
+
+### Player-count differences
+
+- Plays 1–6, best 2–4. With more players people talk over each other; let one person handle the deck and the app.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Each box has 3 standalone scenarios, difficulty shown by keys; start with the tutorial scenario. Boxes aren't connected.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../01_%E5%A4%A7%E6%90%9C%E6%9F%A5_Unlock%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1.md).*
@@ -224,6 +270,54 @@ A two-player bakumatsu spy duel: six face-down agents with hidden values and rea
 - **Good for:** couples / head-to-head duels; talkative groups who enjoy acting and bluffing; people who love deduction and guessing identities
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 地图版（双方各有本阵营的起始地点和“领地”区域）
+- [ ] 每方 **6 个特工棋子**，背面数字和真假情报只有己方能看到，组成是：
+- [ ] 3**（真情报）、**3**（假情报）、**2**（真情报）、**2**（假情报）、**1**（假情报）、**0**（假情报）
+- [ ] 真情报棋子带红点标记
+- [ ] 每方 1 套地点卡（绿=民宅、黄=市场、红=神社、蓝=城郭，另有万用卡）和战术卡
+- [ ] 进阶：魅力卡、装备卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. My turn: I hold 4 location and 2 tactic cards. I play a red location card and move my middle agent one space diagonally forward onto red.
+2. Draw 1 from the location deck to refill to 6.
+3. Opponent's turn: his agent moves onto my agent's space — a conflict. I defend and reveal first: '2 (real)'; his is '3 (fake)'.
+4. Values are compared; the higher attacker wins and my agent is captured.
+5. He has captured one real intel; I now try to sneak my remaining real-intel agents into his HQ.
+
+### Scoring example
+
+- Win per the rulebook: typically capture 3 enemy real intel, get a real-intel agent into the enemy HQ, or leave the opponent with only fakes.
+
+### Rules FAQ / rulings
+
+- **Q: Can I move sideways or back?**  
+  A: No — only forward or diagonally forward onto the card's colour (wild cards excepted).
+- **Q: Are captured agents revealed?**  
+  A: Yes, conflicts reveal values — that's part of the information game.
+
+### Player-count differences
+
+- Strictly 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- For a first game use location cards only, then add tactic cards.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../02_%E4%BA%AC%E9%83%BD%E8%B0%8D%E5%BD%B1_Shadows_in_Kyoto.md).*
@@ -298,6 +392,48 @@ A 'straw to mansion' trading engine: turn resources into goods, upgrade to highe
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 约 90 张卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Refill each market row to 5. I hold 2 wood and 1 wheat.
+2. Player action: Produce — pay the 2 wood shown top-right and take a 'wooden table' worth 4.
+3. Brownie action: turn my 'mill' sideways once and use it to turn wheat into flour.
+4. End of turn: I hold a chicken, reveal it and take 1 Dung card (max 1 per turn).
+
+### Scoring example
+
+- Card values (top-left) add up; the first to reach the rulebook's target wins.
+
+### Rules FAQ / rulings
+
+- **Q: Can I trade one-for-one?**  
+  A: No — trades are one-for-many or many-for-one, by value.
+- **Q: How often can a building be used?**  
+  A: Once per turn each (turn it sideways).
+
+### Player-count differences
+
+- 2–4 players; at 4 the market is more contested.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- A standalone entry in its series; mixing rules per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../03_%E5%8C%97%E6%96%B9%E5%88%86%E9%83%A8_Northern_Branch_Firm_with_Brownies.md).*
@@ -366,6 +502,49 @@ A pirate push-your-luck card game: keep flipping cards to win more loot, but a d
 
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 60 张宝藏卡**：10 种花色，每种 6 张。普通花色点数 2–7，**美人鱼为 4–9**
+- [ ] 17 张特质卡（海盗角色）、变体规则卡、参考卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I draw a Chest 3, then an Anchor 2 (its ability protects earlier cards).
+2. I draw a Key 4, then another Chest — same suit as the first: bust!
+3. All cards drawn this turn are discarded.
+4. Next turn I stop after two different suits and bank them.
+
+### Scoring example
+
+- At the end, count only your highest card of each suit. E.g. Chest 5 + Key 4 + Anchor 2 = 11.
+
+### Rules FAQ / rulings
+
+- **Q: Do abilities trigger on a bust?**  
+  A: No, the turn is lost (protective effects excepted per card text).
+- **Q: Are duplicates of a suit useful?**  
+  A: Only the highest scores, but duplicates still matter for abilities and theft.
+
+### Player-count differences
+
+- 2–4; more players means fewer turns each and more luck.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Digital versions exist; expansions add suits and character powers.
 
 ---
 
@@ -436,6 +615,49 @@ A lightweight duel card game: play creatures to attack, but each player has two 
 
 - **Good for:** couples / head-to-head duels; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 48 张生物卡（First Contact 基础包；中文版具体张数以实物为准）
+- [ ] 4 张 Mindbug（心灵虫）卡，规则说明书
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I play a 'shark warrior (power 7)'; my opponent immediately uses a Mindbug to steal it.
+2. I attack with a power-5 creature; he blocks with a power-6 one and mine dies.
+3. Next turn I use my own Mindbug to steal his newly played 'poison spider'.
+4. I attack with it; he can't block well and loses 1 life.
+
+### Scoring example
+
+- Each player has 3 life; reduce the opponent to 0.
+
+### Rules FAQ / rulings
+
+- **Q: Can Mindbugs be reused?**  
+  A: No — you have 2, each used once.
+- **Q: Who gets a stolen creature's 'play' effect?**  
+  A: The player who stole it.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Several sets can be mixed.
 
 ---
 
@@ -511,6 +733,48 @@ A comedic team deduction game in an elevator: a hidden Farter team knows which f
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 193 张卡牌（65 张角色卡互不重复、行动卡、身份卡、进阶超自然身份卡、发言顺序号码牌、环境（屁）牌、血量卡）+ 10 个底座
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Floor 1 environment: 'well ventilated' — no damage; everyone speaks in order.
+2. Floor 2: a fart floor — affected players lose 1 health; everyone then points on three.
+3. The most-voted player is eliminated regardless of health.
+4. Ties revote between the tied; another tie means nobody leaves.
+
+### Scoring example
+
+- A team loses immediately when fully eliminated; after 8 floors, more survivors wins.
+
+### Rules FAQ / rulings
+
+- **Q: Can you be voted out with health left?**  
+  A: Yes.
+- **Q: Can I skip playing an action?**  
+  A: Yes, then you take no action this floor.
+
+### Player-count differences
+
+- 5–10, components by player count.
+- Best with: 7-8 players.
+
+### Official variants & expansions
+
+- Advanced roles per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../06_%E5%B1%81%E8%80%85%E5%85%88%E7%9F%A5.md).*
@@ -585,6 +849,51 @@ A silent cooperative campaign puzzle (Libellud): place 12 face-down sun/moon num
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 24 张数字卡**：12 张太阳卡（白色，1–12）+ 12 张月亮卡（黑色，1–12）
+- [ ] 1 根时钟指针、3 个提示（Reminder）标记、3 个奖励（Bonus）标记
+- [ ] 10 个章节信封**，每个装 4 个“时钟”谜题和 1 张规则说明，共 **40 关**
+- [ ] 1 个“遗憾信封”（存放跳过的关卡）、1 个“重生信封”（全部通关后解锁）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Discussion (cards unseen): we agree 'small cards in the first sectors, bigger later'.
+2. Placement (silent): I hold sun 2, moon 11, sun 7 and put the 2 in sector 1.
+3. Teammates place 1 in sector 1, 3 in sector 2 … the last card, 12, in sector 6.
+4. Reveal sums: 5, 6, 6, 10, 15, 22 — never decreasing, none over 24: success!
+
+### Scoring example
+
+- No points — pass or fail; track retries per chapter if you like.
+
+### Rules FAQ / rulings
+
+- **Q: Are equal sums allowed?**  
+  A: Yes — non-decreasing is fine.
+- **Q: Can we mention our cards when discussing?**  
+  A: No — discussion happens before looking, and no codes.
+
+### Player-count differences
+
+- 2–4; card distribution varies.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- 10 chapters, 40 levels; a final Rebirth envelope.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../07_Take_Time.md).*
@@ -654,6 +963,47 @@ Arrange black and white number tiles in ascending order as your code, then guess
 
 - **Good for:** people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 26 块塑料立牌**：黑白各 13 块，每色有数字 **0–11** 共 12 块，外加 1 块“**—**”（横杠，即百搭 Joker）
+- [ ] 基础玩法只用 24 块数字牌，百搭在进阶玩法中加入
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player draws 4 (2–3p) or 3 (4p) tiles, sorted low to high; on ties black goes left.
+2. I draw a tile and guess his second tile is 'black 5' — correct, he reveals it.
+3. I may continue or stop; I guess his third is 'white 7' — wrong.
+4. On a miss I must reveal the tile I just drew in my own row.
+
+### Scoring example
+
+- Last player with hidden tiles wins.
+
+### Rules FAQ / rulings
+
+- **Q: Where does the joker go?**  
+  A: Anywhere in your row — great for bluffing.
+
+### Player-count differences
+
+- 2–4; 2 players is the most logical.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- House rules for streak bonuses exist.
 
 ---
 
@@ -726,6 +1076,49 @@ A revolver-themed bluffing and bidding game: hide the live round, spin, bid, cha
 
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 左轮“弹巢”配件，用卡牌或指示物表示：**6 发空包弹 + 1 发实弹**
+- [ ] 生命指示物（每人或每队 **4 条命**）
+- [ ] 分数（VP）记录
+- [ ] 竞价用的筹码或卡牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The dealer hides the live round in one of 7 chambers.
+2. After spinning, bidding: I bid 2 pulls, he raises to 3.
+3. I don't challenge; he fires 3: blank, blank, blank — 3 VP.
+4. Next round he bids 4; the 3rd is live — he loses a life.
+
+### Scoring example
+
+- First to 15 VP or last alive.
+
+### Rules FAQ / rulings
+
+- **Q: Failed challenge?**  
+  A: Per rulebook; usually the challenger takes the penalty.
+
+### Player-count differences
+
+- 2–6, teams possible.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -800,6 +1193,50 @@ Two-player 7 Wonders: draft cards from a pyramid layout over 3 ages and win by s
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 66 张时代卡（时代 I、II、III 各 23 张）、7 张行会卡、12 张奇迹卡
+- [ ] 10 个科技（进步）标记、4 个军事掠夺标记、1 个冲突（军事）标记
+- [ ] 游戏版图（军事轨道 + 科技标记区）、钱币、计分本
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Age I: only uncovered cards in the layout can be taken. I take a lumber yard, revealing a card beneath.
+2. He takes a stone pit and reveals a red military card.
+3. I pay 2 coins + a resource for it; the conflict pawn moves 1 toward him.
+4. I use a card to build a Wonder and gain its 'play again' effect.
+
+### Scoring example
+
+- Three victories: military supremacy, scientific supremacy (6 different symbols), or most points after Age III.
+
+### Rules FAQ / rulings
+
+- **Q: Resource cost from the bank?**  
+  A: 2 coins + number of that resource the opponent produces.
+- **Q: How many Wonders?**  
+  A: Only 7 of 8 get built.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Pantheon and Agora expansions add gods and new systems.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../10_%E4%B8%83%E5%A4%A7%E5%A5%87%E8%BF%B9%E5%AF%B9%E5%86%B3_7_Wonders_Duel.md).*
@@ -872,6 +1309,50 @@ Two-player 7 Wonders: draft cards from a pyramid layout over 3 ages and win by s
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 郁金香卡：**3 种颜色**（红、黄、白，以实物为准），每色分 **A/B/C 三个等级**（A 最高）
+- [ ] 每色一条**价格轨道**（1–7）及价格指示物
+- [ ] 事件卡（包括 **泡沫破裂 Bubble Bust** 卡）、收藏家卡
+- [ ] 金币、竞价标记（每人 3 个）、融资（贷款）标记
+- [ ] 黑色郁金香**卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Event: 'red demand rises' — red price up 1.
+2. Sell: I sell a red grade-A tulip to the bank (price × grade).
+3. Auction: I bid on a yellow lot, financing with a loan token.
+4. With 3 events left everyone sells — the bust could come any time.
+
+### Scoring example
+
+- After the bust, unsold loan-bought tulips become debt; most cash wins, or a 120-value black tulip wins instantly.
+
+### Rules FAQ / rulings
+
+- **Q: Loan limit?**  
+  A: 3 at once.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../11_%E9%83%81%E9%87%91%E9%A6%99%E6%B3%A1%E6%B2%AB_Tulip_Bubble.md).*
@@ -943,6 +1424,48 @@ Two toy factions fight over a carpet: each turn either draw 2 tiles or deploy 1,
 - **Good for:** couples / head-to-head duels; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 双面游戏版图，上面有连接的格子、双方**总部（HQ）**和若干**奖章**区域
+- [ ] 双方各一套**玩具板块**，每块有 1–N 的力量值，有的带特殊能力
+- [ ] 奖章标记，双方的牌架（tile rack）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I Refill: draw 2 tiles (rack limit 8).
+2. He Deploys a strength-3 toy on an empty space connected to his HQ.
+3. I deploy a strength 4 over his 3 (must be strictly higher).
+4. I enclose a medal area and take the medal.
+
+### Scoring example
+
+- Capture the enemy HQ or reach the medal target.
+
+### Rules FAQ / rulings
+
+- **Q: Can equal strength capture?**  
+  A: No, strictly higher only.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Double-sided board — see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../12_%E7%8E%A9%E5%85%B7%E5%A4%A7%E6%88%98_Toy_Battle.md).*
@@ -1011,6 +1534,48 @@ A monster-summoning drafting engine: hunt, summon and chain effects over 10 roun
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 70 张神兽卡**：火、水、土、风、龙 5 个家族，每张有召唤费用、分数和效果
+- [ ] 魔法石：**1 点（红）、3 点（蓝）、6 点（紫）**三种面值
+- [ ] 计分板、回合标记、玩家标记（猎捕用）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Hunting: draft from the market; unpicked cards can be sold for stones.
+2. Action: sell a card for 3 stones, then pay to summon a fire creature.
+3. This round's summon limit is 2 — I'm at 2.
+4. End-of-round effects score points.
+
+### Scoring example
+
+- Ends at 60 points or after round 10.
+
+### Rules FAQ / rulings
+
+- **Q: Do stones have denominations?**  
+  A: Yes; change can be made per rules.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -1084,6 +1649,48 @@ Connect domino-like terrain tiles to form a 5×5 kingdom; each region scores til
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 48 块多米诺板块**：每块分两半，各是一种地形（麦田、森林、湖泊、草原、沼泽、矿山），部分格子带**王冠**。正面是地形，背面是编号 1–48（编号越大越值钱）。
+- [ ] 4 个起始方块、4 座 3D 城堡
+- [ ] 8 个国王（4 色 × 2）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Reveal dominoes equal to players, sorted by number.
+2. I took the best tile last round, so I pick last now.
+3. I place a forest-forest domino next to my forest.
+4. The kingdom must fit 5×5; unplaceable tiles are discarded.
+
+### Scoring example
+
+- Each area scores squares × crowns. E.g. 6 forest squares with 2 crowns = 12.
+
+### Rules FAQ / rulings
+
+- **Q: Areas without crowns?**  
+  A: Score 0.
+
+### Player-count differences
+
+- 2–4; 7×7 'Mighty Duel' at 2.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Optional: centred castle +10, complete 5×5 +5. Age of Giants expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../14_%E5%A4%9A%E7%B1%B3%E8%AF%BA%E7%8E%8B%E5%9B%BD_Kingdomino.md).*
@@ -1152,6 +1759,49 @@ Fill dog cards with spots by rolling dice through trick cards; if the yard total
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 狗狗卡**：每张画着一只小狗，身上有不同点数的斑点格子
+- [ ] 若干**骰子**，骰面是斑点点数
+- [ ] 技巧卡（Trick）**：可以执行的掷骰动作
+- [ ] 零食（Treat）**标记：可以重掷
+- [ ] 院子（Yard）**卡：存放骰子；**骨头**标记，计分辅助（以实物为准）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I perform a trick, rolling dice as shown.
+2. Place dice on matching spots on a dog; others go to the yard.
+3. Yard over 7 — bust; lose this turn's progress.
+4. I spent a treat to reroll.
+
+### Scoring example
+
+- First to finish 6 dogs wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4 with solo mode.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -1222,6 +1872,51 @@ Two-player Splendor: take gems from a shared board, buy development cards, fight
 
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 67 张发展卡（3 个等级）、4 张皇室卡
+- [ ] 25 个标记：每种宝石（白、蓝、绿、红、黑）各 4 个、**珍珠 2 个**、**黄金 3 个**
+- [ ] 5×5 标记版图**、标记袋
+- [ ] 3 个特权卷轴（Privilege）
+- [ ] 胜利条件提示卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I take 3 adjacent tokens in a straight line (no gold).
+2. They are all one colour, so my opponent gains a privilege.
+3. Next turn I buy a level-2 card with tokens plus bonuses, gaining a bonus and crowns.
+4. He spends a privilege, then refills the board — I gain a privilege.
+5. I reach 10 crowns and win instantly.
+
+### Scoring example
+
+- Win with 20 points, 10 crowns, or 10 points in one colour.
+
+### Rules FAQ / rulings
+
+- **Q: Must tokens be in a line?**  
+  A: Yes, adjacent in a line.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- No expansions.
 
 ---
 
@@ -1295,6 +1990,47 @@ A two-act cooperative dungeon crawl: explore and fight to gather loot, then dest
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 英雄卡及迷宝（meeple）、地城房间卡（走廊、房间、入口）
+- [ ] 小怪卡（含**哥布林**）、头目卡、宝藏或装备卡
+- [ ] 火炬轨道**及火炬标记、生命和魔力标记、骰子
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Heroes act with 2 actions: move, attack, search, ability.
+2. I roll to attack a goblin, hitting for 2 and killing it.
+3. The torch track advances; enemies grow stronger.
+4. Searching yields an item.
+
+### Scoring example
+
+- Co-op: defeat the boss; lose if heroes fall or the torch burns out.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Expansions add heroes and maps.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../17_%E5%B0%8F%E5%B0%8F%E5%9C%B0%E5%9F%8E%E4%BC%A0%E8%AF%B4_Tiny_Epic_Dungeons.md).*
@@ -1366,6 +2102,44 @@ A fighting-game-style dice duel: each hero has unique dice faces and an ability 
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I roll 5 dice up to 3 times, aiming for a large straight.
+2. My hero's straight ability deals 7.
+3. He plays a reaction card reducing 2.
+4. I spend CP on an upgrade.
+
+### Scoring example
+
+- Reduce the opponent to 0 HP.
+
+### Rules FAQ / rulings
+
+- **Q: Can dice-manipulation cards be used on the opponent's turn?**  
+  A: Per card timing; some can.
+
+### Player-count differences
+
+- 2–6: 1v1, 2v2, 3v3 or FFA.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Seasons of heroes mix freely.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../18_Dice_Throne_%E9%87%8D%E5%88%B6%E7%89%88%E7%AC%AC%E4%B8%80%E5%AD%A3.md).*
@@ -1434,6 +2208,50 @@ Take gems, buy development cards and use their permanent discounts to snowball t
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 40 个筹码**：翡翠（绿）、钻石（白）、蓝宝石（蓝）、玛瑙（黑）、红宝石（红）各 7 个；黄金（万能）5 个
+- [ ] 90 张发展卡**：等级 1 有 40 张，等级 2 有 30 张，等级 3 有 20 张
+- [ ] 10 张贵族卡**
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I take 3 gems of different colours.
+2. Next turn I buy a level-1 card — a permanent discount of that colour.
+3. I reserve a card and take a gold (wild).
+4. I meet a noble's requirement; the noble visits (+3).
+
+### Scoring example
+
+- At 15 points finish the round; ties go to fewer cards.
+
+### Rules FAQ / rulings
+
+- **Q: Gem limit?**  
+  A: 10.
+- **Q: Taking 2 of one colour?**  
+  A: Only if 4+ remain.
+
+### Player-count differences
+
+- Gems: 4/5/7 per colour; nobles = players + 1.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Expansions: Cities, Orient.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../19_%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3_Splendor.md).*
@@ -1500,6 +2318,47 @@ Splendor with Pokémon: collect Poké Balls, catch Pokémon and evolve them into
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 精灵球系标记：5 种普通“球”，对应原作的 5 色宝石；**大师球（Master Ball）**对应原作的黄金，是万能的
+- [ ] 宝可梦卡：等级 1、2、3，再加上**稀有**和**传说**宝可梦
+- [ ] 进化相关卡牌、计分提示卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Rules mirror Splendor with Pokémon cards.
+2. I buy Charmander and later evolve it.
+3. Evolution needs the card's requirement and replaces it.
+4. Legendary Pokémon act like nobles.
+
+### Scoring example
+
+- Reach the target, finish the round.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -1569,6 +2428,47 @@ Build machines powered by energy marbles and trigger chain reactions.
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 能量分配器**（弹珠滑道）+ **52 颗能量弹珠**：红、黄、蓝、黑各 13 颗
+- [ ] 装置卡**：等级 I、II、III，外加起始装置卡
+- [ ] 玩家面板（能量存储区、档案区）、胜利点标记、首位玩家标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I pick a marble from the dispenser.
+2. I build a gizmo: 'when you pick red, pick one more'.
+3. Chain: pick red → extra pick → triggers another gizmo.
+4. I file a gizmo for later.
+
+### Scoring example
+
+- Ends at 16 gizmos or 4 level-III; most points.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../21_%E7%88%86%E7%8F%A0%E5%8F%91%E6%98%8E_Gizmos.md).*
@@ -1637,6 +2537,52 @@ Third Azul: take tiles, build star-shaped pavilions with a rotating wild colour,
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 132 块菱形瓷砖：6 种颜色各 22 块
+- [ ] 9 个工厂圆盘、1 块中央计分版图（含回合和**百搭色**轨道）
+- [ ] 4 块玩家版图：6 个颜色星形 + 1 个中央星形，每个星形有标着 1–6 的格子
+- [ ] 起始玩家标记、分数标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Round 1 wild is purple. I take all orange tiles (2) from a factory plus 1 purple wild.
+2. The first to take from the centre gets the start marker and loses points equal to tiles taken.
+3. Placing: I fill a '3' space in the orange star by paying 3 tiles (2 orange + 1 wild).
+4. Score 1 + connected tiles in that star.
+5. At round end I may keep only 4 leftover tiles; extras cost points.
+
+### Scoring example
+
+- After 6 rounds score completed stars and the bonuses in the rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Can I take only wilds?**  
+  A: Yes, one at a time.
+- **Q: Centre star rule?**  
+  A: One tile of each colour.
+
+### Player-count differences
+
+- 2–4; factories 5/7/9.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Third Azul title; see rulebook for expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../22_%E5%BD%A9%E7%A0%96%E5%A4%A7%E5%B8%88%E5%A4%8F%E5%AE%AB_Azul_Summer_Pavilion.md).*
@@ -1701,6 +2647,42 @@ Probably a version of Gizmos; see document 21 for the rules.
 
 - **Good for:** most board gamers
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Plays like Gizmos: pick, build, file, research.
+2. Chains trigger more resources.
+3. Check edition differences in the rulebook.
+
+### Scoring example
+
+- See rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- Possibly a Gizmos edition.
 
 ---
 
@@ -1772,6 +2754,48 @@ Two-player idol concert duel: sing to raise Voltage, win fans from the audience,
 
 - **Good for:** couples / head-to-head duels; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 6 名偶像**及各自的专属卡（资料显示为“9 种 × 2 张 = 18 张”的构成，具体是每名偶像还是每副牌库，以说明书为准）
+- [ ] 偶像角色卡（含中心位技能）
+- [ ] 粉丝卡（含核心粉、麻烦粉等类型）
+- [ ] 热度（Voltage）指示物、计分用具
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player builds an 18-card deck from 3 idols and draws 5.
+2. I play a song to raise Voltage, then spend it to take a fan card.
+3. Played songs become Memory, paying for Events.
+4. I change my Centre idol and use her skill.
+
+### Scoring example
+
+- First to 20 fan points.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -1845,6 +2869,43 @@ A two-player duel with two personified guns each: load ammo, fire each gun once 
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I load ammo into my left gun.
+2. Fire: each gun once per turn for HIT damage.
+3. He blocks with equipment.
+4. Refill at end of turn.
+
+### Scoring example
+
+- Reduce 30 HP to 0.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- OVERHEAT adds heat and guns.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../25_%E6%9E%AA%E4%B8%8E%E6%9E%AA_Gun_and_Gun_%E5%90%ABOVERHEAT%E6%89%A9%E5%B1%95.md).*
@@ -1911,6 +2972,43 @@ Stack transparent part cards on transparent mech cards, then brawl with dice.
 
 - **Good for:** short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draft 2 mechs + 4 parts each.
+2. Overlay parts; stats add visually.
+3. Battle in turns rolling dice.
+4. Destroyed mechs are out.
+
+### Scoring example
+
+- Destroy enemy mechs.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -1983,6 +3081,48 @@ Play 8 region cards over 8 rounds, then score backwards from the 8th card: later
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 68 张区域卡**（编号 1–68，编号即“行程”时长）
+- [ ] 45 张圣所卡**（Sanctuary）
+- [ ] 计分本
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player has 8 region cards (0–68); 8 rounds.
+2. Each round all play one at once; low numbers pick sanctuaries first.
+3. After round 8 score from card 8 back to card 1.
+4. Each card counts only what is visible at that point.
+
+### Scoring example
+
+- Reverse scoring: card 8 sees all 8 cards; card 1 sees only itself. Highest wins.
+
+### Rules FAQ / rulings
+
+- **Q: Benefit of a higher number?**  
+  A: Higher than your previous card earns a sanctuary.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Expansions exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../27_%E9%81%A5%E8%BF%9C%E4%B9%8B%E5%9C%B0_Faraway.md).*
@@ -2053,6 +3193,47 @@ A grim 19th-century inn: recruit, bribe and kill travellers, bury bodies and lau
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 旅客卡：农民、手艺人、贵族、宗教人士、军人，以及**警察**（宪兵）等，每张标有等级（1–4）和价值
+- [ ] 农民卡（作为起始雇员或共犯）、客房卡
+- [ ] 法郎（金钱）、钥匙标记、玩家板
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Action 1: bribe a traveller to become an accomplice (pay by discarding).
+2. Action 2: kill another traveller.
+3. Next turn bury the body in an annex and take its money.
+4. Police punish unburied bodies.
+
+### Scoring example
+
+- After two passes through the deck, richest wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Carnival expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../28_%E8%A1%80%E8%85%A5%E5%AE%A2%E6%A0%88_The_Bloody_Inn.md).*
@@ -2110,6 +3291,40 @@ Work at the bureau sending the dead to other worlds; little public rules data.
 
 - **Good for:** most board gamers
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Limited data — see the rulebook.
+
+### Scoring example
+
+- See rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- See box.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -2180,6 +3395,43 @@ Detective vs. phantom thief: the thief disguises as one of 6 suspects to open th
 - **Good for:** couples / head-to-head duels; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The detective hides treasure; the thief picks a disguise.
+2. Players alternately place cards into 6 rows.
+3. A row resolves at 5 cards.
+4. The detective deduces from which rows the thief pushes.
+
+### Scoring example
+
+- Per rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../30_%E5%BC%97%E6%8B%89%E5%88%87%E8%AF%BA%E7%9A%84%E7%A7%98%E5%AE%9D_Sarau_Abaku.md).*
@@ -2240,6 +3492,42 @@ A Chinese duel card game with multi-use cards and positioning; a mechanics-only 
 
 - **Good for:** most board gamers
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Limited data: start with the mechanics-only mode.
+2. Each card has three uses; pick one each turn.
+3. Positioning matters like chess.
+
+### Scoring example
+
+- See rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -2313,6 +3601,48 @@ Witches battle the giant Clad together but compete for points: deck-building plu
 - **Good for:** experienced gamers who want a deep think
 - **Not ideal for:** relaxed chatting sessions; when time is short
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 5 名魔女各自的起始牌库和角色板
+- [ ] Clad（Boss）卡牌和行动卡
+- [ ] 场地板、魔女棋子、CP 和伤势指示物、魔力碎片
+- [ ] 任务卡（Mission）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Forecast: reveal 3 Clad action cards.
+2. Choose where your turn goes among Clad's actions.
+3. Witch turn: move, attack, cast; spend CP.
+4. Clad acts; hit witches take wounds.
+
+### Scoring example
+
+- Score damage, missions, wound penalties.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- CROSS×FATE adds witches and Clads.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../32_HacKClaD_%E5%90%ABCROSS_FATE%E6%89%A9%E5%B1%95.md).*
@@ -2384,6 +3714,47 @@ Two secret societies on a carriage: the Order needs 3 keys, the Brotherhood 3 go
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 阵营卡（每阵营 5 张）、职业卡、角色卡
+- [ ] 21 张道具卡（含 2 张**秘密袋**）、9 张力量之饮卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I trade an item secretly with a neighbour.
+2. Next turn I attack another player; others may support either side.
+3. I win and look at his faction card.
+4. Knowing my team and items, I declare victory.
+
+### Scoring example
+
+- Correctly name all teammates and meet 3 keys / 3 goblets; a wrong declaration loses.
+
+### Rules FAQ / rulings
+
+- **Q: Does the secret bag count?**  
+  A: No.
+
+### Player-count differences
+
+- 3–10.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- See variants.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../33_%E9%AD%94%E5%9F%8E%E9%A9%AC%E8%BD%A6_The_Carriage_to_Magic_City.md).*
@@ -2453,6 +3824,44 @@ Draw a bomb cat and you are out unless you defuse it; use skip, peek and attack 
 
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Deal hands including defuses; shuffle bombs (players − 1) in.
+2. I play See the Future and spot a bomb 2nd from top.
+3. I play Skip, ending my turn without drawing.
+4. Next player draws the bomb, defuses it and secretly reinserts it.
+
+### Scoring example
+
+- Last player alive.
+
+### Rules FAQ / rulings
+
+- **Q: Nope timing?**  
+  A: Any time, against any action except Defuse/Bomb.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -2526,6 +3935,43 @@ One guesser, one honest explainer and everyone else bluffs definitions of strang
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone closes eyes for 9 seconds; the honest player peeks.
+2. The guesser reads the word; all explain (bluffers invent).
+3. He uses a 'Gong San Xiao' card to grill someone.
+4. He picks the honest player — both score the difficulty.
+
+### Scoring example
+
+- Honest pick: both score difficulty; bluffer pick: bluffer scores. Cards: bluffer −1/guesser +1; on honest, guesser −3.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–8.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../35_%E7%9E%8E%E6%8E%B0%E7%8E%8B.md).*
@@ -2594,6 +4040,45 @@ Wear a hidden taboo word on your forehead; lure others into saying theirs while 
 
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 题目卡（含空白卡）、头带
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone wears a hidden taboo card.
+2. Chat freely, steering others into their words.
+3. Someone says their word, takes the penalty and loses a life.
+4. Last player with a card wins.
+
+### Scoring example
+
+- Two lives each; last survivor wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Blank cards for custom words.
 
 ---
 
@@ -2666,6 +4151,45 @@ Survival on a lifeboat: secret love and hate, rowing, thirst, grabbing supplies 
 - **Good for:** talkative groups who enjoy acting and bluffing; people who love deduction and guessing identities
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 6 张角色牌、6 张位置牌、6 张喜爱牌、6 张憎恨牌、42 张物资牌、24 张航海牌、21 枚伤害指示物、3 枚海鸥指示物；部分版本附 3 个扩展（各 10 张牌）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Front seats are stronger; secret Friend/Enemy cards.
+2. Each round: grab supplies, row or swap, fight, navigate.
+3. I fight my neighbour; others take sides.
+4. Overboard characters suffer thirst.
+
+### Scoring example
+
+- Score survivors, beloved and items on landfall.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–6.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../37_%E9%AA%87%E6%B5%AA%E6%B1%82%E7%94%9F_Lifeboat.md).*
@@ -2736,6 +4260,43 @@ Witches play recipe cards simultaneously, transform ingredients on their workben
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone simultaneously plays a recipe card (direction chosen before reveal).
+2. Use each played recipe once to transform ingredients.
+3. Pass cauldron ingredients to the next player.
+4. Complete orders for points.
+
+### Scoring example
+
+- Per rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../38_%E6%AF%92%E9%80%97%E9%AD%94%E8%8D%AF%E5%B8%88_Whirling_Witchcraft.md).*
@@ -2804,6 +4365,44 @@ Dozens of racers with unique powers run 4 races: snake-draft your racers, roll a
 
 - **Good for:** families with young children
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Snake-draft 4 racers.
+2. Before each race secretly pick an unused racer.
+3. Roll and move; resolve powers (CAN = optional).
+4. The race ends when 2nd place crosses.
+
+### Scoring example
+
+- After 4 races, most points.
+
+### Rules FAQ / rulings
+
+- **Q: Does moving 0 count as moving?**  
+  A: No.
+
+### Player-count differences
+
+- 2–6; 2 racers each at 2p.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Mild/Wild track sides.
 
 ---
 
@@ -2877,6 +4476,46 @@ Play cards simultaneously and add them to rows; whoever places the 6th card in a
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 104 张牌（1–104），每张印有牛头数量（扣分）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player has 10 cards; 4 rows start with 1 card each.
+2. All play at once; cards go in ascending order to the row ending with the closest lower number.
+3. My 37 goes after 35 — it's the 6th card, so I take the 5 cards.
+4. A card lower than all row ends must take a row of its choice.
+
+### Scoring example
+
+- Bull heads are penalties; lowest total wins.
+
+### Rules FAQ / rulings
+
+- **Q: Is my 6th card taken too?**  
+  A: No — you take the 5, yours starts the row.
+
+### Player-count differences
+
+- 2–10.
+- Best with: 5-8 players.
+
+### Official variants & expansions
+
+- Professional variant; Take 11 etc.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../40_%E8%B0%81%E6%98%AF%E7%89%9B%E5%A4%B4%E7%8E%8B_6_nimmt.md).*
@@ -2945,6 +4584,49 @@ A sibling of 6 nimmt!: add cards to piles; if you cannot, take a whole pile; tak
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 110 张牌（1–100 数字牌 + 公牛牌；牌上印有牛头）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 10 cards each; a start pile shows 45.
+2. I play 52 (higher, within 10).
+3. Next player has nothing from 53–62, so he takes the pile into his hand and starts a new one.
+4. Someone later takes 5 cards (more than 3) and gains a bull card for extra plays.
+5. I empty my hand first; others lose points for bull heads in hand.
+
+### Scoring example
+
+- Bull heads left in hand are penalties; lowest total after several rounds wins.
+
+### Rules FAQ / rulings
+
+- **Q: Must I play if I can?**  
+  A: No, you may voluntarily take a pile.
+- **Q: What follows 100?**  
+  A: Numbers wrap: on 96 you may play 97–100 or 1–6.
+
+### Player-count differences
+
+- 2–7; more players means piles get taken faster.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Bull card usage differs between editions — check the rulebook.
 
 ---
 
@@ -3018,6 +4700,49 @@ Moving towers trap wizards: get all your wizards into the Raven Castle and fill 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 4 片环形道路板、乌鸦城堡 ×1、高塔 ×9、6 色巫师棋子（共 24 个）、魔药瓶 36 片、移动牌 90 张、法术圆片 8 种、骰子、起始玩家标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I play 'move wizard 3': exactly 3 spaces onto a tower top.
+2. I play 'move tower 2' onto an opponent's wizard, trapping it — I fill a potion.
+3. Next turn he moves the tower away, freeing his wizard.
+4. My wizard lands exactly on Ravenskeep and enters; my turn ends and the castle flies on.
+5. All potions are full before my last wizard enters; I win after the round finishes.
+
+### Scoring example
+
+- All wizards in Ravenskeep + all potions full; ties go to more full potions.
+
+### Rules FAQ / rulings
+
+- **Q: Does trapping my own wizard count?**  
+  A: Yes, any trapped wizard fills a potion.
+- **Q: Do spells cost victory progress?**  
+  A: Spells remove full bottles, so plan ahead.
+
+### Player-count differences
+
+- 2–6; more players means fewer wizards and potions each.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Solo mode; 2 random spells per game.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../42_%E9%A3%9E%E5%A1%94%E5%B7%AB%E5%B8%88_Wandering_Towers.md).*
@@ -3090,6 +4815,46 @@ Four heists: play number cards to take or steal loot, but whoever has the fewest
 - **Good for:** short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 55 张牌（36 张数字牌 0–5、6 张头目、6 张看门狗、7 张贪婪盗贼）、36 枚战利品圆片（四个收藏系列：素描、雕塑、古董、画作）、1 个看门狗棋子
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The first collection is laid out; 5 cards each.
+2. I play a 3: take a value-3 loot from the centre, or steal one if none remain.
+3. He plays the Watchdog; when robbed he may hand over the dog instead.
+4. Someone takes the boss tile, kept only with a 4 or 5 of that set.
+5. When the centre empties, loot is stacked face down and safe; next collection.
+
+### Scoring example
+
+- After 4 raids, fewest alibis is arrested; others total loot, bosses 5 each.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../43_Art_Robbery.md).*
@@ -3159,6 +4924,45 @@ The Mochi Prince questions everyone to find the Tofu Princess; some roles must t
 
 - **Good for:** big parties; people who love deduction and guessing identities; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 8 张角色牌（杯垫式）、黄豆（分数）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I'm the Mochi Prince; eyes closed while others reveal roles.
+2. I ask a player one of the three allowed questions.
+3. Princess and Chef tell truth; Queen/Minister/Guard lie; Spy/Maid choose.
+4. After one extra question, I reveal my guess.
+
+### Scoring example
+
+- Teams score by condition.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -3230,6 +5034,45 @@ Hand-passing deduction: the detective must name the culprit before the culprit e
 - **Good for:** big parties; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 36 张卡（第一发现者 1、犯人 1、共犯 2、侦探 4、不在场证明 5、目击者 3、普通人 2、神犬 1、谣言 5、情报交换 4、交易 4，另有警部、少年等特殊卡和空白卡）、计分标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 4 cards each; the First Discoverer leads.
+2. I play Witness to look at a hand.
+3. Someone plays Detective accusing a player.
+4. If they hold the Culprit without an Alibi, the detective side wins.
+
+### Scoring example
+
+- Culprit wins by playing it last; detectives win by catching him.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../45_%E7%8A%AF%E4%BA%BA%E5%9C%A8%E8%B7%B3%E8%88%9E_Criminal_Dance.md).*
@@ -3298,6 +5141,47 @@ Ladder-climbing where wrestlers start with no rank order — strength is establi
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 60 张摔角手卡（6 种蒙面摔角手）、30 个强度标记、12 个分数指示物
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. A season starts with no ranking.
+2. The leader plays 2 Blue masks.
+3. Next plays 3 unranked Red masks (one more card), establishing Red > Blue.
+4. A later player beats it with 3 of a wrestler already ranked above Red; all pass, he leads.
+5. I go out first (+2), second +1, last holder −1.
+
+### Scoring example
+
+- +2 / +1 / −1 per season; 4 seasons with 3+, first to 3 season wins with 2.
+
+### Rules FAQ / rulings
+
+- **Q: Does the ranking carry over?**  
+  A: No, it resets every season.
+
+### Player-count differences
+
+- 2p uses a best-of format; more players means smaller hands.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -3368,6 +5252,45 @@ Flip character cards; only when a character performs their own job's action does
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 人物牌（小偷、银行家、法官、警察，各种不同动作）、警徽牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Players flip cards to the centre in turn.
+2. Policeman with badge: grab a badge; slowest takes the pile.
+3. Mismatched combos: stay still; reacting is a mistake.
+4. First to empty their deck wins.
+
+### Scoring example
+
+- First to empty deck wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../47_%E9%80%9A%E7%BC%89%E4%BB%A4.md).*
@@ -3436,6 +5359,45 @@ Flip cards while chanting 'taco, cat, goat, cheese, pizza'; when the card matche
 
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 64 张牌：塔可、猫咪、山羊、起司、比萨，以及特殊牌猩猩、土拨鼠、独角鲸（异色款用来干扰判断）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Players flip in turn chanting Taco, Cat, Goat, Cheese, Pizza.
+2. I say 'Goat' and flip a goat — everyone slaps.
+3. Last slapper takes the pile.
+4. Action cards (gorilla, narwhal…) require a gesture first.
+
+### Scoring example
+
+- Empty your hand and win the next slap.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–8.
+- Best with: 4-8 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -3506,6 +5468,45 @@ The conductor chooses which track to run over; teams add innocents to their trac
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 双面铁轨地图、列车长标记、500 张卡（善人卡 200、恶人卡 125、特性卡 175）、26 个死亡标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. This round's conductor; two sides build their tracks.
+2. Each side places innocents, then modifiers.
+3. Teams argue their case.
+4. The conductor picks a track; the saved side scores.
+
+### Scoring example
+
+- First to the target score.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–13.
+- Best with: 5-8 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../49_%E7%BB%88%E6%9E%81%E5%AE%A1%E5%88%A4%E7%94%B5%E8%BD%A6%E9%9A%BE%E9%A2%98_Trial_by_Trolley.md).*
@@ -3574,6 +5575,44 @@ Make all your pigs dirty: mud dirties them, barns protect from rain, lightning d
 
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player has 3 clean pigs.
+2. I play Mud on one of mine.
+3. He plays Rain: all unprotected pigs wash clean.
+4. I play a Barn and a Lightning Rod.
+
+### Scoring example
+
+- First with all pigs dirty wins.
+
+### Rules FAQ / rulings
+
+- **Q: Does a barn stop rain?**  
+  A: Yes; lightning destroys barns unless a lightning rod protects them; a barn door stops the farmer.
+
+### Player-count differences
+
+- 2–4; fewer players means more pigs each.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- Editions like Drecksau Total add cards; Dirty Pig supports up to 6.
 
 ---
 
@@ -3646,6 +5685,47 @@ Two vampire clans hunt each other's leader: the dagger holder attacks, the wound
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 20 张角色卡（两个血族 + 中立审判官）、参考卡、阵营和等级指示物、能力提示卡、一把纸板匕首
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone takes a character and shows their clue to the left neighbour.
+2. Holding the dagger, I attack; someone intervenes and takes the wound.
+3. The wounded player reveals one icon (clan or rank); revealing rank may trigger a power.
+4. The dagger passes to the wounded player.
+5. A 4th wound captures a player; reveal and check whether it was the enemy leader.
+
+### Scoring example
+
+- Capture the enemy leader to win; capturing the wrong player loses.
+
+### Rules FAQ / rulings
+
+- **Q: Is the clue always my clan?**  
+  A: Usually, but not always.
+
+### Player-count differences
+
+- 6–12; odd counts add the Inquisitor.
+- Best with: 8-10 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../51_Blood_Bound.md).*
@@ -3716,6 +5796,47 @@ Cheating is allowed: moth cards can only be secretly dumped, but the guard bug c
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数字牌（1–5）、四种虫子行动牌、8 张作弊飞蛾、1 张守卫虫
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The oldest player gets the guard bug; 8 cards each.
+2. Top is 3; I play 4.
+3. I play a Mosquito: slowest slapper receives a card from each player.
+4. I sneak a moth under the table while the guard looks away.
+5. The guard catches someone: he takes back the moth, takes a card from the guard and becomes guard.
+
+### Scoring example
+
+- Moth 10, action 5, number 1 penalty; lowest after rounds wins.
+
+### Rules FAQ / rulings
+
+- **Q: Can the guard cheat?**  
+  A: No, but he may play moths normally.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../52_%E4%BD%9C%E5%BC%8A%E9%A3%9E%E8%9B%BE_Mogel_Motte.md).*
@@ -3784,6 +5905,47 @@ Pass pest cards face down while claiming a type; the receiver calls true/false o
 - **Good for:** talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 64 张牌：8 种害虫各 8 张（蟑螂、蝙蝠、苍蝇、蟾蜍、老鼠、蝎子、蜘蛛、臭虫）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Deal all 64 cards.
+2. I pass a card to A: 'Scorpion.'
+3. A peeks and passes to B: 'Spider.'
+4. B says 'false' — correct, so A takes the card face up.
+5. A collects a 4th scorpion and loses.
+
+### Scoring example
+
+- Four of a kind (5 with 2p) or no cards to pass loses.
+
+### Rules FAQ / rulings
+
+- **Q: Can the last player pass?**  
+  A: No, he must guess.
+
+### Player-count differences
+
+- 2–6; 2p needs 5 of a kind.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Related titles exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../53_%E8%9F%91%E8%9E%82%E6%89%91%E5%85%8B_Kakerlaken_Poker.md).*
@@ -3851,6 +6013,46 @@ Two hidden characters equal two influences: claim characters to take actions; ch
 
 - **Good for:** talkative groups who enjoy acting and bluffing; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** players who dislike conflict or backstabbing
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 15 张角色卡（5 种各 3 张）、硬币、参考卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 2 hidden influence cards, 2 coins each.
+2. I claim Duke and take 3 coins.
+3. He challenges; I reveal a Duke — he loses an influence.
+4. With 7 coins I Coup.
+
+### Scoring example
+
+- Last player with influence wins.
+
+### Rules FAQ / rulings
+
+- **Q: Must I coup at 10?**  
+  A: Yes.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- Reformation adds factions.
 
 ---
 
@@ -3922,6 +6124,45 @@ Flip cards one by one; stop when you like. A duplicate number busts; 7 unique nu
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 94 张牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I flip 5, then 9, then a Freeze action.
+2. I freeze an opponent, banking his current total.
+3. I flip another 5 — a duplicate: bust, 0 this round.
+4. Later I get 7 unique numbers: Flip 7 bonus +15.
+
+### Scoring example
+
+- Sum numbers (+modifiers); first to 200.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../55_FLIP_7.md).*
@@ -3991,6 +6232,45 @@ Plant trees to make paths, but to score a tree species you must hold the highest
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 80 张牌：10 种树，每种 1–8
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw 2, play 1 to my arboretum, discard 1.
+2. Cards are placed adjacent, forming paths.
+3. At the end, scoring rights per species go to the highest hand total.
+4. A 1 beats an 8 if the opponent holds the 8.
+
+### Scoring example
+
+- Paths of increasing numbers between same species score.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -4062,6 +6342,45 @@ Ladder-climbing with a fixed hand order: play sets or runs, or scout a card from
 - **Good for:** short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 45 张双数字牌、分数指示物、搜查（Scout）指示物、Scout & Show 指示物、起始玩家标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. You can't reorder your hand, only flip it upside-down.
+2. I play a 3-4-5 run, beating the current set.
+3. He Scouts: takes an end card from my set into his hand.
+4. I get his scout token.
+
+### Scoring example
+
+- Collected cards + tokens − cards left in hand.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../57_SCOUT.md).*
@@ -4131,6 +6450,47 @@ Find three of a kind: ask anyone to reveal their lowest or highest card, or flip
 - **Good for:** people who love deduction and guessing identities; families with young children; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 36 张牌：1–12 各 3 张
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 4p: 7 cards each sorted, 8 face down in the centre.
+2. I ask B for his lowest: 5; flip a centre card: 5.
+3. I ask C for his highest: 5 — a trio.
+4. Next turn 9 then 3 appear; I stop and everything goes back.
+5. I collect the trio of 7s and win instantly.
+
+### Scoring example
+
+- 3 trios, or the 7s trio; spicy: two trios summing/differing to 7.
+
+### Rules FAQ / rulings
+
+- **Q: Can I reveal my own cards?**  
+  A: Yes, your lowest or highest.
+
+### Player-count differences
+
+- 3–6, hand/centre size by count.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Spicy variant; 2p rules in the Japanese edition.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../58_Nana_%E3%83%8A%E3%83%8A_Trio.md).*
@@ -4198,6 +6558,45 @@ Collect origami sea creatures for sets, play pairs for effects, and end the roun
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 58 张牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw from a discard or draw 2 keep 1.
+2. Play a crab pair to take from a discard.
+3. With 7 points I call 'last chance'.
+4. Others take one turn; I score colour bonus.
+
+### Scoring example
+
+- Stop or Last Chance; first to 40 (by players).
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Extra Salt expansion.
 
 ---
 
@@ -4268,6 +6667,45 @@ Flip fruit cards; when exactly five of one fruit is visible, ring the bell first
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 56 张水果牌（香蕉、草莓、青柠、李子，每张 1–5 个）、1 个铃铛
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Players flip cards in front of them.
+2. Exactly 5 of one fruit is showing.
+3. Everyone rings; I'm fastest and take the cards.
+4. A wrong ring pays each player a card.
+
+### Scoring example
+
+- Last player with cards wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Many variants.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../60_%E5%BE%B7%E5%9B%BD%E5%BF%83%E8%84%8F%E7%97%85_Halli_Galli_%E5%90%AB%E9%93%83%E5%84%BF%E5%93%8D%E5%8F%AE%E5%BD%93%E6%89%A9%E5%85%85.md).*
@@ -4335,6 +6773,45 @@ Pay a chip to pass a card, or take it with the chips on it; runs score only thei
 
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数字牌 3–35（33 张）、筹码
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. A card is revealed; I pay a chip to pass.
+2. Chips accumulate.
+3. I take the 27 and 5 chips.
+4. Runs count only the lowest card.
+
+### Scoring example
+
+- Card points (runs count lowest) − chips; lowest wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–7.
+- Best with: 5 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -4404,6 +6881,44 @@ A 16-card game: hold one card, draw one, play one; guard guesses, baron compares
 - **Good for:** people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 1 card each; draw 1, play 1.
+2. I play Guard guessing 'Priest' — correct, he's out.
+3. He plays Baron comparing; I'm lower and out.
+4. When the deck runs out, highest card wins a token.
+
+### Scoring example
+
+- First to the token target.
+
+### Rules FAQ / rulings
+
+- **Q: Countess with King/Prince?**  
+  A: Must discard the Countess.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- Many themed editions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../62_%E6%83%85%E4%B9%A6_Love_Letter.md).*
@@ -4472,6 +6987,45 @@ Dwarves dig tunnels for gold, but saboteurs secretly block paths and break tools
 - **Good for:** big parties; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 44 张路径卡（含起点、3 张终点卡，其中 1 张是金矿）、27 张行动卡、28 张金块卡、身份卡（7 张淘金者、4 张破坏者）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Secret role: miner or saboteur.
+2. I extend the tunnel.
+3. A saboteur breaks someone's pickaxe.
+4. Someone peeks at a goal card.
+
+### Scoring example
+
+- Miners or saboteurs share gold; most gold after 3 rounds.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–10.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- Expansion adds roles.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../63_%E7%9F%AE%E4%BA%BA%E6%8E%98%E9%87%91_Saboteur.md).*
@@ -4539,6 +7093,43 @@ With a standard deck, play cards face down in order A, 2, 3… K while claiming;
 
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Play in rank order: I play 2 face down claiming two Aces.
+2. Next claims one 2.
+3. Someone calls 'Cheat!'
+4. Liar takes the pile, else the caller does.
+
+### Scoring example
+
+- First to empty hand.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–10.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Many house rules.
 
 ---
 
@@ -4610,6 +7201,46 @@ Match colour or number, punish the next player with +2, +4, skip and reverse, an
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 108 张（新版 112 张，含白牌和洗手牌）：红黄绿蓝各 0×1、1–9×2；每色跳过、反转、+2 各 2 张；万能牌、万能 +4 各 4 张
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Match colour or number.
+2. I play +2; next draws 2 and skips.
+3. With one card I must call UNO.
+4. Empty your hand to win.
+
+### Scoring example
+
+- Winner scores others' cards; first to 500.
+
+### Rules FAQ / rulings
+
+- **Q: Can +2 stack?**  
+  A: Not officially.
+
+### Player-count differences
+
+- 2–10.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- Many editions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../65_UNO.md).*
@@ -4678,6 +7309,43 @@ Westeros conquest: secret orders, bidding on influence tracks, betrayal and alli
 
 - **Good for:** talkative groups who enjoy acting and bluffing; experienced gamers who want a deep think
 - **Not ideal for:** relaxed chatting sessions; players who dislike conflict or backstabbing; when time is short
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Planning: place orders face down.
+2. Reveal and resolve raids, marches, consolidates.
+3. My march attacks; compare strength + support + house card.
+4. Westeros phase cards may trigger bidding.
+
+### Scoring example
+
+- 7 castles/strongholds, or most after round 10.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- Expansions available.
 
 ---
 
@@ -4749,6 +7417,43 @@ F1 racing with gearbox dice: higher gears roll bigger dice; you must stop the re
 - **Good for:** big parties
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I shift to 3rd gear and roll: 7.
+2. Corners require stops.
+3. I overshoot by 1 and lose 1 tyre point.
+4. I downshift next turn.
+
+### Scoring example
+
+- First across the line.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–10.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- Extra tracks.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../67_D%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%B5%9B%E8%BD%A6_Formula_D.md).*
@@ -4818,6 +7523,45 @@ Four face-down cards of which you peek at two; swap and use powers, then call CA
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数字牌 0–13（0 和 13 各 2 张，1–12 各 4 张）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Peek 2 of your 4 cards.
+2. I draw a 2 and swap out an 11.
+3. I draw a Peek card and use it.
+4. I call CABO; others get one more turn.
+
+### Scoring example
+
+- Hand totals; reach 100 and you're out.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../68_CABO.md).*
@@ -4886,6 +7630,43 @@ Situation puzzles: a host reads the riddle; players ask yes/no questions to reco
 
 - **Good for:** big parties; friends who prefer working together; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Host reads: 'A man saw a light and died.'
+2. Q: 'Is he in a lighthouse?' 'Yes.'
+3. Keep asking.
+4. Someone states the key truth.
+
+### Scoring example
+
+- Score by questions or time.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–13.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -4957,6 +7738,43 @@ One recruiter moves secretly and recruits; rogue agents ask about locations to p
 - **Good for:** people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The Recruiter moves secretly, logging on a hidden map.
+2. Agents move and ask about traits.
+3. The Recruiter answers truthfully.
+4. Agents deduce and capture him.
+
+### Scoring example
+
+- Recruiter reaches the target or agents catch him.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–5.
+- Best with: 3-5 players.
+
+### Official variants & expansions
+
+- Campaign unlocks.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../70_%E5%BF%83%E7%81%B5%E7%89%B9%E5%B7%A5_MIND_MGMT.md).*
@@ -5025,6 +7843,45 @@ A Wild West train robbery: everyone programmes action cards in turn, then they r
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 立体纸火车（车头 + 车厢数 = 玩家人数）、强盗棋子、警长、战利品（钱袋、宝石、保险箱）、每名玩家 10 张行动牌和 6 张子弹牌、角色卡、回合卡。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Schedule: play action cards in turn (some face down).
+2. Action: resolve in order — I'm punched into the next car first.
+3. On the roof, the marshal chases me.
+4. I grab a purse.
+
+### Scoring example
+
+- Richest wins; best gunslinger +$1000.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- Big Box includes expansions.
 
 ---
 
@@ -5095,6 +7952,43 @@ By the 7 Wonders Duel team: pyramid card drafting with three paths to victory: c
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Take an uncovered card from the layout.
+2. Red advances military, green adds race symbols.
+3. I deploy units in regions.
+4. Six race symbols win immediately.
+
+### Scoring example
+
+- Ring to Mount Doom, 6 races, or control all regions.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- None.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../72_%E9%AD%94%E6%88%92%E4%B8%AD%E5%9C%9F%E5%AF%B9%E5%86%B3_LOTR_Duel_for_Middle-earth.md).*
@@ -5162,6 +8056,43 @@ A tabletop MOBA: teams of heroes pick cards simultaneously and resolve by initia
 
 - **Good for:** big parties
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. All choose a card; resolve by initiative.
+2. I move 2 and kill a minion.
+3. He blocks with a defence ≥ attack.
+4. After 4 turns check the push.
+
+### Scoring example
+
+- Throne push, final push, or enemy out of lives.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–10.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- See rulebook.
 
 ---
 
@@ -5231,6 +8162,45 @@ Four colours of polyominoes: your pieces may only touch corner to corner; fewest
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 20×20 棋盘；蓝、黄、红、绿四色各 **21 块**拼块（1 格到 5 格的所有形状）。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. First piece in your corner.
+2. Later pieces touch your own only corner-to-corner.
+3. I block his expansion.
+4. Game ends when nobody can place.
+
+### Scoring example
+
+- Remaining squares are penalties; +15 for all placed (+20 if last is the monomino).
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- Duo and Trigon versions.
 
 ---
 
@@ -5302,6 +8272,43 @@ Deck-building plus worker placement: send archaeologists to dig sites, discover 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Send an explorer to discover a site.
+2. Overcome a guardian.
+3. Advance the research track.
+4. Buy cards into your deck.
+
+### Scoring example
+
+- Score after 5 rounds.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- Expedition Leaders.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../75_%E5%A4%B1%E8%90%BD%E9%81%97%E8%BF%B9%E9%98%BF%E7%BA%B3%E5%85%8B_Lost_Ruins_of_Arnak_%E5%90%AB%E6%8E%A2%E9%99%A9%E9%98%9F%E9%A2%86%E8%A2%96.md).*
@@ -5372,6 +8379,45 @@ A legacy council game: vote on dilemmas, power and coins flow, and the story bra
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw a dilemma; read the yes/no question.
+2. The leader puts 2 power on Aye.
+3. I abstain to gather power and take 1 coin.
+4. After coin deals, Nay reaches 3 power and becomes leader.
+5. Nay wins; resolve the back of the card.
+
+### Scoring example
+
+- A game ends at a stability extreme or the king's death; score by secret agenda over the campaign.
+
+### Rules FAQ / rulings
+
+- **Q: Can power be traded?**  
+  A: No, only coins.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Legacy campaign; an opened box may be mid-story.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../76_%E7%8E%8B%E6%9D%83%E5%9B%B0%E5%A2%83_The_Kings_Dilemma.md).*
@@ -5440,6 +8486,45 @@ Axis vs Allies: 6 nations with separate decks build armies and fight using only 
 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Germany builds an army adjacent to Berlin.
+2. Unsupplied units are removed.
+3. Britain plays a naval battle.
+4. Germany scores 2 per sole supply space.
+5. Allies lead by 30 at end of a round and win.
+
+### Scoring example
+
+- 2nd ed: 30-point lead wins; otherwise higher after round 20 (Axis win ties).
+
+### Rules FAQ / rulings
+
+- **Q: Can I use allies for supply?**  
+  A: No, only your own units.
+
+### Player-count differences
+
+- 2–6, best with 6; all six nations always play.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- 1st/2nd editions differ; expansions exist.
 
 ---
 
@@ -5510,6 +8595,43 @@ Two submarines in real time: the captain calls headings, the radio operator trac
 
 - **Good for:** big parties; people who love deduction and guessing identities; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Captain: 'North'; first mate charges systems.
+2. The radio operator tracks the enemy.
+3. We fire a torpedo at C4 — hit.
+4. Real-time play.
+
+### Scoring example
+
+- 4 damage sinks the enemy.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–8.
+- Best with: 8 players.
+
+### Official variants & expansions
+
+- Turn-based mode.
 
 ---
 

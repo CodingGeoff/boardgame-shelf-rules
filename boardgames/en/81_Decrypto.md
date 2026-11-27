@@ -59,6 +59,49 @@ Two teams each have 4 secret keywords and transmit 3-digit codes with clues; the
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 黑白两色屏风各 1、关键词卡 110 张、黑白密码卡各 24 张、拦截标记（白）4、误码标记（黑）4、沙漏、记录纸。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Two teams; each has 4 secret keywords numbered 1–4.
+2. Our encryptor draws code 3-1-4 and gives three clues.
+3. My teammates decode 3-1-4 correctly while the opponents try to intercept.
+4. Using past clue history, the opponents intercept and gain an interception token.
+5. 2 interceptions wins; 2 miscommunications loses.
+
+### Scoring example
+
+- 2 interceptions win, 2 miscommunications lose; after 8 rounds compare per rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Do we intercept in round 1?**  
+  A: Usually not (see rulebook).
+- **Q: Can clues reference positions?**  
+  A: No, follow the rulebook clue restrictions.
+
+### Player-count differences
+
+- 3–8; 3p uses a variant.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../81_%E6%88%AA%E7%A0%81%E6%88%98_Decrypto.md).*

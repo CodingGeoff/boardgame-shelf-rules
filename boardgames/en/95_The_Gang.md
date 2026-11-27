@@ -59,6 +59,47 @@ Cooperative Texas Hold'em: no talking about cards — take chips to signal your 
 - **Good for:** friends who prefer working together; people who love deduction and guessing identities; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 52 张扑克牌、4 色筹码（白、黄、橙、红，每色 1 到人数号；颜色对应回合）、3 张金库卡、3 张警报卡、挑战卡与专家卡（进阶）。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Cooperative: Texas Hold'em hands without talking about cards.
+2. After 2 cards, take star chips 1–N for your perceived strength.
+3. Repeat after flop, turn, river.
+4. Reveal: hands must be in chip order.
+5. Correct order cracks a vault.
+
+### Scoring example
+
+- 3 successes before 3 failures.
+
+### Rules FAQ / rulings
+
+- **Q: Can I say I'm strong?**  
+  A: No, only via chips.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Challenge and specialist cards.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../95_%E7%BA%B8%E7%89%8C%E5%B8%AE_The_Gang.md).*

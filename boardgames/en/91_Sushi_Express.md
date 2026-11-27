@@ -66,6 +66,47 @@ Michael Schacht's betting-and-dice delivery race: bet a number 2–12, the highe
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 押注盘（数字 2–12）、环形送餐路线（含**寿司店**和**公园**）、每人押注石 + 送货车、2 颗骰子、顾客卡（含小费）、行动卡。具体数量见说明书。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I bet 9, A 7, B 5.
+2. I roll 10 ≥ 9 — success.
+3. We move by our bets; I pass the shop and take a customer card.
+4. A stops on the park and takes an action card.
+5. Game ends when customer cards run out.
+
+### Scoring example
+
+- Score customer sets per rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Fail the challenge?**  
+  A: No movement; take an action card.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../91_%E5%AF%BF%E5%8F%B8%E5%BF%AB%E9%80%92_Sushi_Express.md).*

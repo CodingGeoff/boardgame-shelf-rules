@@ -62,6 +62,48 @@ Play 8 region cards over 8 rounds, then score backwards from the 8th card: later
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 68 张区域卡**（编号 1–68，编号即“行程”时长）
+- [ ] 45 张圣所卡**（Sanctuary）
+- [ ] 计分本
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player has 8 region cards (0–68); 8 rounds.
+2. Each round all play one at once; low numbers pick sanctuaries first.
+3. After round 8 score from card 8 back to card 1.
+4. Each card counts only what is visible at that point.
+
+### Scoring example
+
+- Reverse scoring: card 8 sees all 8 cards; card 1 sees only itself. Highest wins.
+
+### Rules FAQ / rulings
+
+- **Q: Benefit of a higher number?**  
+  A: Higher than your previous card earns a sanctuary.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Expansions exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../27_%E9%81%A5%E8%BF%9C%E4%B9%8B%E5%9C%B0_Faraway.md).*

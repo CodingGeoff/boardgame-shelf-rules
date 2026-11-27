@@ -60,6 +60,44 @@ Dozens of racers with unique powers run 4 races: snake-draft your racers, roll a
 - **Good for:** families with young children
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Snake-draft 4 racers.
+2. Before each race secretly pick an unused racer.
+3. Roll and move; resolve powers (CAN = optional).
+4. The race ends when 2nd place crosses.
+
+### Scoring example
+
+- After 4 races, most points.
+
+### Rules FAQ / rulings
+
+- **Q: Does moving 0 count as moving?**  
+  A: No.
+
+### Player-count differences
+
+- 2–6; 2 racers each at 2p.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Mild/Wild track sides.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../39_Magical_Athlete.md).*

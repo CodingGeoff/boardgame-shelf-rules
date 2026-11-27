@@ -60,6 +60,45 @@
 - **Good for:** big parties; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The mayor picks a secret word.
+2. Werewolves and the Seer know it.
+3. Players ask yes/no questions.
+4. Villagers guess it in time; the werewolves try to find the Seer.
+5. Werewolves find the Seer and win.
+
+### Scoring example
+
+- Guessed: wolves win by finding the Seer; not guessed: villagers win by finding a wolf.
+
+### Rules FAQ / rulings
+
+- **Q: Can the mayor be a wolf?**  
+  A: Yes.
+
+### Player-count differences
+
+- 4–10.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- Uses an app.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../98_%E7%8B%BC%E4%BA%BA%E7%9C%9F%E8%A8%80_Werewords.md).*

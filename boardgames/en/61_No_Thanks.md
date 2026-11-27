@@ -59,6 +59,45 @@ Pay a chip to pass a card, or take it with the chips on it; runs score only thei
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 数字牌 3–35（33 张）、筹码
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. A card is revealed; I pay a chip to pass.
+2. Chips accumulate.
+3. I take the 27 and 5 chips.
+4. Runs count only the lowest card.
+
+### Scoring example
+
+- Card points (runs count lowest) − chips; lowest wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–7.
+- Best with: 5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../61_%E4%B8%8D%E8%B0%A2_No_Thanks.md).*

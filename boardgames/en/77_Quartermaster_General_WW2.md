@@ -60,6 +60,45 @@ Axis vs Allies: 6 nations with separate decks build armies and fight using only 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Germany builds an army adjacent to Berlin.
+2. Unsupplied units are removed.
+3. Britain plays a naval battle.
+4. Germany scores 2 per sole supply space.
+5. Allies lead by 30 at end of a round and win.
+
+### Scoring example
+
+- 2nd ed: 30-point lead wins; otherwise higher after round 20 (Axis win ties).
+
+### Rules FAQ / rulings
+
+- **Q: Can I use allies for supply?**  
+  A: No, only your own units.
+
+### Player-count differences
+
+- 2–6, best with 6; all six nations always play.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- 1st/2nd editions differ; expansions exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../77_%E5%86%9B%E9%9C%80%E5%AE%98_Quartermaster_General_WW2.md).*

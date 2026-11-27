@@ -61,6 +61,45 @@ Hand-passing deduction: the detective must name the culprit before the culprit e
 - **Good for:** big parties; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 36 张卡（第一发现者 1、犯人 1、共犯 2、侦探 4、不在场证明 5、目击者 3、普通人 2、神犬 1、谣言 5、情报交换 4、交易 4，另有警部、少年等特殊卡和空白卡）、计分标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 4 cards each; the First Discoverer leads.
+2. I play Witness to look at a hand.
+3. Someone plays Detective accusing a player.
+4. If they hold the Culprit without an Alibi, the detective side wins.
+
+### Scoring example
+
+- Culprit wins by playing it last; detectives win by catching him.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../45_%E7%8A%AF%E4%BA%BA%E5%9C%A8%E8%B7%B3%E8%88%9E_Criminal_Dance.md).*

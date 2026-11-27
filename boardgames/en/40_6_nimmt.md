@@ -63,6 +63,46 @@ Play cards simultaneously and add them to rows; whoever places the 6th card in a
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 104 张牌（1–104），每张印有牛头数量（扣分）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player has 10 cards; 4 rows start with 1 card each.
+2. All play at once; cards go in ascending order to the row ending with the closest lower number.
+3. My 37 goes after 35 — it's the 6th card, so I take the 5 cards.
+4. A card lower than all row ends must take a row of its choice.
+
+### Scoring example
+
+- Bull heads are penalties; lowest total wins.
+
+### Rules FAQ / rulings
+
+- **Q: Is my 6th card taken too?**  
+  A: No — you take the 5, yours starts the row.
+
+### Player-count differences
+
+- 2–10.
+- Best with: 5-8 players.
+
+### Official variants & expansions
+
+- Professional variant; Take 11 etc.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../40_%E8%B0%81%E6%98%AF%E7%89%9B%E5%A4%B4%E7%8E%8B_6_nimmt.md).*

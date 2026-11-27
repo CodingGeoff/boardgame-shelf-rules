@@ -65,6 +65,47 @@ Sid Sackson's pure negotiation classic: deals need specific investors; the boss 
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 游戏板（一圈“生意”格，每格写着需要哪些**投资者家族**以及分红数）、15 张交易卡（股价）、6 张**投资者牌**（两面同图）、98 张**影响力卡**、美元标记、钞票。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The dollar marker stops on a deal; I become boss.
+2. It needs 3 families; I own 1 and must buy the others.
+3. A asks 40%; B plays a travel card.
+4. I play a family card to replace B.
+5. Profit = dividend × share price, split as agreed.
+
+### Scoring example
+
+- Most money when the deal cards run out.
+
+### Rules FAQ / rulings
+
+- **Q: Are promises binding?**  
+  A: No.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../100_%E6%88%91%E6%98%AF%E5%A4%A7%E8%80%81%E6%9D%BF_Im_the_Boss.md).*

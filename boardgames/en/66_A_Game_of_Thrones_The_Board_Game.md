@@ -60,6 +60,43 @@ Westeros conquest: secret orders, bidding on influence tracks, betrayal and alli
 - **Good for:** talkative groups who enjoy acting and bluffing; experienced gamers who want a deep think
 - **Not ideal for:** relaxed chatting sessions; players who dislike conflict or backstabbing; when time is short
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Planning: place orders face down.
+2. Reveal and resolve raids, marches, consolidates.
+3. My march attacks; compare strength + support + house card.
+4. Westeros phase cards may trigger bidding.
+
+### Scoring example
+
+- 7 castles/strongholds, or most after round 10.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–6.
+- Best with: 6 players.
+
+### Official variants & expansions
+
+- Expansions available.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../66_%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E6%A1%8C%E6%B8%B8_A_Game_of_Thrones_The_Board_Game.md).*

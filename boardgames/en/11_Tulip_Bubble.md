@@ -63,6 +63,50 @@
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 郁金香卡：**3 种颜色**（红、黄、白，以实物为准），每色分 **A/B/C 三个等级**（A 最高）
+- [ ] 每色一条**价格轨道**（1–7）及价格指示物
+- [ ] 事件卡（包括 **泡沫破裂 Bubble Bust** 卡）、收藏家卡
+- [ ] 金币、竞价标记（每人 3 个）、融资（贷款）标记
+- [ ] 黑色郁金香**卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Event: 'red demand rises' — red price up 1.
+2. Sell: I sell a red grade-A tulip to the bank (price × grade).
+3. Auction: I bid on a yellow lot, financing with a loan token.
+4. With 3 events left everyone sells — the bust could come any time.
+
+### Scoring example
+
+- After the bust, unsold loan-bought tulips become debt; most cash wins, or a 120-value black tulip wins instantly.
+
+### Rules FAQ / rulings
+
+- **Q: Loan limit?**  
+  A: 3 at once.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../11_%E9%83%81%E9%87%91%E9%A6%99%E6%B3%A1%E6%B2%AB_Tulip_Bubble.md).*

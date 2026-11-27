@@ -61,6 +61,51 @@ Gang loot split: everyone secretly picks a role; duplicated roles are all elimin
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 8 套帮派家族牌：每个家族的角色构成相同，只是美术不同。包括人物牌和对应的“小弟”角色牌。
+- [ ] 赃物牌
+- [ ] 威胁牌 8 张
+- [ ] 辅助卡 8 张
+- [ ] 首领牌 1 张
+- [ ] 百万钞票
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone secretly picks a role and posts a deposit.
+2. Reveal: two drivers — both out.
+3. I'm the only thug and share the loot.
+4. The driver charges a fare.
+5. Most money wins.
+
+### Scoring example
+
+- Most money.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 5-7 players.
+
+### Official variants & expansions
+
+- 3p variant.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../148_%E7%99%BE%E4%B8%87%E7%BE%8E%E9%87%91_Millions_of_Dollars.md).*

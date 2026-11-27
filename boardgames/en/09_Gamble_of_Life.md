@@ -63,6 +63,49 @@ A revolver-themed bluffing and bidding game: hide the live round, spin, bid, cha
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 左轮“弹巢”配件，用卡牌或指示物表示：**6 发空包弹 + 1 发实弹**
+- [ ] 生命指示物（每人或每队 **4 条命**）
+- [ ] 分数（VP）记录
+- [ ] 竞价用的筹码或卡牌
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The dealer hides the live round in one of 7 chambers.
+2. After spinning, bidding: I bid 2 pulls, he raises to 3.
+3. I don't challenge; he fires 3: blank, blank, blank — 3 VP.
+4. Next round he bids 4; the 3rd is live — he loses a life.
+
+### Scoring example
+
+- First to 15 VP or last alive.
+
+### Rules FAQ / rulings
+
+- **Q: Failed challenge?**  
+  A: Per rulebook; usually the challenger takes the penalty.
+
+### Player-count differences
+
+- 2–6, teams possible.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../09_%E8%B5%8C%E5%91%BD%E5%A4%A7%E8%B5%9B.md).*

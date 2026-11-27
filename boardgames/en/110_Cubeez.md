@@ -61,6 +61,47 @@ Blue Orange real-time puzzle: rotate, flip and swap your 3 wooden cubes to build
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] **12 个木制方块**（4 种颜色，每色 3 个；每面印着眼睛、嘴巴等表情局部）、**50 张挑战卡**（6×6 cm）、多语言说明书（含简体中文）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Three cubes each.
+2. Flip a challenge card.
+3. Everyone races to match the face.
+4. I finish first, slap the card and score.
+5. First to 10 cards wins.
+
+### Scoring example
+
+- First to 10 cards.
+
+### Rules FAQ / rulings
+
+- **Q: If wrong?**  
+  A: Out for that round.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- 3D cards require stacking.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../110_%E5%8F%98%E8%84%B8%E9%AD%94%E6%96%B9_Cubeez.md).*

@@ -49,6 +49,40 @@ Work at the bureau sending the dead to other worlds; little public rules data.
 - **Good for:** most board gamers
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Limited data — see the rulebook.
+
+### Scoring example
+
+- See rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- See box.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../29_%E8%BF%99%E9%87%8C%E6%98%AF%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%94%9F%E5%B1%80.md).*

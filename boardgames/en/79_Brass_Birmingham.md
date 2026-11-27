@@ -61,6 +61,44 @@ The Industrial Revolution over the canal and rail eras: build industries, links 
 - **Good for:** experienced gamers who want a deep think
 - **Not ideal for:** relaxed chatting sessions
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Canal era: I build a cotton mill in Birmingham.
+2. Pay money and connected coal.
+3. I build a canal link.
+4. At era end flipped industries and links score.
+
+### Scoring example
+
+- After the rail era score industries and links.
+
+### Rules FAQ / rulings
+
+- **Q: Loans?**  
+  A: Take £30, income drops 3 levels.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../79_%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD_Brass.md).*

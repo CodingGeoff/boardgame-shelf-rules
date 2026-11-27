@@ -61,6 +61,45 @@ A legacy council game: vote on dilemmas, power and coins flow, and the story bra
 - **Good for:** talkative groups who enjoy acting and bluffing
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw a dilemma; read the yes/no question.
+2. The leader puts 2 power on Aye.
+3. I abstain to gather power and take 1 coin.
+4. After coin deals, Nay reaches 3 power and becomes leader.
+5. Nay wins; resolve the back of the card.
+
+### Scoring example
+
+- A game ends at a stability extreme or the king's death; score by secret agenda over the campaign.
+
+### Rules FAQ / rulings
+
+- **Q: Can power be traded?**  
+  A: No, only coins.
+
+### Player-count differences
+
+- 3–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Legacy campaign; an opened box may be mid-story.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../76_%E7%8E%8B%E6%9D%83%E5%9B%B0%E5%A2%83_The_Kings_Dilemma.md).*

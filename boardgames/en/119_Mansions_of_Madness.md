@@ -60,6 +60,44 @@ Cthulhu co-op adventure: the free app acts as keeper, generating maps, monsters 
 - **Good for:** friends who prefer working together
 - **Not ideal for:** when time is short
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The app sets up the scenario.
+2. I search for items.
+3. Attribute tests use investigation dice.
+4. Mythos phase: monsters attack.
+5. Complete the objective.
+
+### Scoring example
+
+- Win per scenario.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../119_%E7%96%AF%E7%8B%82%E8%AF%A1%E5%AE%85%E7%AC%AC%E4%BA%8C%E7%89%88_Mansions_of_Madness_2nd.md).*

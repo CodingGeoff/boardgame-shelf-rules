@@ -62,6 +62,47 @@ Two secret societies on a carriage: the Order needs 3 keys, the Brotherhood 3 go
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 阵营卡（每阵营 5 张）、职业卡、角色卡
+- [ ] 21 张道具卡（含 2 张**秘密袋**）、9 张力量之饮卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I trade an item secretly with a neighbour.
+2. Next turn I attack another player; others may support either side.
+3. I win and look at his faction card.
+4. Knowing my team and items, I declare victory.
+
+### Scoring example
+
+- Correctly name all teammates and meet 3 keys / 3 goblets; a wrong declaration loses.
+
+### Rules FAQ / rulings
+
+- **Q: Does the secret bag count?**  
+  A: No.
+
+### Player-count differences
+
+- 3–10.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- See variants.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../33_%E9%AD%94%E5%9F%8E%E9%A9%AC%E8%BD%A6_The_Carriage_to_Magic_City.md).*

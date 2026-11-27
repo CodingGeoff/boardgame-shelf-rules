@@ -59,6 +59,46 @@ Two hidden characters equal two influences: claim characters to take actions; ch
 - **Good for:** talkative groups who enjoy acting and bluffing; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 15 张角色卡（5 种各 3 张）、硬币、参考卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 2 hidden influence cards, 2 coins each.
+2. I claim Duke and take 3 coins.
+3. He challenges; I reveal a Duke — he loses an influence.
+4. With 7 coins I Coup.
+
+### Scoring example
+
+- Last player with influence wins.
+
+### Rules FAQ / rulings
+
+- **Q: Must I coup at 10?**  
+  A: Yes.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- Reformation adds factions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../54_%E6%94%BF%E5%8F%98_COUP.md).*

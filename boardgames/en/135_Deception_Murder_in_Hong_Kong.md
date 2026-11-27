@@ -61,6 +61,44 @@ The forensic scientist knows the truth but can only use clue tiles; investigator
 - **Good for:** big parties; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Forensic scientist and murderer chosen.
+2. Hints via tiles.
+3. Detectives deduce; one solve each.
+4. Correct: detectives win.
+5. Otherwise murderer wins.
+
+### Scoring example
+
+- Correct weapon + evidence.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 4–12.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../135_%E7%8A%AF%E7%BD%AA%E7%8E%B0%E5%9C%BA_Deception_Murder_in_Hong_Kong.md).*

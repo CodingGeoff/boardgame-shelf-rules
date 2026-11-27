@@ -61,6 +61,43 @@ Deck-building plus worker placement: send archaeologists to dig sites, discover 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Send an explorer to discover a site.
+2. Overcome a guardian.
+3. Advance the research track.
+4. Buy cards into your deck.
+
+### Scoring example
+
+- Score after 5 rounds.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- Expedition Leaders.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../75_%E5%A4%B1%E8%90%BD%E9%81%97%E8%BF%B9%E9%98%BF%E7%BA%B3%E5%85%8B_Lost_Ruins_of_Arnak_%E5%90%AB%E6%8E%A2%E9%99%A9%E9%98%9F%E9%A2%86%E8%A2%96.md).*

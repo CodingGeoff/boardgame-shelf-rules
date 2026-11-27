@@ -60,6 +60,43 @@ Situation puzzles: a host reads the riddle; players ask yes/no questions to reco
 - **Good for:** big parties; friends who prefer working together; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Host reads: 'A man saw a light and died.'
+2. Q: 'Is he in a lighthouse?' 'Yes.'
+3. Keep asking.
+4. Someone states the key truth.
+
+### Scoring example
+
+- Score by questions or time.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–13.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../69_%E9%80%BB%E8%BE%91%E5%85%BD_LOGIC_BEAST.md).*

@@ -63,6 +63,47 @@ A two-act cooperative dungeon crawl: explore and fight to gather loot, then dest
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 英雄卡及迷宝（meeple）、地城房间卡（走廊、房间、入口）
+- [ ] 小怪卡（含**哥布林**）、头目卡、宝藏或装备卡
+- [ ] 火炬轨道**及火炬标记、生命和魔力标记、骰子
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Heroes act with 2 actions: move, attack, search, ability.
+2. I roll to attack a goblin, hitting for 2 and killing it.
+3. The torch track advances; enemies grow stronger.
+4. Searching yields an item.
+
+### Scoring example
+
+- Co-op: defeat the boss; lose if heroes fall or the torch burns out.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- Expansions add heroes and maps.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../17_%E5%B0%8F%E5%B0%8F%E5%9C%B0%E5%9F%8E%E4%BC%A0%E8%AF%B4_Tiny_Epic_Dungeons.md).*

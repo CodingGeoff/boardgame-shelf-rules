@@ -60,6 +60,47 @@ Draw and place tiles to build medieval France; place meeples as robbers, knights
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 72 块地形板块（含起始板块，背面不同；第二版另附河流、修道院长小扩展）、每人 7 个米宝（第二版加 1 个修道院长）、计分版图。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw a tile and place it matching edges.
+2. Place a meeple on the city.
+3. The city completes: 2 tiles × 2 = 4 points; meeple returns.
+4. His road connects to mine, sharing.
+5. Score incomplete features and farms at the end.
+
+### Scoring example
+
+- City 2/tile (+2 shield), road 1/tile, cloister 9.
+
+### Rules FAQ / rulings
+
+- **Q: Can I place on an occupied city?**  
+  A: No, but you can connect.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Many expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../102_%E5%8D%A1%E5%8D%A1%E9%A2%82_Carcassonne.md).*

@@ -61,6 +61,45 @@ Plant trees to make paths, but to score a tree species you must hold the highest
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 80 张牌：10 种树，每种 1–8
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw 2, play 1 to my arboretum, discard 1.
+2. Cards are placed adjacent, forming paths.
+3. At the end, scoring rights per species go to the highest hand total.
+4. A 1 beats an 8 if the opponent holds the 8.
+
+### Scoring example
+
+- Paths of increasing numbers between same species score.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../56_%E6%A0%91%E6%9C%A8%E5%9B%AD_Arboretum.md).*

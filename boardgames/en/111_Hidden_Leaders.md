@@ -58,6 +58,47 @@ Two markers tug-of-war on a power track; each leader serves two factions; end co
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 游戏板（力量轨道，右端是“黑暗战争区”；板上还有港口、墓地、荒野、酒馆等区域）、红绿 2 个标记、**6 张领袖卡**、**77 张英雄卡**、6 张辅助卡。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Secret leaders; markers start at 4.
+2. I play a hero face up: red advances 2.
+3. He plays one face down.
+4. Someone reaches the hero count — game ends.
+5. Check order: not in dark war; markers adjacent — Water Folk win.
+
+### Scoring example
+
+- Faction checks in order; ties per rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Why face down?**  
+  A: Hides faction for tiebreaks.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- New edition.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../111_%E7%8E%8B%E6%9D%83%E6%9A%97%E6%88%98_Hidden_Leaders.md).*

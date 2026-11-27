@@ -59,6 +59,45 @@ Classic werewolf: night kills and powers, day discussion and votes; villagers mu
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The moderator deals roles; night: werewolves kill.
+2. The seer checks someone; other roles act.
+3. Day: discuss and vote to eliminate.
+4. Reveal the eliminated role.
+5. All wolves dead: village wins; wolves equal villagers: wolves win.
+
+### Scoring example
+
+- Win per team conditions.
+
+### Rules FAQ / rulings
+
+- **Q: Can the dead speak?**  
+  A: Usually not.
+
+### Player-count differences
+
+- Check the box; best with 5+.
+- Best with: 8-15 players.
+
+### Official variants & expansions
+
+- Many roles.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../99_%E7%BB%88%E6%9E%81%E7%8B%BC%E4%BA%BA_Ultimate_Werewolf.md).*

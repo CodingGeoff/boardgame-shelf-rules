@@ -52,6 +52,42 @@ A Chinese duel card game with multi-use cards and positioning; a mechanics-only 
 - **Good for:** most board gamers
 - **Not ideal for:** (rules data incomplete — read the rulebook first)
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Limited data: start with the mechanics-only mode.
+2. Each card has three uses; pick one each turn.
+3. Positioning matters like chess.
+
+### Scoring example
+
+- See rulebook.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../31_%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BAII_%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E6%B5%B7_Wanted_and_Recruit.md).*

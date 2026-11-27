@@ -66,6 +66,52 @@ A real-time cooperative escape room in a deck of cards: reveal numbered cards, c
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 每个剧本 1 副约 60 张的卡组（背面印数字或字母）
+- [ ] 免费 App（Unlock!，iOS/Android），负责计时、机关、密码、提示和罚时
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Start the 60-minute timer in the app and flip the start card: it shows a room with 11, 35 and 46 in the corners.
+2. Everyone searches the deck: 11 is a blue key, 35 is a red locker.
+3. Blue + red can be combined: 11 + 35 = 46; card 46 exists, so flip it and get what was inside the locker.
+4. A note gives a clue to a 4-digit code; the group discusses and enters 0429 in the app — correct, a new area opens.
+5. Someone tries 11 + 20 = 31; that card is a penalty card and the app deducts time.
+
+### Scoring example
+
+- The app rates you: more time left, fewer hints and penalties = more stars (max 5). E.g. 8 minutes left with 2 hints ≈ 3–4 stars.
+
+### Rules FAQ / rulings
+
+- **Q: Can we look at card fronts freely?**  
+  A: No — keep the deck number-side up and only reveal cards whose numbers you have found.
+- **Q: Only red + blue combine?**  
+  A: Yes, normally a blue object plus a red object (scenario exceptions aside). Grey cards don't combine.
+- **Q: A card says 'discard xx'?**  
+  A: Do it — those cards are no longer needed, which keeps the table clean.
+
+### Player-count differences
+
+- Plays 1–6, best 2–4. With more players people talk over each other; let one person handle the deck and the app.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Each box has 3 standalone scenarios, difficulty shown by keys; start with the tutorial scenario. Boxes aren't connected.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../01_%E5%A4%A7%E6%90%9C%E6%9F%A5_Unlock%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1.md).*

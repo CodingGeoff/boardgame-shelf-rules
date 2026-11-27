@@ -635,7 +635,7 @@ function render(){
   <div class="summ">${esc(gsumm(g))}</div>
   <div class="why">${x.why.map(([c,t])=>`<span class="${c}">${c==='g'?'✓':c==='y'?'△':'✗'} ${esc(t)}</span>`).join('')}</div>
   ${locHTML(g)}
-  <div class="acts"><button class="main" data-doc="${g.id}">📖 ${T('查看规则文档','Open rules')}</button><button data-doc="${g.id}" data-lang="${LANG==='en'?'zh':'en'}">${T('English rules','中文规则')}</button><a href="${ghDoc(g)}" target="_blank">GitHub ↗</a><button data-brk="${i}">📊 ${T('评分明细','Score details')}</button></div>
+  <div class="acts"><button class="main" data-doc="${g.id}">📖 ${T('查看规则文档','Open rules')}</button><button data-doc="${g.id}" data-lang="${LANG==='en'?'zh':'en'}">${T('English rules','中文规则')}</button>${REPO?`<a href="${ghDoc(g)}" target="_blank">GitHub ↗</a>`:''}<button data-brk="${i}">📊 ${T('评分明细','Score details')}</button></div>
   <div class="brk" id="brk${i}">${Object.keys(x.C).map(k=>`<span>${cl(k)} ×${W[k]}</span><div class="bar"><i style="width:${Math.round(x.C[k]*100)}%"></i></div><span>${Math.round(x.C[k]*100)}</span>`).join('')||`<span>${T('未设置条件，按默认排序','no conditions; default order')}</span>`}</div>
   </div></div>`}).join('');
  window._last=list;
@@ -668,7 +668,7 @@ document.addEventListener('click',e=>{const t=e.target.closest('[data-ph],[data-
 $('#res').onclick=e=>{const d=e.target.dataset;if(d.doc)openDoc(+d.doc,d.lang);if(d.brk!==undefined)$('#brk'+d.brk).classList.toggle('show')};
 
 /* ---------- lightbox ---------- */
-function openLB(src,cap){$('#lbi').src=src;$('#lbi').classList.remove('z');$('#lbt').textContent=cap||'';const orig=src.startsWith('photos/web/')?ghPhoto(PHOTOS.find(p=>src.includes(p.id))?.orig||src):src;$('#lbo').href=orig;$('#lb').classList.add('show')}
+function openLB(src,cap){$('#lbi').src=src;$('#lbi').classList.remove('z');$('#lbt').textContent=cap||'';const orig=src.startsWith('photos/web/')?ghPhoto(PHOTOS.find(p=>src.includes(p.id))?.orig||src):src;$('#lbo').href=REPO?orig:src;$('#lb').classList.add('show')}
 function closeLB(){$('#lb').classList.remove('show');$('#lbi').src=''}
 $('#lbx').onclick=closeLB;$('#lbz').onclick=()=>$('#lbi').classList.toggle('z');$('#lbi').onclick=()=>$('#lbi').classList.toggle('z');
 
@@ -694,7 +694,7 @@ $('#shelf').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();op
 function renderPhotos(){
  const unc=G.filter(g=>!g.codes.length);
  $('#photos').innerHTML=`<div class="panel" style="margin-bottom:14px"><h3>📷 ${T('高清货架照片（压缩到 2400px，手机也能打开）','HD shelf photos (resized to 2400px so they open on phones)')}</h3>
- <p class="hint">${T('GitHub 上的原图约 13 MB，经常显示不出来。这里的版本每张约 0.5–0.9 MB；点开后可以放大，右上角“原图”链接到 GitHub 原文件。','The originals on GitHub are ~13 MB each and often fail to display. These are ~0.5–0.9 MB each; tap to open, tap again to zoom, and “Original” links to the full-size GitHub file.')}</p>
+ <p class="hint">${REPO?T('GitHub 上的原图约 13 MB，经常显示不出来。这里的版本每张约 0.5–0.9 MB；点开后可以放大，右上角“原图”链接到 GitHub 原文件。','The originals on GitHub are ~13 MB each and often fail to display. These are ~0.5–0.9 MB each; tap to open, tap again to zoom, and “Original” links to the full-size GitHub file.'):T('每张约 0.5–0.9 MB，手机也能打开；点开后再点一下图片可以放大。','Each is ~0.5–0.9 MB and opens on phones; tap to open, tap the image again to zoom.')}</p>
  <div class="pgrid">${PHOTOS.map(p=>`<figure data-big="${webPh(p.id)}" data-cap="${esc(T('照片 ','Photo ')+p.id+' · '+T(p.zh,p.en))}"><img loading="lazy" src="${thPh(p.id)}" alt=""><figcaption><b>${p.id}</b> · ${esc(T(p.zh,p.en))}</figcaption></figure>`).join('')}</div></div>
  <div class="panel" style="margin-bottom:14px"><h3>🔍 ${T('没有货架编号区域的特写','Close-ups of areas without shelf codes')}</h3><p class="hint">${T('照片里有 39 款游戏看不到“字母+数字”的货架编号。下面是这些区域的高清裁剪，区域位置是根据相邻标签推断的（≈ 表示推断）。','39 games have no visible letter+number shelf code in the photos. These are HD crops of those areas; the locations are inferred from neighbouring labels (≈ = inferred).')}</p>
  <div class="pgrid">${CROPS.map(c=>`<figure data-big="${esc(c.file)}" data-cap="${esc(T(c.cap,c.capEn))}"><img loading="lazy" src="${esc(cropTh(c.file))}" alt=""><figcaption>${esc(T(c.cap,c.capEn))}<br>${esc(T(c.areaZh,c.areaEn))}</figcaption></figure>`).join('')}</div></div>
@@ -708,7 +708,7 @@ function enMd(g){const e=g.en,ol=a=>a.map((x,i)=>`${i+1}. ${x}`).join('\n'),ul=a
  return [`# ${e.n}`,`> ${g.name} · #${g.id}${g.unk||g.tags.includes('资料待补')?' · ⚠️ limited public rules data — read the rulebook in the box':''}`,'## Overview',e.s,'## Setup',ol(e.su),'## How to play',ol(e.t),'## Game end & scoring',ul(e.e),
   thin?'':'## 5-minute teaching order',thin?'':ol([`**Goal first:** ${e.e[0]}`,`**What you do on a turn:** ${e.t[0]}`,`**Setup check:** ${e.su[0]}`,`**The rule people forget:** ${e.pf[0]}`,'Play one open-handed practice round, then start for real.']),
   '## Strategy tips',ul(e.tp),'## Common mistakes',ul(e.pf),'## Good for / not for',ul([`**Good for:** ${g.fitEn[0].join('; ')}`,`**Not ideal for:** ${g.fitEn[1].join('; ')}`]),
-  '---',`*English summary written from the Chinese doc and public rules; the rulebook in the box wins. Repo file: [boardgames/en/${g.enfile}](${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)})*`].filter(Boolean).join('\n\n')}
+  e.det||'','---',`*English summary written from the Chinese doc and public rules; the rulebook in the box wins. ${REPO?`Repo file: [boardgames/en/${g.enfile}](${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)})`:''}*`].filter(Boolean).join('\n\n')}
 
 /* ---------- read-all ---------- */
 let readDone=false;
@@ -721,7 +721,7 @@ $('#readall').onclick=e=>{const j=e.target.dataset.jump;if(j){e.preventDefault()
 /* ---------- markdown ---------- */
 function inl(s){s=esc(s);
  s=s.replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>').replace(/(^|[^*])\*([^*\s][^*]*)\*/g,'$1<i>$2</i>');
- s=s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,(m,t,u)=>{const f=decodeURIComponent(u).replace(/^\.\//,'').replace(/^boardgames\//,'');{const me=f.match(/^en\/(\d+)_/);if(me&&BYID[+me[1]])return `<a href="#doc/${+me[1]}" data-doc="${+me[1]}" data-lang="en">${t}</a>`}if(BYFILE[f])return `<a href="#doc/${BYFILE[f].id}" data-doc="${BYFILE[f].id}">${t}</a>`;if(/^https?:/.test(u))return `<a href="${u}" target="_blank">${t}</a>`;if(/\.md$/.test(f))return `<a href="${REPO}/blob/main/boardgames/${encodeURIComponent(f)}" target="_blank">${t}</a>`;return `<a href="${REPO}/blob/main/${u}" target="_blank">${t}</a>`});
+ s=s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,(m,t,u)=>{const f=decodeURIComponent(u).replace(/^\.\//,'').replace(/^boardgames\//,'');{const me=f.match(/^en\/(\d+)_/);if(me&&BYID[+me[1]])return `<a href="#doc/${+me[1]}" data-doc="${+me[1]}" data-lang="en">${t}</a>`}if(BYFILE[f])return `<a href="#doc/${BYFILE[f].id}" data-doc="${BYFILE[f].id}">${t}</a>`;if(/^https?:/.test(u))return `<a href="${u}" target="_blank">${t}</a>`;if(/\.md$/.test(f))return !REPO?t:`<a href="${REPO}/blob/main/boardgames/${encodeURIComponent(f)}" target="_blank">${t}</a>`;return !REPO?t:`<a href="${REPO}/blob/main/${u}" target="_blank">${t}</a>`});
  s=s.replace(/(^|[\s（(])(https?:\/\/[^\s<）)]+)/g,'$1<a href="$2" target="_blank">$2</a>');
  return s}
 function md(src){if(!src)return '';src=src.replace(/<!--[\s\S]*?-->/g,'').replace(/<a id="[^"]*"><\/a>/g,'');
@@ -751,7 +751,7 @@ function md(src){if(!src)return '';src=src.replace(/<!--[\s\S]*?-->/g,'').replac
 let curDoc=null,docLang=null;
 function openDoc(id,lang,keep){const g=BYID[id];if(!g)return;curDoc=id;docLang=lang||(keep?docLang:null)||LANG;
  $('#dt').textContent=`#${g.id} ${gname(g)}`;
- $('#dlinks').innerHTML=`<a href="${docLang==='en'?`${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)}`:`${REPO}/blob/main/boardgames/${encodeURIComponent(g.file)}`}" target="_blank" class="hint">${T('在 GitHub 打开 ↗','Open on GitHub ↗')}</a>`;
+ $('#dlinks').innerHTML=!REPO?'':`<a href="${docLang==='en'?`${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)}`:`${REPO}/blob/main/boardgames/${encodeURIComponent(g.file)}`}" target="_blank" class="hint">${T('在 GitHub 打开 ↗','Open on GitHub ↗')}</a>`;
  const sims=similar(g,6);
  const good=LANG==='en'?g.fitEn:g.fit;
  $('#dloc').innerHTML=`<div class="sub" style="margin-top:8px">${esc(gsub(g))}</div>`+metaHTML(g)+locHTML(g,true)+

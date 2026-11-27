@@ -60,6 +60,44 @@ Charades telephone with roles: the head goose sees the case and passes it on wit
 - **Good for:** big parties; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. One head goose, one evil goose.
+2. The head sees the case cards.
+3. Pass it on with gestures and honks.
+4. Identify from the last player.
+5. Vote out the evil goose.
+
+### Scoring example
+
+- Original has scoring.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 5–9.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- Sequel exists.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../137_%E4%BB%A5%E9%B9%85%E4%BC%A0%E9%B9%85.md).*

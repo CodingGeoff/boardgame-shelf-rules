@@ -61,6 +61,43 @@ F1 racing with gearbox dice: higher gears roll bigger dice; you must stop the re
 - **Good for:** big parties
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I shift to 3rd gear and roll: 7.
+2. Corners require stops.
+3. I overshoot by 1 and lose 1 tyre point.
+4. I downshift next turn.
+
+### Scoring example
+
+- First across the line.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–10.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- Extra tracks.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../67_D%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%B5%9B%E8%BD%A6_Formula_D.md).*

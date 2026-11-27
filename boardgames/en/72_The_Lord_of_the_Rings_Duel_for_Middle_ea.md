@@ -60,6 +60,43 @@ By the 7 Wonders Duel team: pyramid card drafting with three paths to victory: c
 - **Good for:** couples / head-to-head duels
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Take an uncovered card from the layout.
+2. Red advances military, green adds race symbols.
+3. I deploy units in regions.
+4. Six race symbols win immediately.
+
+### Scoring example
+
+- Ring to Mount Doom, 6 races, or control all regions.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- None.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../72_%E9%AD%94%E6%88%92%E4%B8%AD%E5%9C%9F%E5%AF%B9%E5%86%B3_LOTR_Duel_for_Middle-earth.md).*

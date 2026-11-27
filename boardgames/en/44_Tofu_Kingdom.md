@@ -61,6 +61,45 @@ The Mochi Prince questions everyone to find the Tofu Princess; some roles must t
 - **Good for:** big parties; people who love deduction and guessing identities; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 8 张角色牌（杯垫式）、黄豆（分数）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I'm the Mochi Prince; eyes closed while others reveal roles.
+2. I ask a player one of the three allowed questions.
+3. Princess and Chef tell truth; Queen/Minister/Guard lie; Spy/Maid choose.
+4. After one extra question, I reveal my guess.
+
+### Scoring example
+
+- Teams score by condition.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../44_%E8%B1%86%E8%85%90%E7%8E%8B%E5%9B%BD_Tofu_Kingdom.md).*

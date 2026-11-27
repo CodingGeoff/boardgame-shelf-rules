@@ -62,6 +62,48 @@ Two-player idol concert duel: sing to raise Voltage, win fans from the audience,
 - **Good for:** couples / head-to-head duels; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 6 名偶像**及各自的专属卡（资料显示为“9 种 × 2 张 = 18 张”的构成，具体是每名偶像还是每副牌库，以说明书为准）
+- [ ] 偶像角色卡（含中心位技能）
+- [ ] 粉丝卡（含核心粉、麻烦粉等类型）
+- [ ] 热度（Voltage）指示物、计分用具
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player builds an 18-card deck from 3 idols and draws 5.
+2. I play a song to raise Voltage, then spend it to take a fan card.
+3. Played songs become Memory, paying for Events.
+4. I change my Centre idol and use her skill.
+
+### Scoring example
+
+- First to 20 fan points.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../24_%E6%98%9F%E8%80%80%E5%81%B6%E5%83%8F%E7%A5%AD_Idol_Alive.md).*

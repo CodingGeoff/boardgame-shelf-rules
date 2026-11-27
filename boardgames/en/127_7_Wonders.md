@@ -60,6 +60,45 @@ Draft cards over 3 ages: build resources, military, science, commerce and wonder
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 7 cards per age; pick 1, pass the rest.
+2. I build a lumber yard for free.
+3. I build military with wood.
+4. Age end: military vs neighbours.
+5. Score after 3 ages.
+
+### Scoring example
+
+- Military, coins, wonders, civic, science, commerce, guilds.
+
+### Rules FAQ / rulings
+
+- **Q: Buy from neighbours?**  
+  A: 2 coins each.
+
+### Player-count differences
+
+- 3–7.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Leaders, Cities etc.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../127_%E4%B8%83%E5%A4%A7%E5%A5%87%E8%BF%B9_7_Wonders.md).*

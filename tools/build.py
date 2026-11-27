@@ -1,7 +1,10 @@
 from common import *
+from detail import en_section
 from en_common import EN, TAG_EN, codes, inferred, crops_for, photos_for, fit_text_en, enfile, AREAS
 from urllib.parse import quote
-REPO='https://github.com/CodingGeoff/boardgame-shelf-rules'
+import os
+ANON=os.environ.get('ANON')=='1'
+REPO='' if ANON else 'https://github.com/CodingGeoff/boardgame-shelf-rules'
 PH={}
 for r,ids in {1:['155036','155038','155042'],2:['155046','155049','155053'],3:['155056','155102','155106'],
               4:['155109','155114','155121'],5:['155125','155128','155142','155145']}.items():
@@ -11,7 +14,8 @@ for g in G:
     i,name,mn,mx,best,t1,t2,age,w,tags,summ,teach,tips,pits=g
     fn=docfile(i)
     md=open(f'{BG}/{fn}').read()
-    md=re.sub(r'<!-- deep:(start|end) -->\n?','',md)
+    det='\n'.join(en_section(i,md))
+    md=re.sub(r'<!-- (deep|detail):(start|end) -->\n?','',md)
     docs[fn]=md
     title=re.search(r'^# (.+)$',md,flags=re.M).group(1).strip()
     locs=LOC.get(str(i),[])
@@ -21,7 +25,7 @@ for g in G:
     games.append(dict(id=i,name=name,title=title,mn=mn,mx=mx,bl=min(b),bh=max(b),t1=t1,t2=t2,age=age,w=w,
         tags=tags.split(),summ=summ,teach=teach,tips=tips,pits=pits,file=fn,loc=locs,photos=photos,
         unk=i in UNKNOWN_P,fit=fit_text(g),fitEn=fit_text_en(g),
-        en=dict(n=e['n'],s=e['s'],su=e['su'],t=e['t'],e=e['e'],tp=e['tp'],pf=e['pf']),enfile=enfile(i),
+        en=dict(n=e['n'],s=e['s'],su=e['su'],t=e['t'],e=e['e'],tp=e['tp'],pf=e['pf'],det=det),enfile=enfile(i),
         codes=codes(i),inf=inferred(i),crops=crops_for(i),ph=[p for p in photos_for(i) if p in PH]))
 # photos with captions
 allsec=[l['sec']+' '+l['row'] for v in LOC.values() for l in v]
@@ -46,5 +50,6 @@ docs['README.md']=readme
 data=json.dumps(dict(games=games,docs=docs,repo=REPO,photos=photos,crops=crops,tagEn=TAG_EN),ensure_ascii=False).replace('</','<\\/')
 tpl=open('/home/user/site/template.html').read()
 html=tpl.replace('__DATA__',data)
-open('/home/user/site/index.html','w').write(html)
+out=os.environ.get('OUT','/home/user/site/index.html')
+open(out,'w').write(html)
 print('ok',len(html))

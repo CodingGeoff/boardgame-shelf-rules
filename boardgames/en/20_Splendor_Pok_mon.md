@@ -58,6 +58,47 @@ Splendor with Pokémon: collect Poké Balls, catch Pokémon and evolve them into
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 精灵球系标记：5 种普通“球”，对应原作的 5 色宝石；**大师球（Master Ball）**对应原作的黄金，是万能的
+- [ ] 宝可梦卡：等级 1、2、3，再加上**稀有**和**传说**宝可梦
+- [ ] 进化相关卡牌、计分提示卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Rules mirror Splendor with Pokémon cards.
+2. I buy Charmander and later evolve it.
+3. Evolution needs the card's requirement and replaces it.
+4. Legendary Pokémon act like nobles.
+
+### Scoring example
+
+- Reach the target, finish the round.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../20_%E5%AE%9D%E5%8F%AF%E6%A2%A6%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3_Splendor_Pokemon.md).*

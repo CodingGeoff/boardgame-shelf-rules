@@ -59,6 +59,47 @@ Build an 18-level tower; take turns removing a block with one hand and placing i
 - **Good for:** big parties; families with young children; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 54 块木块（长度是宽度的 3 倍）、搭塔用的托架
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Build an 18-level tower.
+2. Remove one block with one hand.
+3. Place it on top.
+4. He topples the tower.
+5. Toppler loses.
+
+### Scoring example
+
+- Toppler loses.
+
+### Rules FAQ / rulings
+
+- **Q: Two hands?**  
+  A: One hand only.
+
+### Player-count differences
+
+- 1+.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../155_%E5%8F%A0%E5%8F%A0%E4%B9%90_Jenga.md).*

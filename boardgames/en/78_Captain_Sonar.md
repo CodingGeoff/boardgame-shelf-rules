@@ -61,6 +61,43 @@ Two submarines in real time: the captain calls headings, the radio operator trac
 - **Good for:** big parties; people who love deduction and guessing identities; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Captain: 'North'; first mate charges systems.
+2. The radio operator tracks the enemy.
+3. We fire a torpedo at C4 — hit.
+4. Real-time play.
+
+### Scoring example
+
+- 4 damage sinks the enemy.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–8.
+- Best with: 8 players.
+
+### Official variants & expansions
+
+- Turn-based mode.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../78_%E6%BD%9C%E8%88%AA%E8%B0%8D%E5%BD%B1_Captain_Sonar.md).*

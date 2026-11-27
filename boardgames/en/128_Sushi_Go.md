@@ -59,6 +59,56 @@ Draft sushi: pick one, pass the rest; score tempura, sashimi, dumplings, nigiri 
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 108 张卡牌：
+- [ ] 卡牌：张数
+- [ ] 天妇罗：14
+- [ ] 刺身：14
+- [ ] 饺子：14
+- [ ] 卷寿司（1 / 2 / 3 卷）：26
+- [ ] 握寿司：鸡蛋 / 三文鱼 / 鱿鱼：共 20
+- [ ] 芥末：6
+- [ ] 布丁：10
+- [ ] 筷子：4
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Pick 1 card, pass the rest.
+2. Two tempura: 5 pts.
+3. Wasabi then salmon nigiri: triple.
+4. Compare maki rolls.
+5. After 3 rounds pudding bonus.
+
+### Scoring example
+
+- Card scores + maki + pudding.
+
+### Rules FAQ / rulings
+
+- **Q: Chopsticks?**  
+  A: Take 2 later.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Sushi Go Party.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../128_%E5%AF%BF%E5%8F%B8%E7%8B%97_Sushi_Go.md).*

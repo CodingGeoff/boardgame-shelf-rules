@@ -7,6 +7,7 @@
 - 货架原图：[`photos/`](photos/)（16 张已全部上传）
 - **规则合集**：[`boardgames/ALL_合集.md`](boardgames/ALL_合集.md)（全部 155 篇合成一个文件；如果 GitHub 因为文件太大不渲染，可以看 [上册 01–78](boardgames/ALL_合集_上册_01-78.md) / [下册 79–155](boardgames/ALL_合集_下册_79-155.md)）
 - **智能选桌游网站**：<https://codinggeoff.github.io/boardgame-shelf-rules/>（[`index.html`](index.html)），支持中文和英文提问，可切换中英文界面
+- **详细补充 / Detailed supplement**：每篇中英文文档末尾新增“配件清点清单、完整示例局（演示）、计分示例、规则 FAQ / 易混淆点裁定、不同人数差异、官方变体与扩展”，中英同步（资料不足的 12 款给出首玩指引，不编造）
 - **English rules / 英文规则**：[`boardgames/en/`](boardgames/en/README.md)，155 篇完整英文版（另有 [Part 1](boardgames/en/ALL_EN_part1_01-78.md) / [Part 2](boardgames/en/ALL_EN_part2_79-155.md) 合集）
 - **高清照片（手机可打开）**：[`photos/web/`](photos/web/)（每张约 0.5–0.9 MB）；没有货架编号区域的特写在 [`photos/crops/`](photos/crops/)
 - 总索引：[`boardgames/README.md`](boardgames/README.md)，按货架位置列出每款游戏的数量和文档链接，文末附待确认清单和资料说明
@@ -38,4 +39,4 @@
 
 ## 重新生成
 
-`tools/` 中是生成脚本：元数据在 `tools/meta/m1–m5.py`，`deepen.py` 写入深入章节，`merge2.py` 生成合集，`build_en.py` 由 `tools/meta/en1–en4.py` 生成英文文档，`build.py` 加 `template.html` 生成 `index.html`。脚本里的路径是整理时的工作目录，使用时请按需修改。
+`tools/` 中是生成脚本：元数据在 `tools/meta/m1–m5.py`，`deepen.py` 写入深入章节，`merge2.py` 生成合集，`detail.py` 由 `tools/meta/d1–d4.py` 写入详细补充章节，`build_en.py` 由 `tools/meta/en1–en4.py` 生成英文文档，`build.py` 加 `template.html` 生成 `index.html`。脚本里的路径是整理时的工作目录，使用时请按需修改。

@@ -63,6 +63,49 @@ Moving towers trap wizards: get all your wizards into the Raven Castle and fill 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 4 片环形道路板、乌鸦城堡 ×1、高塔 ×9、6 色巫师棋子（共 24 个）、魔药瓶 36 片、移动牌 90 张、法术圆片 8 种、骰子、起始玩家标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. I play 'move wizard 3': exactly 3 spaces onto a tower top.
+2. I play 'move tower 2' onto an opponent's wizard, trapping it — I fill a potion.
+3. Next turn he moves the tower away, freeing his wizard.
+4. My wizard lands exactly on Ravenskeep and enters; my turn ends and the castle flies on.
+5. All potions are full before my last wizard enters; I win after the round finishes.
+
+### Scoring example
+
+- All wizards in Ravenskeep + all potions full; ties go to more full potions.
+
+### Rules FAQ / rulings
+
+- **Q: Does trapping my own wizard count?**  
+  A: Yes, any trapped wizard fills a potion.
+- **Q: Do spells cost victory progress?**  
+  A: Spells remove full bottles, so plan ahead.
+
+### Player-count differences
+
+- 2–6; more players means fewer wizards and potions each.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Solo mode; 2 random spells per game.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../42_%E9%A3%9E%E5%A1%94%E5%B7%AB%E5%B8%88_Wandering_Towers.md).*

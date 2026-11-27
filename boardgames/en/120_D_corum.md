@@ -58,6 +58,53 @@ Housemates cooperate to decorate: each has secret conditions and can only react 
 - **Good for:** friends who prefer working together; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 房屋板**：4 个房间，分别是卧室、浴室、厨房、客厅。每个房间有 4 个位置：
+- [ ] 墙漆颜色
+- [ ] 挂画
+- [ ] 灯具
+- [ ] 摆件
+- [ ] 物件有颜色和风格之分（现代、复古、古董等）。
+- [ ] 场景信封**：共 30 个，其中 2 人场景 20 个，组成带剧情的战役；3–4 人场景 10 个。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Secret objectives.
+2. I add a lamp to the living room.
+3. He reacts 'not happy'.
+4. I change the lamp colour.
+5. Satisfy everyone to win.
+
+### Scoring example
+
+- Cooperative.
+
+### Rules FAQ / rulings
+
+- **Q: Can I say my condition?**  
+  A: No, only react.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Scenario book.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../120_%E5%90%8C%E6%88%BF%E5%BC%82%E6%A2%A6_Decorum.md).*

@@ -63,6 +63,45 @@ A storyteller gives a clue for a picture; others add matching pictures; everyone
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The storyteller picks a card and gives a clue.
+2. Others pick their best-fitting card.
+3. Shuffle, reveal and vote.
+4. Some but not all guess right: storyteller and guessers +3; other card owners +1 per vote.
+5. All or none guess right: storyteller 0, others +2.
+
+### Scoring example
+
+- First to 30.
+
+### Rules FAQ / rulings
+
+- **Q: Does the storyteller vote?**  
+  A: No.
+
+### Player-count differences
+
+- 3–8.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- Many expansion decks.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../84_%E5%8F%AA%E8%A8%80%E7%89%87%E8%AF%AD_Dixit_%E5%90%AB%E6%98%9F%E7%89%A9%E8%AF%AD.md).*

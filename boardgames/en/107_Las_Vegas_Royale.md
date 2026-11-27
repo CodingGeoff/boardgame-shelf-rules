@@ -59,6 +59,45 @@ Roll 8 dice and place all of one number in that casino; most dice takes the top 
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each casino gets at least $50,000.
+2. I roll 8 dice and place all 4s on casino 4.
+3. A ties me there.
+4. Ties cancel; the next player takes the top bill.
+5. Most cash after 4 rounds.
+
+### Scoring example
+
+- Most cash after 4 rounds.
+
+### Rules FAQ / rulings
+
+- **Q: Ties?**  
+  A: All tied players get nothing.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Royale adds modules.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../107_%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9A%87%E5%AE%B6_Las_Vegas_Royale.md).*

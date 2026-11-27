@@ -60,6 +60,47 @@ Cooperative trick-taking with task cards and limited communication across many m
 - **Good for:** friends who prefer working together; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 40 张花色牌（粉、蓝、绿、黄 4 色，各 1–9）+ 4 张**潜艇牌**（王牌，1–4）、96 张任务卡（有难度值）、通讯标记、船长标记、遇险标记、日志本（50 个任务战役 + 自由模式）。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each mission sets task conditions.
+2. No talking about cards.
+3. I use a communication token to reveal one card.
+4. We play tricks and I win the required one.
+5. Mission done.
+
+### Scoring example
+
+- Cooperative; record attempts.
+
+### Rules FAQ / rulings
+
+- **Q: Can I say I have no yellow?**  
+  A: No.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- Difficulty-rated missions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../97_%E6%98%9F%E9%99%85%E6%8E%A2%E9%99%A9%E9%98%9F%E6%B7%B1%E6%B5%B7_The_Crew_Mission_Deep_Sea.md).*

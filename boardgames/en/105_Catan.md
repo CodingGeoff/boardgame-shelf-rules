@@ -60,6 +60,47 @@ Roll for wood, brick, sheep, wheat and ore; build roads, settlements and cities;
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 19 块地形板块（森林 4 → 木材、牧场 4 → 羊毛、田地 4 → 小麦、丘陵 3 → 砖块、山脉 3 → 矿石、沙漠 1）、数字圆片、海框与港口、资源卡、发展卡 25 张、每人 15 条道路 / 5 个村庄 / 4 座城市、强盗、“最长道路”和“最大骑士团”卡、2 颗骰子。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 2 settlements and 2 roads each.
+2. Roll 8: my settlement gains wheat.
+3. I build a road for wood and brick.
+4. A 7: discard over 7 cards; move the robber.
+5. First to 10 points wins.
+
+### Scoring example
+
+- Settlements 1, cities 2, longest road/largest army 2; first to 10.
+
+### Rules FAQ / rulings
+
+- **Q: Bank trades?**  
+  A: 4:1, ports 3:1 or 2:1.
+
+### Player-count differences
+
+- 3–4.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- Expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../105_%E5%8D%A1%E5%9D%A6%E5%B2%9B_%E4%B8%80%E7%99%BE%E6%B8%B8%E7%89%88_Catan.md).*

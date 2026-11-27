@@ -63,6 +63,52 @@ A party game of writing matching answers: the asker poses a question with 10+ an
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 每人一种颜色，包括：
+- [ ] 玩家指示物 4 个
+- [ ] 写字板 6 块
+- [ ] 白板笔 1 支
+- [ ] 共计 150 元的筹码
+- [ ] 牌架 1 个
+- [ ] 公共配件：版图、奖金碗、玻璃指示物、题库牌。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The asker poses a question with at least 10 answers.
+2. Everyone writes 6 different answers.
+3. I reveal 'A'; anyone with the same answer pairs.
+4. Pairs collect chips per rulebook.
+5. Most chips after 3 rounds.
+
+### Scoring example
+
+- Most chips after 3 rounds.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–8.
+- Best with: 4-6 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../126_%E7%8C%9C%E5%BF%83%E4%BF%B1%E4%B9%90%E9%83%A8.md).*

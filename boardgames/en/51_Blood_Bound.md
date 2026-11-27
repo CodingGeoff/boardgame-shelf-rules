@@ -62,6 +62,47 @@ Two vampire clans hunt each other's leader: the dagger holder attacks, the wound
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 20 张角色卡（两个血族 + 中立审判官）、参考卡、阵营和等级指示物、能力提示卡、一把纸板匕首
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone takes a character and shows their clue to the left neighbour.
+2. Holding the dagger, I attack; someone intervenes and takes the wound.
+3. The wounded player reveals one icon (clan or rank); revealing rank may trigger a power.
+4. The dagger passes to the wounded player.
+5. A 4th wound captures a player; reveal and check whether it was the enemy leader.
+
+### Scoring example
+
+- Capture the enemy leader to win; capturing the wrong player loses.
+
+### Rules FAQ / rulings
+
+- **Q: Is the clue always my clan?**  
+  A: Usually, but not always.
+
+### Player-count differences
+
+- 6–12; odd counts add the Inquisitor.
+- Best with: 8-10 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../51_Blood_Bound.md).*

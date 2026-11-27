@@ -60,6 +60,47 @@ Find three of a kind: ask anyone to reveal their lowest or highest card, or flip
 - **Good for:** people who love deduction and guessing identities; families with young children; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 36 张牌：1–12 各 3 张
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 4p: 7 cards each sorted, 8 face down in the centre.
+2. I ask B for his lowest: 5; flip a centre card: 5.
+3. I ask C for his highest: 5 — a trio.
+4. Next turn 9 then 3 appear; I stop and everything goes back.
+5. I collect the trio of 7s and win instantly.
+
+### Scoring example
+
+- 3 trios, or the 7s trio; spicy: two trios summing/differing to 7.
+
+### Rules FAQ / rulings
+
+- **Q: Can I reveal my own cards?**  
+  A: Yes, your lowest or highest.
+
+### Player-count differences
+
+- 3–6, hand/centre size by count.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Spicy variant; 2p rules in the Japanese edition.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../58_Nana_%E3%83%8A%E3%83%8A_Trio.md).*

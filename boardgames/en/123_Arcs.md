@@ -60,6 +60,45 @@ Sci-fi conflict: trick-taking drives your actions; declare ambitions and fight o
 - **Good for:** experienced gamers who want a deep think
 - **Not ideal for:** relaxed chatting sessions
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Lead a card for actions: 'Build 3'.
+2. Others follow, surpass or copy.
+3. I build a starport.
+4. I attack and seize resources.
+5. Score ambitions at chapter end.
+
+### Scoring example
+
+- Score ambitions; see rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: When to declare ambitions?**  
+  A: When leading, per rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Blighted Reach campaign.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../123_%E6%98%9F%E5%BC%A7%E8%88%AA%E8%AE%B0_ARCS.md).*

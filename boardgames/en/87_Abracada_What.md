@@ -60,6 +60,47 @@ See others' spell stones but not your own: announce spells to cast; wrong guesse
 - **Good for:** people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 游戏板（魔法塔）、36 块咒语石、30 个生命标记、计分棋、参考卡。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Five spell stones facing outward; you can't see your own.
+2. I guess I have spell 3 and cast it.
+3. Wrong guess costs me a life.
+4. A player hits 0 and the round ends.
+5. First to 8 points wins.
+
+### Scoring example
+
+- Score per rulebook.
+
+### Rules FAQ / rulings
+
+- **Q: Can I see my stones?**  
+  A: No.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../87_%E5%87%BA%E5%8C%85%E9%AD%94%E6%B3%95%E5%B8%88_Abracada_What.md).*

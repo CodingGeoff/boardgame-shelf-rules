@@ -56,6 +56,47 @@ Classic icebreaker: the chosen player picks truth or dare.
 - **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 真心话**卡（问题）、**大冒险**卡（任务），有些版本加入转盘、骰子或“惩罚卡 / 免罪卡”。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Agree boundaries first.
+2. Spin to pick a player.
+3. I choose truth and answer.
+4. Next chooses dare and completes it.
+5. Refusals take the agreed penalty.
+
+### Scoring example
+
+- Usually no score.
+
+### Rules FAQ / rulings
+
+- **Q: Can I refuse?**  
+  A: Yes, with the agreed penalty.
+
+### Player-count differences
+
+- 3+.
+- Best with: 5-8 players.
+
+### Official variants & expansions
+
+- Combine with other games.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../109_%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A4%A7%E5%86%92%E9%99%A9_Truth_or_Dare.md).*

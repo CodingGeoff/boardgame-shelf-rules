@@ -57,6 +57,48 @@ A board game 'auto-battler': draft cards into your deck, battle automatically on
 - **Good for:** big parties
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 75 种角色卡，分为 6 个主题套组，每局挑选套组使用。
+- [ ] A / B / C 三个卡堆，后面的更强。
+- [ ] 锦标赛计划卡、旗帜、奖杯、比赛场地垫。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draft cards each round.
+2. Matches: flip and compare power; the losing side flips.
+3. My strong card overtakes and his card goes to the bench.
+4. His bench fills: I win the trophy.
+5. After 7 rounds the top two play the final.
+
+### Scoring example
+
+- Win the final.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–8.
+- Best with: 4-8 players.
+
+### Official variants & expansions
+
+- Beach Cup expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../124_%E5%86%A0%E5%86%9B%E6%8C%91%E6%88%98%E8%80%85_Challengers.md).*

@@ -60,6 +60,49 @@ A sibling of 6 nimmt!: add cards to piles; if you cannot, take a whole pile; tak
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 110 张牌（1–100 数字牌 + 公牛牌；牌上印有牛头）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 10 cards each; a start pile shows 45.
+2. I play 52 (higher, within 10).
+3. Next player has nothing from 53–62, so he takes the pile into his hand and starts a new one.
+4. Someone later takes 5 cards (more than 3) and gains a bull card for extra plays.
+5. I empty my hand first; others lose points for bull heads in hand.
+
+### Scoring example
+
+- Bull heads left in hand are penalties; lowest total after several rounds wins.
+
+### Rules FAQ / rulings
+
+- **Q: Must I play if I can?**  
+  A: No, you may voluntarily take a pile.
+- **Q: What follows 100?**  
+  A: Numbers wrap: on 96 you may play 97–100 or 1–6.
+
+### Player-count differences
+
+- 2–7; more players means piles get taken faster.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Bull card usage differs between editions — check the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../41_%E8%B6%85%E7%BA%A7%E7%89%9B%E5%A4%B4%E7%8E%8B_11_nimmt_Take_11.md).*

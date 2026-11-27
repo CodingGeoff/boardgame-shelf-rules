@@ -60,6 +60,45 @@ The conductor chooses which track to run over; teams add innocents to their trac
 - **Good for:** big parties; talkative groups who enjoy acting and bluffing; icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 双面铁轨地图、列车长标记、500 张卡（善人卡 200、恶人卡 125、特性卡 175）、26 个死亡标记
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. This round's conductor; two sides build their tracks.
+2. Each side places innocents, then modifiers.
+3. Teams argue their case.
+4. The conductor picks a track; the saved side scores.
+
+### Scoring example
+
+- First to the target score.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 3–13.
+- Best with: 5-8 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../49_%E7%BB%88%E6%9E%81%E5%AE%A1%E5%88%A4%E7%94%B5%E8%BD%A6%E9%9A%BE%E9%A2%98_Trial_by_Trolley.md).*

@@ -62,6 +62,46 @@ Dexterity balance game: draw a coloured stick and place it so every colour only 
 - **Good for:** big parties; families with young children; short gaps — waiting for friends, before or after dinner; fans of speed and excitement
 - **Not ideal for:** people who want to think slowly and quietly
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 底座 1、支柱 1、托盘（鸦巢）1、彩色游戏签 36 支、抽签袋 1。酷黑版另有指示牌 46 张。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Draw a stick.
+2. Colours must touch matching colours.
+3. Two sticks fall — they're mine.
+4. I use a fallen stick next turn.
+5. Bag empty: fewest sticks wins (2Plus).
+
+### Scoring example
+
+- Check your edition's end condition.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2+.
+- Best with: 3-5 players.
+
+### Official variants & expansions
+
+- Black edition adds instruction cards.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../117_%E7%AD%BE%E7%AD%BE%E5%85%A5%E6%89%A3_Stick_Stack.md).*

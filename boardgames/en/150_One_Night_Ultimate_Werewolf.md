@@ -58,6 +58,45 @@ Werewolf in one night: cards = players + 3; roles act in order and swap cards; t
 - **Good for:** big parties; people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. One role each, three in the centre.
+2. Night: wolves, seer etc.
+3. Robber and troublemaker swap.
+4. Discuss and vote.
+5. Kill a wolf: village wins.
+
+### Scoring example
+
+- Village wins by killing a wolf.
+
+### Rules FAQ / rulings
+
+- **Q: No wolves in play?**  
+  A: Village wins if no one dies.
+
+### Player-count differences
+
+- 3–10.
+- Best with: 5-7 players.
+
+### Official variants & expansions
+
+- Daybreak etc.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../150_%E4%B8%80%E5%A4%9C%E7%BB%88%E6%9E%81%E7%8B%BC%E4%BA%BA_One_Night_Ultimate_Werewolf.md).*

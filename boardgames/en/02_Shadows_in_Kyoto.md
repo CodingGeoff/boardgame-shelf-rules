@@ -66,6 +66,54 @@ A two-player bakumatsu spy duel: six face-down agents with hidden values and rea
 - **Good for:** couples / head-to-head duels; talkative groups who enjoy acting and bluffing; people who love deduction and guessing identities
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 地图版（双方各有本阵营的起始地点和“领地”区域）
+- [ ] 每方 **6 个特工棋子**，背面数字和真假情报只有己方能看到，组成是：
+- [ ] 3**（真情报）、**3**（假情报）、**2**（真情报）、**2**（假情报）、**1**（假情报）、**0**（假情报）
+- [ ] 真情报棋子带红点标记
+- [ ] 每方 1 套地点卡（绿=民宅、黄=市场、红=神社、蓝=城郭，另有万用卡）和战术卡
+- [ ] 进阶：魅力卡、装备卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. My turn: I hold 4 location and 2 tactic cards. I play a red location card and move my middle agent one space diagonally forward onto red.
+2. Draw 1 from the location deck to refill to 6.
+3. Opponent's turn: his agent moves onto my agent's space — a conflict. I defend and reveal first: '2 (real)'; his is '3 (fake)'.
+4. Values are compared; the higher attacker wins and my agent is captured.
+5. He has captured one real intel; I now try to sneak my remaining real-intel agents into his HQ.
+
+### Scoring example
+
+- Win per the rulebook: typically capture 3 enemy real intel, get a real-intel agent into the enemy HQ, or leave the opponent with only fakes.
+
+### Rules FAQ / rulings
+
+- **Q: Can I move sideways or back?**  
+  A: No — only forward or diagonally forward onto the card's colour (wild cards excepted).
+- **Q: Are captured agents revealed?**  
+  A: Yes, conflicts reveal values — that's part of the information game.
+
+### Player-count differences
+
+- Strictly 2 players.
+- Best with: 2 players.
+
+### Official variants & expansions
+
+- For a first game use location cards only, then add tactic cards.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../02_%E4%BA%AC%E9%83%BD%E8%B0%8D%E5%BD%B1_Shadows_in_Kyoto.md).*

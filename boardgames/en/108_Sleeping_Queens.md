@@ -58,6 +58,53 @@ Wake the sleeping queens: kings wake, knights steal, potions put to sleep; arith
 - **Good for:** families with young children; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 12 张皇后**（每张 5–20 分，如玫瑰皇后、猫皇后、狗皇后、松饼皇后等）
+- [ ] 8 张国王**（叫醒皇后）
+- [ ] 4 张骑士**（偷别人的皇后）
+- [ ] 3 张龙**（挡骑士）
+- [ ] 4 张安眠药水**（让别人的皇后睡回去）
+- [ ] 3 张魔杖**（挡药水）
+- [ ] 5 张小丑**（翻牌碰运气）
+- [ ] 数字牌 1–10**（各 4 张）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 12 queens face down.
+2. I play a King to wake a queen.
+3. He plays a Knight; I block with a Dragon.
+4. I discard an equation 2+3=5.
+5. I reach the queen/points goal.
+
+### Scoring example
+
+- Win per rulebook queen/points goal.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../108_%E7%9D%A1%E7%9A%87%E5%90%8E_Sleeping_Queens.md).*

@@ -58,6 +58,46 @@ The island sinks; rescue your people to safety while sharks, sea serpents and wh
 - **Good for:** most board gamers
 - **Not ideal for:** players who dislike conflict or backstabbing
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 海洋版图、40 块岛屿板块（沙滩、森林、山地三层，背面有事件）、每人 10 个探险家（底部印 1–6 分，自己可以偷看，他人看不到）、小船、鲨鱼、鲸鱼、海蛇、生物骰。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Place people on the island.
+2. Move up to 3 points.
+3. Remove a tile: a shark appears.
+4. Roll the creature die: a whale capsizes a boat.
+5. Volcano erupts; score rescued people.
+
+### Scoring example
+
+- Sum rescued people's values.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- 5–6 player expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../101_%E9%80%83%E7%A6%BB%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF_Survive_Escape_from_Atlantis.md).*

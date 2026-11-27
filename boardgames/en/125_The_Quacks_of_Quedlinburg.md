@@ -60,6 +60,60 @@ Bag-building: draw ingredients into your pot; more than 7 in white cherry bombs 
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 药材 219 个
+- [ ] 占卜牌 24 张
+- [ ] 宝石（红宝石）20 颗
+- [ ] 药典 12 本
+- [ ] 水滴 8 个
+- [ ] 大釜 4 个
+- [ ] 药水瓶 4 个
+- [ ] 封印 4 个
+- [ ] 黑布袋 4 个
+- [ ] 计分指示物 4 个
+- [ ] 老鼠指示物 4 个
+- [ ] 计分板 1 张
+- [ ] 火苗 1 个
+- [ ] 骰子 1 颗
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each has a pot and bag.
+2. I draw ingredients; white cherry bombs total 3.
+3. Another white makes over 7 — explosion.
+4. Exploded: choose points or buying.
+5. After 9 rounds.
+
+### Scoring example
+
+- Most VP after 9 rounds.
+
+### Rules FAQ / rulings
+
+- **Q: Lose everything on explosion?**  
+  A: No, choose one benefit.
+
+### Player-count differences
+
+- 2–4.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- Herb Witches expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../125_%E6%B1%9F%E6%B9%96%E9%83%8E%E4%B8%AD_%E9%83%8E%E4%B8%AD%E9%97%AF%E6%B1%9F%E6%B9%96_Quacks_of_Quedlinburg.md).*

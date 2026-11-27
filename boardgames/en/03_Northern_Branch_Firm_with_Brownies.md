@@ -65,6 +65,48 @@ A 'straw to mansion' trading engine: turn resources into goods, upgrade to highe
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 约 90 张卡
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Refill each market row to 5. I hold 2 wood and 1 wheat.
+2. Player action: Produce — pay the 2 wood shown top-right and take a 'wooden table' worth 4.
+3. Brownie action: turn my 'mill' sideways once and use it to turn wheat into flour.
+4. End of turn: I hold a chicken, reveal it and take 1 Dung card (max 1 per turn).
+
+### Scoring example
+
+- Card values (top-left) add up; the first to reach the rulebook's target wins.
+
+### Rules FAQ / rulings
+
+- **Q: Can I trade one-for-one?**  
+  A: No — trades are one-for-many or many-for-one, by value.
+- **Q: How often can a building be used?**  
+  A: Once per turn each (turn it sideways).
+
+### Player-count differences
+
+- 2–4 players; at 4 the market is more contested.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- A standalone entry in its series; mixing rules per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../03_%E5%8C%97%E6%96%B9%E5%88%86%E9%83%A8_Northern_Branch_Firm_with_Brownies.md).*

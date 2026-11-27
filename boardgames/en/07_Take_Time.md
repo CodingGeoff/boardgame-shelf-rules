@@ -65,6 +65,51 @@ A silent cooperative campaign puzzle (Libellud): place 12 face-down sun/moon num
 - **Good for:** friends who prefer working together
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 24 张数字卡**：12 张太阳卡（白色，1–12）+ 12 张月亮卡（黑色，1–12）
+- [ ] 1 根时钟指针、3 个提示（Reminder）标记、3 个奖励（Bonus）标记
+- [ ] 10 个章节信封**，每个装 4 个“时钟”谜题和 1 张规则说明，共 **40 关**
+- [ ] 1 个“遗憾信封”（存放跳过的关卡）、1 个“重生信封”（全部通关后解锁）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Discussion (cards unseen): we agree 'small cards in the first sectors, bigger later'.
+2. Placement (silent): I hold sun 2, moon 11, sun 7 and put the 2 in sector 1.
+3. Teammates place 1 in sector 1, 3 in sector 2 … the last card, 12, in sector 6.
+4. Reveal sums: 5, 6, 6, 10, 15, 22 — never decreasing, none over 24: success!
+
+### Scoring example
+
+- No points — pass or fail; track retries per chapter if you like.
+
+### Rules FAQ / rulings
+
+- **Q: Are equal sums allowed?**  
+  A: Yes — non-decreasing is fine.
+- **Q: Can we mention our cards when discussing?**  
+  A: No — discussion happens before looking, and no codes.
+
+### Player-count differences
+
+- 2–4; card distribution varies.
+- Best with: 3 players.
+
+### Official variants & expansions
+
+- 10 chapters, 40 levels; a final Rebirth envelope.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../07_Take_Time.md).*

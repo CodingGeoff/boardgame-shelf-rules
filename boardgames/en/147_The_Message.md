@@ -58,6 +58,47 @@ A spy card game based on the film: intelligence cards are both hand and weapon; 
 - **Good for:** big parties; people who love deduction and guessing identities
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 身份牌 9 张、游戏牌 81 张、角色牌 18 张，共 108 张
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Pick a character; secret identity: Red, Blue or neutral.
+2. Draw 2; play function cards.
+3. Send an intel card; others accept or pass.
+4. A receives a 3rd black intel and dies.
+5. A Red player collects 3 red intel — Red wins.
+
+### Scoring example
+
+- 3 of your colour wins for your team; neutrals complete secret tasks.
+
+### Rules FAQ / rulings
+
+- **Q: Do intel cards in hand count?**  
+  A: No.
+
+### Player-count differences
+
+- 3–9.
+- Best with: 6-8 players.
+
+### Official variants & expansions
+
+- Expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../147_%E9%A3%8E%E5%A3%B0_The_Message.md).*

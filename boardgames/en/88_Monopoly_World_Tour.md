@@ -60,6 +60,47 @@ Roll around the board, buy cities, build and collect rent; chance cards add twis
 - **Good for:** icebreakers; newcomers and grandparents can learn it instantly
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 棋盘（格子是世界各地城市/地标）、纸币、地契卡、机会/命运类事件卡、房屋/酒店等建筑、棋子、骰子。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Everyone gets starting money.
+2. I roll 8 and buy an unowned city.
+3. He lands on it and pays rent.
+4. I complete a colour group and build.
+5. He goes bankrupt.
+
+### Scoring example
+
+- Last solvent player wins, or compare assets at a time limit.
+
+### Rules FAQ / rulings
+
+- **Q: If I decline?**  
+  A: Usually auctioned.
+
+### Player-count differences
+
+- About 2–6.
+- Best with: 4 players.
+
+### Official variants & expansions
+
+- Time-limit house rule.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../88_%E5%A4%A7%E5%AF%8C%E7%BF%81%E4%B8%96%E7%95%8C%E4%B9%8B%E6%97%85%E9%93%B6%E7%89%8C_Uncle_Wang.md).*

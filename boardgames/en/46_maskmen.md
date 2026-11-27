@@ -60,6 +60,47 @@ Ladder-climbing where wrestlers start with no rank order — strength is establi
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 60 张摔角手卡（6 种蒙面摔角手）、30 个强度标记、12 个分数指示物
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. A season starts with no ranking.
+2. The leader plays 2 Blue masks.
+3. Next plays 3 unranked Red masks (one more card), establishing Red > Blue.
+4. A later player beats it with 3 of a wrestler already ranked above Red; all pass, he leads.
+5. I go out first (+2), second +1, last holder −1.
+
+### Scoring example
+
+- +2 / +1 / −1 per season; 4 seasons with 3+, first to 3 season wins with 2.
+
+### Rules FAQ / rulings
+
+- **Q: Does the ranking carry over?**  
+  A: No, it resets every season.
+
+### Player-count differences
+
+- 2p uses a best-of format; more players means smaller hands.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../46_maskmen.md).*

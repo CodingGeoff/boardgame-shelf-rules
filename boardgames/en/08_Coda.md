@@ -61,6 +61,47 @@ Arrange black and white number tiles in ascending order as your code, then guess
 - **Good for:** people who love deduction and guessing identities; icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 26 块塑料立牌**：黑白各 13 块，每色有数字 **0–11** 共 12 块，外加 1 块“**—**”（横杠，即百搭 Joker）
+- [ ] 基础玩法只用 24 块数字牌，百搭在进阶玩法中加入
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Each player draws 4 (2–3p) or 3 (4p) tiles, sorted low to high; on ties black goes left.
+2. I draw a tile and guess his second tile is 'black 5' — correct, he reveals it.
+3. I may continue or stop; I guess his third is 'white 7' — wrong.
+4. On a miss I must reveal the tile I just drew in my own row.
+
+### Scoring example
+
+- Last player with hidden tiles wins.
+
+### Rules FAQ / rulings
+
+- **Q: Where does the joker go?**  
+  A: Anywhere in your row — great for bluffing.
+
+### Player-count differences
+
+- 2–4; 2 players is the most logical.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- House rules for streak bonuses exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../08_%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81_Da_Vinci_Code.md).*

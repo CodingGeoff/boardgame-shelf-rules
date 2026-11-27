@@ -61,6 +61,47 @@ A grim 19th-century inn: recruit, bribe and kill travellers, bury bodies and lau
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 旅客卡：农民、手艺人、贵族、宗教人士、军人，以及**警察**（宪兵）等，每张标有等级（1–4）和价值
+- [ ] 农民卡（作为起始雇员或共犯）、客房卡
+- [ ] 法郎（金钱）、钥匙标记、玩家板
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Action 1: bribe a traveller to become an accomplice (pay by discarding).
+2. Action 2: kill another traveller.
+3. Next turn bury the body in an annex and take its money.
+4. Police punish unburied bodies.
+
+### Scoring example
+
+- After two passes through the deck, richest wins.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 1–4.
+- Best with: 2-3 players.
+
+### Official variants & expansions
+
+- Carnival expansion.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../28_%E8%A1%80%E8%85%A5%E5%AE%A2%E6%A0%88_The_Bloody_Inn.md).*

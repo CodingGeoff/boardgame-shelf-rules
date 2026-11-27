@@ -60,6 +60,45 @@ A Wild West train robbery: everyone programmes action cards in turn, then they r
 - **Good for:** most board gamers
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 立体纸火车（车头 + 车厢数 = 玩家人数）、强盗棋子、警长、战利品（钱袋、宝石、保险箱）、每名玩家 10 张行动牌和 6 张子弹牌、角色卡、回合卡。
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. Schedule: play action cards in turn (some face down).
+2. Action: resolve in order — I'm punched into the next car first.
+3. On the roof, the marshal chases me.
+4. I grab a purse.
+
+### Scoring example
+
+- Richest wins; best gunslinger +$1000.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–6.
+- Best with: 5-6 players.
+
+### Official variants & expansions
+
+- Big Box includes expansions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../71_%E6%9F%AF%E5%B0%94%E7%89%B9%E5%BF%AB%E8%BD%A6%E5%A4%A7%E7%9B%92%E7%89%88_Colt_Express_Big_Box.md).*

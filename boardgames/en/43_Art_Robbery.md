@@ -63,6 +63,46 @@ Four heists: play number cards to take or steal loot, but whoever has the fewest
 - **Good for:** short gaps — waiting for friends, before or after dinner
 - **Not ideal for:** no obvious bad fit
 
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 55 张牌（36 张数字牌 0–5、6 张头目、6 张看门狗、7 张贪婪盗贼）、36 枚战利品圆片（四个收藏系列：素描、雕塑、古董、画作）、1 个看门狗棋子
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. The first collection is laid out; 5 cards each.
+2. I play a 3: take a value-3 loot from the centre, or steal one if none remain.
+3. He plays the Watchdog; when robbed he may hand over the dog instead.
+4. Someone takes the boss tile, kept only with a 4 or 5 of that set.
+5. When the centre empties, loot is stacked face down and safe; next collection.
+
+### Scoring example
+
+- After 4 raids, fewest alibis is arrested; others total loot, bosses 5 each.
+
+### Rules FAQ / rulings
+
+- See “Common mistakes” above; anything else — check the rulebook.
+
+### Player-count differences
+
+- 2–5.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../43_Art_Robbery.md).*
