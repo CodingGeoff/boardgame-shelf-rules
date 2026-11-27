@@ -1,9 +1,9 @@
 # Board Game Shelf — English Rules Index
 
-155 English rules summaries, one per Chinese doc. Web app (supports English questions): https://codinggeoff.github.io/boardgame-shelf-rules/
+166 English rules summaries, one per Chinese doc. Web app (supports English questions): https://codinggeoff.github.io/boardgame-shelf-rules/
 
 - Part 1 in one file: [ALL_EN_part1_01-78.md](ALL_EN_part1_01-78.md)
-- Part 2 in one file: [ALL_EN_part2_79-155.md](ALL_EN_part2_79-155.md)
+- Part 2 in one file: [ALL_EN_part2_79-166.md](ALL_EN_part2_79-166.md)
 - Chinese index: [../README.md](../README.md)
 
 “Shelf” shows the code on the shelf label. Games without a visible code show an *inferred* area — use the HD photos and close-up crops linked in each doc.
@@ -165,3 +165,14 @@
 | 153 | [Guess Who?](153_Guess_Who.md) | 猜猜我是谁 Guess Who | 2 | 10–20 | ● | F5 |
 | 154 | [Aeroplane Chess](154_Aeroplane_Chess.md) | 飞行棋 | 2–4 | 20–40 | ● | F5 |
 | 155 | [Jenga](155_Jenga.md) | 叠叠乐 Jenga | 1–8 | 5–15 | ● | F5 |
+| 156 | [Blood on the Clocktower](156_Blood_on_the_Clocktower.md) | 血染钟楼 Blood on the Clocktower | 5–20 | 60–120 | ●●● | ≈  *(inferred)* |
+| 157 | [Blade's Rose](157_Blade_s_Rose.md) | 血与刃的白蔷薇 Blade's Rose | 5–10 | 20–40 | ●● | ≈  *(inferred)* |
+| 158 | [I'm the Boss 3: Merger Tycoon](158_I_m_the_Boss_3_Merger_Tycoon.md) | 我是大老板3：并购大亨 | ? | ? | ●● | ≈ shelf behind the wire grid, upper level, left stack *(inferred)* |
+| 159 | [Betrayal at House on the Hill 3rd Edition](159_Betrayal_at_House_on_the_Hill_3rd_Editio.md) | 林中小屋第三版 Betrayal at House on the Hill 3rd | 3–6 | 60–90 | ●●● | ≈ shelf behind the wire grid, upper level, left stack *(inferred)* |
+| 160 | [Warhammer Quest: The Adventure Card Game](160_Warhammer_Quest_The_Adventure_Card_Game.md) | 战锤任务：冒险卡牌游戏 Warhammer Quest ACG | 1–4 | 30–60 | ●●● | ≈ shelf behind the wire grid, upper level, left stack *(inferred)* |
+| 161 | [Cthulhu's Pact (K's Board Games 7)](161_Cthulhu_s_Pact.md) | 克苏鲁之约（K的桌游7） | 4–6 | 15–20 | ● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
+| 162 | [Apocalypse Revelation (zombie survival co-op)](162_Apocalypse_Revelation.md) | 末日启示录（僵尸生存合作） | ? | ? | ●●● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
+| 163 | [Magic Awakening (K's Board Games)](163_Magic_Awakening.md) | 魔法觉醒吧（K的桌游） | ? | ? | ● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
+| 164 | [Legendary Encounters: Alien](164_Legendary_Encounters_Alien.md) | 传奇冲突：异形 Legendary Encounters: Alien | 1–5 | 45–60 | ●●● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
+| 165 | [MOMONEY](165_MOMONEY.md) | MOMONEY（大富翁类电子银行版） | ? | ? | ●● | ≈ shelf behind the wire grid, upper level, top right *(inferred)* |
+| 166 | [Age of War](166_Age_of_War.md) | Age of War 战国时代 | 2–6 | 15–30 | ● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |

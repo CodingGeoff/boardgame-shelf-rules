@@ -7,7 +7,7 @@ ANON=os.environ.get('ANON')=='1'
 REPO='' if ANON else 'https://github.com/CodingGeoff/boardgame-shelf-rules'
 PH={}
 for r,ids in {1:['155036','155038','155042'],2:['155046','155049','155053'],3:['155056','155102','155106'],
-              4:['155109','155114','155121'],5:['155125','155128','155142','155145']}.items():
+              4:['155109','155114','155121'],5:['155125','155128','155142','155145'],6:['204000']}.items():
     for p in ids: PH[p]=f'photos/round{r}/IMG20261127{p}.jpg'
 games=[];docs={}
 for g in G:
@@ -19,7 +19,7 @@ for g in G:
     docs[fn]=md
     title=re.search(r'^# (.+)$',md,flags=re.M).group(1).strip()
     locs=LOC.get(str(i),[])
-    photos=sorted({PH[p] for l in locs for p in re.findall(r'1551\d\d|1550\d\d',l['sec']+l['row']) if p in PH})
+    photos=sorted({PH[p] for l in locs for p in re.findall(r'1551\d\d|1550\d\d|204000',l['sec']+l['row']) if p in PH})
     b=[int(x) for x in re.findall(r'\d+',best)]
     e=EN[i]
     games.append(dict(id=i,name=name,title=title,mn=mn,mx=mx,bl=min(b),bh=max(b),t1=t1,t2=t2,age=age,w=w,
@@ -39,7 +39,7 @@ for p in sorted(PH):
     photos.append(dict(id=p,orig=PH[p],zh=zh,en=en))
 crops=json.load(open('/home/user/site/crops.json'))
 CAPEN={'c1':'Photo 155049 upper level (HacKClaD, Wanted and Recruit)','c2':'Photo 155049 small-box pile (boxes labelled B2)','c3':'Photo 155046 top card bins',
- 'c4':'Photo 155053 big boxes on top','c5':'Photo 155102 big-box stack on top of D/E','c6':'Photo 155114 big-box stack on top','c7':'Photo 155121 big-box stack on top','c8':'Photo 155142 glass bookcase, upper shelf (K\'s Game)'}
+ 'c4':'Photo 155053 big boxes on top','c5':'Photo 155102 big-box stack on top of D/E','c6':'Photo 155114 big-box stack on top','c7':'Photo 155121 big-box stack on top','c8':'Photo 155142 glass bookcase, upper shelf (K\'s Game)','c9':'Photo 204000 upper level, left stack (Carcassonne, I\'m the Boss 3, Betrayal 3rd ed., Warhammer Quest)','c10':'Photo 204000 upper level, middle (Cthulhu\'s Pact, Sleeping Queens, Salem, Legendary Encounters, Age of War)','c11':'Photo 204000 upper level, top right (MOMONEY, Millions of Dollars)'}
 for c in crops:
     k=c['file'].split('/')[-1].split('_')[0]
     c['capEn']=CAPEN[k]

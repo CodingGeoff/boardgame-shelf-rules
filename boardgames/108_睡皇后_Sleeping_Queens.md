@@ -2,6 +2,7 @@
 > 🌐 English version: [en/108_Sleeping_Queens.md](en/108_Sleeping_Queens.md)
 
 > 货架位置：照片 155056 C3/C4 层，4 盒（橙色盒）
+> 另有 5 盒：照片 204000 铁网后货架·上层中部左侧一摞（橙色小盒）
 
 ## 基本信息
 | 项目 | 内容 |

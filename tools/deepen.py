@@ -25,7 +25,8 @@ for g in G:
     sec+=['','### 适合 / 不适合','',f'- 👍 **适合**：{"；".join(good)}',f'- 👎 **不太适合**：{"；".join(bad)}','',E,'']
     block='\n'.join(sec)
     m=re.search(r'^## 参考来源',t,flags=re.M)
-    if m: t=t[:m.start()]+block+'\n'+t[m.start():]
+    if m: t=t[:m.start()].rstrip('\n')+'\n\n\n'+block+'\n'+t[m.start():]
     else: t=t.rstrip()+'\n\n'+block
+    t=re.sub(r'\n{4,}','\n\n\n',t)
     open(p,'w').write(t)
 print('deepened',len(G))

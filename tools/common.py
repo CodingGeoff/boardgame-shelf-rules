@@ -1,7 +1,7 @@
 import sys,glob,os,json,re
 sys.path.insert(0,'/home/user/site/meta')
-import m1,m2,m3,m4,m5
-G=m1.G+m2.G+m3.G+m4.G+m5.G
+import m1,m2,m3,m4,m5,m6
+G=m1.G+m2.G+m3.G+m4.G+m5.G+m6.G
 G.sort(key=lambda g:g[0])
 BG='/home/user/boardgames'
 def docfile(i):
@@ -9,7 +9,7 @@ def docfile(i):
     return os.path.basename(f[0])
 LOC=json.load(open('/home/user/site/loc.json'))
 WL={1:'入门',2:'轻度',3:'中度',4:'中重度',5:'重度'}
-UNKNOWN_P={29,89,93,94,113,114,115,141,142,143,144,145,152}
+UNKNOWN_P={29,89,93,94,113,114,115,141,142,143,144,145,152,158,162,163,165}
 def fit_text(g):
     i,name,mn,mx,best,t1,t2,age,w,tags,*_=g
     tg=set(tags.split())

@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.join(HERE, 'meta'))
 sys.path.insert(0, HERE)
 
 D = {}
-for m in ('d1', 'd2', 'd3', 'd4'):
+for m in ('d1', 'd2', 'd3', 'd4', 'd5'):
     D.update(__import__(m).D)
 
 S, E = '<!-- detail:start -->', '<!-- detail:end -->'
@@ -139,13 +139,14 @@ def apply_zh():
             s = s[:k].rstrip('\n') + '\n\n' + sec + '\n' + s[k:]
         else:
             s = s.rstrip('\n') + '\n\n' + sec + '\n'
+        s = re.sub(r'\n{4,}', '\n\n\n', s)
         open(p, 'w').write(s)
         n += 1
     print('detail zh', n, 'ids with data', sum(1 for v in D.values() if v), 'pending', sorted(k for k, v in D.items() if v is None))
 
 
 if __name__ == '__main__':
-    missing = [i for i in range(1, 156) if i not in D]
+    missing = [i for i in range(1, 167) if i not in D]
     assert not missing, missing
     for i, v in D.items():
         if v is not None:

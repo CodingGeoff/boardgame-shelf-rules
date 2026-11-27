@@ -15,9 +15,10 @@
 ## Where is it on the shelf?
 
 - **Shelf code:** E4 / F2 / F3
-- **Photos:** [155102](../../photos/web/IMG20261127155102.jpg), [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg)
+- **Photos:** [155102](../../photos/web/IMG20261127155102.jpg), [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 第三轮照片 155102：E4 层 → 卡卡颂 Carcassonne
 - Original note (Chinese): 照片 155114 / 155121：F2 / F3 行 → ★ 现代艺术、★ 山屋惊魂、★ 出包魔法师、★ 小小城镇、★ 只言片语 ×2、★ 卡卡颂 ×2+、★ 拉斯维加斯 豪华版 + 普通版
+- Original note (Chinese): 照片 204000：上层左侧（铁网后货架） → 最上面 蓝色 Carcassonne 盒
 
 ## Overview
 

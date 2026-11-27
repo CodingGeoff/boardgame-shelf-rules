@@ -1,4 +1,4 @@
-# All English Rules — Part 2 (79–155)
+# All English Rules — Part 2 (79–166)
 
 - [Brass: Birmingham](#g79)
 - [Night of the Ninja](#g80)
@@ -77,6 +77,17 @@
 - [Guess Who?](#g153)
 - [Aeroplane Chess](#g154)
 - [Jenga](#g155)
+- [Blood on the Clocktower](#g156)
+- [Blade's Rose](#g157)
+- [I'm the Boss 3: Merger Tycoon](#g158)
+- [Betrayal at House on the Hill 3rd Edition](#g159)
+- [Warhammer Quest: The Adventure Card Game](#g160)
+- [Cthulhu's Pact (K's Board Games 7)](#g161)
+- [Apocalypse Revelation (zombie survival co-op)](#g162)
+- [Magic Awakening (K's Board Games)](#g163)
+- [Legendary Encounters: Alien](#g164)
+- [MOMONEY](#g165)
+- [Age of War](#g166)
 
 <a id="g79"></a>
 
@@ -2596,9 +2607,10 @@ Before you start:
 ## Where is it on the shelf?
 
 - **Shelf code:** E4 / F2 / F3
-- **Photos:** [155102](../../photos/web/IMG20261127155102.jpg), [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg)
+- **Photos:** [155102](../../photos/web/IMG20261127155102.jpg), [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 第三轮照片 155102：E4 层 → 卡卡颂 Carcassonne
 - Original note (Chinese): 照片 155114 / 155121：F2 / F3 行 → ★ 现代艺术、★ 山屋惊魂、★ 出包魔法师、★ 小小城镇、★ 只言片语 ×2、★ 卡卡颂 ×2+、★ 拉斯维加斯 豪华版 + 普通版
+- Original note (Chinese): 照片 204000：上层左侧（铁网后货架） → 最上面 蓝色 Carcassonne 盒
 
 ## Overview
 
@@ -3250,8 +3262,9 @@ Before you start:
 ## Where is it on the shelf?
 
 - **Shelf code:** B4 / C3 / C4
-- **Photos:** [155056](../../photos/web/IMG20261127155056.jpg)
+- **Photos:** [155056](../../photos/web/IMG20261127155056.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 第三轮照片 155056：C3 / C4 层、B4 左下角、右侧 → 睡皇后 Sleeping Queens
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 左侧 橙色小盒一摞
 
 ## Overview
 
@@ -5649,9 +5662,10 @@ Before you start:
 ## Where is it on the shelf?
 
 - **Shelf code:** F2 / F3 / G3
-- **Photos:** [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg), [155125](../../photos/web/IMG20261127155125.jpg)
+- **Photos:** [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg), [155125](../../photos/web/IMG20261127155125.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 照片 155114 / 155121：F2 / F3 行 → 女巫镇 Salem 1692
 - Original note (Chinese): 照片 155125：F3 / G3 层（与第四轮重叠） → ★ 江湖郎中、★ 猜心俱乐部、★ 七大奇迹、★ 季节传说、★ 寿司狗（Gamewright 红色竹帘盒）、★ 奶酪大盗 ×2+、★ 女巫镇 ×4、★ 无间风云 ×3、★ 脑洞量表（青绿色盒）
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 中间 CLASSICS 女巫镇
 
 ## Overview
 
@@ -7562,8 +7576,9 @@ Before you start:
 ## Where is it on the shelf?
 
 - **Shelf code:** F4 / G4
-- **Photos:** [155125](../../photos/web/IMG20261127155125.jpg), [155128](../../photos/web/IMG20261127155128.jpg)
+- **Photos:** [155125](../../photos/web/IMG20261127155125.jpg), [155128](../../photos/web/IMG20261127155128.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 照片 155125 / 155128：F4 / G4 层 → 百万美金 Millions of Dollars
+- Original note (Chinese): 照片 204000：上层右侧（铁网后货架） → 铝箱右侧小盒堆 MILLIONS of dollars
 
 ## Overview
 
@@ -8401,4 +8416,1286 @@ Before you start:
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../155_%E5%8F%A0%E5%8F%A0%E4%B9%90_Jenga.md).*
+
+
+<a id="g156"></a>
+
+# Blood on the Clocktower
+
+> Chinese name: **血染钟楼 Blood on the Clocktower** · Doc #156 · [中文原文 / Chinese doc](../156_%E8%A1%80%E6%9F%93%E9%92%9F%E6%A5%BC_Blood_on_the_Clocktower.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/156)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 5–20 (best: 8-12) |
+| Play time | 60–120 min |
+| Age | 15+ |
+| Complexity | ●●●○○ Medium (3/5) |
+| Tags | social deduction, hidden role, teams, deduction, party, talky, no elimination |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area:  *(inferred)*
+- Original note (Chinese): 用户补充（不在照片中） → 位置待确认（请在店内询问）
+
+## Overview
+
+Large social deduction game run by a Storyteller: good players hunt the Demon; every role is unique, the dead stay in the game with one ghost vote, and drunk or poisoned players may get false information.
+
+## Setup
+
+1. The Storyteller picks a script (Trouble Brewing for beginners, 5–15 players) and builds the character mix by player count (e.g. 7 players: 5 Townsfolk, 0 Outsiders, 1 Minion, 1 Demon).
+2. Players sit in a circle and secretly draw unique character tokens; the Storyteller records seats and roles in the Grimoire.
+3. The Drunk is given a Townsfolk token and does not know they are the Drunk.
+
+## How to play
+
+1. First night: with 7+ players the Minions and Demon learn each other; the Demon learns 3 good characters not in play to bluff as; first-night characters receive information in order.
+2. Day: deaths are announced (roles stay hidden); open and private discussion.
+3. Nominations: only living players nominate, once per day each, and each player can be nominated once per day; votes of at least half the living players put someone on the block; a later nominee needs more votes to replace them; a tie means no execution.
+4. At most one execution per day; then night falls. Each later night the Demon kills and other characters act in order.
+
+## Game end & scoring
+
+- Good wins when the Demon dies (and no new Demon is created, e.g. by the Scarlet Woman).
+- Evil wins when only 2 players are alive and the Demon lives, or via special conditions such as the Saint being executed.
+- The dead win or lose with their team.
+
+## 5-minute teaching order
+
+1. **Goal first:** Good wins when the Demon dies (and no new Demon is created, e.g. by the Scarlet Woman).
+2. **What you do on a turn:** First night: with 7+ players the Minions and Demon learn each other; the Demon learns 3 good characters not in play to bluff as; first-night characters receive information in order.
+3. **Setup check:** The Storyteller picks a script (Trouble Brewing for beginners, 5–15 players) and builds the character mix by player count (e.g. 7 players: 5 Townsfolk, 0 Outsiders, 1 Minion, 1 Demon).
+4. **The one rule people forget:** Dead players cannot nominate and have only one ghost vote for the whole game.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Cross-check information: you might be poisoned or the Drunk.
+- Good players share information early; evil players prepare a bluff.
+- Do not go quiet after death — ghost votes often decide the final day.
+- Start new groups on Trouble Brewing.
+
+## Common mistakes
+
+- Dead players cannot nominate and have only one ghost vote for the whole game.
+- A tied vote executes no one.
+- You need a Storyteller who knows the rules well.
+
+## Good for / not for
+
+- **Good for:** big parties; talkative groups who enjoy acting and bluffing; people who love deduction and guessing identities
+- **Not ideal for:** players who dislike conflict or backstabbing
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 说书人用的魔典（Grimoire）和角色标记、提示标记
+- [ ] 镇广场（生命标记、幽灵票标记）
+- [ ] 角色表、夜晚行动顺序表、剧本册
+- [ ] 说明书
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 8 players (Trouble Brewing): 5 Townsfolk, 1 Outsider, 1 Minion, 1 Demon.
+2. First night: Minion and Demon meet (7+ players) and the Demon gets 3 bluffs; the Washerwoman learns one of seats 3 or 6 is the Empath.
+3. Day 1: seat 4 nominates seat 7; 5 hands (8 alive, 4 needed); seat 7 is executed — a Townsfolk.
+4. Night 2: the Imp kills seat 2; the Empath learns one evil neighbour.
+5. Day 3: cross-checked info points at seat 5; dead seat 7 spends the ghost vote; seat 5 is the Imp and is executed — good wins.
+
+### Scoring example
+
+- No points: good wins when the Demon dies; evil wins with 2 alive and the Demon alive; special conditions like the Saint or Mayor apply.
+
+### Rules FAQ / rulings
+
+- **Q: Can the dead vote?**  
+  A: Yes, once per game with their ghost vote; they cannot nominate.
+- **Q: What about a tie?**  
+  A: A tie means no execution that day.
+- **Q: Can the Storyteller lie?**  
+  A: Only when rules allow, e.g. to poisoned or drunk players.
+
+### Player-count differences
+
+- 5–6 players suit small scripts; Minions and Demon meet from 7 players; 10+ players add Minions; 8–12 is the sweet spot.
+- Best with: 8-12 players.
+
+### Official variants & expansions
+
+- Three base scripts (Trouble Brewing, Bad Moon Rising, Sects & Violets), teensy scripts, Travellers and many community scripts.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../156_%E8%A1%80%E6%9F%93%E9%92%9F%E6%A5%BC_Blood_on_the_Clocktower.md).*
+
+
+<a id="g157"></a>
+
+# Blade's Rose
+
+> Chinese name: **血与刃的白蔷薇 Blade's Rose** · Doc #157 · [中文原文 / Chinese doc](../157_%E8%A1%80%E4%B8%8E%E5%88%83%E7%9A%84%E7%99%BD%E8%94%B7%E8%96%87_Blades_Rose.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/157)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 5–10 (best: 7-9) |
+| Play time | 20–40 min |
+| Age | 8+ |
+| Complexity | ●●○○○ Light (2/5) |
+| Tags | hidden teams, deduction, teams, party, quick |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area:  *(inferred)*
+- Original note (Chinese): 用户补充（不在照片中） → 位置待确认（请在店内询问）
+
+## Overview
+
+Everyone holds 3 role cards — any red card makes you a Blade. Each round players secretly add cards to the ritual; if a blade is revealed, the white cards are killed; the White Rose revealed with a blade means instant Blade victory.
+
+## Setup
+
+1. Use the player board and role cards for the player count; deal 3 role cards to each player and set centre cards per the rules.
+2. Hand out the White Crystal spell cards as the rulebook says.
+3. Night: eye-icon roles (White Rose, Bishop, Twin Blade, Great Blade) wake in order; the Twin Blade may swap the Ghost with the centre Twin Blade.
+
+## How to play
+
+1. The coin holder passes the gold coin to a player who still has crystals; that player reveals and resolves one crystal.
+2. From the coin holder, each player in order may play one role card face down (or pass).
+3. Shuffle the played cards and reveal; discard any Ghost.
+4. If any blade is revealed, all revealed white cards go to the kill area; otherwise they go to the sacrifice area.
+
+## Game end & scoring
+
+- White Rose revealed together with a blade: the Blades win instantly.
+- White wins if the White Rose has been played safely and sacrifices reach the board threshold before the final round.
+- Blades win on reaching the kill threshold, or when the final round ends without a White victory.
+
+## 5-minute teaching order
+
+1. **Goal first:** White Rose revealed together with a blade: the Blades win instantly.
+2. **What you do on a turn:** The coin holder passes the gold coin to a player who still has crystals; that player reveals and resolves one crystal.
+3. **Setup check:** Use the player board and role cards for the player count; deal 3 role cards to each player and set centre cards per the rules.
+4. **The one rule people forget:** Your team depends on all 3 cards in hand.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- The White Rose should go in on a round that looks clean.
+- Passing is information too.
+- Blades can play white cards first to look innocent.
+
+## Common mistakes
+
+- Your team depends on all 3 cards in hand.
+- A revealed Ghost is simply discarded.
+- The sacrifice threshold must be reached before the final round.
+
+## Good for / not for
+
+- **Good for:** big parties; people who love deduction and guessing identities
+- **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 按人数使用的玩家版图（上面印着献祭和击杀的门槛）
+- [ ] 角色牌
+- [ ] 12 张白水晶魔法书技能卡
+- [ ] 1 枚金币（行动指示）
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 7 players, 3 cards each; Ming holds one red card, so he is a Blade.
+2. Night: the White Rose and Bishop wake; the Twin Blade swaps the Ghost with the centre Twin Blade.
+3. Round 1: the coin goes to Li, who resolves a crystal; 4 cards are played face down.
+4. Revealed: 3 white + 1 Ghost, no blade — 3 white cards go to sacrifice.
+5. Round 3: the White Rose comes out alongside a Great Blade — Blades win instantly.
+
+### Scoring example
+
+- Threshold-based: White needs the sacrifice threshold before the last round; Blades need the kill threshold or to survive to the end.
+
+### Rules FAQ / rulings
+
+- **Q: Two white and one red?**  
+  A: Blade — any red card makes you a Blade.
+- **Q: Does the Ghost cause kills?**  
+  A: No, it is discarded when revealed.
+
+### Player-count differences
+
+- 5–10 players with a board per count; 7–9 is best.
+- Best with: 7-9 players.
+
+### Official variants & expansions
+
+- A 2.0 edition adjusts some roles and spell cards.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../157_%E8%A1%80%E4%B8%8E%E5%88%83%E7%9A%84%E7%99%BD%E8%94%B7%E8%96%87_Blades_Rose.md).*
+
+
+<a id="g158"></a>
+
+# I'm the Boss 3: Merger Tycoon
+
+> Chinese name: **我是大老板3：并购大亨** · Doc #158 · [中文原文 / Chinese doc](../158_%E6%88%91%E6%98%AF%E5%A4%A7%E8%80%81%E6%9D%BF3_%E5%B9%B6%E8%B4%AD%E5%A4%A7%E4%BA%A8.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/158)
+
+> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | see box (best: 4-5) |
+| Play time | see box |
+| Age | see box |
+| Complexity | ●●○○○ Light (2/5) |
+| Tags | economic, negotiation, cards, stocks, data incomplete |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, left stack (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c9](../../photos/crops/c9_204000_left.jpg)
+- Original note (Chinese): 照片 204000：上层左侧（铁网后货架） → 卡卡颂下面 紫色盒
+
+## Overview
+
+Another card game in the Chinese "I'm the Boss" line: run companies, trade shares, mergers and shareholder dividends. Only a video rules explanation exists online — follow the rulebook.
+
+## Setup
+
+1. Set up per the rulebook (the video lists: setup, choosing the first player).
+
+## How to play
+
+1. Player actions as described in the rulebook.
+2. Company operations and mergers.
+3. Company bankruptcy and shareholder dividends; handling several mergers triggered at once.
+
+## Game end & scoring
+
+- Win per the rulebook (most money is likely, but check).
+
+## 5-minute teaching order
+
+1. **Goal first:** Win per the rulebook (most money is likely, but check).
+2. **What you do on a turn:** Player actions as described in the rulebook.
+3. **Setup check:** Set up per the rulebook (the video lists: setup, choosing the first player).
+4. **The one rule people forget:** It is a different game from I'm the Boss (doc 100); do not mix rules.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Play one open-handed practice round to walk through a merger payout.
+- Watch who is hoarding shares of the same company.
+
+## Common mistakes
+
+- It is a different game from I'm the Boss (doc 100); do not mix rules.
+- Do not use Acquire's numbers.
+
+## Good for / not for
+
+- **Good for:** talkative groups who enjoy acting and bluffing
+- **Not ideal for:** players who dislike conflict or backstabbing; (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example
+
+Public information is too limited for a reliable example. For a first game:
+
+1. Read the turn sequence and win conditions in the box rulebook;
+2. Play one open-handed practice round;
+3. Note any house rules on this page for next time.
+
+### Scoring example
+
+See the rulebook.
+
+### Rules FAQ
+
+- **Q: Are the rules online?** A: Very little public info; use the box rulebook.
+
+### Player counts
+
+See the box.
+
+### Variants & expansions
+
+See the rulebook.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../158_%E6%88%91%E6%98%AF%E5%A4%A7%E8%80%81%E6%9D%BF3_%E5%B9%B6%E8%B4%AD%E5%A4%A7%E4%BA%A8.md).*
+
+
+<a id="g159"></a>
+
+# Betrayal at House on the Hill 3rd Edition
+
+> Chinese name: **林中小屋第三版 Betrayal at House on the Hill 3rd** · Doc #159 · [中文原文 / Chinese doc](../159_%E6%9E%97%E4%B8%AD%E5%B0%8F%E5%B1%8B%E7%AC%AC%E4%B8%89%E7%89%88_Betrayal_at_House_on_the_Hill_3rd.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/159)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 3–6 (best: 4-5) |
+| Play time | 60–90 min |
+| Age | 12+ |
+| Complexity | ●●●○○ Medium (3/5) |
+| Tags | horror, exploration, traitor, semi-co-op, story, dice rolling |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, left stack (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c9](../../photos/crops/c9_204000_left.jpg)
+- Original note (Chinese): 照片 204000：上层左侧（铁网后货架） → 黑色 林中小屋 3rd EDITION 盒
+
+## Overview
+
+Explore a haunted house together; omens build up until the haunt starts, then a scenario reveals a traitor or special situation and each side follows secret goals. 50 haunts.
+
+## Setup
+
+1. Place the 3 starting tiles; shuffle the other room tiles.
+2. Each player takes a character and sets Might, Speed, Sanity and Knowledge to their start values.
+3. Separate Event, Item and Omen cards; choose a Scenario card (it decides which haunt and who the traitor is).
+
+## How to play
+
+1. Move up to your Speed; discovering a new room ends your turn immediately (3rd-edition rule).
+2. Room symbols: draw an Event, Item or Omen.
+3. Haunt roll: after each Omen, roll as many dice as Omens revealed; 5 or more starts the haunt; the last Omen always starts it.
+4. After the haunt: read the introduction and setup aloud, then traitor and heroes read their own secret goals separately.
+
+## Game end & scoring
+
+- The side that completes its haunt goal wins.
+- Monsters are usually only stunned, not killed, unless the haunt says otherwise.
+
+## 5-minute teaching order
+
+1. **Goal first:** The side that completes its haunt goal wins.
+2. **What you do on a turn:** Move up to your Speed; discovering a new room ends your turn immediately (3rd-edition rule).
+3. **Setup check:** Place the 3 starting tiles; shuffle the other room tiles.
+4. **The one rule people forget:** Draw cards only when a room is first revealed.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Collect items before the haunt.
+- Track omens to predict when the haunt arrives.
+- Heroes should split tasks quickly.
+
+## Common mistakes
+
+- Draw cards only when a room is first revealed.
+- No one can die before the haunt.
+- Stealing items is off by default in 3rd edition.
+
+## Good for / not for
+
+- **Good for:** most board gamers
+- **Not ideal for:** players who dislike conflict or backstabbing
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 说明书、《叛徒之书》和《幸存秘籍》两本鬼魂剧本书
+- [ ] 42 块房间板块 + 3 块起始板块（共 45 块）
+- [ ] 74 张卡牌（事件、物品、预兆）
+- [ ] 5 张剧本卡（Scenario）
+- [ ] 8 颗骰子（每面 0、1、2）
+- [ ] 6 块双面角色板、6 个角色模型和底座
+- [ ] 玩家参考卡、怪物参考卡、各种指示物
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 4 players start on the three starting tiles after choosing a Scenario card.
+2. Wang opens a door, reveals the Library, draws an item — turn over.
+3. Third omen: roll 3 dice for 2+2+1=5 — the haunt starts.
+4. The Scenario card gives the haunt and the traitor; everyone reads the intro aloud.
+5. The heroes complete the ritual from Secrets of Survival and win.
+
+### Scoring example
+
+- No points: whoever completes their haunt goal wins.
+
+### Rules FAQ / rulings
+
+- **Q: How is the haunt roll done?**  
+  A: Roll dice equal to omens revealed; 5+ starts the haunt.
+- **Q: Can you die before the haunt?**  
+  A: No.
+- **Q: Mix with 2nd edition?**  
+  A: Not recommended; rules and haunt books differ.
+
+### Player-count differences
+
+- 3–6 players; 4–5 is best.
+- Best with: 4-5 players.
+
+### Official variants & expansions
+
+- Expansion: The Werewolf's Journey: Blood on the Moon.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../159_%E6%9E%97%E4%B8%AD%E5%B0%8F%E5%B1%8B%E7%AC%AC%E4%B8%89%E7%89%88_Betrayal_at_House_on_the_Hill_3rd.md).*
+
+
+<a id="g160"></a>
+
+# Warhammer Quest: The Adventure Card Game
+
+> Chinese name: **战锤任务：冒险卡牌游戏 Warhammer Quest ACG** · Doc #160 · [中文原文 / Chinese doc](../160_%E6%88%98%E9%94%A4%E4%BB%BB%E5%8A%A1_Warhammer_Quest_Adventure_Card_Game.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/160)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 1–4 (best: 2-4) |
+| Play time | 30–60 min |
+| Age | 14+ |
+| Complexity | ●●●○○ Medium (3/5) |
+| Tags | co-op, dungeon, dice rolling, campaign, RPG |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, left stack (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c9](../../photos/crops/c9_204000_left.jpg)
+- Original note (Chinese): 照片 204000：上层左侧（铁网后货架） → 最下面 Warhammer Quest 棕色盒
+
+## Overview
+
+Fully co-operative dungeon card game: each hero has only four action cards — Explore, Rest, Aid and Attack — rolled with custom dice; explore locations, fight enemies and race the peril track across a five-quest campaign.
+
+## Setup
+
+1. Choose a quest; build location, enemy and loot decks per the quest sheet.
+2. Each player picks a hero (Ironbreaker, Warrior Priest, Bright Wizard, Waywatcher) with 4 action cards; fewer players means more hit points; solo usually runs 2 heroes.
+3. Place the peril token, choose a party leader, reveal the first location and spawn enemies.
+
+## How to play
+
+1. Hero phase: each hero performs 1 action — Explore (progress tokens), Rest (heal), Aid (give success tokens to another hero, max 2 per card) or Attack (damage an engaged enemy; ranged can hit shadows).
+2. Used action cards are exhausted; one action per hero readies all of them.
+3. Every action you take triggers a black die from each enemy engaged with you.
+4. Enemy phase, then location phase (resolve effects; travel when fully explored), then the peril token advances.
+
+## Game end & scoring
+
+- Complete the quest's final objective (e.g. defeat the nemesis) to win as a team.
+- Lose if all heroes are defeated or a quest failure condition triggers.
+- In campaign mode heroes level up between quests.
+
+## 5-minute teaching order
+
+1. **Goal first:** Complete the quest's final objective (e.g. defeat the nemesis) to win as a team.
+2. **What you do on a turn:** Hero phase: each hero performs 1 action — Explore (progress tokens), Rest (heal), Aid (give success tokens to another hero, max 2 per card) or Attack (damage an engaged enemy; ranged can hit shadows).
+3. **Setup check:** Choose a quest; build location, enemy and loot decks per the quest sheet.
+4. **The one rule people forget:** Each engaged enemy rolls a black die whenever you act.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Kill high-attack enemies before exploring.
+- Aid tokens on a teammate's key action are strong.
+- Plan your ready timing.
+
+## Common mistakes
+
+- Each engaged enemy rolls a black die whenever you act.
+- Max 2 success tokens per action card.
+- 3-player: first player acts twice; 2-player: each acts twice.
+
+## Good for / not for
+
+- **Good for:** friends who prefer working together
+- **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 4 名英雄：矮人碎铁者（Ironbreaker）、战斗祭司、光明巫师、木精灵守望者；每人 1 张英雄卡和 **4 张行动卡**
+- [ ] 白色英雄骰、黑色敌人骰
+- [ ] 任务表、地点牌、敌人牌、战利品、状态等卡牌
+- [ ] 进度指示物、成功指示物、伤害指示物、危险（peril）指示物、队长指示物
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 2 players, one hero each acting twice per round: Ironbreaker and Bright Wizard.
+2. The first location spawns 2 enemies; the Ironbreaker rolls 3 successes and kills a goblin.
+3. The Wizard explores for 2 progress; an engaged enemy's black die deals 1 damage.
+4. Fully explored — travel on, discarding normal enemies in the shadows.
+5. Defeat the nemesis at the final location: quest complete.
+
+### Scoring example
+
+- No points: complete the quest objective; progress carries over in a campaign.
+
+### Rules FAQ / rulings
+
+- **Q: All actions exhausted?**  
+  A: Each hero has one action that readies all cards.
+- **Q: How do criticals work?**  
+  A: Count a success and roll again, can chain.
+
+### Player-count differences
+
+- 1–4; solo runs 2 heroes; 4 players gives the best synergy.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Hero packs (e.g. Witch Hunter, Troll Slayer) and delve mode.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../160_%E6%88%98%E9%94%A4%E4%BB%BB%E5%8A%A1_Warhammer_Quest_Adventure_Card_Game.md).*
+
+
+<a id="g161"></a>
+
+# Cthulhu's Pact (K's Board Games 7)
+
+> Chinese name: **克苏鲁之约（K的桌游7）** · Doc #161 · [中文原文 / Chinese doc](../161_%E5%85%8B%E8%8B%8F%E9%B2%81%E4%B9%8B%E7%BA%A6_K%E7%9A%84%E6%A1%8C%E6%B8%B8.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/161)
+
+> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 4–6 (best: 5-6) |
+| Play time | 15–20 min |
+| Age | 12+ |
+| Complexity | ●○○○○ Very light (1/5) |
+| Tags | Cthulhu, cards, party, take-that, data incomplete |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, middle (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c10](../../photos/crops/c10_204000_mid.jpg)
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 紫黑色立盒 克苏鲁之约 AGREEMENT
+
+## Overview
+
+Seventh title in the K's Board Games line: a Cthulhu-themed scheming party card game where cultists plot during the ritual — only the most devout are favoured. 4–6 players, 15–20 minutes. Full written rules are not public.
+
+## Setup
+
+1. Read every card type aloud before the first game.
+
+## How to play
+
+1. Play per the rulebook; expect fast take-that style interaction.
+
+## Game end & scoring
+
+- Win per the rulebook.
+
+## 5-minute teaching order
+
+1. **Goal first:** Win per the rulebook.
+2. **What you do on a turn:** Play per the rulebook; expect fast take-that style interaction.
+3. **Setup check:** Read every card type aloud before the first game.
+4. **The one rule people forget:** Detailed rules not found online; follow the rulebook.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- More players means more chaos and laughs.
+- Watch who is targeting you.
+
+## Common mistakes
+
+- Detailed rules not found online; follow the rulebook.
+
+## Good for / not for
+
+- **Good for:** icebreakers; newcomers and grandparents can learn it instantly; short gaps — waiting for friends, before or after dinner
+- **Not ideal for:** players who dislike conflict or backstabbing; (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example
+
+Public information is too limited for a reliable example. For a first game:
+
+1. Read the turn sequence and win conditions in the box rulebook;
+2. Play one open-handed practice round;
+3. Note any house rules on this page for next time.
+
+### Scoring example
+
+See the rulebook.
+
+### Rules FAQ
+
+- **Q: Are the rules online?** A: Very little public info; use the box rulebook.
+
+### Player counts
+
+See the box.
+
+### Variants & expansions
+
+See the rulebook.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../161_%E5%85%8B%E8%8B%8F%E9%B2%81%E4%B9%8B%E7%BA%A6_K%E7%9A%84%E6%A1%8C%E6%B8%B8.md).*
+
+
+<a id="g162"></a>
+
+# Apocalypse Revelation (zombie survival co-op)
+
+> Chinese name: **末日启示录（僵尸生存合作）** · Doc #162 · [中文原文 / Chinese doc](../162_%E6%9C%AB%E6%97%A5%E5%90%AF%E7%A4%BA%E5%BD%95.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/162)
+
+> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | see box (best: 2-4) |
+| Play time | see box |
+| Age | see box |
+| Complexity | ●●●○○ Medium (3/5) |
+| Tags | co-op, survival, card-driven, exploration, horror |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, middle (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c10](../../photos/crops/c10_204000_mid.jpg)
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 下方 黑色盒（蘑菇云图标）
+
+## Overview
+
+Small-box American-style co-op: each character has a personal deck; each round roll for monster spawns, draw, take 4 actions (move, draw, play, card action, scavenge) and complete the scenario. An empty deck means death.
+
+## Setup
+
+1. Choose a scenario and lay out map tiles in a grid face down as it requires.
+2. Prepare scavenge and monster decks.
+3. Each player takes a character and its deck and draws 4 cards; set the hunger die to 1.
+
+## How to play
+
+1. Monster spawn: roll 2d6; every revealed tile whose number equals the sum spawns monsters.
+2. Draw 1 card from your own deck (hand limit 10).
+3. Take exactly 4 actions: move 1 tile (reveal unexplored tiles), draw, play a card (gear limit 4), take a card action, or scavenge.
+4. Resolve location effects; then engaged monsters attack you.
+
+## Game end & scoring
+
+- Complete the scenario objective to win together.
+- If a character dies (no health, or deck runs out) the game is normally lost.
+
+## 5-minute teaching order
+
+1. **Goal first:** Complete the scenario objective to win together.
+2. **What you do on a turn:** Monster spawn: roll 2d6; every revealed tile whose number equals the sum spawns monsters.
+3. **Setup check:** Choose a scenario and lay out map tiles in a grid face down as it requires.
+4. **The one rule people forget:** Exactly 4 actions per player.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Avoid tiles with frequently rolled numbers.
+- Draw to find weapons, but watch your deck size.
+- Combine play-a-card with a card action for combos.
+
+## Common mistakes
+
+- Exactly 4 actions per player.
+- An empty deck kills your character.
+- Stealth check: stealth minus the 2d6 modifier must reach the number of monster tokens.
+
+## Good for / not for
+
+- **Good for:** friends who prefer working together
+- **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 地图板块（右上角印数字，用来判定刷怪）
+- [ ] 角色牌和各角色专属牌库（如擅长肉搏的消防员、会治疗的外科医生、擅长搜索和设陷阱的机械师等）
+- [ ] 怪物牌库 / 怪物标记、拾荒牌库
+- [ ] 两颗六面大骰子、记录饥饿等级的小骰子
+- [ ] 剧本卡、规则书
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 2 players, scenario 1, map face down.
+2. Spawn: a 7 is rolled; every revealed 7 tile spawns.
+3. Firefighter: move, move (reveal), equip an axe, scavenge food.
+4. Surgeon heals a teammate and uses her special action.
+5. Monsters attack; in round 5 the supplies are collected — victory.
+
+### Scoring example
+
+- No points: complete the scenario; a death (including empty deck) loses.
+
+### Rules FAQ / rulings
+
+- **Q: Empty deck?**  
+  A: The character dies, usually losing the game.
+- **Q: Stealth check?**  
+  A: Stealth minus 2d6 must reach the number of monster tokens.
+
+### Player-count differences
+
+- Player count per the box.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- A dozen-plus scenarios and 4 monster decks.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../162_%E6%9C%AB%E6%97%A5%E5%90%AF%E7%A4%BA%E5%BD%95.md).*
+
+
+<a id="g163"></a>
+
+# Magic Awakening (K's Board Games)
+
+> Chinese name: **魔法觉醒吧（K的桌游）** · Doc #163 · [中文原文 / Chinese doc](../163_%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%90%A7_K%E7%9A%84%E6%A1%8C%E6%B8%B8.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/163)
+
+> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | see box (best: 5-6) |
+| Play time | see box |
+| Age | see box |
+| Complexity | ●○○○○ Very light (1/5) |
+| Tags | cards, party, data incomplete |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, middle (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c10](../../photos/crops/c10_204000_mid.jpg)
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 黑色盒 觉醒吧 Welcome to the Magic World
+
+## Overview
+
+Magic-themed party card game from the K's Board Games line (box top: "Welcome to the Magic World"). No written rules were found online.
+
+## Setup
+
+1. Read the whole rules sheet first.
+
+## How to play
+
+1. Play per the rulebook; check whether victory is individual or team-based.
+
+## Game end & scoring
+
+- Win per the rulebook.
+
+## 5-minute teaching order
+
+1. **Goal first:** Win per the rulebook.
+2. **What you do on a turn:** Play per the rulebook; check whether victory is individual or team-based.
+3. **Setup check:** Read the whole rules sheet first.
+4. **The one rule people forget:** Data incomplete — follow the rulebook.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- A quick filler for after dinner.
+
+## Common mistakes
+
+- Data incomplete — follow the rulebook.
+
+## Good for / not for
+
+- **Good for:** big parties; icebreakers; newcomers and grandparents can learn it instantly
+- **Not ideal for:** (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example
+
+Public information is too limited for a reliable example. For a first game:
+
+1. Read the turn sequence and win conditions in the box rulebook;
+2. Play one open-handed practice round;
+3. Note any house rules on this page for next time.
+
+### Scoring example
+
+See the rulebook.
+
+### Rules FAQ
+
+- **Q: Are the rules online?** A: Very little public info; use the box rulebook.
+
+### Player counts
+
+See the box.
+
+### Variants & expansions
+
+See the rulebook.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../163_%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%90%A7_K%E7%9A%84%E6%A1%8C%E6%B8%B8.md).*
+
+
+<a id="g164"></a>
+
+# Legendary Encounters: Alien
+
+> Chinese name: **传奇冲突：异形 Legendary Encounters: Alien** · Doc #164 · [中文原文 / Chinese doc](../164_%E4%BC%A0%E5%A5%87%E5%86%B2%E7%AA%81_%E5%BC%82%E5%BD%A2_Legendary_Encounters_Alien.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/164)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 1–5 (best: 2-4) |
+| Play time | 45–60 min |
+| Age | 17+ |
+| Complexity | ●●●○○ Medium (3/5) |
+| Tags | co-op, deck-building, sci-fi, horror, hidden role |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, middle (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c10](../../photos/crops/c10_204000_mid.jpg)
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 黑色长盒 傳奇衝突 異形卡牌構築遊戲
+
+## Overview
+
+Co-operative deck-builder: use Attack to scan and kill aliens advancing from the Hive, use Recruit to buy cards from the Barracks, and complete three film-based objectives. Facehuggers burst out after two turns.
+
+## Setup
+
+1. Build three objective mini-decks (9, 11 and 13 cards), each with one Drone per player.
+2. Shuffle the Barracks (4 characters × 14 cards) and reveal 5 in HQ.
+3. Each player shuffles 7 Specialists, 5 Grunts and 1 Role card and draws 6.
+
+## How to play
+
+1. Play cards for Attack and Recruit points and their effects.
+2. Scan face-down Hive cards in the Complex, or attack revealed aliens in the Combat Zone.
+3. Recruit from HQ (refill immediately).
+4. Hive phase: a new Hive card enters and pushes the others forward; Strike phase: aliens in the Combat Zone hit the active player. Discard and draw 6.
+
+## Game end & scoring
+
+- Win by completing all three objectives in order.
+- Lose if any player is killed (base rules) or another objective failure condition triggers.
+
+## 5-minute teaching order
+
+1. **Goal first:** Win by completing all three objectives in order.
+2. **What you do on a turn:** Play cards for Attack and Recruit points and their effects.
+3. **Setup check:** Build three objective mini-decks (9, 11 and 13 cards), each with one Drone per player.
+4. **The one rule people forget:** Facehuggers burst after 2 turns.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Scan before committing attacks.
+- Do not let the Combat Zone fill up.
+- Split roles between attackers and recruiters.
+
+## Common mistakes
+
+- Facehuggers burst after 2 turns.
+- Base rules: one death loses the game for everyone.
+- Gory theme, 17+.
+
+## Good for / not for
+
+- **Good for:** friends who prefer working together; people who love deduction and guessing identities
+- **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 起始牌：每人 7 张专员（Specialist）+ 5 张士兵（Grunt）+ 1 张角色（Role）牌
+- [ ] 兵营（Barracks）：4 个角色 × 14 张 = 56 张可招募的牌
+- [ ] 巢穴（Hive）牌库：异形、事件、抱脸虫等
+- [ ] 三个**目标**迷你牌堆（分别对应三部电影的剧情目标）
+- [ ] 游戏垫：5 个综合体（Complex）房间格、战斗区、指挥部（HQ）等
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 3 players, first-film objectives.
+2. Lin plays 3 Specialists for 3 Attack and 2 Recruit and scans the outer card: a Drone.
+3. She recruits a 2-cost card; HQ refills.
+4. Hive phase pushes the Drone into the Combat Zone; Strike deals 2 damage.
+5. The next player kills it; the team works through all three objectives.
+
+### Scoring example
+
+- No points: complete three objectives together.
+
+### Rules FAQ / rulings
+
+- **Q: When does a facehugger burst?**  
+  A: After 2 turns.
+- **Q: Someone dies?**  
+  A: Base: everyone loses; Player Aliens variant: they become an alien.
+
+### Player-count differences
+
+- 1–5; best at 2–4.
+- Best with: 2-4 players.
+
+### Official variants & expansions
+
+- Player Aliens and Hidden Agenda variants; expansions.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../164_%E4%BC%A0%E5%A5%87%E5%86%B2%E7%AA%81_%E5%BC%82%E5%BD%A2_Legendary_Encounters_Alien.md).*
+
+
+<a id="g165"></a>
+
+# MOMONEY
+
+> Chinese name: **MOMONEY（大富翁类电子银行版）** · Doc #165 · [中文原文 / Chinese doc](../165_MOMONEY_%E5%A4%A7%E5%AF%8C%E7%BF%81%E7%B1%BB.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/165)
+
+> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | see box (best: 3-5) |
+| Play time | see box |
+| Age | see box |
+| Complexity | ●●○○○ Light (2/5) |
+| Tags | economic, dice rolling, family, classic, data incomplete |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, top right (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c11](../../photos/crops/c11_204000_right.jpg)
+- Original note (Chinese): 照片 204000：上层右侧（铁网后货架） → 最上面 红色长盒 MOMONEY
+
+## Overview
+
+Chinese Monopoly-style game, electronic banking edition (card reader instead of paper money) with a dice tower: roll around the board, buy property, collect rent, build and bankrupt opponents. Rules follow common Monopoly practice; check the rulebook.
+
+## Setup
+
+1. Each player takes a token and starting money (loaded onto their bank card in the electronic version).
+2. The bank holds the property cards; check the card reader's batteries.
+
+## How to play
+
+1. Roll two dice and move.
+2. Unowned property: buy it (or auction per the rulebook); owned property: pay rent; complete colour sets to build houses and hotels.
+3. Chance / Community-style spaces: draw a card; pass Start: collect salary; jail per the rulebook.
+
+## Game end & scoring
+
+- Last player not bankrupt wins, or compare total assets at an agreed time limit.
+
+## 5-minute teaching order
+
+1. **Goal first:** Last player not bankrupt wins, or compare total assets at an agreed time limit.
+2. **What you do on a turn:** Roll two dice and move.
+3. **Setup check:** Each player takes a token and starting money (loaded onto their bank card in the electronic version).
+4. **The one rule people forget:** Card-reader payments are slow — both players should check the amount.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Build only after completing a colour set.
+- Agree a time limit.
+
+## Common mistakes
+
+- Card-reader payments are slow — both players should check the amount.
+- Exact rules depend on the box.
+
+## Good for / not for
+
+- **Good for:** most board gamers
+- **Not ideal for:** (rules data incomplete — read the rulebook first)
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+- [ ] No complete public component list — use the list in the box.
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example
+
+Public information is too limited for a reliable example. For a first game:
+
+1. Read the turn sequence and win conditions in the box rulebook;
+2. Play one open-handed practice round;
+3. Note any house rules on this page for next time.
+
+### Scoring example
+
+See the rulebook.
+
+### Rules FAQ
+
+- **Q: Are the rules online?** A: Very little public info; use the box rulebook.
+
+### Player counts
+
+See the box.
+
+### Variants & expansions
+
+See the rulebook.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../165_MOMONEY_%E5%A4%A7%E5%AF%8C%E7%BF%81%E7%B1%BB.md).*
+
+
+<a id="g166"></a>
+
+# Age of War
+
+> Chinese name: **Age of War 战国时代** · Doc #166 · [中文原文 / Chinese doc](../166_%E6%88%98%E5%9B%BD%E6%97%B6%E4%BB%A3_Age_of_War.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/166)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 2–6 (best: 3-4) |
+| Play time | 15–30 min |
+| Age | 14+ |
+| Complexity | ●○○○○ Very light (1/5) |
+| Tags | dice, push-your-luck, quick, set collection, family |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: shelf behind the wire grid, upper level, middle (no code) *(inferred)*
+- **Photos:** [204000](../../photos/web/IMG20261127204000.jpg)
+- **Close-up crops:** [c10](../../photos/crops/c10_204000_mid.jpg)
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 右上 小方盒 WAR（FFG 标志）
+
+## Overview
+
+Reiner Knizia's feudal-Japan dice game: roll 7 dice and fill one battle line on a castle card per roll; if you cannot, lose a die and reroll. Conquer castles, steal them, and unite clans for big points.
+
+## Setup
+
+1. Lay all 14 castle cards (6 clans) face up in the centre.
+2. Put the 7 dice nearby; choose a first player.
+
+## How to play
+
+1. Roll all 7 dice and choose one castle to attack (centre, or an opponent's unprotected castle).
+2. After each roll you must complete exactly one battle line with matching dice; then reroll the rest.
+3. If you cannot complete a line, set one die aside and reroll.
+4. Complete every line to take the card; run out of dice and the attack fails. Stealing needs the extra red daimyo line.
+
+## Game end & scoring
+
+- The game ends when the last centre castle is taken.
+- Score castles, or the higher clan value for each united clan (united clans cannot be stolen); highest total wins.
+
+## 5-minute teaching order
+
+1. **Goal first:** The game ends when the last centre castle is taken.
+2. **What you do on a turn:** Roll all 7 dice and choose one castle to attack (centre, or an opponent's unprotected castle).
+3. **Setup check:** Lay all 14 castle cards (6 clans) face up in the centre.
+4. **The one rule people forget:** One castle per turn.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Fill hard lines (cavalry, archers, daimyo) first and infantry last.
+- Finish clans before rivals steal from them.
+- Late game: steal or take a cheap centre castle?
+
+## Common mistakes
+
+- One castle per turn.
+- Infantry lines count total infantry; several dice can combine.
+- Only united clans are protected.
+
+## Good for / not for
+
+- **Good for:** icebreakers; newcomers and grandparents can learn it instantly
+- **Not ideal for:** no obvious bad fit
+
+## Detailed supplement: components, worked example, scoring, FAQ, player counts, variants
+
+> Written by the editor from the rules above as a walkthrough; numbers in the example are illustrative. The rulebook in the box always wins.
+
+### Component checklist
+
+From the Chinese doc (original wording):
+
+- [ ] 14 张城堡牌，分属 6 个家族：毛利、上杉、长宗我部、岛津、德川、织田（每家 1–4 座城）
+- [ ] 7 颗特制骰子，6 个面：**1 步兵、2 步兵、3 步兵、弓兵、骑兵、大名**
+- [ ] 规则单
+
+Before you start:
+- Count the components against the rulebook list; sort cards by type — a missing card can break the balance.
+- Check tokens, dice and score markers; coins or generic tokens can stand in for missing pieces.
+- Hand out reference cards before the first game to save rulebook time.
+
+### Worked example (illustrative)
+
+1. 3 players: Zhang rolls 7 dice and attacks Edo (Tokugawa).
+2. First roll: 2 cavalry fill the cavalry line.
+3. Rerolling 5 dice completes nothing — set one die aside.
+4. With 4 dice she rolls 3+2 infantry, completing the line and taking Edo.
+5. Later she unites all three Tokugawa castles, scoring the clan value; they cannot be stolen.
+
+### Scoring example
+
+- Sum castle values, or the higher clan value for united clans; highest wins.
+
+### Rules FAQ / rulings
+
+- **Q: How do infantry lines work?**  
+  A: Total infantry; several dice can combine.
+- **Q: Can I switch targets?**  
+  A: No, one castle per turn.
+
+### Player-count differences
+
+- 2–6; 3–4 is ideal; more players means more stealing.
+- Best with: 3-4 players.
+
+### Official variants & expansions
+
+- No expansions; kids can drop the daimyo line for stealing as a house rule.
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../166_%E6%88%98%E5%9B%BD%E6%97%B6%E4%BB%A3_Age_of_War.md).*
 

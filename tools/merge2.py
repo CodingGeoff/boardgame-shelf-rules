@@ -3,7 +3,7 @@ from urllib.parse import quote
 
 def build(SUB,TITLE,FN):
     out=[TITLE,'',
-    '> 由 `boardgames/` 下 155 篇单篇文档自动合并而成，每篇都包含原规则和“深入玩法”章节。单篇文档仍然保留，修改时请改单篇文档，再重新生成本合集。','',
+    '> 由 `boardgames/` 下 166 篇单篇文档自动合并而成，每篇都包含原规则和“深入玩法”章节。单篇文档仍然保留，修改时请改单篇文档，再重新生成本合集。','',
     '在线选游戏：仓库根目录的 `index.html`（智能匹配 SPA）。','',
     '## 速查总表','',
     '| # | 游戏 | 人数 | 推荐 | 时长 | 复杂度 | 位置 |','|---|---|---|---|---|---|---|']
@@ -30,6 +30,6 @@ def build(SUB,TITLE,FN):
     
     open(f'{BG}/{FN}','w').write('\n'.join(out)); print(FN,os.path.getsize(f'{BG}/{FN}'))
 
-build(G,'# 桌游规则合集（全部 155 篇）','ALL_合集.md')
+build(G,'# 桌游规则合集（全部 166 篇）','ALL_合集.md')
 build([g for g in G if g[0]<=78],'# 桌游规则合集·上册（01–78）','ALL_合集_上册_01-78.md')
-build([g for g in G if g[0]>78],'# 桌游规则合集·下册（79–155）','ALL_合集_下册_79-155.md')
+build([g for g in G if g[0]>78],'# 桌游规则合集·下册（79–166）','ALL_合集_下册_79-166.md')

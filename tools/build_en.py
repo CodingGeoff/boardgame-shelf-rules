@@ -91,7 +91,7 @@ for g in G:
 idx = ['# Board Game Shelf — English Rules Index', '',
        f'{len(G)} English rules summaries, one per Chinese doc. Web app (supports English questions): {PAGES}', '',
        '- Part 1 in one file: [ALL_EN_part1_01-78.md](ALL_EN_part1_01-78.md)',
-       '- Part 2 in one file: [ALL_EN_part2_79-155.md](ALL_EN_part2_79-155.md)',
+       '- Part 2 in one file: [ALL_EN_part2_79-166.md](ALL_EN_part2_79-166.md)',
        '- Chinese index: [../README.md](../README.md)', '',
        '“Shelf” shows the code on the shelf label. Games without a visible code show an *inferred* area — use the HD photos and close-up crops linked in each doc.', '',
        '| # | Game | 中文名 | Players | Minutes | Weight | Shelf |', '|---|---|---|---|---|---|---|', *rows, '']
@@ -110,7 +110,7 @@ def merged(lo, hi, title):
 
 
 open(f'{OUT}/ALL_EN_part1_01-78.md', 'w').write(merged(1, 78, 'All English Rules — Part 1 (01–78)'))
-open(f'{OUT}/ALL_EN_part2_79-155.md', 'w').write(merged(79, 155, 'All English Rules — Part 2 (79–155)'))
+open(f'{OUT}/ALL_EN_part2_79-166.md', 'w').write(merged(79, 166, 'All English Rules — Part 2 (79–166)'))
 
 # add English link line to each Chinese doc (idempotent)
 n = 0

@@ -230,7 +230,7 @@ footer{max-width:1240px;margin:20px auto 40px;padding:0 18px;color:var(--mute);f
 <div id="doc"><div class="dp"><div class="dh"><b id="dt"></b><span id="dlinks"></span><button class="x" id="dx" data-en="Close ✕">关闭 ✕</button></div><div class="db"><div id="dloc"></div><div class="tabs" id="dtabs"></div><div class="md" id="dmd"></div></div></div></div>
 <div id="lb"><div class="lbh"><span id="lbt"></span><button id="lbz" data-en="🔍 Zoom">🔍 放大</button><a id="lbo" target="_blank" data-en="Original ↗">原图 ↗</a><button id="lbx" data-en="Close ✕">关闭 ✕</button></div><div class="lbb" id="lbb"><img id="lbi" alt=""></div></div>
 
-<footer id="foot" data-en="Data: 155 rules docs under <code>boardgames/</code> (Chinese, with in-depth sections) plus English versions under <code>boardgames/en/</code>, and the README shelf index. Everything is embedded in this one file; photos load from <code>photos/</code>. Recommendations are a guide — the rulebook in the box wins.">数据来源：仓库 <code>boardgames/</code> 下的 155 篇中文规则文档（含“深入玩法”章节）、<code>boardgames/en/</code> 下的英文版和 README 货架索引。页面内容都内嵌在这个文件里，照片从 <code>photos/</code> 加载。推荐结果只是参考，以盒内说明书为准。</footer>
+<footer id="foot" data-en="Data: 166 rules docs under <code>boardgames/</code> (Chinese, with in-depth sections) plus English versions under <code>boardgames/en/</code>, and the README shelf index. Everything is embedded in this one file; photos load from <code>photos/</code>. Recommendations are a guide — the rulebook in the box wins.">数据来源：仓库 <code>boardgames/</code> 下的 166 篇中文规则文档（含“深入玩法”章节）、<code>boardgames/en/</code> 下的英文版和 README 货架索引。页面内容都内嵌在这个文件里，照片从 <code>photos/</code> 加载。推荐结果只是参考，以盒内说明书为准。</footer>
 
 <script>
 const DATA=__DATA__;
@@ -686,7 +686,7 @@ $('#tbl').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();open
 
 /* ---------- shelf ---------- */
 function renderShelf(){const S={},order=[];G.forEach(g=>g.loc.forEach(l=>{if(!S[l.sec]){S[l.sec]={};order.push(l.sec)}(S[l.sec][l.row]=S[l.sec][l.row]||[]).push(g)}));
- $('#shelf').innerHTML=order.map(sec=>{const gs=[...new Set(Object.values(S[sec]).flat())];const codes=[...new Set(gs.flatMap(g=>g.codes))].filter(c=>sec.includes(c));const inf=gs.find(g=>!g.codes.length&&g.inf);const ph=[...new Set((sec.match(/1550\d\d|1551\d\d/g)||[]))];
+ $('#shelf').innerHTML=order.map(sec=>{const gs=[...new Set(Object.values(S[sec]).flat())];const codes=[...new Set(gs.flatMap(g=>g.codes))].filter(c=>sec.includes(c));const inf=gs.find(g=>!g.codes.length&&g.inf);const ph=[...new Set((sec.match(/1550\d\d|1551\d\d|204000/g)||[]))];
   return `<div class="sec"><h4>🗄️ ${esc(sec)}</h4><div>${codes.map(c=>`<span class="code">${c}</span>`).join('')}${!codes.length&&inf?`<span class="inf">${esc(T(inf.inf.zh,inf.inf.en).split('；')[0])} ${T('（推断）','(inferred)')}</span>`:''} ${ph.map(p=>`<button class="phbtn" data-ph="${p}">📷 ${p}</button>`).join('')}</div>${Object.entries(S[sec]).map(([r,gs])=>`<div class="rw">${esc(r)}</div>${[...new Set(gs)].map(g=>`<a href="#doc/${g.id}" data-doc="${g.id}">#${g.id} ${esc(gname(g))}</a>`).join('')}`).join('')}</div>`}).join('')}
 $('#shelf').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d)}};
 

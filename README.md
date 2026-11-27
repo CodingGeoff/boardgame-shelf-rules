@@ -1,14 +1,14 @@
 # 桌游店货架识别与规则文档
 
-根据 5 轮共 16 张桌游店货架照片，逐层识别出的桌游清单，以及每款游戏的中文规则文档。
+根据 6 轮共 17 张桌游店货架照片（另加店主补充的 2 款），逐层识别出的桌游清单，以及每款游戏的中文规则文档。
 
-- 识别结果：约 167 种游戏和扩展，约 282 盒
-- 规则文档：155 份，放在 [`boardgames/`](boardgames/) 文件夹
-- 货架原图：[`photos/`](photos/)（16 张已全部上传）
-- **规则合集**：[`boardgames/ALL_合集.md`](boardgames/ALL_合集.md)（全部 155 篇合成一个文件；如果 GitHub 因为文件太大不渲染，可以看 [上册 01–78](boardgames/ALL_合集_上册_01-78.md) / [下册 79–155](boardgames/ALL_合集_下册_79-155.md)）
+- 识别结果：约 178 种游戏和扩展，约 303 盒
+- 规则文档：166 份，放在 [`boardgames/`](boardgames/) 文件夹
+- 货架原图：[`photos/`](photos/)（17 张已全部上传）
+- **规则合集**：[`boardgames/ALL_合集.md`](boardgames/ALL_合集.md)（全部 166 篇合成一个文件；如果 GitHub 因为文件太大不渲染，可以看 [上册 01–78](boardgames/ALL_合集_上册_01-78.md) / [下册 79–166](boardgames/ALL_合集_下册_79-166.md)）
 - **智能选桌游网站**：<https://codinggeoff.github.io/boardgame-shelf-rules/>（[`index.html`](index.html)），支持中文和英文提问，可切换中英文界面
-- **详细补充 / Detailed supplement**：每篇中英文文档末尾新增“配件清点清单、完整示例局（演示）、计分示例、规则 FAQ / 易混淆点裁定、不同人数差异、官方变体与扩展”，中英同步（资料不足的 12 款给出首玩指引，不编造）
-- **English rules / 英文规则**：[`boardgames/en/`](boardgames/en/README.md)，155 篇完整英文版（另有 [Part 1](boardgames/en/ALL_EN_part1_01-78.md) / [Part 2](boardgames/en/ALL_EN_part2_79-155.md) 合集）
+- **详细补充 / Detailed supplement**：每篇中英文文档末尾新增“配件清点清单、完整示例局（演示）、计分示例、规则 FAQ / 易混淆点裁定、不同人数差异、官方变体与扩展”，中英同步（资料不足的 16 款给出首玩指引，不编造）
+- **English rules / 英文规则**：[`boardgames/en/`](boardgames/en/README.md)，166 篇完整英文版（另有 [Part 1](boardgames/en/ALL_EN_part1_01-78.md) / [Part 2](boardgames/en/ALL_EN_part2_79-166.md) 合集）
 - **高清照片（手机可打开）**：[`photos/web/`](photos/web/)（每张约 0.5–0.9 MB）；没有货架编号区域的特写在 [`photos/crops/`](photos/crops/)
 - 总索引：[`boardgames/README.md`](boardgames/README.md)，按货架位置列出每款游戏的数量和文档链接，文末附待确认清单和资料说明
 

@@ -15,8 +15,9 @@
 ## Where is it on the shelf?
 
 - **Shelf code:** F4 / G4
-- **Photos:** [155125](../../photos/web/IMG20261127155125.jpg), [155128](../../photos/web/IMG20261127155128.jpg)
+- **Photos:** [155125](../../photos/web/IMG20261127155125.jpg), [155128](../../photos/web/IMG20261127155128.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 照片 155125 / 155128：F4 / G4 层 → 百万美金 Millions of Dollars
+- Original note (Chinese): 照片 204000：上层右侧（铁网后货架） → 铝箱右侧小盒堆 MILLIONS of dollars
 
 ## Overview
 

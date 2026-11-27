@@ -15,8 +15,9 @@
 ## Where is it on the shelf?
 
 - **Shelf code:** B4 / C3 / C4
-- **Photos:** [155056](../../photos/web/IMG20261127155056.jpg)
+- **Photos:** [155056](../../photos/web/IMG20261127155056.jpg), [204000](../../photos/web/IMG20261127204000.jpg)
 - Original note (Chinese): 第三轮照片 155056：C3 / C4 层、B4 左下角、右侧 → 睡皇后 Sleeping Queens
+- Original note (Chinese): 照片 204000：上层中部（铁网后货架） → 左侧 橙色小盒一摞
 
 ## Overview
 

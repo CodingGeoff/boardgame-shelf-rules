@@ -2,6 +2,7 @@
 > 🌐 English version: [en/102_Carcassonne.md](en/102_Carcassonne.md)
 
 > 货架位置：照片 155102 E4 层，2 盒
+> 另有 1 盒：照片 204000 铁网后货架·上层左侧那摞最上面（蓝色盒）
 
 ## 基本信息
 | 项目 | 内容 |
