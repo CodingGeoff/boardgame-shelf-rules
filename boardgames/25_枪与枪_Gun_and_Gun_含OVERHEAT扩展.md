@@ -1,4 +1,5 @@
 # 枪与枪（Gun&Gun）+ OVERHEAT 扩展
+> 🌐 English version: [en/25_Gun_Gun.md](en/25_Gun_Gun.md)
 
 > 货架位置：155036 中层。本体 1 盒，另有一盒 **OVERHEAT「FIRST EXPANSION SET」**（第一弹扩展）
 

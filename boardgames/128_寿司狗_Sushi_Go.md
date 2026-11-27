@@ -1,4 +1,5 @@
 # 寿司狗 / 寿司 GO（Sushi Go!）
+> 🌐 English version: [en/128_Sushi_Go.md](en/128_Sushi_Go.md)
 
 > 货架位置：照片 155114，F2 行，带 Gamewright 标志的寿司主题小盒
 > 盒子标题没拍全，根据 Gamewright 标志和寿司画面判断为 Gamewright 的招牌作《Sushi Go!》。⚠️ 也可能是同系列的《Sushi Go Party!》（2–8 人大盒），请核对盒面。

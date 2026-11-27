@@ -1,4 +1,5 @@
 # 疯狂诡宅 第二版（Mansions of Madness: Second Edition）
+> 🌐 English version: [en/119_Mansions_of_Madness.md](en/119_Mansions_of_Madness.md)
 
 > 货架位置：照片 155114 / 155121 顶部大盒堆，盒侧印「疯狂诡宅」和 FFG 标志
 

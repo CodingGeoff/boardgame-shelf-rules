@@ -1,4 +1,5 @@
 # 寿司快递（Sushi Express）
+> 🌐 English version: [en/91_Sushi_Express.md](en/91_Sushi_Express.md)
 
 > 货架位置：照片 155102 / 155106 D3 层
 > 中文名为暂译，以盒面为准。

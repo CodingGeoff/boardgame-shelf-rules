@@ -1,4 +1,5 @@
 # 七大奇迹（7 Wonders）
+> 🌐 English version: [en/127_7_Wonders.md](en/127_7_Wonders.md)
 
 > 货架位置：照片 155114，F2 行，盒侧印「7 Wonders」和 Repos Production 标志
 > 双人对决版《七大奇迹：对决》见文档 10。

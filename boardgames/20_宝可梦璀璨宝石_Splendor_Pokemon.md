@@ -1,4 +1,5 @@
 # 宝可梦 璀璨宝石（Splendor Pokémon）
+> 🌐 English version: [en/20_Splendor_Pok_mon.md](en/20_Splendor_Pok_mon.md)
 
 > 货架位置：A4，**4 盒**
 

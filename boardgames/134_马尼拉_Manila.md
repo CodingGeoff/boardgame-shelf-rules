@@ -1,4 +1,5 @@
 # 马尼拉（Manila）
+> 🌐 English version: [en/134_Manila.md](en/134_Manila.md)
 
 > 货架位置：照片 155114 / 155125 / 155128，F4 层（贴 F3 标签），**一共 4 盒**：
 > - 2 盒蓝色，印有「MANILA 马尼拉」和 100 GAMES（一百游）标志，画着撑船的人；

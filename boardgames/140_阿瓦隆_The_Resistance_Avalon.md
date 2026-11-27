@@ -1,4 +1,5 @@
 # 阿瓦隆（The Resistance: Avalon）
+> 🌐 English version: [en/140_The_Resistance_Avalon.md](en/140_The_Resistance_Avalon.md)
 
 > 货架位置：照片 155109，D3 层左侧，紫色盒，盒侧只露出「阿瓦…」和一个人物侧影
 > 按露出的字和紫色盒判断为国内常见的《阿瓦隆》。⚠️ 标题没拍全，请核对盒面。

@@ -1,4 +1,5 @@
 # 达芬奇密码（Coda / Da Vinci Code）
+> 🌐 English version: [en/08_Coda.md](en/08_Coda.md)
 
 > 货架位置：A2 右侧，**2 盒**
 

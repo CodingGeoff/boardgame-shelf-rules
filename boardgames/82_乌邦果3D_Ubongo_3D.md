@@ -1,4 +1,5 @@
 # 乌邦果 3D（Ubongo 3D）
+> 🌐 English version: [en/82_Ubongo_3D.md](en/82_Ubongo_3D.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E1）
 

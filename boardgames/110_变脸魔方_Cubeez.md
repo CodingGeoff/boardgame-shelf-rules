@@ -1,4 +1,5 @@
 # 变脸魔方（Cubeez）
+> 🌐 English version: [en/110_Cubeez.md](en/110_Cubeez.md)
 
 > 货架位置：照片 155056 C3 层（铁盒）
 

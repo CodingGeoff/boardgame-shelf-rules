@@ -1,4 +1,5 @@
 # 星弧航记（ARCS）
+> 🌐 English version: [en/123_Arcs.md](en/123_Arcs.md)
 
 > 货架位置：照片 155121 上部，盒侧印「ARCS 星弧航记」
 

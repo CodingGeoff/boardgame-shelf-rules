@@ -1,4 +1,5 @@
 # 郁金香泡沫（Tulip Bubble）
+> 🌐 English version: [en/11_Tulip_Bubble.md](en/11_Tulip_Bubble.md)
 
 > 货架位置：A3 左侧
 

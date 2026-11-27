@@ -1,4 +1,5 @@
 # ナナ Nana（英文重制版名 Trio）
+> 🌐 English version: [en/58_Nana_Trio.md](en/58_Nana_Trio.md)
 
 > 货架位置：照片 155049 小盒堆
 

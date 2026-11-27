@@ -1,4 +1,5 @@
 # 猫咪卷饼羊（Taco Cat Goat Cheese Pizza，台译 猫咪比萨卷饼羊）
+> 🌐 English version: [en/48_Taco_Cat_Goat_Cheese_Pizza.md](en/48_Taco_Cat_Goat_Cheese_Pizza.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“猫咪卷饼羊”×2，蓝标“58 猫咪卷饼羊?”）
 

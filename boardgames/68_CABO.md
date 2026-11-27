@@ -1,4 +1,5 @@
 # CABO
+> 🌐 English version: [en/68_CABO.md](en/68_CABO.md)
 
 > 货架位置：照片 155049 小盒堆
 

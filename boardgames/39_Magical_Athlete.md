@@ -1,4 +1,5 @@
 # Magical Athlete（中文名以盒面为准）
+> 🌐 English version: [en/39_Magical_Athlete.md](en/39_Magical_Athlete.md)
 
 > 货架位置：照片 155046 B4 货架，2 盒（英文盒名 Magical Athlete，中文名以实物为准）
 

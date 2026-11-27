@@ -1,4 +1,5 @@
 # 王权暗战（Hidden Leaders）
+> 🌐 English version: [en/111_Hidden_Leaders.md](en/111_Hidden_Leaders.md)
 
 > 货架位置：照片 155056 C4 层（盒面“HIDDEN LEADERS”）
 

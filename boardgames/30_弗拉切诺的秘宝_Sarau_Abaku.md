@@ -1,4 +1,5 @@
 # 弗拉切诺的秘宝（サラウ・アバク / Sarau Abaku）
+> 🌐 English version: [en/30_Sarau_Abaku.md](en/30_Sarau_Abaku.md)
 
 > 货架位置：155036 中层
 

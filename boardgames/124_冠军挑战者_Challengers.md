@@ -1,4 +1,5 @@
 # 冠军挑战者（Challengers!）
+> 🌐 English version: [en/124_Challengers.md](en/124_Challengers.md)
 
 > 货架位置：照片 155121，D1 层，盒侧印「冠军挑战者」「Challengers!」和 Z-MAN 标志
 

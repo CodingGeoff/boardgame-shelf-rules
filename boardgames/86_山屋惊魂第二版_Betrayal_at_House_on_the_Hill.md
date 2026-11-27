@@ -1,4 +1,5 @@
 # 山屋惊魂 第二版（Betrayal at House on the Hill, 2nd Edition）
+> 🌐 English version: [en/86_Betrayal_at_House_on_the_Hill.md](en/86_Betrayal_at_House_on_the_Hill.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E2），2 盒
 

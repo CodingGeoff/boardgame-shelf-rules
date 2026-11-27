@@ -1,4 +1,5 @@
 # 地城勇士（Dungeon Fighter）
+> 🌐 English version: [en/106_Dungeon_Fighter.md](en/106_Dungeon_Fighter.md)
 
 > 货架位置：照片 155102 / 155106 D4 层
 

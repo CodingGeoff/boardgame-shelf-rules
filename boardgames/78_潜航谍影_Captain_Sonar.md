@@ -1,4 +1,5 @@
 # 潜航谍影 / 深海谍影（Captain Sonar）
+> 🌐 English version: [en/78_Captain_Sonar.md](en/78_Captain_Sonar.md)
 
 > 货架位置：照片 155102，右上角那摞
 

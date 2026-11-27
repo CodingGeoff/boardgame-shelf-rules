@@ -1,4 +1,5 @@
 # Dice Throne 重制版 第一季（Dice Throne Season One ReRolled）
+> 🌐 English version: [en/18_Dice_Throne.md](en/18_Dice_Throne.md)
 
 > 货架位置：A3，**4 盒**。每盒通常包含 2 名英雄，4 盒合起来就是第一季全部 8 名英雄。
 

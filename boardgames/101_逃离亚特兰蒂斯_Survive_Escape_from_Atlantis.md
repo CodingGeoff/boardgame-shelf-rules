@@ -1,4 +1,5 @@
 # 逃离亚特兰蒂斯（Survive: Escape from Atlantis!）
+> 🌐 English version: [en/101_Survive_Escape_from_Atlantis.md](en/101_Survive_Escape_from_Atlantis.md)
 
 > 货架位置：照片 155102 E4 层，5 盒
 

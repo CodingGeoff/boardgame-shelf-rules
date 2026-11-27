@@ -1,4 +1,5 @@
 # 情书（Love Letter）
+> 🌐 English version: [en/62_Love_Letter.md](en/62_Love_Letter.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“15 情书”）
 > 卡盒里是哪个版本看不到，下面同时列出**经典 16 张版**和 **2019 新版（21 张）** 的差异。

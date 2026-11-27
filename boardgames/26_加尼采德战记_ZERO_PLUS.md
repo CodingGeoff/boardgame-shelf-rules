@@ -1,4 +1,5 @@
 # 加尼采德战记 ZERO+（ガニメデ戦記 Zero+ / Ganymede Senki Zero+）
+> 🌐 English version: [en/26_Ganymede_Senki_Zero.md](en/26_Ganymede_Senki_Zero.md)
 
 > 货架位置：155036 中层
 

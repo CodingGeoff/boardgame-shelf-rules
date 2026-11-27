@@ -1,4 +1,5 @@
 # 心灵虫 / 精神控制（Mindbug: First Contact）
+> 🌐 English version: [en/05_Mindbug_First_Contact.md](en/05_Mindbug_First_Contact.md)
 
 > 货架位置：A2 中间那摞的底部
 

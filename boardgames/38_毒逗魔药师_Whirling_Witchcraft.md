@@ -1,4 +1,5 @@
 # 毒逗魔药师 / Whirling Witchcraft（AEG · 戏梦桌游 中文版，紫色盒“…巫师 W…CRAFT”）
+> 🌐 English version: [en/38_Whirling_Witchcraft.md](en/38_Whirling_Witchcraft.md)
 
 > 货架位置：照片 155046 B4 货架，2 盒
 > 识别依据：盒面有 AEG 和戏梦桌游的 Logo，设计 Erik Andersson Sundén，美术 Weberson Santiago，英文标题露出 “W…CRAFT”，与 *Whirling Witchcraft* 一致。**简体中文盒名以实物为准**（台湾版译名《毒逗魔药师》）。

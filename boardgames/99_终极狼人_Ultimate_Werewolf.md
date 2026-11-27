@@ -1,4 +1,5 @@
 # 终极狼人（Ultimate Werewolf）
+> 🌐 English version: [en/99_Ultimate_Werewolf.md](en/99_Ultimate_Werewolf.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（标签 E3）
 

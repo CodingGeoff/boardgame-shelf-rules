@@ -1,4 +1,5 @@
 # FLIP 7
+> 🌐 English version: [en/55_Flip_7.md](en/55_Flip_7.md)
 
 > 货架位置：照片 155049 小盒堆
 

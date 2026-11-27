@@ -1,4 +1,5 @@
 # 桌面战记 × 战舰少女R（旭翼文化 SUNWING）
+> 🌐 English version: [en/141_Tabletop_Senki_Warship_Girls_R.md](en/141_Tabletop_Senki_Warship_Girls_R.md)
 
 > 货架位置：
 > - 照片 155121 右上，大盒，盒侧印「…桌面战记」、SUNWING 和 MoeFantasy 标志，©2022；

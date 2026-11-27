@@ -1,4 +1,5 @@
 # 出包魔法师（Abracada...What!）
+> 🌐 English version: [en/87_Abracada_What.md](en/87_Abracada_What.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E2），2–3 盒（巫师封面）；照片 155056 的 C3/C4 层还散放着一张印有“出包魔…”的卡片/说明书，应是同一款的配件。
 

@@ -1,4 +1,5 @@
 # HacKClaD（含 CROSS×FATE 扩展）
+> 🌐 English version: [en/32_HacKClaD.md](en/32_HacKClaD.md)
 
 > 货架位置：照片 155049 上层，本体与 CROSS×FATE 扩展各 1 盒
 

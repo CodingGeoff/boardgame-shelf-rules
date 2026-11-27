@@ -1,4 +1,5 @@
 # 脏小猪（Drecksau / Dirty Pig）
+> 🌐 English version: [en/50_Drecksau.md](en/50_Drecksau.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“42 脏小猪”×3），照片 155049 小盒堆（Dreck Sau ×2）
 

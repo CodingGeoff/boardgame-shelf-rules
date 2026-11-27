@@ -1,4 +1,5 @@
 # 飞塔巫师（WANDERING TOWERS，盒面“WANDERING 巫师”）
+> 🌐 English version: [en/42_Wandering_Towers.md](en/42_Wandering_Towers.md)
 
 > 货架位置：照片 155053 顶层（绿色盒）
 

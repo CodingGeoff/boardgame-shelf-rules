@@ -1,4 +1,5 @@
 # 签签入扣（Stick Stack）
+> 🌐 English version: [en/117_Stick_Stack.md](en/117_Stick_Stack.md)
 
 > 货架位置：照片 155109，E5 右下角，橙色盒 ×2。其中一盒贴 A2 标签，盒侧印「签签入扣 STICK STACK」和代理商标志。
 

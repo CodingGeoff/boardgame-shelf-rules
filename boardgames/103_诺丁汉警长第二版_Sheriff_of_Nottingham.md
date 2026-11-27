@@ -1,4 +1,5 @@
 # 诺丁汉警长 第二版（Sheriff of Nottingham, 2nd Edition）
+> 🌐 English version: [en/103_Sheriff_of_Nottingham.md](en/103_Sheriff_of_Nottingham.md)
 
 > 货架位置：照片 155102 / 155106 D4 层
 

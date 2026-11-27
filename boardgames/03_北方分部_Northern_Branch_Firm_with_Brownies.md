@@ -1,4 +1,5 @@
 # 北方分部：精灵商会（ノーザンブランチ ファーム・ウィズ・ブラウニーズ / Northern Branch: Firm with Brownies）
+> 🌐 English version: [en/03_Northern_Branch_Firm_with_Brownies.md](en/03_Northern_Branch_Firm_with_Brownies.md)
 
 > 货架位置：A2 中间那摞（已确认）。同一摞里还有一盒，侧标只露出 "BR…"，**很可能是前作《ファーム・ウィズ・ブラウニーズ / Firm with Brownies》**（待确认）。两作规则主体相同，差异见文末。
 

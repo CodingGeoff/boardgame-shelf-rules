@@ -1,4 +1,5 @@
 # 璀璨宝石：对决（Splendor Duel）
+> 🌐 English version: [en/16_Splendor_Duel.md](en/16_Splendor_Duel.md)
 
 > 货架位置：A3（黄边框、红色 Logo 的盒子，大概率是本作）；A4 那盒画着女士肖像的，也可能是本作（待确认）
 

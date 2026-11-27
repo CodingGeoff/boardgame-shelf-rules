@@ -1,4 +1,5 @@
 # 德国心脏病（Halli Galli）——含“铃儿响叮当 全新扩充升级”版
+> 🌐 English version: [en/60_Halli_Galli.md](en/60_Halli_Galli.md)
 
 > 货架位置：照片 155053 C2 货架。印刷盒 5 盒，加上约 7 个贴 C2 标签、隐约可见心脏病印刷的红盒，合计约 12 套。
 

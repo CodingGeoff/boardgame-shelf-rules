@@ -1,4 +1,5 @@
 # 魔戒：中土对决（The Lord of the Rings: Duel for Middle-earth）
+> 🌐 English version: [en/72_The_Lord_of_the_Rings_Duel_for_Middle_ea.md](en/72_The_Lord_of_the_Rings_Duel_for_Middle_ea.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆
 > 中文名各渠道译法不一（常见“魔戒：中土对决 / 中土之战”），以盒面为准。

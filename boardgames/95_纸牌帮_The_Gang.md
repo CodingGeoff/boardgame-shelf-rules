@@ -1,4 +1,5 @@
 # 纸牌帮 / 帮派（The Gang）
+> 🌐 English version: [en/95_The_Gang.md](en/95_The_Gang.md)
 
 > 货架位置：照片 155102 / 155106 D3 层，3 盒
 

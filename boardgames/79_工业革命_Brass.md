@@ -1,4 +1,5 @@
 # 工业革命 / 工业都市（Brass）
+> 🌐 English version: [en/79_Brass_Birmingham.md](en/79_Brass_Birmingham.md)
 
 > 货架位置：照片 155102，右上角那摞（白盒，“BR… 工业都市”）
 > 第四轮照片（155114 / 155121）又拍到 2 盒，盒侧能读出「工业都市：伯明翰」，**确认是 Brass: Birmingham（伯明翰）**。下面按伯明翰规则整理，文末保留兰开夏的主要差异供参考。

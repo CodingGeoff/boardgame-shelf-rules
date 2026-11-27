@@ -1,4 +1,5 @@
 # 巴卡迪亚英雄（Heroes of Barcadia，Kickstarter 版）
+> 🌐 English version: [en/121_Heroes_of_Barcadia.md](en/121_Heroes_of_Barcadia.md)
 
 > 货架位置：照片 155121，盒侧印「Heroes of Barcadia」「Kickstarter Edition」，2–6 人 / 21+ / 30–90 分钟
 > 中文名为暂译，盒面只有英文。

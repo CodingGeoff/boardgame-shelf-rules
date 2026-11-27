@@ -1,4 +1,5 @@
 # 赏金猎人Ⅱ·忒修斯之海（WANTED AND RECRUIT）
+> 🌐 English version: [en/31_Wanted_and_Recruit.md](en/31_Wanted_and_Recruit.md)
 
 > 货架位置：照片 155049 上层（与 Hack ClaD、CROSS×FATE、血腥客栈 同层）
 > ⚠️ 这是国产众筹作品，网上公开的规则资料很少。本文只整理能查到的信息，**具体规则以盒内说明书为准**。

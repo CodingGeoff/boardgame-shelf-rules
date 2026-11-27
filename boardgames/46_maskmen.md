@@ -1,4 +1,5 @@
 # maskmen（Oink Games，中文名以盒面为准）
+> 🌐 English version: [en/46_maskmen.md](en/46_maskmen.md)
 
 > 货架位置：照片 155049 小盒堆（贴 B2 标签；155053 左边缘拍到的是同一摞，不重复计数）
 

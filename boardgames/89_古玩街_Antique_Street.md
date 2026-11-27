@@ -1,4 +1,5 @@
 # 古玩街（Antique Street）
+> 🌐 English version: [en/89_Antique_Street.md](en/89_Antique_Street.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（棕色盒，盒面“古玩街 ANTIQUE STREET”）
 

@@ -1,4 +1,5 @@
 # 终极审判：电车难题（TRIAL BY TROLLEY）
+> 🌐 English version: [en/49_Trial_by_Trolley.md](en/49_Trial_by_Trolley.md)
 
 > 货架位置：照片 155053 C2 货架，1 盒
 

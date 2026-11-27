@@ -1,4 +1,5 @@
 # UNO（优诺）
+> 🌐 English version: [en/65_UNO.md](en/65_UNO.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“UNO”）和底部塑料箱
 

@@ -1,4 +1,5 @@
 # 江湖郎中 / 郎中闯江湖（The Quacks of Quedlinburg）
+> 🌐 English version: [en/125_The_Quacks_of_Quedlinburg.md](en/125_The_Quacks_of_Quedlinburg.md)
 
 > 货架位置：照片 155114，F2 行，盒侧印「江湖郎中」和 100 GAMES（一百游）标志
 > 淘宝上“江湖郎中 桌游 一百游正版 庸医闯江湖”就是这个版本，玩法对应 Schmidt Spiele 的《Die Quacksalber von Quedlinburg》。正式中文版由新天鹅堡发行，名为《郎中闯江湖》。

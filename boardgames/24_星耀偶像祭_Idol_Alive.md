@@ -1,4 +1,5 @@
 # 星耀偶像祭（アイドルアライブ / Idol Alive）
+> 🌐 English version: [en/24_Idol_Alive.md](en/24_Idol_Alive.md)
 
 > 货架位置：155036 中层
 

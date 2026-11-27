@@ -1,4 +1,5 @@
 # 璀璨宝石（Splendor）
+> 🌐 English version: [en/19_Splendor.md](en/19_Splendor.md)
 
 > 货架位置：A4，约 3 盒（其中画着女士肖像的一盒可能是《璀璨宝石：对决》，待确认）
 

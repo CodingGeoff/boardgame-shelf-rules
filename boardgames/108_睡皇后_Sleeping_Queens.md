@@ -1,4 +1,5 @@
 # 睡皇后（Sleeping Queens）
+> 🌐 English version: [en/108_Sleeping_Queens.md](en/108_Sleeping_Queens.md)
 
 > 货架位置：照片 155056 C3/C4 层，4 盒（橙色盒）
 

@@ -135,77 +135,136 @@ table.list tr:hover td{background:#fffaf3}
  .btns{position:sticky;bottom:0;background:var(--card);padding:8px 0 2px;margin-bottom:-4px}
 }
 footer{max-width:1240px;margin:20px auto 40px;padding:0 18px;color:var(--mute);font-size:12px}
+.lang{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 11px;font:inherit;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
+.sub{color:var(--mute);font-size:12.5px;font-weight:400}
+.code{display:inline-block;background:var(--ink);color:#fff;border-radius:6px;padding:0 7px;font-weight:700;font-size:12.5px;margin-right:4px;letter-spacing:.5px}
+.inf{display:inline-block;background:#fef3c7;color:#78350f;border:1px dashed #f59e0b;border-radius:6px;padding:0 6px;font-size:12px}
+.gal{display:flex;gap:8px;overflow-x:auto;margin-top:6px;padding-bottom:4px;scrollbar-width:thin}
+.gal figure{margin:0;flex:0 0 auto;width:150px;cursor:zoom-in}
+.gal img{width:150px;height:112px;object-fit:cover;border-radius:8px;border:1px solid var(--line);background:#eee;display:block}
+.gal figcaption{font-size:11px;color:var(--mute);line-height:1.3;margin-top:3px}
+.phbtn{border:1px solid #fed7aa;background:#fff;border-radius:6px;padding:0 7px;font:inherit;font-size:12px;cursor:pointer;color:var(--pri);margin:1px 2px}
+#lb{position:fixed;inset:0;background:#000;z-index:80;display:none;flex-direction:column}
+#lb.show{display:flex}
+.lbh{display:flex;gap:8px;align-items:center;color:#fff;padding:8px 12px;font-size:13px;flex-wrap:wrap}
+.lbh span{flex:1;min-width:120px}
+.lbh button,.lbh a{background:rgba(255,255,255,.16);color:#fff;border:0;border-radius:8px;padding:6px 10px;font:inherit;font-size:13px;cursor:pointer;text-decoration:none}
+.lbb{flex:1;overflow:auto;-webkit-overflow-scrolling:touch}
+.lbb img{display:block;margin:auto;max-width:100%;max-height:calc(100vh - 60px);height:auto}
+.lbb img.z{max-width:none;max-height:none;width:220%}
+.tabs{display:flex;gap:6px;margin:12px 0 0;flex-wrap:wrap}
+.tabs button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
+.tabs button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.sim{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 4px}
+.sim a{background:var(--chip);border-radius:8px;padding:3px 9px;font-size:13px}
+.notice{background:#fef3c7;border:1px solid #fcd34d;color:#78350f;border-radius:10px;padding:8px 12px;margin-bottom:10px;font-size:13px}
+.box{background:#faf7f2;border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin-top:10px;font-size:13.5px}
+.box h5{margin:0 0 4px;font-size:13px;color:var(--mute)}
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px}
+.pgrid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:var(--shadow)}
+.pgrid img{width:100%;height:150px;object-fit:cover;display:block;background:#eee}
+.pgrid figcaption{padding:6px 9px;font-size:12px;color:var(--mute)}
+@media(max-width:900px){.lang{padding:4px 9px;order:2;margin-left:auto}nav{order:3}.logo{order:1}.gal figure,.gal img{width:124px}.gal img{height:94px}.pgrid{grid-template-columns:repeat(2,1fr)}.pgrid img{height:120px}}
 </style>
 </head>
 <body>
 <header><div class="hwrap">
-<div class="logo">🎲 桌游架<span>·</span>智能选游戏</div>
+<div class="logo" data-en="🎲 Shelf<span>·</span>Game Finder">🎲 桌游架<span>·</span>智能选游戏</div>
 <nav id="nav">
-<button data-v="match" class="on">✨ 智能推荐</button>
-<button data-v="all">📚 全部游戏</button>
-<button data-v="shelf">🗄️ 货架地图</button>
-<button data-v="read">📖 规则合集</button>
+<button data-v="match" class="on" data-en="✨ Recommend">✨ 智能推荐</button>
+<button data-v="all" data-en="📚 All games">📚 全部游戏</button>
+<button data-v="shelf" data-en="🗄️ Shelf map">🗄️ 货架地图</button>
+<button data-v="photos" data-en="📷 HD photos">📷 高清照片</button>
+<button data-v="read" data-en="📖 All rules">📖 规则合集</button>
 </nav>
 <div class="stat" id="stat"></div>
+<button class="lang" id="lang" title="中文 / English">EN</button>
 </div></header>
 
 <main>
 <section id="v-match">
 <div class="grid">
 <div class="panel sticky">
-<h3>说说你的想法</h3>
-<textarea id="q" placeholder="例如：我们 5 个人，一小时以内，想玩吹牛或推理，别太烧脑，有一个 10 岁小朋友"></textarea>
+<h3 data-en="Tell me what you want (中文 or English)">说说你的想法（中文或英文都可以）</h3>
+<textarea id="q" placeholder="例如：我们 5 个人，一小时以内，想玩吹牛或推理，别太烧脑，有一个 10 岁小朋友" data-en-ph="e.g. 5 of us, under an hour, bluffing or deduction, nothing too heavy, one 10-year-old"></textarea>
 <div class="ex" id="ex"></div>
 <div class="parsed" id="parsed"></div>
-<details id="cond" open><summary class="condsum">🎛️ 更多条件（人数、时长、年龄、类型…）<span id="condn"></span></summary>
-<div class="row"><label>人数</label><input type="number" id="pl" min="1" max="30" placeholder="不限"><span class="hint">到</span><input type="number" id="ph" min="1" max="30" placeholder="同左"></div>
-<div class="row"><label>可用时长</label><input type="range" id="tm" min="0" max="240" step="10" value="0"><span class="val" id="tmv">不限</span></div>
-<div class="row"><label>最小年龄</label><input type="range" id="ag" min="0" max="18" step="1" value="0"><span class="val" id="agv">不限</span></div>
-<div class="row"><label>复杂度</label><select id="wt"><option value="">不限</option><option value="1">入门 ●</option><option value="2">轻度 ●●</option><option value="3">中度 ●●●</option><option value="4">中重 ●●●●</option><option value="5">重度 ●●●●●</option></select><span class="hint">表示“偏好”，不是硬性门槛</span></div>
-<div style="margin:12px 0 6px"><b style="font-size:13px">类型偏好</b> <span class="hint">点一次＝想要，再点＝排除，第三次＝取消</span></div>
+<details id="cond" open><summary class="condsum"><span data-en="🎛️ More filters (players, time, age, type…)">🎛️ 更多条件（人数、时长、年龄、类型…）</span><span id="condn"></span></summary>
+<div class="row"><label data-en="Players">人数</label><input type="number" id="pl" min="1" max="99" placeholder="不限" data-en-ph="any"><span class="hint" data-en="to">到</span><input type="number" id="ph" min="1" max="99" placeholder="同左" data-en-ph="same"></div>
+<div class="row"><label data-en="Time">可用时长</label><input type="range" id="tm" min="0" max="240" step="10" value="0"><span class="val" id="tmv">不限</span></div>
+<div class="row"><label data-en="Min age">最小年龄</label><input type="range" id="ag" min="0" max="18" step="1" value="0"><span class="val" id="agv">不限</span></div>
+<div class="row"><label data-en="Weight">复杂度</label><select id="wt"><option value="" data-en="Any">不限</option><option value="1" data-en="Very light ●">入门 ●</option><option value="2" data-en="Light ●●">轻度 ●●</option><option value="3" data-en="Medium ●●●">中度 ●●●</option><option value="4" data-en="Med-heavy ●●●●">中重 ●●●●</option><option value="5" data-en="Heavy ●●●●●">重度 ●●●●●</option></select><span class="hint" data-en="a preference, not a hard limit">表示“偏好”，不是硬性门槛</span></div>
+<div style="margin:12px 0 6px"><b style="font-size:13px" data-en="Type preferences">类型偏好</b> <span class="hint" data-en="tap once = want, twice = exclude, three times = clear">点一次＝想要，再点＝排除，第三次＝取消</span></div>
 <div class="chips" id="tagchips"></div>
 <div class="tog">
-<label><input type="checkbox" id="strict" checked>严格过滤（人数、年龄、排除项不满足时直接隐藏）</label>
-<label><input type="checkbox" id="hideunk" checked>隐藏资料不足的游戏</label>
-<label><input type="checkbox" id="mmr" checked>结果多样化</label>
+<label><input type="checkbox" id="strict" checked><span data-en="Strict filter (hide games that fail players/age/exclusions)">严格过滤（人数、年龄、排除项不满足时直接隐藏）</span></label>
+<label><input type="checkbox" id="hideunk" checked><span data-en="Hide games with incomplete data">隐藏资料不足的游戏</span></label>
+<label><input type="checkbox" id="mmr" checked><span data-en="Diversify results">结果多样化</span></label>
 </div>
-<details><summary>⚙️ 算法权重（高级）</summary><div id="wts"></div></details>
+<details><summary data-en="⚙️ Algorithm weights (advanced)">⚙️ 算法权重（高级）</summary><div id="wts"></div></details>
 </details>
-<div class="btns"><button class="btn" id="go">开始匹配</button><button class="btn ghost" id="lucky">🎲 手气不错</button><button class="btn ghost" id="reset">重置</button></div>
+<div class="btns"><button class="btn" id="go" data-en="Match">开始匹配</button><button class="btn ghost" id="lucky" data-en="🎲 Feeling lucky">🎲 手气不错</button><button class="btn ghost" id="reset" data-en="Reset">重置</button></div>
 </div>
 <div>
 <div class="reshead"><h2 id="rtitle">推荐结果</h2><span class="hint" id="rinfo"></span></div>
+<div id="notice"></div>
 <div id="res"></div>
 </div>
 </div>
 </section>
 
 <section id="v-all" hidden>
-<div class="toolbar"><input id="fq" placeholder="搜索名称、标签或简介…（支持拼音以外的任意关键字）"><span class="hint" id="fcnt"></span></div>
+<div class="toolbar"><input id="fq" placeholder="搜索中文名、英文名、标签、简介或货架编号（如 B4）…" data-en-ph="Search Chinese/English name, tag, summary or shelf code (e.g. B4)…"><span class="hint" id="fcnt"></span></div>
 <table class="list" id="tbl"><thead><tr>
-<th data-k="id">#</th><th data-k="name">游戏</th><th data-k="mn">人数</th><th data-k="t1">时长</th><th data-k="w">复杂度</th><th>标签</th><th>位置</th></tr></thead><tbody></tbody></table>
+<th data-k="id">#</th><th data-k="name" data-en="Game">游戏</th><th data-k="mn" data-en="Players">人数</th><th data-k="t1" data-en="Time">时长</th><th data-k="w" data-en="Weight">复杂度</th><th data-en="Tags">标签</th><th data-k="code" data-en="Location">位置</th></tr></thead><tbody></tbody></table>
 </section>
 
-<section id="v-shelf" hidden><p class="hint">按照片里的货架区域整理（来自 README 货架索引）。点击游戏名查看文档。</p><div class="shelf" id="shelf"></div></section>
+<section id="v-shelf" hidden><p class="hint" data-en="Grouped by the shelf areas in the photos (from the README shelf index). Black chips are shelf codes; yellow dashed chips are inferred areas for boxes without a code. Tap a game to open its rules.">按照片里的货架区域整理（来自 README 货架索引）。黑色标签是货架编号，黄色虚线标签是没有编号时的推断区域。点击游戏名查看文档。</p><div class="shelf" id="shelf"></div></section>
+
+<section id="v-photos" hidden><div id="photos"></div></section>
 
 <section id="v-read" hidden><div class="panel md" id="readall"></div></section>
 </main>
 
-<button id="fab" title="回到顶部">↑</button>
-<div id="doc"><div class="dp"><div class="dh"><b id="dt"></b><span id="dlinks"></span><button class="x" id="dx">关闭 ✕</button></div><div class="db"><div id="dloc"></div><div class="md" id="dmd"></div></div></div></div>
+<button id="fab" title="Top">↑</button>
+<div id="doc"><div class="dp"><div class="dh"><b id="dt"></b><span id="dlinks"></span><button class="x" id="dx" data-en="Close ✕">关闭 ✕</button></div><div class="db"><div id="dloc"></div><div class="tabs" id="dtabs"></div><div class="md" id="dmd"></div></div></div></div>
+<div id="lb"><div class="lbh"><span id="lbt"></span><button id="lbz" data-en="🔍 Zoom">🔍 放大</button><a id="lbo" target="_blank" data-en="Original ↗">原图 ↗</a><button id="lbx" data-en="Close ✕">关闭 ✕</button></div><div class="lbb" id="lbb"><img id="lbi" alt=""></div></div>
 
-<footer>数据来源：仓库 <code>boardgames/</code> 下的 155 篇规则文档（含“深入玩法”章节）和 README 货架索引。所有页面内容都内嵌在这个文件里，可以离线打开。推荐结果只是参考，以盒内说明书为准。</footer>
+<footer id="foot" data-en="Data: 155 rules docs under <code>boardgames/</code> (Chinese, with in-depth sections) plus English versions under <code>boardgames/en/</code>, and the README shelf index. Everything is embedded in this one file; photos load from <code>photos/</code>. Recommendations are a guide — the rulebook in the box wins.">数据来源：仓库 <code>boardgames/</code> 下的 155 篇中文规则文档（含“深入玩法”章节）、<code>boardgames/en/</code> 下的英文版和 README 货架索引。页面内容都内嵌在这个文件里，照片从 <code>photos/</code> 加载。推荐结果只是参考，以盒内说明书为准。</footer>
 
 <script>
 const DATA=__DATA__;
-const G=DATA.games, REPO=DATA.repo, BYID={}, BYFILE={};
+const G=DATA.games, REPO=DATA.repo, BYID={}, BYFILE={}, PHOTOS=DATA.photos, CROPS=DATA.crops;
 G.forEach(g=>{BYID[g.id]=g;BYFILE[g.file]=g});
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const WL=['','入门','轻度','中度','中重度','重度'];
-const ghDoc=f=>`${REPO}/blob/main/boardgames/${encodeURIComponent(f)}`;
+let LANG=(new URLSearchParams(location.search).get('lang'))||localStorage.getItem('bg_lang')||'zh';
+if(!['zh','en'].includes(LANG))LANG='zh';
+const T=(zh,en)=>LANG==='en'?en:zh;
+const WL=()=>T(['','入门','轻度','中度','中重度','重度'],['','very light','light','medium','medium-heavy','heavy']);
+const TAGEN=DATA.tagEn;
+const tg=t=>LANG==='en'?(TAGEN[t]||t):t;
+const gname=g=>LANG==='en'?g.en.n:g.name;
+const gsub=g=>LANG==='en'?g.name:g.en.n;
+const gsumm=g=>LANG==='en'?g.en.s:g.summ;
+const ghDoc=g=>LANG==='en'?`${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)}`:`${REPO}/blob/main/boardgames/${encodeURIComponent(g.file)}`;
 const ghPhoto=p=>`${REPO}/blob/main/${p}`;
-$('#stat').textContent=`${G.length} 篇文档 · ${new Set(G.flatMap(g=>g.loc.map(l=>l.sec))).size} 个货架区域`;
+const webPh=id=>`photos/web/IMG20261127${id}.jpg`, thPh=id=>`photos/thumb/IMG20261127${id}.jpg`;
+const cropTh=f=>f.replace('photos/crops/','photos/thumb/');
+function statText(){$('#stat').textContent=T(`${G.length} 篇文档 · ${G.filter(g=>g.codes.length).length} 款有货架编号`,`${G.length} docs · ${G.filter(g=>g.codes.length).length} with shelf codes`)}
+
+/* ---------- i18n static ---------- */
+function applyLang(){
+ document.documentElement.lang=LANG==='en'?'en':'zh-CN';
+ document.title=T('桌游架 · 智能选游戏','Board Game Shelf · Smart Finder');
+ $$('[data-en]').forEach(el=>{if(el.dataset.zh===undefined)el.dataset.zh=el.innerHTML;el.innerHTML=LANG==='en'?el.dataset.en:el.dataset.zh});
+ $$('[data-en-ph]').forEach(el=>{if(el.dataset.zhPh===undefined)el.dataset.zhPh=el.placeholder;el.placeholder=LANG==='en'?el.dataset.enPh:el.dataset.zhPh});
+ $('#lang').textContent=LANG==='en'?'中文':'EN';
+ statText();
+}
+$('#lang').onclick=()=>{LANG=LANG==='en'?'zh':'en';localStorage.setItem('bg_lang',LANG);applyLang();buildStaticLists();upd();render();readDone=false;
+ if(cur==='all')renderAll();if(cur==='shelf')renderShelf();if(cur==='photos')renderPhotos();if(cur==='read')renderRead();
+ if($('#doc').classList.contains('show')&&curDoc)openDoc(curDoc,LANG,true)};
 
 /* ---------- tag stats / idf ---------- */
 const TAGC={};G.forEach(g=>g.tags.forEach(t=>TAGC[t]=(TAGC[t]||0)+1));
@@ -242,7 +301,7 @@ const SYN=[
  [/喝酒|饮酒|酒局|干杯|酒桌/, ['饮酒']],
  [/文字|语言|词语|联想|成语|汉字|说话|表达|描述|猜词/, ['语言','联想','汉字','猜词']],
  [/记忆|记性|记牌/, ['记忆']],
- [/战斗|打架|对战|PK|格斗|打怪|互殴|对抗|厮杀/i, ['战斗']],
+ [/战斗|打架|对战|\bPK\b|格斗|打怪|互殴|对抗|厮杀/i, ['战斗']],
  [/科幻|太空|宇宙|外星|星际/, ['科幻']],
  [/国风|古风|中国风|国产|原创/, ['国风','古风','原创']],
  [/经典|老牌|大众|知名|入坑必备/, ['经典']],
@@ -250,8 +309,8 @@ const SYN=[
  [/地盘|区域控制|占领|战争|打仗|争霸/, ['区域控制']],
  [/解谜|密室|谜题|海龟汤/, ['解谜','密室','海龟汤']],
  [/数字|算数|计算/, ['数字','算术']],
- [/魔戒|权力的游戏|电影改编|IP/i, ['IP']],
- [/地城|地牢|RPG/i, ['地城','RPG']],
+ [/魔戒|权力的游戏|电影改编|\bIP\b/, ['IP']],
+ [/地城|地牢|\bRPG\b/i, ['地城','RPG']],
  [/坑人|互坑|陷害|使坏|阴人/, ['陷害','互动','偷取']],
 ];
 function findAll(re,s){const r=new RegExp(re.source,re.flags.includes('g')?re.flags:re.flags+'g');const out=[];let m;while((m=r.exec(s))){out.push(m);if(!m[0].length)r.lastIndex++}return out}
@@ -263,180 +322,406 @@ function parseQuery(q){
  let m;
  // players range
  if((m=s.match(new RegExp(NUM+'(?:个|位|名)?(?:人)?(?:到|至|~|-|–|—)'+NUM+'(?:个|位|名)?(?:人|玩家)'))) ){P.lo=cn2n(m[1]);P.hi=cn2n(m[2])}
- else if((m=s.match(new RegExp(NUM+'(?:个|位|名)?(?:人|玩家|口人)(?!生|物|偶)')))&&!/岁/.test(s.slice(m.index+m[0].length,m.index+m[0].length+1))){const n=cn2n(m[1]);if(n>=1&&n<=40){P.lo=P.hi=n;if(/^(以上|或以上|多|往上|\+)/.test(s.slice(m.index+m[0].length)))P.hi=n+4}}
+ else if((m=s.match(new RegExp(NUM+'(?:个|位|名)?(?:人|玩家|口人)(?!生|物|偶)')))&&!/岁/.test(s.slice(m.index+m[0].length,m.index+m[0].length+1))){const n=cn2n(m[1]);if(n>99){P.lo=P.hi=20;P.notes.push(T(`${n} 人太多 → 按 20 人以上的游戏找`,`${n} is huge → 20+ player games`))}if(n>=1&&n<=99){P.lo=P.hi=n;if(/^(以上|或以上|多|往上|\+)/.test(s.slice(m.index+m[0].length)))P.hi=n+4}}
  if(P.lo===null){
   if(/双人|两人|俩人|二人|情侣|对象|女朋友|男朋友|老婆|老公|夫妻|我俩|咱俩|1v1|一对一/i.test(s)){P.lo=P.hi=2}
   else if(/单人|一个人|自己玩|独自|solo|一人/i.test(s)){P.lo=P.hi=1}
  }
- if(P.lo===null&&/人多|一大群|团建|十几个|很多人|一大帮|全班|公司/.test(s)){P.lo=8;P.hi=10;P.notes.push('人多 → 按 8–10 人')}
- if(P.lo!==null)P.notes.push(P.lo===P.hi?`${P.lo} 人`:`${P.lo}–${P.hi} 人`);
+ if(P.lo===null&&/人多|一大群|团建|十几个|很多人|一大帮|全班|公司/.test(s)){P.lo=8;P.hi=10;P.notes.push(T('人多 → 按 8–10 人','big group → 8–10 players'))}
+ if(P.lo!==null)P.notes.push(P.lo===P.hi?T(`${P.lo} 人`,`${P.lo} players`):T(`${P.lo}–${P.hi} 人`,`${P.lo}–${P.hi} players`));
  // time
  if((m=s.match(/一个半小时|1\.5个?小时/))){P.time=90}
  else if((m=s.match(new RegExp(NUM+'个?(半)?(?:小时|钟头|h)','i')))){const n=cn2n(m[1]);if(!isNaN(n))P.time=Math.round((n+(m[2]?.5:0))*60)}
  else if(/半小时|半个钟/.test(s))P.time=30;
  else if((m=s.match(new RegExp(NUM+'(?:分钟|分|min)','i')))){const n=cn2n(m[1]);if(!isNaN(n)&&n>=5)P.time=n}
  if(P.time===null&&/快速|很快|短一点|简短|速战速决|等人|饭前|饭后|十分钟|一会儿|小品|填充/.test(s))P.time=20;
- if(/一下午|一晚上|通宵|一整天|长时间|慢慢玩|大作/.test(s)){P.long=true;P.notes.push('想玩长一点的')}
- if(P.time!==null)P.notes.push(`≤ ${P.time} 分钟`);
+ if(/一下午|一晚上|通宵|一整天|长时间|慢慢玩|大作/.test(s)){P.long=true;P.notes.push(T('想玩长一点的','wants a long game'))}
+ if(P.time!==null)P.notes.push(T(`≤ ${P.time} 分钟`,`≤ ${P.time} min`));
  // age
  const kid=/小孩|孩子|儿童|小朋友|宝宝|亲子|幼儿|小学生/.test(s);
- if((m=s.match(/(\d+)(?:岁|周岁)/))){P.age=+m[1];P.notes.push(`最小 ${P.age} 岁`)}
- else if(kid){P.age=7;P.notes.push('有小朋友 → 7 岁')}
+ if((m=s.match(/(\d+)(?:岁|周岁)/))){P.age=+m[1];P.notes.push(T(`最小 ${P.age} 岁`,`youngest ${P.age}`))}
+ else if(kid){P.age=7;P.notes.push(T('有小朋友 → 7 岁','kids → age 7'))}
  if(kid||(P.age!==null&&P.age<=10)){P.prefer.add('家庭');if(P.age!==null&&P.age<=8)P.prefer.add('儿童')}
- if(/老人|长辈|爸妈|父母|爷爷|奶奶|姥姥|外公|外婆|亲戚|家人/.test(s)){P.prefer.add('家庭');if(P.w===null)P.w=1.5;P.notes.push('家庭 / 长辈')}
+ if(/老人|长辈|爸妈|父母|爷爷|奶奶|姥姥|外公|外婆|亲戚|家人/.test(s)){P.prefer.add('家庭');if(P.w===null)P.w=1.5;P.notes.push(T('家庭 / 长辈','family / elders'))}
  // weight
  const heavy=findAll(/烧脑|硬核|重度|重策|深度|德式|策略性强|老玩家|高手|复杂|动脑/,s);
  const light=findAll(/轻松|简单|新手|小白|入门|休闲|无脑|好上手|容易|轻度|规则少|萌新/,s);
- heavy.forEach(x=>{if(isNeg(s,x.index)){P.w=Math.min(P.w??2,2);P.notes.push('不要太烧脑')}else{P.w=4;P.notes.push('想烧脑')}});
+ heavy.forEach(x=>{if(isNeg(s,x.index)){P.w=Math.min(P.w??2,2);P.notes.push(T('不要太烧脑','not too heavy'))}else{P.w=4;P.notes.push(T('想烧脑','wants a brain-burner'))}});
  if(!heavy.length&&/策略/.test(s)&&!/不.{0,2}策略/.test(s)){P.w=3;P.prefer.add('策略')}
- light.forEach(x=>{if(!isNeg(s,x.index)){P.w=Math.min(P.w??1.5,1.5);P.notes.push('轻松简单')}});
+ light.forEach(x=>{if(!isNeg(s,x.index)){P.w=Math.min(P.w??1.5,1.5);P.notes.push(T('轻松简单','light & easy'))}});
  // tags
  for(const [re,tags] of SYN){for(const x of findAll(re,s)){
    if(/^(不想撕|不伤和气)$/.test(x[0])){tags.forEach(t=>P.prefer.add(t));continue}
    if(isNeg(s,x.index)){tags.forEach(t=>P.avoid.add(t))}else tags.forEach(t=>P.prefer.add(t))}}
  if(P.lo===2&&P.hi===2)P.prefer.add('双人');
  if(P.lo>=7)P.prefer.add('派对');
+ parseEn(q,P);
  P.avoid.forEach(t=>P.prefer.delete(t));
  return P;
 }
 
-/* ---------- text similarity: char-bigram TF-IDF ---------- */
+
+/* ---------- NLP: English free-text parsing ---------- */
+const EWORD={zero:0,one:1,two:2,three:3,four:4,five:5,six:6,seven:7,eight:8,nine:9,ten:10,eleven:11,twelve:12,thirteen:13,fourteen:14,fifteen:15,sixteen:16,seventeen:17,eighteen:18,nineteen:19,twenty:20,thirty:30,forty:40,fifty:50,sixty:60,ninety:90,dozen:12};
+const PWORD='(?:players?|people|persons?|ppl|pax|of us|friends|guys|adults|gamers|folks|kids|children|members|participants)';
+const ESYN=[
+ [/\bco-?op(?:erative)?\b|\bcooperat\w*|\bteam ?work\b|\bwork(?:ing)? together\b|\bagainst the game\b|\ball win or lose\b/, ['合作']],
+ [/\bdeduc\w*|\bdetective\w*|\bmyster\w*|\bwhodunn?it\b|\blogic\w*|\bsleuth\w*|\binvestigat\w*/, ['推理']],
+ [/\bhidden[- ]?(?:role|identit\w*|traitor)s?\b|\bsocial deduction\b|\bwerewol\w*|\bmafia\b|\btraitors?\b|\bspy\b|\bspies\b|\bsecret (?:role|identit\w*|team)s?\b|\bimpost[oe]rs?\b|\bavalon\b|\bresistance\b/, ['隐藏身份','阵营']],
+ [/\bbluff\w*|\blying\b|\bliars?\b|\blies\b|\bdecepti\w*|\bdeceiv\w*|\bpoker face\b|\bbullshit\b|\bcall(?:ing)? out\b/, ['吹牛','嘴炮']],
+ [/\bpart(?:y|ies)\b|\bice ?breakers?\b|\blaugh\w*|\bfunny\b|\bhilarious\b|\bsilly\b|\bsocial game\b|\bgoofy\b|\bloud\b/, ['派对']],
+ [/\breaction\b|\breflex\w*|\bspeed\b|\bfast hands\b|\bslap\w*|\breal[- ]?time\b|\bfrantic\b|\btimer\b/, ['反应','实时']],
+ [/\bfamil(?:y|ies)\b|\bkid[- ]friendly\b|\bfamily[- ]friendly\b/, ['家庭']],
+ [/\bdexterity\b|\bstack\w*|\bbalanc\w*|\bflick\w*|\bsteady hands?\b|\bphysical\b/, ['敏捷','灵巧']],
+ [/\bpuzzl\w*|\bspatial\b|\btile[- ]?(?:laying|placement)\b|\bpolyomino\w*|\btetris\b|\bpattern\w*/, ['空间','拼图','拼块']],
+ [/\becono\w*|\bmoney\b|\bmarket\w*|\bbusiness\w*|\binvest\w*|\bstocks?\b|\bmerchant\w*|\btrading\b|\bmanag(?:e|ement|ing)\b/, ['经济','经营']],
+ [/\bauction\w*|\bbid(?:ding|s)?\b|\btrad(?:e|es|ing)\b/, ['拍卖','交易']],
+ [/\bnegotiat\w*|\bhaggl\w*|\bdeal[- ]?making\b|\bdiplomac\w*|\balliances?\b|\bbribe\w*/, ['谈判']],
+ [/\bdice\b|\bdie roll\w*|\broll(?:ing)? (?:the )?dice\b|\byahtzee\b/, ['骰子']],
+ [/\bpush[- ]your[- ]luck\b|\bpress[- ]your[- ]luck\b|\bgambl\w*|\brisky?\b|\bluck\b/, ['推运']],
+ [/\bcard games?\b|\bcards\b|\bdeck of cards\b|\bplaying cards\b|\bpoker\b/, ['卡牌','扑克']],
+ [/\bengine[- ]?build\w*|\bengines?\b|\bcombos?\b|\bdeck[- ]?build\w*|\bbag[- ]?build\w*|\bsynerg\w*/, ['引擎','构筑']],
+ [/\bdraft\w*/, ['轮抽']],
+ [/\banime\b|\bmanga\b|\bjapanese\b|\bpok[eé]mon\b|\bidols?\b|\bcute\b|\bkawaii\b/, ['动漫']],
+ [/\bhorror\b|\bscary\b|\bspooky\b|\bcthulhu\b|\blovecraft\w*|\bzombies?\b|\bghosts?\b|\bhaunt\w*|\bcreepy\b/, ['恐怖','克苏鲁','中式恐怖']],
+ [/\bdrink\w*|\bbooze\b|\balcohol\w*|\bbeers?\b|\bshots\b/, ['饮酒']],
+ [/\bword games?\b|\bwords?\b|\bwordplay\b|\blanguage\b|\bassociation\w*|\bguess(?:ing)? (?:the )?words?\b|\bdescrib\w*|\bcharades\b|\bclues?\b|\bvocabulary\b/, ['语言','联想','猜词']],
+ [/\bmemory\b|\bmemori[sz]\w*|\bremember\w*/, ['记忆']],
+ [/\bcombat\b|\bfight\w*|\bbattl\w*|\bwar\b|\bwars\b|\bconflict\b|\battack\w*|\bbrawl\w*|\bversus\b|\bpvp\b|\bmonsters?\b/, ['战斗']],
+ [/\bsci[- ]?fi\b|\bscience fiction\b|\bspace\b|\bgalax\w*|\baliens?\b|\bplanets?\b|\binterstellar\b/, ['科幻']],
+ [/\bchinese\b|\bancient china\b|\boriental\b/, ['国风','古风','原创']],
+ [/\bclassics?\b|\bfamous\b|\bwell[- ]known\b|\bevergreen\b|\bpopular\b|\bstaples?\b|\btimeless\b/, ['经典']],
+ [/\bstor(?:y|ies)\b|\bnarrative\b|\bcampaign\b|\bimmersive\b|\brole[- ]?play\w*|\brpg\b|\bthematic\b|\blegacy\b/, ['剧情','角色扮演']],
+ [/\barea control\b|\bterritor\w*|\bconquest\b|\bconquer\w*|\bempires?\b|\bwargames?\b/, ['区域控制']],
+ [/\bescape rooms?\b|\briddles?\b|\bbrain ?teasers?\b|\blateral thinking\b|\bsituation puzzles?\b/, ['解谜','密室','海龟汤']],
+ [/\bnumbers?\b|\bmath\w*|\barithmetic\b/, ['数字','算术']],
+ [/\bmovies?\b|\bfilms?\b|\btv (?:show|series)\b|\blord of the rings\b|\bgame of thrones\b|\blicensed\b|\bfranchise\b/, ['IP']],
+ [/\bdungeons?\b|\bcrawlers?\b|\bheroes\b/, ['地城','RPG']],
+ [/\btake[- ]that\b|\bmean\b|\bbackstab\w*|\bscrew (?:your|the) neighbou?r\b|\bnasty\b|\bruthless\b|\bsteal\w*|\bsabotag\w*/, ['陷害','互动','偷取']],
+ [/\btrick[- ]?taking\b|\btricks\b/, ['吃墩']],
+ [/\bworker[- ]placement\b/, ['工人放置']],
+ [/\bmurder myster(?:y|ies) (?:script|box)\w*|\bscript\w* murder\b|\bone[- ]?shot scripts?\b/, ['剧本杀']],
+ [/\bstrateg\w*|\btactic\w*/, ['策略']],
+ [/\babstract\b/, ['抽象']],
+ [/\bvoting\b|\bvotes?\b/, ['投票']],
+ [/\bteams?\b/, ['团队','阵营']],
+];
+const EHEAVY=/\bheav(?:y|ier)\b|\bcomplex\b|\bcomplicated\b|\bbrain[- ]?burn\w*|\bdeep\b|\bcrunchy\b|\bthinky\b|\bhard[- ]?core\b|\beuros?\b|\bgamers?'? games?\b|\bchalleng\w*|\bserious\b|\bhard\b|\bdifficult\b|\bburn (?:our|my) brains?\b/g;
+const ELIGHT=/\blight(?:er)?\b|\beasy\b|\bsimple\b|\bbeginners?\b|\bnewbies?\b|\bnewcomers?\b|\bcasual\b|\brelax\w*|\bchill\b|\beasy to (?:learn|teach)\b|\bquick to (?:learn|teach)\b|\baccessible\b|\bgateway\b|\bnon[- ]gamers?\b|\bno brainer\b|\bsimple rules\b/g;
+const EVOC=new Set(('players people persons friends adults gamers minutes minute hours hour quick short filler long epic years kids children family teenager teen toddler grandparents parents '+
+ 'cooperative coop deduction detective mystery logic werewolf mafia traitor hidden identity social bluff bluffing lying deception party icebreaker funny hilarious silly reaction reflex speed dexterity stacking balance '+
+ 'puzzle spatial tile polyomino economic money market business investment trading auction bidding negotiation haggling diplomacy alliance dice rolling gamble gambling risky cards poker engine combo deckbuilding draft drafting '+
+ 'anime manga japanese pokemon horror scary spooky cthulhu zombie ghost haunted drinking alcohol beer words wordplay language association charades memory combat fight battle conflict attack versus monsters '+
+ 'space galaxy aliens chinese classic famous popular story narrative campaign immersive roleplay thematic legacy territory conquest empire riddle riddles lateral numbers math arithmetic movie film licensed dungeon heroes '+
+ 'backstabbing nasty ruthless sabotage strategy strategic tactical abstract voting teams heavy complex complicated brainburner crunchy challenging serious difficult light easy simple beginner beginners casual relaxed accessible gateway '+
+ 'something recommend please without avoid nothing except under around about between maximum minimum least most').split(' '));
+const ESTOP=new Set('players player people persons minutes minute hours hour years year old wanted wanting the and for with want wants game games play playing something some that are have has looking like our who what but can would please recommend good fun around about under over less more than into from this need any very really maybe also just them they their there been were was get got lot lots much many make made time tonight today weekend evening night afternoon thing things kind type sort'.split(' '));
+function lev(a,b){if(Math.abs(a.length-b.length)>2)return 9;const d=[];for(let i=0;i<=a.length;i++){d[i]=[i];}for(let j=1;j<=b.length;j++)d[0][j]=j;
+ for(let i=1;i<=a.length;i++)for(let j=1;j<=b.length;j++){d[i][j]=Math.min(d[i-1][j]+1,d[i][j-1]+1,d[i-1][j-1]+(a[i-1]===b[j-1]?0:1));if(i>1&&j>1&&a[i-1]===b[j-2]&&a[i-2]===b[j-1])d[i][j]=Math.min(d[i][j],d[i-2][j-2]+1)}return d[a.length][b.length]}
+function fixTypos(s,P){return s.replace(/[a-z]{4,}/g,(w,off,str)=>{if(EVOC.has(w)||ESTOP.has(w)||EWORD[w]!==undefined)return w;
+  if(w.length<5&&!new RegExp('^\\s*(?:'+PWORD+'|minutes?|hours?|years?)').test(str.slice(off+w.length)))return w;
+  let best=null,bd=9;const lim=w.length>=8?2:1;for(const v of (w.length<5?Object.keys(EWORD).filter(k=>k.length===w.length&&[...k].sort().join('')===[...w].sort().join('')):[...EVOC,...Object.keys(EWORD).filter(k=>k.length>=4)])){if(Math.abs(v.length-w.length)>lim)continue;const d=lev(w,v);if(d<bd){bd=d;best=v}}
+  if(best&&bd<=lim&&!(w.endsWith('s')&&EVOC.has(w.slice(0,-1)))){P.notes.push(T(`拼写纠正 ${w}→${best}`,`typo ${w}→${best}`));return best}return w})}
+function isNegEn(s,idx){let pre=s.slice(Math.max(0,idx-40),idx);
+ const cut=Math.max(...[/[,.;!?:()]/g,/\bbut\b/g,/\bhowever\b/g,/\bwith(?!out)\b/g,/\band\b/g,/\bplus\b/g,/\bprefer\w*\b/g,/\bwant\w*\b/g,/\blike\b/g].map(re=>{let m,last=-1;const r=new RegExp(re.source,'g');while((m=r.exec(pre)))last=m.index+m[0].length;return last}));
+ if(cut>=0)pre=pre.slice(cut);
+ if(/\bnon-?\s*$/.test(pre))return true;
+ return /\b(no|not|without|avoid\w*|don'?t|do not|doesn'?t|hate|dislike|never|nothing|except|skip|less|anti|isn'?t|aren'?t|rather not|nor|neither|zero|minus|excluding|exclude)\b(?:\W+[\w'-]+){0,3}\W*$/.test(pre)}
+function parseEn(q,P){
+ if(!/[a-z]{2,}/i.test(q))return;
+ let s=' '+q.toLowerCase().replace(/[’`]/g,"'").replace(/\s+/g,' ')+' ';
+ s=fixTypos(s,P);
+ s=s.replace(/\b(an?|one) hour and (?:a )?half\b|\bhour and a half\b|\b1\.5 ?(?:hours?|hrs?|h)\b/g,' 90 minutes ').replace(/\bhalf (?:an )?hour\b/g,' 30 minutes ').replace(/\b(?:an|one) hour\b/g,' 60 minutes ').replace(/\b(?:a )?couple (?:of )?hours\b/g,' 120 minutes ').replace(/\b(?:a )?few hours\b/g,' 180 minutes ');
+ s=s.replace(/\b(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|ninety|dozen)\b/g,w=>' '+EWORD[w]+' ').replace(/ +/g,' ');
+ s=s.replace(/(\d+)\s*-\s*(year|yr)/g,'$1 $2');
+ let m;const zhHadPlayers=P.lo!==null;
+ // players
+ if(!zhHadPlayers){
+  if((m=s.match(new RegExp('(\\d+)\\s*(?:-|–|to|~|or)\\s*(\\d+)\\s*'+PWORD)))){let a=+m[1],b=+m[2];if(a>b)[a,b]=[b,a];if(a>=1&&b<=99){P.lo=a;P.hi=b}}
+  else if((m=s.match(new RegExp('(\\d+)\\s*(?:\\+|or more|and up|plus)(\\s*'+PWORD+')?')))){const after=s.slice(m.index+m[0].length);if(m[2]||new RegExp(PWORD).test(after.slice(0,15))){const n=+m[1];if(n>=1&&n<=99){P.lo=n;P.hi=Math.min(99,n+4)}}}
+  if(P.lo===null&&(m=s.match(new RegExp('(?:^|\\D)(\\d+)\\s*(?:-\\s*)?'+PWORD+'(?!\\w)')))){const n=+m[1];if(n>=1&&n<=99){P.lo=P.hi=n}else if(n>99){P.lo=P.hi=20;P.notes.push(T(`${n} 人太多 → 按 20 人以上的游戏找`,`${n} is huge → looking for 20+ player games`))}else P.notes.push(T(`忽略不合理人数 ${n}`,`ignored player count ${n}`))}
+  {const all=[...s.matchAll(new RegExp('(\\d+)\\s*'+PWORD+'(?!\\w)','g'))].map(x=>+x[1]);if(new Set(all).size>1)P.notes.push(T(`人数说法不一致（${[...new Set(all)].join('/')}），按第一个`,`conflicting player counts (${[...new Set(all)].join('/')}); using the first`))}
+  if(P.lo===null&&(m=s.match(/\b(?:group|party|team|table|family) of (\d+)\b|\bwe(?:'re| are) (\d+)\b|\bthere(?:'s| is| are) (\d+) of us\b|\bfor (\d+)\b(?!\s*(?:min|minute|hour|hr|h\b|year|yr|yo|y\/o|\+? ?years|age))/))){const n=+(m[1]||m[2]||m[3]||m[4]);if(n>=1&&n<=99){P.lo=P.hi=n}}
+  if(P.lo===null){
+   if(/\b(?:2|two)[- ]?(?:player|p)\b|\b2p\b|\bcouples?\b|\bmy (?:wife|husband|girlfriend|boyfriend|partner|spouse|gf|bf)\b|\bdate night\b|\bhead[- ]to[- ]head\b|\b1 ?v ?1\b|\bduel\w*\b|\bjust us 2\b|\bthe 2 of us\b/.test(s)){P.lo=P.hi=2}
+   else if(/\bsolo\b|\balone\b|\bby myself\b|\bsingle[- ]player\b|\b1p\b|\bjust me\b|\b1 player\b/.test(s)){P.lo=P.hi=1}
+   else if(/\bbig (?:group|crowd|party)\b|\blarge (?:group|party)\b|\blots of (?:people|friends)\b|\bmany (?:people|players)\b|\bcrowd\b|\bhuge group\b|\bwhole (?:class|office|team)\b|\boffice party\b|\bteam[- ]?building\b/.test(s)){P.lo=8;P.hi=10;P.notes.push(T('人多 → 按 8–10 人','big group → 8–10 players'))}
+  }
+  if(P.lo!==null)P.notes.push(P.lo===P.hi?T(`${P.lo} 人`,`${P.lo} players`):T(`${P.lo}–${P.hi} 人`,`${P.lo}–${P.hi} players`));
+ }
+ // time
+ if(P.time===null){
+  if((m=s.match(/(\d+(?:\.\d+)?)\s*(?:-|–|to)\s*(\d+(?:\.\d+)?)\s*(hours?|hrs?|h|minutes?|mins?|min|m)\b/))){const u=/^h/.test(m[3])?60:1;P.time=Math.round(+m[2]*u)}
+  else if((m=s.match(/(\d+(?:\.\d+)?)\s*(?:hours?|hrs?|h)\b/))){P.time=Math.round(+m[1]*60)}
+  else if((m=s.match(/(\d+)\s*(?:minutes?|mins?|min|m)\b/))){const n=+m[1];if(n>=5)P.time=n}
+  if(P.time!==null&&P.time>600){P.notes.push(T('时长过大，按不限','time too large → no limit'));P.time=null}
+  else if(P.time!==null&&P.time<5){P.time=10}
+  if(P.time===null&&/\bquick\w*\b|\bshort\b|\bfillers?\b|\bfast\b|\bwhile (?:we )?wait\w*|\bbefore dinner\b|\bafter dinner\b|\blunch ?break\b|\bin a hurry\b/.test(s)){
+   const i=s.search(/\bquick\w*\b|\bshort\b|\bfillers?\b|\bfast\b/);if(i<0||!isNegEn(s,i))P.time=20}
+  if(P.time!==null)P.notes.push(T(`≤ ${P.time} 分钟`,`≤ ${P.time} min`));
+ }
+ const longI=s.search(/\ball (?:night|day|evening|afternoon)\b|\bwhole (?:evening|afternoon|night|day)\b|\blong(?:er)?(?: games?)?\b|\bepic\b|\bmarathon\b|\blengthy\b|\bsprawling\b/);
+ if(longI>=0){if(isNegEn(s,longI)){if(P.time===null){P.time=60;P.notes.push(T('不要太长 → ≤ 60 分钟','not too long → ≤ 60 min'))}}else{P.long=true;P.notes.push(T('想玩长一点的','wants a long game'))}}
+ // age
+ const ages=[];const ar=/(\d+)\s*(?:years?|yrs?)?\s*[- ]?(?:old|yo|y\/o)\b|\bage[sd]?\s*(\d+)\b|\b(\d+)\s*(?:years?|yrs?)\b(?! ?(?:of experience|ago))/g;
+ while((m=ar.exec(s))){const n=+(m[1]||m[2]||m[3]);if(n>=1&&n<=120)ages.push(n)}
+ const kidI=s.search(/\bkids?\b|\bchild(?:ren)?\b|\btoddlers?\b|\blittle ones?\b|\bsons?\b|\bdaughters?\b|\bnephews?\b|\bnieces?\b|\bkiddos?\b|\bgrade ?school\w*\b|\bpreschool\w*\b/);
+ const kid=kidI>=0&&!isNegEn(s,kidI);
+ if(P.age===null){
+  if(ages.length){P.age=Math.min(...ages);P.notes.push(T(`最小 ${P.age} 岁`,`youngest ${P.age}`))}
+  else if(/\btoddlers?\b|\bpreschool\w*\b/.test(s)){P.age=4;P.notes.push(T('幼儿 → 4 岁','toddlers → age 4'))}
+  else if(kid){P.age=7;P.notes.push(T('有小朋友 → 7 岁','kids → age 7'))}
+  else if(/\bteen\w*\b/.test(s)){P.age=13;P.notes.push(T('青少年 → 13 岁','teens → age 13'))}
+ }
+ if(kid||(P.age!==null&&P.age<=10)){P.prefer.add('家庭');if(P.age!==null&&P.age<=8)P.prefer.add('儿童')}
+ if(kidI>=0&&!kid&&/\badults?\b/.test(s))P.notes.push(T('只有成年人','adults only'));
+ if(/\bgrand(?:parents?|ma|pa|mother|father)s?\b|\bparents\b|\belderly\b|\bin-?laws\b|\bolder relatives\b|\bmy (?:mum|mom|dad)\b/.test(s)){P.prefer.add('家庭');if(P.w===null)P.w=1.5;P.notes.push(T('家庭 / 长辈','family / elders'))}
+ // weight
+ let hv=0,lt=0;
+ for(const x of s.matchAll(EHEAVY)){if(isNegEn(s,x.index)){P.w=Math.min(P.w??2,2);P.notes.push(T('不要太烧脑','not too heavy'))}else hv++}
+ for(const x of s.matchAll(ELIGHT)){if(isNegEn(s,x.index)){if(P.w===null||P.w<3){P.w=3.5;P.notes.push(T('不要太简单','not too simple'))}}else lt++}
+ if(hv&&lt){P.w=2.5;P.notes.push(T('既轻又重 → 折中为中轻度','light + heavy → medium-light'))}
+ else if(hv){P.w=4;P.notes.push(T('想烧脑','wants a brain-burner'))}
+ else if(lt){P.w=Math.min(P.w??1.5,1.5);P.notes.push(T('轻松简单','light & easy'))}
+ const stI=s.search(/\bstrateg\w*|\btactic\w*/);if(stI>=0&&!isNegEn(s,stI)){if(P.w===null)P.w=3;else if(lt&&!hv){P.w=2;P.notes.push(T('轻策略 → 轻中度','light strategy → light-medium'))}}
+ // tags
+ for(const [re,tags] of ESYN){for(const x of findAll(re,s)){if(isNegEn(s,x.index))tags.forEach(t=>P.avoid.add(t));else tags.forEach(t=>P.prefer.add(t))}}
+ if(/\bno conflict\b|\bnon-?confrontational\b|\bfriendly\b|\bno (?:backstabbing|fighting)\b/.test(s)){P.prefer.add('合作');P.avoid.add('陷害')}
+ if(P.lo===2&&P.hi===2)P.prefer.add('双人');
+ if(P.lo>=7)P.prefer.add('派对');
+}
+
+/* ---------- game-name mentions ---------- */
+const COMMON_EN=new Set(['wanted','skull','trio','scout','arcs','faraway','challengers','coup','nana','take time','top ten','truth or dare','guess who','cheat','jenga','uno','catan','cabo','flip 7','the gang','decorum','décorum','seasons','manila','modern art']);
+const NAMEKEYS=G.map(g=>{const en=g.en.n.split(/\s*[(:]/)[0].toLowerCase().replace(/^the /,'').trim();
+ const zh=g.name.split(/[（(）)\s·：:]/).filter(x=>/[\u4e00-\u9fff]{2,}/.test(x)&&!/^(第二版|系列|盒装剧本杀系列|资料不足|疑似|银牌|对决)$/.test(x));
+ const enAlt=(g.name.match(/[A-Za-z][A-Za-z0-9 !'&.-]{2,}/g)||[]).map(x=>x.trim().toLowerCase()).filter(x=>x.length>=3);
+ return {g,en:[...new Set([en,...enAlt])].filter(x=>x.length>=3),zh}});
+function findMentions(q){const lo=' '+q.toLowerCase()+' ',hits=[];
+ NAMEKEYS.forEach(({g,en,zh})=>{let idx=-1;
+  for(const k of en){const re=new RegExp('(^|[^a-z0-9])'+k.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'($|[^a-z0-9])');const m=lo.match(re);if(m){
+    if(COMMON_EN.has(k)&&!new RegExp('(^|[^A-Za-z])'+k[0].toUpperCase()+k.slice(1).replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'').test(q)&&!/[\u4e00-\u9fff]/.test(q)&&!/like|similar|where|find|rules?|how to/.test(lo))continue;
+    idx=m.index;break}}
+  if(idx<0)for(const k of zh){const i=q.indexOf(k);if(i>=0){if(COMMON_ZH.has(k)&&!/《|在哪|规则|怎么玩|这款|那款|位置/.test(q))continue;idx=i;break}}
+  if(idx>=0)hits.push({g,idx,neg:isNegEn(lo,idx)||/(不要|不想|除了|别|不玩|排除)[^，。,.]{0,3}$/.test(q.slice(Math.max(0,idx-6),idx))})});
+ return hits}
+const COMMON_ZH=new Set(['吹牛','飞行棋','叠叠乐','真心话大冒险','通缉令','风声','截码战']);
+const SIMMODE=/\b(like|similar|such as|alternatives?|instead of|in the style of|kind of like|reminds?)\b|类似|像|差不多|同类|之类|那样|那种|一样/i;
+
+/* ---------- text similarity: bigram (zh) + stemmed words (en) TF-IDF ---------- */
 const STOP=new Set('我们 一个 想玩 游戏 桌游 可以 有没 没有 什么 推荐 一下 一点 左右 以内 时间 小时 分钟 适合 喜欢 比较 不要 不想 的话 大家 玩的 一起 朋友'.split(' '));
-function grams(s){s=(s||'').toLowerCase().replace(/[\s\p{P}\p{S}\d]+/gu,' ');const out=[];for(const w of s.split(' ')){if(!w)continue;if(/^[a-z]+$/.test(w)){if(w.length>2)out.push(w);continue}for(let i=0;i<w.length-1;i++){const b=w.slice(i,i+2);if(!STOP.has(b))out.push(b)}}return out}
+const stem=w=>w.length>4?w.replace(/ies$/,'y').replace(/(ing|ed|es|s)$/,''):w;
+function grams(s){s=(s||'').toLowerCase().replace(/[\s\p{P}\p{S}\d]+/gu,' ');const out=[];for(const w of s.split(' ')){if(!w)continue;if(/^[a-zà-ÿ]+$/.test(w)){if(w.length>2&&!ESTOP.has(w))out.push(stem(w));continue}
+ const segs=w.split(/([a-z]+)/);for(const seg of segs){if(!seg)continue;if(/^[a-z]+$/.test(seg)){if(seg.length>2&&!ESTOP.has(seg))out.push(stem(seg));continue}for(let i=0;i<seg.length-1;i++){const b=seg.slice(i,i+2);if(!STOP.has(b))out.push(b)}if(seg.length===1)out.push(seg)}}return out}
 const DF={},DV=[];
-G.forEach(g=>{const md=(DATA.docs[g.file]||'').replace(/\|/g,' ').slice(0,2500);
- const txt=[g.name,g.name,g.name,g.title,g.tags.join(' '),g.tags.join(' '),g.summ,g.summ,g.teach,g.tips.join(' '),md].join(' ');
+G.forEach(g=>{const md=(DATA.docs[g.file]||'').replace(/\|/g,' ').slice(0,2500);const e=g.en;
+ const txt=[g.name,g.name,g.name,g.title,g.tags.join(' '),g.tags.join(' '),g.summ,g.summ,g.teach,g.tips.join(' '),md,
+  e.n,e.n,e.n,g.tags.map(t=>TAGEN[t]||'').join(' '),g.tags.map(t=>TAGEN[t]||'').join(' '),e.s,e.s,e.t.join(' '),e.tp.join(' '),e.e.join(' ')].join(' ');
  const tf={};grams(txt).forEach(b=>tf[b]=(tf[b]||0)+1);DV.push(tf);Object.keys(tf).forEach(b=>DF[b]=(DF[b]||0)+1)});
 const idfB=b=>Math.log((G.length+1)/((DF[b]||0)+1))+1;
 const DN=DV.map(tf=>{let s=0;for(const b in tf){const v=(1+Math.log(tf[b]))*idfB(b);s+=v*v}return Math.sqrt(s)||1});
-function textSim(q){const qtf={};grams(q).forEach(b=>qtf[b]=(qtf[b]||0)+1);const keys=Object.keys(qtf).filter(b=>DF[b]);if(!keys.length)return null;
+function textSim(q){const qtf={};grams(q).forEach(b=>qtf[b]=(qtf[b]||0)+1);const keys=Object.keys(qtf).filter(b=>DF[b]&&DF[b]<G.length*.6);if(!keys.length)return null;
  let qn=0;keys.forEach(b=>{const v=(1+Math.log(qtf[b]))*idfB(b);qn+=v*v});qn=Math.sqrt(qn)||1;
  const sims=DV.map((tf,i)=>{let d=0;for(const b of keys)if(tf[b])d+=(1+Math.log(qtf[b]))*idfB(b)*(1+Math.log(tf[b]))*idfB(b);return d/(qn*DN[i])});
  const mx=Math.max(...sims);return mx>0?sims.map(x=>x/mx):null}
 
+/* ---------- similarity between games ---------- */
+function jac(a,b){const A=new Set(a.tags),B=new Set(b.tags);let i=0;A.forEach(t=>{if(B.has(t))i++});const fam=a.name.slice(0,2)===b.name.slice(0,2)?.4:0;return Math.min(1,i/(A.size+B.size-i||1)+fam)}
+function docCos(a,b){const A=DV[G.indexOf(a)],B=DV[G.indexOf(b)];let d=0;for(const k in A)if(B[k]&&DF[k]<G.length*.5)d+=(1+Math.log(A[k]))*(1+Math.log(B[k]))*idfB(k)*idfB(k);return d/(DN[G.indexOf(a)]*DN[G.indexOf(b)])}
+function gameSim(a,b){if(a===b)return 0;let s=0;const A=new Set(a.tags),B=new Set(b.tags);let num=0,den=0;new Set([...A,...B]).forEach(t=>{const w=IDF(t);den+=w;if(A.has(t)&&B.has(t))num+=w});s=.45*(den?num/den:0);
+ s+=.25*Math.min(1,docCos(a,b)*2.2);
+ s+=.12*(1-Math.abs(a.w-b.w)/4);const ov=Math.max(0,Math.min(a.mx,b.mx)-Math.max(a.mn,b.mn)+1)/Math.max(1,Math.min(a.mx-a.mn+1,b.mx-b.mn+1));s+=.1*Math.min(1,ov);
+ s+=.08*(1-Math.min(1,Math.abs((a.t1+a.t2)-(b.t1+b.t2))/240));return s}
+const SIMS={};function similar(g,k=6){if(!SIMS[g.id])SIMS[g.id]=G.filter(x=>x!==g&&!x.unk).map(x=>({x,s:gameSim(g,x)})).sort((a,b)=>b.s-a.s).slice(0,12);return SIMS[g.id].slice(0,k)}
+
 /* ---------- scoring ---------- */
-const W0={players:3,time:2,age:1.5,weight:2,tags:3,text:1.5};
+const W0={players:3,time:2,age:1.5,weight:2,tags:3,text:1.5,like:3};
 const W={...W0};
-function scoreAll(){
+function readP(){
  const q=$('#q').value, P=parseQuery(q);
- // merge UI conditions (UI overrides text where set)
  const pl=+$('#pl').value||null, ph=+$('#ph').value||null;
- if(pl){P.lo=pl;P.hi=ph&&ph>=pl?ph:pl}
+ if(pl){P.lo=Math.min(99,Math.max(1,pl));P.hi=ph&&ph>=pl?Math.min(99,ph):P.lo}
  const tmv=+$('#tm').value; if(tmv)P.time=tmv;
  const agv=+$('#ag').value; if(agv)P.age=agv;
  if($('#wt').value)P.w=+$('#wt').value;
  for(const t in TAGSTATE){if(TAGSTATE[t]===1){P.prefer.add(t);P.avoid.delete(t)}else if(TAGSTATE[t]===2){P.avoid.add(t);P.prefer.delete(t)}}
+ P.ment=q.trim()?findMentions(q):[];
+ P.sim=SIMMODE.test(q)&&P.ment.some(m=>!m.neg);
+ if(P.sim){const r=P.ment.find(m=>!m.neg).g,ql=q.toLowerCase();
+  if(/\bshorter\b|\bquicker\b|\bfaster\b|短一点|更短|快一点|时间短/.test(ql)){P.time=Math.max(10,Math.round(r.t1*.75));P.long=false;P.notes.push(T(`比 ${r.name} 短 → ≤ ${P.time} 分钟`,`shorter than ${r.en.n} → ≤ ${P.time} min`))}
+  if(/\blighter\b|\beasier\b|\bsimpler\b|简单一点|更简单|轻一点|更轻/.test(ql)){P.w=Math.max(1,r.w-1);P.notes.push(T('比参照游戏更轻','lighter than the reference'))}
+  if(/\bheavier\b|\bdeeper\b|\bharder\b|更烧脑|更难|重一点|更重/.test(ql)){P.w=Math.min(5,r.w+1);P.notes.push(T('比参照游戏更重','heavier than the reference'))}
+  if(/\bbigger groups?\b|\bmore (?:players|people)\b|人更多|更多人/.test(ql)&&P.lo===null){P.lo=P.hi=Math.min(99,r.mx+1);P.notes.push(T(`超过 ${r.mx} 人`,`more than ${r.mx} players`))}
+ }
+ if(P.ment.length)P.notes.push(...P.ment.map(m=>(m.neg?T('排除：','not: '):(P.sim?T('类似：','like: '):T('提到：','mentioned: ')))+gname(m.g)));
+ return {q,P}}
+function scoreAll(){
+ const {q,P}=readP();
  renderParsed(P,q);
- const strict=$('#strict').checked, hideunk=$('#hideunk').checked;
+ let r=scoreWith(q,P,$('#strict').checked);r.relaxed=false;
+ if(!r.total&&$('#strict').checked){r=scoreWith(q,P,false);r.relaxed=true}
+ return r}
+function scoreWith(q,P,strict){
+ const hideunk=$('#hideunk').checked;
  const ts=q.trim()?textSim(q):null;
  const prefW=[...P.prefer].reduce((a,t)=>a+IDF(t),0);
+ const refs=P.ment.filter(m=>!m.neg).map(m=>m.g), negs=new Set(P.ment.filter(m=>m.neg).map(m=>m.g.id));
  const out=[];
  G.forEach((g,ix)=>{
   const C={},why=[];let drop=false;
+  if(negs.has(g.id))return;
+  const mentioned=refs.includes(g);
   const lack=g.unk||g.tags.includes('资料待补');
-  if(hideunk&&lack)return;
+  if(hideunk&&lack&&!mentioned)return;
   if(P.lo!==null){
-   if(g.unk){C.players=.4;why.push(['y','人数未知'])}
+   if(g.unk){C.players=.4;why.push(['y',T('人数未知','player count unknown')])}
    else{let sup=0,n=0,bestHit=false,minD=99;for(let p=P.lo;p<=P.hi;p++){n++;if(p>=g.mn&&p<=g.mx)sup++;if(p>=g.bl&&p<=g.bh)bestHit=true;minD=Math.min(minD,p<g.bl?g.bl-p:p>g.bh?p-g.bh:0)}
-    const frac=sup/n;
-    if(frac===0){C.players=0;why.push(['r',`不支持 ${P.lo===P.hi?P.lo:P.lo+'–'+P.hi} 人（${g.mn}–${g.mx}）`]);if(strict)drop=true}
+    const frac=sup/n, pr=P.lo===P.hi?P.lo:P.lo+'–'+P.hi, bst=g.bl===g.bh?g.bl:g.bl+'–'+g.bh;
+    if(frac===0){C.players=0;why.push(['r',T(`不支持 ${pr} 人（${g.mn}–${g.mx}）`,`doesn't support ${pr} players (${g.mn}–${g.mx})`)]);if(strict&&!mentioned)drop=true}
     else{const bf=bestHit?1:Math.max(0,1-minD/3);C.players=frac*(.55+.45*bf);
-     why.push([frac<1?'y':(bestHit?'g':'g'),bestHit?`${P.lo===P.hi?P.lo+' 人正是最佳人数':'人数区间含最佳人数'}（推荐 ${g.bl===g.bh?g.bl:g.bl+'–'+g.bh}）`:`支持 ${g.mn}–${g.mx} 人${frac<1?'（区间部分支持）':''}`])}}
+     why.push([frac<1?'y':'g',bestHit?(P.lo===P.hi?T(`${P.lo} 人正是最佳人数（推荐 ${bst}）`,`${P.lo} is a best count (best ${bst})`):T(`人数区间含最佳人数（推荐 ${bst}）`,`range includes best count (${bst})`)):T(`支持 ${g.mn}–${g.mx} 人${frac<1?'（区间部分支持）':''}`,`supports ${g.mn}–${g.mx}${frac<1?' (partly)':''}`)])}}
   }
   if(P.time!==null){let s;if(g.unk){s=.5}else if(g.t2<=P.time)s=1;else if(g.t1<=P.time)s=.75;else s=Math.max(0,1-(g.t1-P.time)/Math.max(P.time,20))*.5;
-   C.time=s;why.push([s>=.75?'g':s>=.4?'y':'r',`时长 ${g.t1===g.t2?g.t1:g.t1+'–'+g.t2} 分钟`]);if(strict&&!g.unk&&g.t1>P.time*1.6)drop=true}
-  if(P.long){const s=Math.min(1,g.t2/120);C.time=Math.max(C.time??0,s);if(s>.7)why.push(['g','能玩很久'])}
-  if(P.age!==null){const s=g.age<=P.age?1:Math.max(0,1-(g.age-P.age)/4);C.age=s;why.push([s===1?'g':s>.4?'y':'r',`${g.age}+ 岁`]);if(strict&&g.age>P.age+2)drop=true}
-  if(P.w!==null){const s=Math.max(0,1-Math.abs(g.w-P.w)/3);C.weight=s;why.push([s>.8?'g':s>.5?'y':'r',`复杂度 ${'●'.repeat(g.w)} ${WL[g.w]}`])}
-  if(P.prefer.size){let hit=0;const hs=[];P.prefer.forEach(t=>{if(g.tags.includes(t)){hit+=IDF(t);hs.push(t)}});C.tags=Math.min(1,hit/Math.max(prefW*.6,IDF('合作')));if(hs.length)why.push(['g','符合：'+hs.join('、')])}
-  let avoidHit=[];P.avoid.forEach(t=>{if(g.tags.includes(t))avoidHit.push(t)});
-  if(avoidHit.length){why.push(['r','含排除项：'+avoidHit.join('、')]);if(strict)drop=true}
-  if(ts){C.text=ts[ix];if(ts[ix]>.55)why.push(['g','文字描述高度相关'])}
+   C.time=s;why.push([s>=.75?'g':s>=.4?'y':'r',T(`时长 ${g.t1===g.t2?g.t1:g.t1+'–'+g.t2} 分钟`,`${g.t1===g.t2?g.t1:g.t1+'–'+g.t2} min`)]);if(strict&&!g.unk&&g.t1>P.time*1.6&&!mentioned)drop=true}
+  if(P.long){const s=Math.min(1,g.t2/120);C.time=Math.max(C.time??0,s);if(s>.7)why.push(['g',T('能玩很久','long game')])}
+  if(P.age!==null){const s=g.age<=P.age?1:Math.max(0,1-(g.age-P.age)/4);C.age=s;why.push([s===1?'g':s>.4?'y':'r',`${g.age}+ ${T('岁','yrs')}`]);if(strict&&g.age>P.age+2&&!mentioned)drop=true}
+  if(P.w!==null){const s=Math.max(0,1-Math.abs(g.w-P.w)/3);C.weight=s;why.push([s>.8?'g':s>.5?'y':'r',`${T('复杂度','weight')} ${'●'.repeat(g.w)} ${WL()[g.w]}`])}
+  if(P.prefer.size){let hit=0;const hs=[];P.prefer.forEach(t=>{if(g.tags.includes(t)){hit+=IDF(t);hs.push(tg(t))}});C.tags=Math.min(1,hit/Math.max(prefW*.6,IDF('合作')));if(hs.length)why.push(['g',T('符合：','matches: ')+hs.join(T('、',', '))])}
+  let avoidHit=[];P.avoid.forEach(t=>{if(g.tags.includes(t))avoidHit.push(tg(t))});
+  if(avoidHit.length){why.push(['r',T('含排除项：','has excluded: ')+avoidHit.join(T('、',', '))]);if(strict&&!mentioned)drop=true}
+  if(ts){C.text=ts[ix];if(ts[ix]>.55)why.push(['g',T('文字描述高度相关','text strongly related')])}
+  if(P.sim&&refs.length){const s=Math.max(...refs.map(r=>gameSim(r,g)));C.like=mentioned?0:Math.min(1,s/.75);if(!mentioned&&s>.45)why.push(['g',T('和 ','similar to ')+refs.map(gname).join('/')+T(' 相似','')])}
   if(drop)return;
   let num=0,den=0;for(const k in C){num+=W[k]*C[k];den+=W[k]}
   let score=den?num/den:.5;
   if(avoidHit.length)score*=.35;
   if(lack)score*=.85;
   if(!den)score=.5+(g.tags.includes('经典')?.1:0)-g.id/2000;
+  if(mentioned&&!P.sim){score=Math.min(1,score*.4+.62);why.unshift(['g',T('你提到了这款游戏','you mentioned this game')])}
+  if(mentioned&&P.sim){score*=.5;why.unshift(['y',T('这是你提到的参照游戏','this is your reference game')])}
   out.push({g,score,C,why});
  });
  out.sort((a,b)=>b.score-a.score);
  return {list:$('#mmr').checked?mmr(out,20):out.slice(0,20),total:out.length,P};
 }
-function jac(a,b){const A=new Set(a.tags),B=new Set(b.tags);let i=0;A.forEach(t=>{if(B.has(t))i++});const fam=a.name.slice(0,2)===b.name.slice(0,2)?.4:0;return Math.min(1,i/(A.size+B.size-i||1)+fam)}
 function mmr(arr,k){const pool=arr.slice(0,60),sel=[];const lam=.78;while(sel.length<k&&pool.length){let bi=0,bv=-1e9;pool.forEach((x,i)=>{const sim=sel.length?Math.max(...sel.map(y=>jac(x.g,y.g))):0;const v=lam*x.score-(1-lam)*sim*x.score;if(v>bv){bv=v;bi=i}});sel.push(pool.splice(bi,1)[0])}return sel}
 
-/* ---------- render ---------- */
-function locHTML(g,full){if(!g.loc.length)return '<div class="loc">📍 位置：见 README 待确认清单</div>';
- return '<div class="loc">'+g.loc.map((l,i)=>`<div>📍 <b>${esc(l.sec)}</b> → ${esc(l.row)}${l.cnt?` <span class="hint">（${esc(l.cnt)}）</span>`:''}</div>`).join('')+
- (g.photos.length?`<div>📷 原图：${g.photos.map(p=>`<a href="${ghPhoto(p)}" target="_blank">${p.split('/').pop().replace('IMG20261127','').replace('.jpg','')}</a>`).join(' · ')}</div>`:'')+'</div>'}
-function metaHTML(g){return `<div class="meta"><span class="m">👥 ${g.unk?'人数见盒面':(g.mn===g.mx?g.mn:g.mn+'–'+g.mx)+' 人'}${g.unk?'':' · 推荐 '+(g.bl===g.bh?g.bl:g.bl+'–'+g.bh)}</span><span class="m">⏱ ${g.unk?'?':(g.t1===g.t2?g.t1:g.t1+'–'+g.t2)} 分钟</span><span class="m">🎂 ${g.unk?'?':g.age+'+'}</span><span class="m">🧠 ${'●'.repeat(g.w)}${'○'.repeat(5-g.w)} ${WL[g.w]}</span>${g.tags.slice(0,6).map(t=>`<span class="m">#${esc(t)}</span>`).join('')}</div>`}
-const CL={players:'人数',time:'时长',age:'年龄',weight:'复杂度',tags:'类型',text:'文字相似'};
+/* ---------- render helpers ---------- */
+function codeHTML(g){return g.codes.length?g.codes.map(c=>`<span class="code">${c}</span>`).join(''):(g.inf?`<span class="inf">${esc(T(g.inf.zh,g.inf.en))} ${T('（推断）','(inferred)')}</span>`:'')}
+function phBtns(g){const a=g.ph.map(p=>`<button class="phbtn" data-ph="${p}" data-gid="${g.id}">📷 ${p}</button>`);if(!g.codes.length)a.push(...g.crops.map(f=>`<button class="phbtn" data-crop="${esc(f)}" data-gid="${g.id}">🔍 ${T('特写','close-up')} ${f.split('/').pop().split('_')[0]}</button>`));return a.join('')}
+function locHTML(g,full){
+ const head=`<div>🗄️ ${codeHTML(g)||T('位置待确认','location pending')}</div>`;
+ const rows=g.loc.map(l=>`<div>📍 <b>${esc(l.sec)}</b> → ${esc(l.row)}${l.cnt?` <span class="hint">（${esc(l.cnt)}）</span>`:''}</div>`).join('');
+ const ph=(g.ph.length||g.crops.length)?`<div>${phBtns(g)}</div>`:'';
+ let gal='';
+ if(full&&(g.ph.length||g.crops.length)){const items=[...(!g.codes.length?g.crops.map(f=>({src:cropTh(f),big:f,cap:T('特写 · 推断区域','close-up · inferred area'),crop:1})):[]),...g.ph.map(p=>({src:thPh(p),big:webPh(p),cap:T('照片 ','Photo ')+p}))];
+  gal=`<div class="gal">${items.map(it=>`<figure data-big="${esc(it.big)}" data-cap="${esc(gname(g)+' · '+it.cap)}"><img loading="lazy" src="${esc(it.src)}" alt=""><figcaption>${esc(it.cap)}</figcaption></figure>`).join('')}</div>`}
+ const note=!g.codes.length&&g.inf?`<div class="hint">${T('这款游戏所在位置在照片里看不到货架编号，上面的区域是根据相邻标签推断的；点特写图在高清照片里找盒子。','No shelf code is visible for this game in the photos; the area above is inferred from neighbouring labels. Open the close-up to find the box in the HD photo.')}</div>`:'';
+ return `<div class="loc">${head}${LANG==='en'&&rows?`<div class="hint">${T('','Original notes (Chinese):')}</div>`:''}${rows}${ph}${note}${gal}</div>`}
+function metaHTML(g){const bst=g.bl===g.bh?g.bl:g.bl+'–'+g.bh;return `<div class="meta"><span class="m">👥 ${g.unk?T('人数见盒面','see box'):(g.mn===g.mx?g.mn:g.mn+'–'+g.mx)+T(' 人',' players')}${g.unk?'':T(' · 推荐 ',' · best ')+bst}</span><span class="m">⏱ ${g.unk?'?':(g.t1===g.t2?g.t1:g.t1+'–'+g.t2)} ${T('分钟','min')}</span><span class="m">🎂 ${g.unk?'?':g.age+'+'}</span><span class="m">🧠 ${'●'.repeat(g.w)}${'○'.repeat(5-g.w)} ${WL()[g.w]}</span>${g.tags.slice(0,6).map(t=>`<span class="m">#${esc(tg(t))}</span>`).join('')}</div>`}
+const CL={players:['人数','players'],time:['时长','time'],age:['年龄','age'],weight:['复杂度','weight'],tags:['类型','type'],text:['文字相似','text'],like:['相似游戏','similar']};
+const cl=k=>T(CL[k][0],CL[k][1]);
 function render(){
- const {list,total,P}=scoreAll();
+ const {list,total,P,relaxed}=scoreAll();
  const active=(P.lo!==null||P.time!==null||P.age!==null||P.w!==null||P.prefer.size||P.avoid.size||$('#q').value.trim());
- $('#rtitle').textContent=active?'为你推荐':'先说说想法吧（下面是经典入门推荐）';
- $('#rinfo').textContent=active?`${total} 款符合条件，显示前 ${list.length} 款`:'';
- if(!list.length){$('#res').innerHTML='<div class="empty">没有符合条件的游戏 😅<br>试试取消“严格过滤”，或者放宽人数和时长。</div>';return}
+ $('#rtitle').textContent=active?T('为你推荐','Recommended for you'):T('先说说想法吧（下面是经典入门推荐）','Tell me what you want (classic picks below)');
+ $('#rinfo').textContent=active?T(`${total} 款符合条件，显示前 ${list.length} 款`,`${total} match, showing top ${list.length}`):'';
+ $('#notice').innerHTML=relaxed?`<div class="notice">${T('⚠️ 严格条件下没有完全符合的游戏，下面是放宽人数 / 年龄 / 排除项之后最接近的结果（红色 ✗ 是不满足的条件）。','⚠️ Nothing satisfies every strict condition, so these are the closest matches with strict filtering relaxed (red ✗ marks unmet conditions).')}</div>`:'';
+ if(!list.length){$('#res').innerHTML=`<div class="empty">${T('没有符合条件的游戏 😅<br>试试取消“隐藏资料不足的游戏”，或者换个说法。','No games found 😅<br>Try unticking “hide incomplete data” or rephrasing.')}</div>`;return}
  $('#res').innerHTML=list.map((x,i)=>{const g=x.g,pc=Math.round(x.score*100);
   return `<div class="card"><div class="rank">${i+1}<small>${pc}%</small></div><div>
-  <div class="ttl"><b>${esc(g.name)}</b><span class="id">文档 #${g.id}</span></div>
+  <div class="ttl"><b>${esc(gname(g))}</b><span class="sub">${esc(gsub(g))}</span><span class="id">#${g.id}</span></div>
   ${metaHTML(g)}<div class="bar"><i style="width:${pc}%"></i></div>
-  <div class="summ">${esc(g.summ)}</div>
+  <div class="summ">${esc(gsumm(g))}</div>
   <div class="why">${x.why.map(([c,t])=>`<span class="${c}">${c==='g'?'✓':c==='y'?'△':'✗'} ${esc(t)}</span>`).join('')}</div>
   ${locHTML(g)}
-  <div class="acts"><button class="main" data-doc="${g.id}">📖 查看规则文档</button><a href="${ghDoc(g.file)}" target="_blank">GitHub ↗</a><button data-brk="${i}">📊 评分明细</button></div>
-  <div class="brk" id="brk${i}">${Object.keys(x.C).map(k=>`<span>${CL[k]} ×${W[k]}</span><div class="bar"><i style="width:${Math.round(x.C[k]*100)}%"></i></div><span>${Math.round(x.C[k]*100)}</span>`).join('')||'<span>未设置条件，按默认排序</span>'}</div>
+  <div class="acts"><button class="main" data-doc="${g.id}">📖 ${T('查看规则文档','Open rules')}</button><button data-doc="${g.id}" data-lang="${LANG==='en'?'zh':'en'}">${T('English rules','中文规则')}</button><a href="${ghDoc(g)}" target="_blank">GitHub ↗</a><button data-brk="${i}">📊 ${T('评分明细','Score details')}</button></div>
+  <div class="brk" id="brk${i}">${Object.keys(x.C).map(k=>`<span>${cl(k)} ×${W[k]}</span><div class="bar"><i style="width:${Math.round(x.C[k]*100)}%"></i></div><span>${Math.round(x.C[k]*100)}</span>`).join('')||`<span>${T('未设置条件，按默认排序','no conditions; default order')}</span>`}</div>
   </div></div>`}).join('');
  window._last=list;
 }
-function renderParsed(P,q){const a=[];P.notes.forEach(n=>a.push(`<span class="pt">${esc(n)}</span>`));P.prefer.forEach(t=>a.push(`<span class="pt">想要：${esc(t)}</span>`));P.avoid.forEach(t=>a.push(`<span class="pt neg">排除：${esc(t)}</span>`));
- $('#parsed').innerHTML=a.length?'<span class="hint">已识别 →</span> '+[...new Set(a)].join(''):(q.trim()?'<span class="hint">没有识别出结构化条件，将按文字相似度匹配</span>':'')}
+function renderParsed(P,q){const a=[];P.notes.forEach(n=>a.push(`<span class="pt">${esc(n)}</span>`));P.prefer.forEach(t=>a.push(`<span class="pt">${T('想要：','want: ')}${esc(tg(t))}</span>`));P.avoid.forEach(t=>a.push(`<span class="pt neg">${T('排除：','exclude: ')}${esc(tg(t))}</span>`));
+ $('#parsed').innerHTML=a.length?`<span class="hint">${T('已识别 →','understood →')}</span> `+[...new Set(a)].join(''):(q.trim()?`<span class="hint">${T('没有识别出结构化条件，将按文字相似度匹配','no structured conditions found; matching by text similarity')}</span>`:'')}
 
 /* ---------- controls ---------- */
-const EX=['我们 4 个人，想玩 1 小时左右的推理游戏，不要太烧脑','带 6 岁小孩的家庭聚会，20 分钟','两个人，想要烧脑一点的策略对决','10 个人团建破冰，吹牛搞笑','3 人合作，不要互坑','一晚上的重度德式，3–4 人','人多能喝酒的派对','想玩日系动漫风格的卡牌'];
-$('#ex').innerHTML=EX.map(e=>`<button>${esc(e)}</button>`).join('');
+const EXZ=['我们 4 个人，想玩 1 小时左右的推理游戏，不要太烧脑','带 6 岁小孩的家庭聚会，20 分钟','两个人，想要烧脑一点的策略对决','10 个人团建破冰，吹牛搞笑','3 人合作，不要互坑','类似卡坦岛的，3–4 人','人多能喝酒的派对','Something like Catan for 3-4 players'];
+const EXE=['4 of us, about an hour, deduction but not too heavy','Family night with a 6-year-old, 20 minutes','Two players, a deep strategy duel','10 people icebreaker, bluffing and laughs','3 players co-op, no backstabbing','Something like Catan for 3-4 players','Quick filler under 15 minutes for 5','Spooky horror game for 4 adults, no dice'];
+function buildStaticLists(){
+ $('#ex').innerHTML=(LANG==='en'?EXE:EXZ).map(e=>`<button>${esc(e)}</button>`).join('');
+ $('#tagchips').innerHTML=MAINTAGS.map(t=>`<span class="chip${TAGSTATE[t]===1?' p':TAGSTATE[t]===2?' n':''}" data-t="${esc(t)}">${esc(tg(t))}</span>`).join('');
+ $('#wts').innerHTML=Object.keys(W0).map(k=>`<div class="row"><label>${cl(k)}</label><input type="range" min="0" max="5" step=".5" value="${W[k]}" data-w="${k}"><span class="val" id="wv_${k}">${W[k]}</span></div>`).join('');
+}
 $('#ex').onclick=e=>{if(e.target.tagName==='BUTTON'){$('#q').value=e.target.textContent;render()}};
-$('#tagchips').innerHTML=MAINTAGS.map(t=>`<span class="chip" data-t="${esc(t)}">${esc(t)}</span>`).join('');
 $('#tagchips').onclick=e=>{const t=e.target.dataset.t;if(!t)return;TAGSTATE[t]=((TAGSTATE[t]||0)+1)%3;e.target.className='chip'+(TAGSTATE[t]===1?' p':TAGSTATE[t]===2?' n':'');render()};
-$('#wts').innerHTML=Object.keys(W0).map(k=>`<div class="row"><label>${CL[k]}</label><input type="range" min="0" max="5" step=".5" value="${W0[k]}" data-w="${k}"><span class="val" id="wv_${k}">${W0[k]}</span></div>`).join('');
 $('#wts').oninput=e=>{const k=e.target.dataset.w;if(k){W[k]=+e.target.value;$('#wv_'+k).textContent=W[k];render()}};
-const upd=()=>{$('#tmv').textContent=+$('#tm').value?`≤ ${$('#tm').value} 分钟`:'不限';$('#agv').textContent=+$('#ag').value?`${$('#ag').value} 岁`:'不限'};
+const upd=()=>{$('#tmv').textContent=+$('#tm').value?T(`≤ ${$('#tm').value} 分钟`,`≤ ${$('#tm').value} min`):T('不限','any');$('#agv').textContent=+$('#ag').value?T(`${$('#ag').value} 岁`,`${$('#ag').value} yrs`):T('不限','any')};
 ['#tm','#ag'].forEach(s=>$(s).oninput=()=>{upd();render()});
 ['#pl','#ph','#wt','#strict','#hideunk','#mmr'].forEach(s=>$(s).onchange=render);
 let tmr;$('#q').oninput=()=>{clearTimeout(tmr);tmr=setTimeout(render,250)};
 $('#go').onclick=render;
 $('#lucky').onclick=()=>{render();const l=window._last||[];if(l.length){openDoc(l[Math.floor(Math.random()*Math.min(5,l.length))].g.id)}};
 $('#reset').onclick=()=>{$('#q').value='';['#pl','#ph'].forEach(s=>$(s).value='');$('#tm').value=0;$('#ag').value=0;$('#wt').value='';for(const t in TAGSTATE)delete TAGSTATE[t];$$('.chip').forEach(c=>c.className='chip');upd();render()};
-$('#res').onclick=e=>{const d=e.target.dataset;if(d.doc)openDoc(+d.doc);if(d.brk!==undefined)$('#brk'+d.brk).classList.toggle('show')};
+document.addEventListener('click',e=>{const t=e.target.closest('[data-ph],[data-crop],figure[data-big]');if(!t)return;e.preventDefault();
+ if(t.dataset.ph)openLB(webPh(t.dataset.ph),`${t.dataset.gid?gname(BYID[t.dataset.gid])+' · ':''}${T('照片 ','Photo ')}${t.dataset.ph}`);
+ else if(t.dataset.crop)openLB(t.dataset.crop,`${t.dataset.gid?gname(BYID[t.dataset.gid])+' · ':''}${T('特写（推断区域）','close-up (inferred area)')}`);
+ else openLB(t.dataset.big,t.dataset.cap)});
+$('#res').onclick=e=>{const d=e.target.dataset;if(d.doc)openDoc(+d.doc,d.lang);if(d.brk!==undefined)$('#brk'+d.brk).classList.toggle('show')};
+
+/* ---------- lightbox ---------- */
+function openLB(src,cap){$('#lbi').src=src;$('#lbi').classList.remove('z');$('#lbt').textContent=cap||'';const orig=src.startsWith('photos/web/')?ghPhoto(PHOTOS.find(p=>src.includes(p.id))?.orig||src):src;$('#lbo').href=orig;$('#lb').classList.add('show')}
+function closeLB(){$('#lb').classList.remove('show');$('#lbi').src=''}
+$('#lbx').onclick=closeLB;$('#lbz').onclick=()=>$('#lbi').classList.toggle('z');$('#lbi').onclick=()=>$('#lbi').classList.toggle('z');
 
 /* ---------- all list ---------- */
 let sortK='id',sortD=1;
 function renderAll(){const q=$('#fq').value.trim().toLowerCase();
- let L=G.filter(g=>!q||(g.name+g.title+g.tags.join(' ')+g.summ+g.loc.map(l=>l.sec+l.row).join(' ')).toLowerCase().includes(q));
- L.sort((a,b)=>{const x=a[sortK],y=b[sortK];return (typeof x==='string'?x.localeCompare(y,'zh'):x-y)*sortD});
+ let L=G.filter(g=>!q||(g.name+' '+g.en.n+' '+g.title+' '+g.tags.join(' ')+' '+g.tags.map(tg).join(' ')+' '+g.summ+' '+g.en.s+' '+g.codes.join(' ')+' '+g.loc.map(l=>l.sec+l.row).join(' ')+' #'+g.id).toLowerCase().includes(q));
+ L.sort((a,b)=>{const x=sortK==='name'?gname(a):sortK==='code'?(a.codes[0]||'~'):a[sortK],y=sortK==='name'?gname(b):sortK==='code'?(b.codes[0]||'~'):b[sortK];return (typeof x==='string'?x.localeCompare(y,LANG==='en'?'en':'zh'):x-y)*sortD});
  $('#fcnt').textContent=`${L.length} / ${G.length}`;
- $('#tbl tbody').innerHTML=L.map(g=>`<tr><td>${g.id}</td><td><a href="#doc/${g.id}" data-doc="${g.id}">${esc(g.name)}</a><div class="hint">${esc(g.summ.slice(0,46))}…</div></td><td>${g.unk?'?':g.mn+'–'+g.mx}</td><td>${g.unk?'?':g.t1+'–'+g.t2}′</td><td>${'●'.repeat(g.w)}</td><td>${g.tags.slice(0,4).map(esc).join(' · ')}</td><td class="hint">${g.loc.map(l=>esc(l.sec.split('（')[0])+' → '+esc(l.row)).join('<br>')}</td></tr>`).join('')}
+ $('#tbl tbody').innerHTML=L.map(g=>`<tr><td>${g.id}</td><td><a href="#doc/${g.id}" data-doc="${g.id}">${esc(gname(g))}</a> <span class="sub">${esc(gsub(g))}</span><div class="hint">${esc(gsumm(g).slice(0,LANG==='en'?90:46))}…</div></td><td>${g.unk?'?':g.mn+'–'+g.mx}</td><td>${g.unk?'?':g.t1+'–'+g.t2}′</td><td>${'●'.repeat(g.w)}</td><td>${g.tags.slice(0,4).map(t=>esc(tg(t))).join(' · ')}</td><td class="hint">${codeHTML(g)}<div>${g.loc.map(l=>esc(l.sec.split('（')[0])).filter((v,i,a)=>a.indexOf(v)===i).join('<br>')}</div></td></tr>`).join('');
+}
 $('#fq').oninput=renderAll;
 $$('#tbl th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;sortD=sortK===k?-sortD:1;sortK=k;renderAll()});
 $('#tbl').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d)}};
 
 /* ---------- shelf ---------- */
 function renderShelf(){const S={},order=[];G.forEach(g=>g.loc.forEach(l=>{if(!S[l.sec]){S[l.sec]={};order.push(l.sec)}(S[l.sec][l.row]=S[l.sec][l.row]||[]).push(g)}));
- $('#shelf').innerHTML=order.map(sec=>`<div class="sec"><h4>🗄️ ${esc(sec)}</h4>${Object.entries(S[sec]).map(([r,gs])=>`<div class="rw">${esc(r)}</div>${[...new Set(gs)].map(g=>`<a href="#doc/${g.id}" data-doc="${g.id}">#${g.id} ${esc(g.name)}</a>`).join('')}`).join('')}</div>`).join('')}
+ $('#shelf').innerHTML=order.map(sec=>{const gs=[...new Set(Object.values(S[sec]).flat())];const codes=[...new Set(gs.flatMap(g=>g.codes))].filter(c=>sec.includes(c));const inf=gs.find(g=>!g.codes.length&&g.inf);const ph=[...new Set((sec.match(/1550\d\d|1551\d\d/g)||[]))];
+  return `<div class="sec"><h4>🗄️ ${esc(sec)}</h4><div>${codes.map(c=>`<span class="code">${c}</span>`).join('')}${!codes.length&&inf?`<span class="inf">${esc(T(inf.inf.zh,inf.inf.en).split('；')[0])} ${T('（推断）','(inferred)')}</span>`:''} ${ph.map(p=>`<button class="phbtn" data-ph="${p}">📷 ${p}</button>`).join('')}</div>${Object.entries(S[sec]).map(([r,gs])=>`<div class="rw">${esc(r)}</div>${[...new Set(gs)].map(g=>`<a href="#doc/${g.id}" data-doc="${g.id}">#${g.id} ${esc(gname(g))}</a>`).join('')}`).join('')}</div>`}).join('')}
 $('#shelf').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d)}};
+
+/* ---------- photos ---------- */
+function renderPhotos(){
+ const unc=G.filter(g=>!g.codes.length);
+ $('#photos').innerHTML=`<div class="panel" style="margin-bottom:14px"><h3>📷 ${T('高清货架照片（压缩到 2400px，手机也能打开）','HD shelf photos (resized to 2400px so they open on phones)')}</h3>
+ <p class="hint">${T('GitHub 上的原图约 13 MB，经常显示不出来。这里的版本每张约 0.5–0.9 MB；点开后可以放大，右上角“原图”链接到 GitHub 原文件。','The originals on GitHub are ~13 MB each and often fail to display. These are ~0.5–0.9 MB each; tap to open, tap again to zoom, and “Original” links to the full-size GitHub file.')}</p>
+ <div class="pgrid">${PHOTOS.map(p=>`<figure data-big="${webPh(p.id)}" data-cap="${esc(T('照片 ','Photo ')+p.id+' · '+T(p.zh,p.en))}"><img loading="lazy" src="${thPh(p.id)}" alt=""><figcaption><b>${p.id}</b> · ${esc(T(p.zh,p.en))}</figcaption></figure>`).join('')}</div></div>
+ <div class="panel" style="margin-bottom:14px"><h3>🔍 ${T('没有货架编号区域的特写','Close-ups of areas without shelf codes')}</h3><p class="hint">${T('照片里有 39 款游戏看不到“字母+数字”的货架编号。下面是这些区域的高清裁剪，区域位置是根据相邻标签推断的（≈ 表示推断）。','39 games have no visible letter+number shelf code in the photos. These are HD crops of those areas; the locations are inferred from neighbouring labels (≈ = inferred).')}</p>
+ <div class="pgrid">${CROPS.map(c=>`<figure data-big="${esc(c.file)}" data-cap="${esc(T(c.cap,c.capEn))}"><img loading="lazy" src="${esc(cropTh(c.file))}" alt=""><figcaption>${esc(T(c.cap,c.capEn))}<br>${esc(T(c.areaZh,c.areaEn))}</figcaption></figure>`).join('')}</div></div>
+ <div class="panel"><h3>🧭 ${T(`没有编号的 ${unc.length} 款游戏`,`The ${unc.length} games without a shelf code`)}</h3>
+ <table class="list"><thead><tr><th>#</th><th>${T('游戏','Game')}</th><th>${T('推断区域','Inferred area')}</th><th>${T('照片','Photos')}</th></tr></thead><tbody>${unc.map(g=>`<tr><td>${g.id}</td><td><a href="#doc/${g.id}" data-doc="${g.id}">${esc(gname(g))}</a> <span class="sub">${esc(gsub(g))}</span></td><td>${esc(g.inf?T(g.inf.zh,g.inf.en):'?')}</td><td>${phBtns(g)}</td></tr>`).join('')}</tbody></table></div>`}
+$('#photos').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d)}};
+
+/* ---------- English doc from structured data ---------- */
+function enMd(g){const e=g.en,ol=a=>a.map((x,i)=>`${i+1}. ${x}`).join('\n'),ul=a=>a.map(x=>'- '+x).join('\n');
+ const thin=/^See the rulebook/.test(e.e[0]);
+ return [`# ${e.n}`,`> ${g.name} · #${g.id}${g.unk||g.tags.includes('资料待补')?' · ⚠️ limited public rules data — read the rulebook in the box':''}`,'## Overview',e.s,'## Setup',ol(e.su),'## How to play',ol(e.t),'## Game end & scoring',ul(e.e),
+  thin?'':'## 5-minute teaching order',thin?'':ol([`**Goal first:** ${e.e[0]}`,`**What you do on a turn:** ${e.t[0]}`,`**Setup check:** ${e.su[0]}`,`**The rule people forget:** ${e.pf[0]}`,'Play one open-handed practice round, then start for real.']),
+  '## Strategy tips',ul(e.tp),'## Common mistakes',ul(e.pf),'## Good for / not for',ul([`**Good for:** ${g.fitEn[0].join('; ')}`,`**Not ideal for:** ${g.fitEn[1].join('; ')}`]),
+  '---',`*English summary written from the Chinese doc and public rules; the rulebook in the box wins. Repo file: [boardgames/en/${g.enfile}](${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)})*`].filter(Boolean).join('\n\n')}
 
 /* ---------- read-all ---------- */
 let readDone=false;
 function renderRead(){if(readDone)return;readDone=true;
- $('#readall').innerHTML='<h1>📖 规则合集（155 篇）</h1><p class="hint">这里是全部单篇文档的合集，仓库中对应 <code>boardgames/ALL_合集.md</code>。点击目录可以跳到对应游戏。</p><ol>'+G.map(g=>`<li><a href="#r${g.id}" data-jump="${g.id}">${esc(g.name)}</a></li>`).join('')+'</ol><hr>'+
- G.map(g=>`<div id="r${g.id}">${md(DATA.docs[g.file])}${locHTML(g)}<p><a href="#" data-top="1">↑ 回到顶部</a></p><hr></div>`).join('')}
+ $('#readall').innerHTML=(LANG==='en'?`<h1>📖 All English rules (${G.length})</h1><p class="hint">English versions of every doc; in the repo they are <code>boardgames/en/</code> (also split into ALL_EN_part1 / part2). Switch to 中文 for the full Chinese docs.</p>`:`<h1>📖 规则合集（${G.length} 篇）</h1><p class="hint">全部单篇文档的合集，仓库中对应 <code>boardgames/ALL_合集_上册 / 下册</code>。切换到 EN 可以看英文版。</p>`)+
+ '<ol>'+G.map(g=>`<li><a href="#r${g.id}" data-jump="${g.id}">${esc(gname(g))}</a></li>`).join('')+'</ol><hr>'+
+ G.map(g=>`<div id="r${g.id}">${md(LANG==='en'?enMd(g):DATA.docs[g.file])}${locHTML(g)}<p><a href="#" data-top="1">↑ ${T('回到顶部','Back to top')}</a></p><hr></div>`).join('')}
 $('#readall').onclick=e=>{const j=e.target.dataset.jump;if(j){e.preventDefault();document.getElementById('r'+j).scrollIntoView({behavior:'smooth'})}if(e.target.dataset.top){e.preventDefault();scrollTo({top:0,behavior:'smooth'})}const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d)}};
 
 /* ---------- markdown ---------- */
 function inl(s){s=esc(s);
  s=s.replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>').replace(/(^|[^*])\*([^*\s][^*]*)\*/g,'$1<i>$2</i>');
- s=s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,(m,t,u)=>{const f=decodeURIComponent(u).replace(/^\.\//,'').replace(/^boardgames\//,'');if(BYFILE[f])return `<a href="#doc/${BYFILE[f].id}" data-doc="${BYFILE[f].id}">${t}</a>`;if(/^https?:/.test(u))return `<a href="${u}" target="_blank">${t}</a>`;if(/\.md$/.test(f))return `<a href="${REPO}/blob/main/boardgames/${encodeURIComponent(f)}" target="_blank">${t}</a>`;return `<a href="${REPO}/blob/main/${u}" target="_blank">${t}</a>`});
+ s=s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,(m,t,u)=>{const f=decodeURIComponent(u).replace(/^\.\//,'').replace(/^boardgames\//,'');{const me=f.match(/^en\/(\d+)_/);if(me&&BYID[+me[1]])return `<a href="#doc/${+me[1]}" data-doc="${+me[1]}" data-lang="en">${t}</a>`}if(BYFILE[f])return `<a href="#doc/${BYFILE[f].id}" data-doc="${BYFILE[f].id}">${t}</a>`;if(/^https?:/.test(u))return `<a href="${u}" target="_blank">${t}</a>`;if(/\.md$/.test(f))return `<a href="${REPO}/blob/main/boardgames/${encodeURIComponent(f)}" target="_blank">${t}</a>`;return `<a href="${REPO}/blob/main/${u}" target="_blank">${t}</a>`});
  s=s.replace(/(^|[\s（(])(https?:\/\/[^\s<）)]+)/g,'$1<a href="$2" target="_blank">$2</a>');
  return s}
 function md(src){if(!src)return '';src=src.replace(/<!--[\s\S]*?-->/g,'').replace(/<a id="[^"]*"><\/a>/g,'');
@@ -461,36 +746,47 @@ function md(src){if(!src)return '';src=src.replace(/<!--[\s\S]*?-->/g,'').replac
   o.push('<p>'+p.map(inl).join('<br>')+'</p>')}
  return o.join('\n')}
 
+
 /* ---------- doc panel & routing ---------- */
-function openDoc(id){const g=BYID[id];if(!g)return;
- $('#dt').textContent=`#${g.id} ${g.name}`;
- $('#dlinks').innerHTML=`<a href="${ghDoc(g.file)}" target="_blank" class="hint">在 GitHub 打开 ↗</a>`;
- $('#dloc').innerHTML=metaHTML(g)+locHTML(g);
- $('#dmd').innerHTML=md(DATA.docs[g.file]);
- $('#doc').classList.add('show');$('.dp').scrollTop=0;
+let curDoc=null,docLang=null;
+function openDoc(id,lang,keep){const g=BYID[id];if(!g)return;curDoc=id;docLang=lang||(keep?docLang:null)||LANG;
+ $('#dt').textContent=`#${g.id} ${gname(g)}`;
+ $('#dlinks').innerHTML=`<a href="${docLang==='en'?`${REPO}/blob/main/boardgames/en/${encodeURIComponent(g.enfile)}`:`${REPO}/blob/main/boardgames/${encodeURIComponent(g.file)}`}" target="_blank" class="hint">${T('在 GitHub 打开 ↗','Open on GitHub ↗')}</a>`;
+ const sims=similar(g,6);
+ const good=LANG==='en'?g.fitEn:g.fit;
+ $('#dloc').innerHTML=`<div class="sub" style="margin-top:8px">${esc(gsub(g))}</div>`+metaHTML(g)+locHTML(g,true)+
+  `<div class="box"><h5>💡 ${T('一句话','In one line')}</h5>${esc(gsumm(g))}<div style="margin-top:6px"><b>${T('适合','Good for')}：</b>${esc(good[0].join(T('；','; ')))}<br><b>${T('不太适合','Not ideal for')}：</b>${esc(good[1].join(T('；','; ')))}</div></div>`+
+  `<div class="box"><h5>🔁 ${T('喜欢这款，也可以试试','If you like this, try')}</h5><div class="sim">${sims.map(s=>`<a href="#doc/${s.x.id}" data-doc="${s.x.id}">${esc(gname(s.x))} <span class="hint">${Math.round(s.s*100)}%</span></a>`).join('')}</div></div>`;
+ $('#dtabs').innerHTML=`<button data-dl="zh" class="${docLang==='zh'?'on':''}">中文原文（含深入玩法）</button><button data-dl="en" class="${docLang==='en'?'on':''}">English rules</button>`;
+ $('#dmd').innerHTML=docLang==='en'?md(enMd(g)):md(DATA.docs[g.file]);
+ $('#doc').classList.add('show');if(!keep)$('.dp').scrollTop=0;
  if(location.hash!=='#doc/'+id)history.pushState(null,'','#doc/'+id)}
-function closeDoc(){$('#doc').classList.remove('show');if(location.hash.startsWith('#doc/'))history.pushState(null,'',location.pathname+location.search+'#'+cur)}
+function closeDoc(){$('#doc').classList.remove('show');curDoc=null;if(location.hash.startsWith('#doc/'))history.pushState(null,'',location.pathname+location.search+'#'+cur)}
 $('#dx').onclick=closeDoc;$('#doc').onclick=e=>{if(e.target.id==='doc')closeDoc()};
-$('#dmd').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d)}};
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDoc()});
+$('#dtabs').onclick=e=>{const l=e.target.dataset.dl;if(l&&curDoc)openDoc(curDoc,l,true)};
+$('#dloc').onclick=e=>{const d=e.target.closest('[data-doc]');if(d&&!d.dataset.ph){e.preventDefault();openDoc(+d.dataset.doc)}};
+$('#dmd').onclick=e=>{const d=e.target.dataset.doc;if(d){e.preventDefault();openDoc(+d,e.target.dataset.lang)}};
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){if($('#lb').classList.contains('show'))closeLB();else closeDoc()}});
 let cur='match';
-function show(v){cur=v;$$('#nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));['match','all','shelf','read'].forEach(x=>$('#v-'+x).hidden=x!==v);
- if(v==='all')renderAll();if(v==='shelf')renderShelf();if(v==='read')renderRead()}
+const VIEWS=['match','all','shelf','photos','read'];
+function show(v){cur=v;$$('#nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));VIEWS.forEach(x=>$('#v-'+x).hidden=x!==v);
+ if(v==='all')renderAll();if(v==='shelf')renderShelf();if(v==='photos')renderPhotos();if(v==='read')renderRead()}
 $('#nav').onclick=e=>{const v=e.target.dataset.v;if(v){show(v);history.pushState(null,'','#'+v)}};
-function route(){const h=location.hash.slice(1);if(h.startsWith('doc/')){openDoc(+h.slice(4))}else{$('#doc').classList.remove('show');if(['match','all','shelf','read'].includes(h))show(h)}}
+function route(){const h=location.hash.slice(1);if(h.startsWith('doc/')){openDoc(+h.slice(4))}else{$('#doc').classList.remove('show');if(VIEWS.includes(h))show(h)}
+ const qq=new URLSearchParams(location.search).get('q');if(qq&&!$('#q').value){$('#q').value=qq;render()}}
 window.addEventListener('popstate',route);
 
 /* ---------- mobile helpers ---------- */
 const MOB=matchMedia('(max-width:900px)');
 if(MOB.matches)$('#cond').open=false;
-function condCount(){let n=0;if($('#pl').value)n++;if(+$('#tm').value)n++;if(+$('#ag').value)n++;if($('#wt').value)n++;n+=Object.values(TAGSTATE).filter(Boolean).length;$('#condn').textContent=n?`已设 ${n} 项`:''}
+function condCount(){let n=0;if($('#pl').value)n++;if(+$('#tm').value)n++;if(+$('#ag').value)n++;if($('#wt').value)n++;n+=Object.values(TAGSTATE).filter(Boolean).length;$('#condn').textContent=n?T(`已设 ${n} 项`,`${n} set`):''}
 document.addEventListener('input',condCount);document.addEventListener('click',()=>setTimeout(condCount,0));
 const goRes=()=>{if(MOB.matches)$('#rtitle').scrollIntoView({behavior:'smooth',block:'start'})};
 $('#go').addEventListener('click',goRes);
 $('#ex').addEventListener('click',e=>{if(e.target.tagName==='BUTTON')goRes()});
 addEventListener('scroll',()=>$('#fab').classList.toggle('show',scrollY>600),{passive:true});
 $('#fab').onclick=()=>scrollTo({top:0,behavior:'smooth'});
-upd();render();route();condCount();
+applyLang();buildStaticLists();upd();render();route();condCount();
 </script>
 </body>
 </html>

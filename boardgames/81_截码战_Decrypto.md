@@ -1,4 +1,5 @@
 # 截码战（Decrypto）
+> 🌐 English version: [en/81_Decrypto.md](en/81_Decrypto.md)
 
 > 货架位置：照片 155102，D1/D2 行，共 4 盒（3 盒橙色收音机封面、1 盒白色版）
 

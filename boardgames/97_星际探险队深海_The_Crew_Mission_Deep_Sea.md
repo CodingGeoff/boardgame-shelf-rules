@@ -1,4 +1,5 @@
 # 星际探险队：深海任务 / 深海探险队（The Crew: Mission Deep Sea）
+> 🌐 English version: [en/97_The_Crew_Mission_Deep_Sea.md](en/97_The_Crew_Mission_Deep_Sea.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（标签 E3）
 

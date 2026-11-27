@@ -1,4 +1,5 @@
 # 骇浪求生（Lifeboat，又名 怒海求生）
+> 🌐 English version: [en/37_Lifeboat.md](en/37_Lifeboat.md)
 
 > 货架位置：照片 155046 B4 货架，3 盒
 > 注：盒面设计师名字是 Jeff Siadek（照片里看起来像 “Szadek”）。

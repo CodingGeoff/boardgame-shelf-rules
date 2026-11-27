@@ -1,4 +1,5 @@
 # 卡卡颂（Carcassonne）
+> 🌐 English version: [en/102_Carcassonne.md](en/102_Carcassonne.md)
 
 > 货架位置：照片 155102 E4 层，2 盒
 

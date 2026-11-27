@@ -1,4 +1,5 @@
 # 四海好伙伴 / 四海好家伙（GoodCritters）
+> 🌐 English version: [en/139_Good_Critters.md](en/139_Good_Critters.md)
 
 > 货架位置：照片 155121，G4 层，盒侧印「四海好伙伴 Goodcritters」
 > 香港 WOB 有中英双语版，译名《四海好傢伙》。

@@ -1,4 +1,5 @@
 # 树木园（Arboretum）
+> 🌐 English version: [en/56_Arboretum.md](en/56_Arboretum.md)
 
 > 货架位置：照片 155049 小盒堆
 

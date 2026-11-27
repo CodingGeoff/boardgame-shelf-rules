@@ -1,4 +1,5 @@
 # 奶酪大盗（Cheese Thief / Käsedieb）
+> 🌐 English version: [en/129_Cheese_Thief.md](en/129_Cheese_Thief.md)
 
 > 货架位置：照片 155114，F2 行，蓝色小盒 ×3，盒侧印「CHEESE THIEF」「奶酪大盗」和 Jolly Thinkers 标志，侧面写着 8+
 

@@ -1,4 +1,5 @@
 # 一夜终极狼人（One Night Ultimate Werewolf）
+> 🌐 English version: [en/150_One_Night_Ultimate_Werewolf.md](en/150_One_Night_Ultimate_Werewolf.md)
 
 > 货架位置：照片 155128，F5 层透明收纳箱，蓝框标签「38 一夜终极狼人…」（标签最后几个字看不清，可能是“一夜终极狼人”加上版本或扩展名）
 > 文档 99《终极狼人》（多夜版）和文档 98《狼人真言》是同系列的其他作品。

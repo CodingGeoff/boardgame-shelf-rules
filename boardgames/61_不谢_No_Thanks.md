@@ -1,4 +1,5 @@
 # 不谢牌（No Thanks! / Geschenkt!，又名 不了不了 / 敬谢不敏）
+> 🌐 English version: [en/61_No_Thanks.md](en/61_No_Thanks.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“不谢牌”×2，蓝标“57 不谢牌”）
 

@@ -1,4 +1,5 @@
 # 飞行棋（Aeroplane Chess）
+> 🌐 English version: [en/154_Aeroplane_Chess.md](en/154_Aeroplane_Chess.md)
 
 > 货架位置：照片 155128，左下角，黄边棋盘盒（盒边倒印「飞行棋」，四色航线上画着飞机图案）
 

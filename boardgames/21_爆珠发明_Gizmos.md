@@ -1,4 +1,5 @@
 # 爆珠发明（Gizmos）
+> 🌐 English version: [en/21_Gizmos.md](en/21_Gizmos.md)
 
 > 货架位置：A4（繁体盒面“爆珠發明”）
 

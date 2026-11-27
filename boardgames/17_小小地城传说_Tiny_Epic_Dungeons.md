@@ -1,4 +1,5 @@
 # 小小地城传说（Tiny Epic Dungeons）
+> 🌐 English version: [en/17_Tiny_Epic_Dungeons.md](en/17_Tiny_Epic_Dungeons.md)
 
 > 货架位置：A3
 

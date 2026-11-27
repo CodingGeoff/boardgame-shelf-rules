@@ -1,4 +1,5 @@
 # 东京之王：暗黑无界（King of Tokyo: Dark Edition）
+> 🌐 English version: [en/104_King_of_Tokyo_Dark_Edition.md](en/104_King_of_Tokyo_Dark_Edition.md)
 
 > 货架位置：照片 155102 / 155106 D4 层，3 盒（CMON × iello 中文版）
 > 店里第一轮也许有普通版《东京之王》，规则基本相同；本篇以暗黑版为主，并说明暗黑版特有的**邪恶值**。

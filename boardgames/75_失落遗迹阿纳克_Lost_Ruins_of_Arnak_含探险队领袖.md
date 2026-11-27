@@ -1,4 +1,5 @@
 # 失落遗迹：阿纳克（Lost Ruins of Arnak）＋ 扩展《探险队领袖》（Expedition Leaders）
+> 🌐 English version: [en/75_Lost_Ruins_of_Arnak.md](en/75_Lost_Ruins_of_Arnak.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（“失落遗迹：阿纳克”本体，12+、30 分钟/人）；右上角那摞还有扩展“探险队领袖”。两者合并在本文档。
 

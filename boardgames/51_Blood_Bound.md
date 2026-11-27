@@ -1,4 +1,5 @@
 # Blood Bound（吸血鬼血族推理，中文名以盒面为准）
+> 🌐 English version: [en/51_Blood_Bound.md](en/51_Blood_Bound.md)
 
 > 货架位置：照片 155049 小盒堆（贴 B2 标签；155053 左边缘是同一盒，不重复计数）
 

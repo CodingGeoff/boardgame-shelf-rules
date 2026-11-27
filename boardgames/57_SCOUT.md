@@ -1,4 +1,5 @@
 # SCOUT!（スカウト！）
+> 🌐 English version: [en/57_SCOUT.md](en/57_SCOUT.md)
 
 > 货架位置：照片 155049 小盒堆
 

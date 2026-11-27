@@ -1,0 +1,57 @@
+# Wanted and Recruit (Bounty Hunter II)
+
+> Chinese name: **赏金猎人Ⅱ·忒修斯之海** · Doc #31 · [中文原文 / Chinese doc](../31_%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BAII_%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E6%B5%B7_Wanted_and_Recruit.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/31)
+
+> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 2–4 (best: 2) |
+| Play time | 30 min |
+| Age | 12+ |
+| Complexity | ●●●○○ Medium (3/5) |
+| Tags | combat, cards, data incomplete |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: ≈ upper level of the B section (a B4 box sits beside it) *(inferred)*
+- **Photos:** [155049](../../photos/web/IMG20261127155049.jpg)
+- **Close-up crops:** [c1](../../photos/crops/c1_155049_upper.jpg)
+- Original note (Chinese): 照片 155049 上层与左侧 → 上层
+
+## Overview
+
+A Chinese duel card game with multi-use cards and positioning; a mechanics-only starter mode exists.
+
+## Setup
+
+1. Read the base rules; ignore card text in the first game.
+
+## How to play
+
+1. Cards serve multiple purposes; choose the best use each turn.
+2. Positioning matters like chess.
+
+## Game end & scoring
+
+- See the rulebook.
+
+## Strategy tips
+
+- Plan moves ahead.
+- Weigh each card's alternative uses.
+
+## Common mistakes
+
+- Details per rulebook.
+
+## Good for / not for
+
+- **Good for:** most board gamers
+- **Not ideal for:** (rules data incomplete — read the rulebook first)
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../31_%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BAII_%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E6%B5%B7_Wanted_and_Recruit.md).*

@@ -1,4 +1,5 @@
 # 京都谍影（Shadows in Kyoto）
+> 🌐 English version: [en/02_Shadows_in_Kyoto.md](en/02_Shadows_in_Kyoto.md)
 
 > 货架位置：A2 中间那摞（IMG…155038 上层 / 155036 下层）
 

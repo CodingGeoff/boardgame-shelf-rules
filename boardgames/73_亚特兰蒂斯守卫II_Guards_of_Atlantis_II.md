@@ -1,4 +1,5 @@
 # 亚特兰蒂斯守卫 II（Guards of Atlantis II）
+> 🌐 English version: [en/73_Guards_of_Atlantis_II.md](en/73_Guards_of_Atlantis_II.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（英文盒）
 > 中文名为暂译。

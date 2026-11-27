@@ -1,4 +1,5 @@
 # 蟑螂扑克（Kakerlakenpoker，台译 德国蟑螂）
+> 🌐 English version: [en/53_Cockroach_Poker.md](en/53_Cockroach_Poker.md)
 
 > 货架位置：照片 155049 小盒堆
 

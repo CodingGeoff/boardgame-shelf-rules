@@ -1,4 +1,5 @@
 # 狗运当骰（SPOTS）
+> 🌐 English version: [en/15_SPOTS.md](en/15_SPOTS.md)
 
 > 货架位置：A3，**2 盒**
 

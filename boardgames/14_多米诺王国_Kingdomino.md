@@ -1,4 +1,5 @@
 # 多米诺王国（Kingdomino）
+> 🌐 English version: [en/14_Kingdomino.md](en/14_Kingdomino.md)
 
 > 货架位置：A3
 

@@ -1,4 +1,5 @@
 # 脑洞量表（Top Ten）
+> 🌐 English version: [en/92_Top_Ten.md](en/92_Top_Ten.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（黑盒，“脑洞量表 TOP TEN”，粉色副标）
 

@@ -1,4 +1,5 @@
 # 狼人真言（Werewords）
+> 🌐 English version: [en/98_Werewords.md](en/98_Werewords.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（标签 E3）
 

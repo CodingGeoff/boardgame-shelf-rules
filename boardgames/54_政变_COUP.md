@@ -1,4 +1,5 @@
 # 政变（COUP，又名 政变疑云 / 城市叛变）
+> 🌐 English version: [en/54_Coup.md](en/54_Coup.md)
 
 > 货架位置：照片 155049 小盒堆（贴 B2 标签）
 

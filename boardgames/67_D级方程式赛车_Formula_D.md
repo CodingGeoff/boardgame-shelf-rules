@@ -1,4 +1,5 @@
 # Formula D（D 级方程式赛车）
+> 🌐 English version: [en/67_Formula_D.md](en/67_Formula_D.md)
 
 > 货架位置：照片 155053 顶层，盒脊上的汽车画面和残字“…FORMU…”。
 > ✅ 已确认：第三轮照片 155102 顶层大盒堆清楚拍到 Formula D（Asmodee 版）完整盒面。

@@ -1,4 +1,5 @@
 # 炸弹猫（BOMB KITTENS）
+> 🌐 English version: [en/34_Bomb_Kittens.md](en/34_Bomb_Kittens.md)
 
 > 货架位置：照片 155049 小盒堆，共 4 盒
 > ⚠️ 盒面是 “BOMB KITTENS”，玩法属于《炸弹猫 / Exploding Kittens》这一类。下面按通行规则整理；**这一版的卡种和数量如果不同，以说明书为准**。

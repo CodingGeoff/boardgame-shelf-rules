@@ -1,4 +1,5 @@
 # 百万美金（Millions of Dollars）
+> 🌐 English version: [en/148_Millions_of_Dollars.md](en/148_Millions_of_Dollars.md)
 
 > 货架位置：照片 155125 F4 / G4 中间那摞，红黑色盒 ×6（盒侧印「MILLIONS of dollars 百万美金」）
 > 最上面还有一盒风格不同的「BAHAMAS」盒，是不是这款游戏的扩展无法确认，见 README 待确认。

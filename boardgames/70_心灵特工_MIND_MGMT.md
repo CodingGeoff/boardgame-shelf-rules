@@ -1,4 +1,5 @@
 # 心灵特工（MIND MGMT: The Psychic Espionage "Game."）
+> 🌐 English version: [en/70_MIND_MGMT.md](en/70_MIND_MGMT.md)
 
 > 货架位置：照片 155053 顶层黄色盒，只露出“MI / MG”字样。
 > ✅ 已确认：第三轮照片 155102 顶层清楚拍到中文版盒面“心灵特工”（副标“灵能谍报机构忠诚度测试”）。

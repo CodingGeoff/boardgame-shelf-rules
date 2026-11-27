@@ -1,4 +1,5 @@
 # 王权困境（The King's Dilemma）
+> 🌐 English version: [en/76_The_King_s_Dilemma.md](en/76_The_King_s_Dilemma.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（一刻馆中文版，标签 D1）
 > ⚠️ 这是**传承（Legacy）**游戏：开封后贴纸、信封、签名会永久改变游戏。店里的这盒可能已经推进过剧情，借玩前请先问店员当前进度。

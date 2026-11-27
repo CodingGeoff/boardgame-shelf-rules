@@ -1,4 +1,5 @@
 # 犯人在跳舞（犯人は踊る / Criminal Dance）
+> 🌐 English version: [en/45_Criminal_Dance.md](en/45_Criminal_Dance.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“56 犯人在跳舞”×2）和照片 155049 小盒堆（贴 B2 标签 ×1）
 

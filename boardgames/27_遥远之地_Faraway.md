@@ -1,4 +1,5 @@
 # 遥远之地 / 远方（Faraway）
+> 🌐 English version: [en/27_Faraway.md](en/27_Faraway.md)
 
 > 货架位置：155036 中层
 

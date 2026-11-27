@@ -1,4 +1,5 @@
 # 玩具大战（Toy Battle）
+> 🌐 English version: [en/12_Toy_Battle.md](en/12_Toy_Battle.md)
 
 > 货架位置：A3
 

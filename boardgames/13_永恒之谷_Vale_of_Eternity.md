@@ -1,4 +1,5 @@
 # 永恒之谷（The Vale of Eternity）
+> 🌐 English version: [en/13_The_Vale_of_Eternity.md](en/13_The_Vale_of_Eternity.md)
 
 > 货架位置：A3
 

@@ -1,4 +1,5 @@
 # 小小城镇（Tiny Towns）
+> 🌐 English version: [en/83_Tiny_Towns.md](en/83_Tiny_Towns.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 F2）
 

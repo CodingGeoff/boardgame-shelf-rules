@@ -1,4 +1,5 @@
 # 犯罪现场（Deception: Murder in Hong Kong）
+> 🌐 English version: [en/135_Deception_Murder_in_Hong_Kong.md](en/135_Deception_Murder_in_Hong_Kong.md)
 
 > 货架位置：照片 155121，G2 层，黑金色盒 ×2，盒侧印「犯罪现场 CSI」，带「千骐动漫 / 千智」标志。图标显示人数 2/4–9、时长 20 分钟、年龄 18+。
 > 原版是 Grey Fox Games 的《Deception: Murder in Hong Kong》，原版支持 4–12 人，这盒标注的人数配置与原版不同。⚠️ 角色和人数以盒内说明书为准。

@@ -1,4 +1,5 @@
 # 同房异梦（Décorum）
+> 🌐 English version: [en/120_D_corum.md](en/120_D_corum.md)
 
 > 货架位置：照片 155121 中部，盒侧印「同房異夢 Décorum」，2–4 人 / 30–45 分钟 / 13+
 

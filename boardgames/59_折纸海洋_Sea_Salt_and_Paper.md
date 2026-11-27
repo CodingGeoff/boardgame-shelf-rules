@@ -1,4 +1,5 @@
 # 折纸海洋（Sea Salt & Paper，盒面“折纸海洋”）
+> 🌐 English version: [en/59_Sea_Salt_Paper.md](en/59_Sea_Salt_Paper.md)
 
 > 货架位置：照片 155049 小盒堆（贴 C3 标签）
 

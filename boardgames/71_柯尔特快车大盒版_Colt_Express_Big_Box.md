@@ -1,4 +1,5 @@
 # 柯尔特快车 大盒版（Colt Express: Big Box）
+> 🌐 English version: [en/71_Colt_Express_Big_Box.md](en/71_Colt_Express_Big_Box.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（黄色长盒，盒侧印“柯尔特快车 大盒版”，署名 Christophe Raimbault、Jordi Valbuena）
 > 大盒版内容：基础游戏 + 两个大扩展《马匹与驿站马车》《警长与囚犯》+ 新角色 1 名（香港二手商品页也写“Base game + 2 扩充 + 1 新角色”）。

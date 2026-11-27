@@ -1,4 +1,5 @@
 # Take Time
+> 🌐 English version: [en/07_Take_Time.md](en/07_Take_Time.md)
 
 > 货架位置：A2 右侧有一盒**黑色版**（2–4 人、30 分钟、14+）；A3 左摞还有一盒**彩色盒面**的。⚠️ 两盒是否同一款游戏还没确认：可能是同一游戏的不同中文版或印次，也可能有一盒是别的游戏。下文按 Libellud 出版的《Take Time》整理。
 

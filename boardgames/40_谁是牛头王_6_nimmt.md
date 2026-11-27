@@ -1,4 +1,5 @@
 # 谁是牛头王（6 nimmt! / Take 6!）
+> 🌐 English version: [en/40_6_nimmt.md](en/40_6_nimmt.md)
 
 > 货架位置：照片 155049 小盒堆（盒面“6 谁是牛头王”）
 

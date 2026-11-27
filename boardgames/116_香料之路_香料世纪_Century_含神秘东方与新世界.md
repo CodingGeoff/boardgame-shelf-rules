@@ -1,4 +1,5 @@
 # 香料之路 / 香料世纪（Century 系列：香料之路 + 东方奇观 + 新世界）
+> 🌐 English version: [en/116_Century_Trilogy.md](en/116_Century_Trilogy.md)
 
 > 货架位置：照片 155109，E4 层右侧，一共 4 盒黑蓝色盒子：
 > - 「SPICE 香料世纪」基础 ×2

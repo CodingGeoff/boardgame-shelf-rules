@@ -1,4 +1,5 @@
 # 险恶迷航（Feed the Kraken）
+> 🌐 English version: [en/122_Feed_the_Kraken.md](en/122_Feed_the_Kraken.md)
 
 > 货架位置：照片 155121，G2 附近，盒侧印「险恶迷航」和标语「水手们最爱的推理游戏」
 > 台湾译名为《險惡疑航》。

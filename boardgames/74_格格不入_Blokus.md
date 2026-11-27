@@ -1,4 +1,5 @@
 # 格格不入 / 角斗士（Blokus）
+> 🌐 English version: [en/74_Blokus.md](en/74_Blokus.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（盒面写“The … strategy for the whole family”，印有多格拼块棋盘）
 > 盒子没露出完整标题，按标语和棋盘判断为 Blokus（Blokus 的经典标语就是 *The strategy game for the whole family*）。⚠️ 也可能是同系列 Blokus 变体，请核对盒面。

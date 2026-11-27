@@ -1,0 +1,65 @@
+# Arcs
+
+> Chinese name: **星弧航记 ARCS** · Doc #123 · [中文原文 / Chinese doc](../123_%E6%98%9F%E5%BC%A7%E8%88%AA%E8%AE%B0_ARCS.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/123)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 2–4 (best: 3-4) |
+| Play time | 60–120 min |
+| Age | 14+ |
+| Complexity | ●●●●○ Medium-heavy (4/5) |
+| Tags | sci-fi, trick-taking, conflict, heavy, ambition |
+
+## Where is it on the shelf?
+
+- **Shelf code:** none on the photo — inferred area: ≈ top of the E–G cabinets (above the E1/E2, F1/F2, G1/G2 signs) *(inferred)*
+- **Photos:** [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg)
+- **Close-up crops:** [c6](../../photos/crops/c6_155114_top.jpg), [c7](../../photos/crops/c7_155121_top.jpg)
+- Original note (Chinese): 照片 155114 / 155121：顶部大盒堆 → 星弧航记 ARCS
+
+## Overview
+
+Sci-fi conflict: trick-taking drives your actions; declare ambitions and fight over resources, court cards and territory.
+
+## Setup
+
+1. Deal action cards (Administration, Aggression, Construction, Mobilization).
+
+## How to play
+
+1. Lead a card; others surpass, copy or pivot.
+2. Take actions per the card; declare ambitions.
+3. Battle with dice; collect resources and court cards.
+
+## Game end & scoring
+
+- After three chapters, ambition scores decide the winner.
+
+## 5-minute teaching order
+
+1. **Goal first:** After three chapters, ambition scores decide the winner.
+2. **What you do on a turn:** Lead a card; others surpass, copy or pivot.
+3. **Setup check:** Deal action cards (Administration, Aggression, Construction, Mobilization).
+4. **The one rule people forget:** Many details — follow the rulebook.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Declare ambitions you can win.
+- Pivot to grab actions the leader denies.
+- Avoid attrition wars.
+
+## Common mistakes
+
+- Many details — follow the rulebook.
+
+## Good for / not for
+
+- **Good for:** experienced gamers who want a deep think
+- **Not ideal for:** relaxed chatting sessions
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../123_%E6%98%9F%E5%BC%A7%E8%88%AA%E8%AE%B0_ARCS.md).*

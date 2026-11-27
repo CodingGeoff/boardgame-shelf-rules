@@ -1,4 +1,5 @@
 # 忍者之夜（Night of the Ninja）
+> 🌐 English version: [en/80_Night_of_the_Ninja.md](en/80_Night_of_the_Ninja.md)
 
 > 货架位置：照片 155102，D1/D2 行，2 盒
 

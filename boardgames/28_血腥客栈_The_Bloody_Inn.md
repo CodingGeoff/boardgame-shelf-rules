@@ -1,4 +1,5 @@
 # 血腥客栈（The Bloody Inn）
+> 🌐 English version: [en/28_The_Bloody_Inn.md](en/28_The_Bloody_Inn.md)
 
 > 货架位置：155036 中层
 

@@ -1,4 +1,5 @@
 # 拉斯维加斯 皇家版（Las Vegas Royale）
+> 🌐 English version: [en/107_Las_Vegas_Royale.md](en/107_Las_Vegas_Royale.md)
 
 > 货架位置：照片 155102 / 155106 D4 层 3 盒 + E5 层 1 盒 alea 版（可能是同系列的 *Las Vegas* 基础版）
 

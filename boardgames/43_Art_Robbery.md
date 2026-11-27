@@ -1,4 +1,5 @@
 # Art Robbery（艺术品大劫案，中文名以盒面为准）
+> 🌐 English version: [en/43_Art_Robbery.md](en/43_Art_Robbery.md)
 
 > 货架位置：照片 155049 小盒堆
 

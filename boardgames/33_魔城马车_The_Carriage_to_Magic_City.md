@@ -1,4 +1,5 @@
 # 魔城马车（The Carriage to Magic City / Die Kutschfahrt zur Teufelsburg）
+> 🌐 English version: [en/33_The_Carriage_to_Magic_City.md](en/33_The_Carriage_to_Magic_City.md)
 
 > 货架位置：照片 155049 小盒堆。盒上写 3–6（可到 10）人、12+、35–60 分钟。
 > ⚠️ 盒面英文名是 “The Carriage to Magic City”。查到的资料显示，它就是《魔城马车》（德文原名 Die Kutschfahrt zur Teufelsburg，英文常译 Coach Ride to Devil's Castle）。实物如果有差异，以说明书为准。

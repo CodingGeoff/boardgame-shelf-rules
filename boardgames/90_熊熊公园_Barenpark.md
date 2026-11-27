@@ -1,4 +1,5 @@
 # 熊熊公园（Bärenpark）
+> 🌐 English version: [en/90_B_renpark.md](en/90_B_renpark.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（盒侧“熊熊公园”，熊掌图标）
 

@@ -1,4 +1,5 @@
 # 作弊飞蛾（Mogel Motte / Cheating Moth）
+> 🌐 English version: [en/52_Mogel_Motte.md](en/52_Mogel_Motte.md)
 
 > 货架位置：照片 155049 小盒堆，2 盒
 

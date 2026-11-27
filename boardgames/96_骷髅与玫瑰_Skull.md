@@ -1,4 +1,5 @@
 # 骷髅与玫瑰 / 骷髅（Skull, Skull & Roses）
+> 🌐 English version: [en/96_Skull.md](en/96_Skull.md)
 
 > 货架位置：照片 155102 / 155106 D3 层，共 2 盒：一盒骷髅花纹（墨西哥亡灵节风格），一盒蓝色“Un jeu de Hervé Marly”。两种都是 Skull 的不同封面版本。
 

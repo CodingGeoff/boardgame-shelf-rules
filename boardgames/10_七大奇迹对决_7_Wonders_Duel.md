@@ -1,4 +1,5 @@
 # 七大奇迹：对决（7 Wonders Duel）
+> 🌐 English version: [en/10_7_Wonders_Duel.md](en/10_7_Wonders_Duel.md)
 
 > 货架位置：A2 右下
 

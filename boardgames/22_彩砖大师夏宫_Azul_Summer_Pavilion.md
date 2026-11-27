@@ -1,4 +1,5 @@
 # 花砖物语：夏日亭阁 / 彩砖大师 夏宫（Azul: Summer Pavilion）
+> 🌐 English version: [en/22_Azul_Summer_Pavilion.md](en/22_Azul_Summer_Pavilion.md)
 
 > 货架位置：A4
 

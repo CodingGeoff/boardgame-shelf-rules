@@ -1,4 +1,5 @@
 # 我是大老板（I'm the Boss!）
+> 🌐 English version: [en/100_I_m_the_Boss.md](en/100_I_m_the_Boss.md)
 
 > 货架位置：照片 155102 E4 层，4 盒
 

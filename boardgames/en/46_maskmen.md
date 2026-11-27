@@ -1,0 +1,65 @@
+# maskmen
+
+> Chinese name: **maskmen** · Doc #46 · [中文原文 / Chinese doc](../46_maskmen.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/46)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 2–6 (best: 3-4) |
+| Play time | 20–30 min |
+| Age | 10+ |
+| Complexity | ●●○○○ Light (2/5) |
+| Tags | cards, ladder-climbing, strategy |
+
+## Where is it on the shelf?
+
+- **Shelf code:** B2
+- **Photos:** [155049](../../photos/web/IMG20261127155049.jpg), [155053](../../photos/web/IMG20261127155053.jpg)
+- Original note (Chinese): 照片 155049 小盒堆（155053 左边缘拍到的是同一堆，不重复计数） → maskmen（B2）
+
+## Overview
+
+Ladder-climbing where wrestlers start with no rank order — strength is established as cards are played.
+
+## Setup
+
+1. Deal hands (2–4p 15, 5p 12, 6p 10 cards — see rulebook).
+
+## How to play
+
+1. Lead 1 or more cards of the same wrestler.
+2. To beat it, play the same number of a wrestler already established as stronger, or one more card of an unranked wrestler to establish it as stronger.
+3. Otherwise pass; when all pass, the last player leads.
+
+## Game end & scoring
+
+- First out +2, second +1; with 3+ players play 4 seasons, most points wins; 2 players: first to 3 seasons.
+- Rankings reset each season.
+
+## 5-minute teaching order
+
+1. **Goal first:** First out +2, second +1; with 3+ players play 4 seasons, most points wins; 2 players: first to 3 seasons.
+2. **What you do on a turn:** Lead 1 or more cards of the same wrestler.
+3. **Setup check:** Deal hands (2–4p 15, 5p 12, 6p 10 cards — see rulebook).
+4. **The one rule people forget:** Rankings reset each season.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Establish wrestlers you hold many of as strong.
+- Avoid ranking up opponents' wrestlers.
+- Plan your final cards to go out.
+
+## Common mistakes
+
+- Rankings reset each season.
+
+## Good for / not for
+
+- **Good for:** most board gamers
+- **Not ideal for:** no obvious bad fit
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../46_maskmen.md).*

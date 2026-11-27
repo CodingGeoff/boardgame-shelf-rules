@@ -1,0 +1,64 @@
+# Las Vegas Royale
+
+> Chinese name: **拉斯维加斯 Royale** · Doc #107 · [中文原文 / Chinese doc](../107_%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9A%87%E5%AE%B6_Las_Vegas_Royale.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/107)
+
+## At a glance
+
+| Item | Value |
+|---|---|
+| Players | 2–5 (best: 4-5) |
+| Play time | 30–45 min |
+| Age | 8+ |
+| Complexity | ●○○○○ Very light (1/5) |
+| Tags | dice, majority, family, push-your-luck |
+
+## Where is it on the shelf?
+
+- **Shelf code:** D4 / D5 / E5 / F2 / F3
+- **Photos:** [155102](../../photos/web/IMG20261127155102.jpg), [155106](../../photos/web/IMG20261127155106.jpg), [155114](../../photos/web/IMG20261127155114.jpg), [155121](../../photos/web/IMG20261127155121.jpg)
+- Original note (Chinese): 第三轮照片 155102 / 155106：D4、D5 层 → 拉斯维加斯 皇家版 Las Vegas Royale（+ E5 的 1 盒 alea 版）
+- Original note (Chinese): 照片 155114 / 155121：F2 / F3 行 → ★ 现代艺术、★ 山屋惊魂、★ 出包魔法师、★ 小小城镇、★ 只言片语 ×2、★ 卡卡颂 ×2+、★ 拉斯维加斯 豪华版 + 普通版
+
+## Overview
+
+Roll 8 dice and place all of one number in that casino; most dice takes the top bill, but tied players cancel out.
+
+## Setup
+
+1. 6 casinos with money; each player has 8 dice (plus neutral dice in small games).
+
+## How to play
+
+1. Roll your remaining dice; choose one number and place all those dice on that casino.
+2. When all dice are placed, pay out: highest gets the biggest bill; tied players get nothing.
+
+## Game end & scoring
+
+- After 4 rounds, most money wins.
+
+## 5-minute teaching order
+
+1. **Goal first:** After 4 rounds, most money wins.
+2. **What you do on a turn:** Roll your remaining dice; choose one number and place all those dice on that casino.
+3. **Setup check:** 6 casinos with money; each player has 8 dice (plus neutral dice in small games).
+4. **The one rule people forget:** Ties cancel and the next player down collects.
+5. Play one open-handed practice round, then start for real.
+
+## Strategy tips
+
+- Create ties to cancel opponents.
+- Late placers have more information.
+- Small casinos can be cheap wins.
+
+## Common mistakes
+
+- Ties cancel and the next player down collects.
+
+## Good for / not for
+
+- **Good for:** icebreakers; newcomers and grandparents can learn it instantly
+- **Not ideal for:** no obvious bad fit
+
+---
+
+*English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../107_%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9A%87%E5%AE%B6_Las_Vegas_Royale.md).*

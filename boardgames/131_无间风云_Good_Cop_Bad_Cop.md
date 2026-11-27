@@ -1,4 +1,5 @@
 # 无间风云（Good Cop Bad Cop）
+> 🌐 English version: [en/131_Good_Cop_Bad_Cop.md](en/131_Good_Cop_Bad_Cop.md)
 
 > 货架位置：照片 155114 / 155121，F2 行，盒 ×3，盒侧印「无间风云」「Good Cop Bad Cop」
 

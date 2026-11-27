@@ -1,4 +1,5 @@
 # 权力的游戏 桌游版（A Game of Thrones: The Board Game，第二版）
+> 🌐 English version: [en/66_A_Game_of_Thrones_The_Board_Game.md](en/66_A_Game_of_Thrones_The_Board_Game.md)
 
 > 货架位置：照片 155053 顶层（盒脊露出“…RONES THE BOARD GAME”和中文“…之…”）。是否第二版以盒面为准，下面按最常见的第二版整理。
 

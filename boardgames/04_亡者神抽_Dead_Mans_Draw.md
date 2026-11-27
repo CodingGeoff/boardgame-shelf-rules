@@ -1,4 +1,5 @@
 # 亡者神抽（Dead Man's Draw）
+> 🌐 English version: [en/04_Dead_Man_s_Draw.md](en/04_Dead_Man_s_Draw.md)
 
 > 货架位置：A2 中间那摞
 

@@ -1,4 +1,5 @@
 # 军需官：第二次世界大战（Ian Brody's Quartermaster General WW2）
+> 🌐 English version: [en/77_Quartermaster_General_WW2.md](en/77_Quartermaster_General_WW2.md)
 
 > 货架位置：照片 155102，右上角那摞
 > 盒面没看出是一版还是二版，下面以 **第二版（2019）** 为主，并列出与一版的差异。

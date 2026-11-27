@@ -169,6 +169,7 @@
 <a id="g001"></a>
 
 ## 大搜查!（Unlock! 密室逃脱卡牌系列·中文版）
+> 🌐 English version: [en/01_Unlock.md](en/01_Unlock.md)
 
 > 货架位置：**A2 左侧整摞，共约 7 盒**。只有一盒侧标能读到“大搜查!”，其余被店铺 A2 标签挡住。盒侧图标为锁形难度、60 分钟、1–5 人。
 > ⚠️ 识别说明：据 bghut、monstergeekbg 等中文店铺资料，“大搜查!”是 Space Cowboys《Unlock!》系列的中文名。不过盒侧印的年龄、人数（18+、1–5 人）与英文版（10+、1–6 人）不一致，可能是中文版标注不同，也可能是同名的国产密室系列。下文按 Unlock! 官方规则整理；如果实物不同，以盒内说明书为准。
@@ -273,6 +274,7 @@
 <a id="g002"></a>
 
 ## 京都谍影（Shadows in Kyoto）
+> 🌐 English version: [en/02_Shadows_in_Kyoto.md](en/02_Shadows_in_Kyoto.md)
 
 > 货架位置：A2 中间那摞（IMG…155038 上层 / 155036 下层）
 
@@ -388,6 +390,7 @@
 <a id="g003"></a>
 
 ## 北方分部：精灵商会（ノーザンブランチ ファーム・ウィズ・ブラウニーズ / Northern Branch: Firm with Brownies）
+> 🌐 English version: [en/03_Northern_Branch_Firm_with_Brownies.md](en/03_Northern_Branch_Firm_with_Brownies.md)
 
 > 货架位置：A2 中间那摞（已确认）。同一摞里还有一盒，侧标只露出 "BR…"，**很可能是前作《ファーム・ウィズ・ブラウニーズ / Firm with Brownies》**（待确认）。两作规则主体相同，差异见文末。
 
@@ -501,6 +504,7 @@
 <a id="g004"></a>
 
 ## 亡者神抽（Dead Man's Draw）
+> 🌐 English version: [en/04_Dead_Man_s_Draw.md](en/04_Dead_Man_s_Draw.md)
 
 > 货架位置：A2 中间那摞
 
@@ -611,6 +615,7 @@
 <a id="g005"></a>
 
 ## 心灵虫 / 精神控制（Mindbug: First Contact）
+> 🌐 English version: [en/05_Mindbug_First_Contact.md](en/05_Mindbug_First_Contact.md)
 
 > 货架位置：A2 中间那摞的底部
 
@@ -719,6 +724,7 @@
 <a id="g006"></a>
 
 ## 屁者先知
+> 🌐 English version: [en/06_The_Fart_Prophet.md](en/06_The_Fart_Prophet.md)
 
 > 货架位置：A2 右侧，白色盒子，封面画着垃圾桶
 
@@ -819,6 +825,7 @@
 <a id="g007"></a>
 
 ## Take Time
+> 🌐 English version: [en/07_Take_Time.md](en/07_Take_Time.md)
 
 > 货架位置：A2 右侧有一盒**黑色版**（2–4 人、30 分钟、14+）；A3 左摞还有一盒**彩色盒面**的。⚠️ 两盒是否同一款游戏还没确认：可能是同一游戏的不同中文版或印次，也可能有一盒是别的游戏。下文按 Libellud 出版的《Take Time》整理。
 
@@ -910,6 +917,7 @@
 <a id="g008"></a>
 
 ## 达芬奇密码（Coda / Da Vinci Code）
+> 🌐 English version: [en/08_Coda.md](en/08_Coda.md)
 
 > 货架位置：A2 右侧，**2 盒**
 
@@ -1006,6 +1014,7 @@
 <a id="g009"></a>
 
 ## 赌命大赛
+> 🌐 English version: [en/09_Gamble_of_Life.md](en/09_Gamble_of_Life.md)
 
 > 货架位置：A2 右侧，**2 盒**
 
@@ -1088,6 +1097,7 @@
 <a id="g010"></a>
 
 ## 七大奇迹：对决（7 Wonders Duel）
+> 🌐 English version: [en/10_7_Wonders_Duel.md](en/10_7_Wonders_Duel.md)
 
 > 货架位置：A2 右下
 
@@ -1206,6 +1216,7 @@
 <a id="g011"></a>
 
 ## 郁金香泡沫（Tulip Bubble）
+> 🌐 English version: [en/11_Tulip_Bubble.md](en/11_Tulip_Bubble.md)
 
 > 货架位置：A3 左侧
 
@@ -1302,6 +1313,7 @@
 <a id="g012"></a>
 
 ## 玩具大战（Toy Battle）
+> 🌐 English version: [en/12_Toy_Battle.md](en/12_Toy_Battle.md)
 
 > 货架位置：A3
 
@@ -1397,6 +1409,7 @@
 <a id="g013"></a>
 
 ## 永恒之谷（The Vale of Eternity）
+> 🌐 English version: [en/13_The_Vale_of_Eternity.md](en/13_The_Vale_of_Eternity.md)
 
 > 货架位置：A3
 
@@ -1498,6 +1511,7 @@
 <a id="g014"></a>
 
 ## 多米诺王国（Kingdomino）
+> 🌐 English version: [en/14_Kingdomino.md](en/14_Kingdomino.md)
 
 > 货架位置：A3
 
@@ -1599,6 +1613,7 @@
 <a id="g015"></a>
 
 ## 狗运当骰（SPOTS）
+> 🌐 English version: [en/15_SPOTS.md](en/15_SPOTS.md)
 
 > 货架位置：A3，**2 盒**
 
@@ -1691,6 +1706,7 @@
 <a id="g016"></a>
 
 ## 璀璨宝石：对决（Splendor Duel）
+> 🌐 English version: [en/16_Splendor_Duel.md](en/16_Splendor_Duel.md)
 
 > 货架位置：A3（黄边框、红色 Logo 的盒子，大概率是本作）；A4 那盒画着女士肖像的，也可能是本作（待确认）
 
@@ -1796,6 +1812,7 @@
 <a id="g017"></a>
 
 ## 小小地城传说（Tiny Epic Dungeons）
+> 🌐 English version: [en/17_Tiny_Epic_Dungeons.md](en/17_Tiny_Epic_Dungeons.md)
 
 > 货架位置：A3
 
@@ -1901,6 +1918,7 @@
 <a id="g018"></a>
 
 ## Dice Throne 重制版 第一季（Dice Throne Season One ReRolled）
+> 🌐 English version: [en/18_Dice_Throne.md](en/18_Dice_Throne.md)
 
 > 货架位置：A3，**4 盒**。每盒通常包含 2 名英雄，4 盒合起来就是第一季全部 8 名英雄。
 
@@ -1997,6 +2015,7 @@
 <a id="g019"></a>
 
 ## 璀璨宝石（Splendor）
+> 🌐 English version: [en/19_Splendor.md](en/19_Splendor.md)
 
 > 货架位置：A4，约 3 盒（其中画着女士肖像的一盒可能是《璀璨宝石：对决》，待确认）
 
@@ -2094,6 +2113,7 @@
 <a id="g020"></a>
 
 ## 宝可梦 璀璨宝石（Splendor Pokémon）
+> 🌐 English version: [en/20_Splendor_Pok_mon.md](en/20_Splendor_Pok_mon.md)
 
 > 货架位置：A4，**4 盒**
 
@@ -2182,6 +2202,7 @@
 <a id="g021"></a>
 
 ## 爆珠发明（Gizmos）
+> 🌐 English version: [en/21_Gizmos.md](en/21_Gizmos.md)
 
 > 货架位置：A4（繁体盒面“爆珠發明”）
 
@@ -2287,6 +2308,7 @@
 <a id="g022"></a>
 
 ## 花砖物语：夏日亭阁 / 彩砖大师 夏宫（Azul: Summer Pavilion）
+> 🌐 English version: [en/22_Azul_Summer_Pavilion.md](en/22_Azul_Summer_Pavilion.md)
 
 > 货架位置：A4
 
@@ -2390,6 +2412,7 @@
 <a id="g023"></a>
 
 ## 科学爆珠
+> 🌐 English version: [en/23_Science_Marbles.md](en/23_Science_Marbles.md)
 
 > 货架位置：A4，**2 盒**（盒面印“科学爆珠”）
 
@@ -2462,6 +2485,7 @@
 <a id="g024"></a>
 
 ## 星耀偶像祭（アイドルアライブ / Idol Alive）
+> 🌐 English version: [en/24_Idol_Alive.md](en/24_Idol_Alive.md)
 
 > 货架位置：155036 中层
 
@@ -2566,6 +2590,7 @@
 <a id="g025"></a>
 
 ## 枪与枪（Gun&Gun）+ OVERHEAT 扩展
+> 🌐 English version: [en/25_Gun_Gun.md](en/25_Gun_Gun.md)
 
 > 货架位置：155036 中层。本体 1 盒，另有一盒 **OVERHEAT「FIRST EXPANSION SET」**（第一弹扩展）
 
@@ -2659,6 +2684,7 @@
 <a id="g026"></a>
 
 ## 加尼采德战记 ZERO+（ガニメデ戦記 Zero+ / Ganymede Senki Zero+）
+> 🌐 English version: [en/26_Ganymede_Senki_Zero.md](en/26_Ganymede_Senki_Zero.md)
 
 > 货架位置：155036 中层
 
@@ -2745,6 +2771,7 @@
 <a id="g027"></a>
 
 ## 遥远之地 / 远方（Faraway）
+> 🌐 English version: [en/27_Faraway.md](en/27_Faraway.md)
 
 > 货架位置：155036 中层
 
@@ -2840,6 +2867,7 @@
 <a id="g028"></a>
 
 ## 血腥客栈（The Bloody Inn）
+> 🌐 English version: [en/28_The_Bloody_Inn.md](en/28_The_Bloody_Inn.md)
 
 > 货架位置：155036 中层
 
@@ -2939,6 +2967,7 @@
 <a id="g029"></a>
 
 ## 这里是异世界转生局
+> 🌐 English version: [en/29_Isekai_Reincarnation_Bureau.md](en/29_Isekai_Reincarnation_Bureau.md)
 
 > 货架位置：155036 中层
 
@@ -3008,6 +3037,7 @@
 <a id="g030"></a>
 
 ## 弗拉切诺的秘宝（サラウ・アバク / Sarau Abaku）
+> 🌐 English version: [en/30_Sarau_Abaku.md](en/30_Sarau_Abaku.md)
 
 > 货架位置：155036 中层
 
@@ -3093,6 +3123,7 @@
 <a id="g031"></a>
 
 ## 赏金猎人Ⅱ·忒修斯之海（WANTED AND RECRUIT）
+> 🌐 English version: [en/31_Wanted_and_Recruit.md](en/31_Wanted_and_Recruit.md)
 
 > 货架位置：照片 155049 上层（与 Hack ClaD、CROSS×FATE、血腥客栈 同层）
 > ⚠️ 这是国产众筹作品，网上公开的规则资料很少。本文只整理能查到的信息，**具体规则以盒内说明书为准**。
@@ -3161,6 +3192,7 @@
 <a id="g032"></a>
 
 ## HacKClaD（含 CROSS×FATE 扩展）
+> 🌐 English version: [en/32_HacKClaD.md](en/32_HacKClaD.md)
 
 > 货架位置：照片 155049 上层，本体与 CROSS×FATE 扩展各 1 盒
 
@@ -3264,6 +3296,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g033"></a>
 
 ## 魔城马车（The Carriage to Magic City / Die Kutschfahrt zur Teufelsburg）
+> 🌐 English version: [en/33_The_Carriage_to_Magic_City.md](en/33_The_Carriage_to_Magic_City.md)
 
 > 货架位置：照片 155049 小盒堆。盒上写 3–6（可到 10）人、12+、35–60 分钟。
 > ⚠️ 盒面英文名是 “The Carriage to Magic City”。查到的资料显示，它就是《魔城马车》（德文原名 Die Kutschfahrt zur Teufelsburg，英文常译 Coach Ride to Devil's Castle）。实物如果有差异，以说明书为准。
@@ -3361,6 +3394,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g034"></a>
 
 ## 炸弹猫（BOMB KITTENS）
+> 🌐 English version: [en/34_Bomb_Kittens.md](en/34_Bomb_Kittens.md)
 
 > 货架位置：照片 155049 小盒堆，共 4 盒
 > ⚠️ 盒面是 “BOMB KITTENS”，玩法属于《炸弹猫 / Exploding Kittens》这一类。下面按通行规则整理；**这一版的卡种和数量如果不同，以说明书为准**。
@@ -3449,6 +3483,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g035"></a>
 
 ## 瞎掰王（9 Upper 出品）
+> 🌐 English version: [en/35_Bluff_King.md](en/35_Bluff_King.md)
 
 > 货架位置：照片 155053 C2 货架，2 盒（1 盒黄色、1 盒贴 C2 标签）
 
@@ -3538,6 +3573,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g036"></a>
 
 ## 害你在心口难开（盒面副标：“熏昼神圈，节操都去哪儿了？”）
+> 🌐 English version: [en/36_Taboo_Headbands.md](en/36_Taboo_Headbands.md)
 
 > 货架位置：照片 155053 C2 货架，3 盒（黄色）
 
@@ -3613,6 +3649,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g037"></a>
 
 ## 骇浪求生（Lifeboat，又名 怒海求生）
+> 🌐 English version: [en/37_Lifeboat.md](en/37_Lifeboat.md)
 
 > 货架位置：照片 155046 B4 货架，3 盒
 > 注：盒面设计师名字是 Jeff Siadek（照片里看起来像 “Szadek”）。
@@ -3710,6 +3747,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g038"></a>
 
 ## 毒逗魔药师 / Whirling Witchcraft（AEG · 戏梦桌游 中文版，紫色盒“…巫师 W…CRAFT”）
+> 🌐 English version: [en/38_Whirling_Witchcraft.md](en/38_Whirling_Witchcraft.md)
 
 > 货架位置：照片 155046 B4 货架，2 盒
 > 识别依据：盒面有 AEG 和戏梦桌游的 Logo，设计 Erik Andersson Sundén，美术 Weberson Santiago，英文标题露出 “W…CRAFT”，与 *Whirling Witchcraft* 一致。**简体中文盒名以实物为准**（台湾版译名《毒逗魔药师》）。
@@ -3800,6 +3838,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g039"></a>
 
 ## Magical Athlete（中文名以盒面为准）
+> 🌐 English version: [en/39_Magical_Athlete.md](en/39_Magical_Athlete.md)
 
 > 货架位置：照片 155046 B4 货架，2 盒（英文盒名 Magical Athlete，中文名以实物为准）
 
@@ -3891,6 +3930,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g040"></a>
 
 ## 谁是牛头王（6 nimmt! / Take 6!）
+> 🌐 English version: [en/40_6_nimmt.md](en/40_6_nimmt.md)
 
 > 货架位置：照片 155049 小盒堆（盒面“6 谁是牛头王”）
 
@@ -3974,6 +4014,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g041"></a>
 
 ## 11 牛头王（11 nimmt! / Take 11，又名 我是牛头王 / 超级牛头王）
+> 🌐 English version: [en/41_11_nimmt.md](en/41_11_nimmt.md)
 
 > 货架位置：照片 155049 小盒堆（盒面“11 牛头王”，贴 B2 标签）
 
@@ -4057,6 +4098,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g042"></a>
 
 ## 飞塔巫师（WANDERING TOWERS，盒面“WANDERING 巫师”）
+> 🌐 English version: [en/42_Wandering_Towers.md](en/42_Wandering_Towers.md)
 
 > 货架位置：照片 155053 顶层（绿色盒）
 
@@ -4151,6 +4193,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g043"></a>
 
 ## Art Robbery（艺术品大劫案，中文名以盒面为准）
+> 🌐 English version: [en/43_Art_Robbery.md](en/43_Art_Robbery.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -4239,6 +4282,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g044"></a>
 
 ## 豆腐王国（Tofu Kingdom）
+> 🌐 English version: [en/44_Tofu_Kingdom.md](en/44_Tofu_Kingdom.md)
 
 > 货架位置：照片 155049 小盒堆，2 盒
 
@@ -4334,6 +4378,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g045"></a>
 
 ## 犯人在跳舞（犯人は踊る / Criminal Dance）
+> 🌐 English version: [en/45_Criminal_Dance.md](en/45_Criminal_Dance.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“56 犯人在跳舞”×2）和照片 155049 小盒堆（贴 B2 标签 ×1）
 
@@ -4433,6 +4478,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g046"></a>
 
 ## maskmen（Oink Games，中文名以盒面为准）
+> 🌐 English version: [en/46_maskmen.md](en/46_maskmen.md)
 
 > 货架位置：照片 155049 小盒堆（贴 B2 标签；155053 左边缘拍到的是同一摞，不重复计数）
 
@@ -4518,6 +4564,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g047"></a>
 
 ## 通缉令（反应类卡牌）
+> 🌐 English version: [en/47_Wanted.md](en/47_Wanted.md)
 
 > 货架位置：照片 155046 顶层卡盒（白色大标签“通缉令”，以及蓝标“48 通缉令”）
 > ⚠️ 市面上叫“通缉令”的至少有两款：**欢乐坊《通缉令》**（警察、小偷、法官、银行家，比反应）和弈乎《**动物**通缉令》（宣称和逮捕）。卡盒标签只写“通缉令”，按国内最常见的**反应类《通缉令》**整理；如果盒内是动物通缉令，见文末简介。
@@ -4602,6 +4649,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g048"></a>
 
 ## 猫咪卷饼羊（Taco Cat Goat Cheese Pizza，台译 猫咪比萨卷饼羊）
+> 🌐 English version: [en/48_Taco_Cat_Goat_Cheese_Pizza.md](en/48_Taco_Cat_Goat_Cheese_Pizza.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“猫咪卷饼羊”×2，蓝标“58 猫咪卷饼羊?”）
 
@@ -4684,6 +4732,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g049"></a>
 
 ## 终极审判：电车难题（TRIAL BY TROLLEY）
+> 🌐 English version: [en/49_Trial_by_Trolley.md](en/49_Trial_by_Trolley.md)
 
 > 货架位置：照片 155053 C2 货架，1 盒
 
@@ -4767,6 +4816,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g050"></a>
 
 ## 脏小猪（Drecksau / Dirty Pig）
+> 🌐 English version: [en/50_Drecksau.md](en/50_Drecksau.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“42 脏小猪”×3），照片 155049 小盒堆（Dreck Sau ×2）
 
@@ -4854,6 +4904,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g051"></a>
 
 ## Blood Bound（吸血鬼血族推理，中文名以盒面为准）
+> 🌐 English version: [en/51_Blood_Bound.md](en/51_Blood_Bound.md)
 
 > 货架位置：照片 155049 小盒堆（贴 B2 标签；155053 左边缘是同一盒，不重复计数）
 
@@ -4942,6 +4993,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g052"></a>
 
 ## 作弊飞蛾（Mogel Motte / Cheating Moth）
+> 🌐 English version: [en/52_Mogel_Motte.md](en/52_Mogel_Motte.md)
 
 > 货架位置：照片 155049 小盒堆，2 盒
 
@@ -5030,6 +5082,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g053"></a>
 
 ## 蟑螂扑克（Kakerlakenpoker，台译 德国蟑螂）
+> 🌐 English version: [en/53_Cockroach_Poker.md](en/53_Cockroach_Poker.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -5109,6 +5162,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g054"></a>
 
 ## 政变（COUP，又名 政变疑云 / 城市叛变）
+> 🌐 English version: [en/54_Coup.md](en/54_Coup.md)
 
 > 货架位置：照片 155049 小盒堆（贴 B2 标签）
 
@@ -5200,6 +5254,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g055"></a>
 
 ## FLIP 7
+> 🌐 English version: [en/55_Flip_7.md](en/55_Flip_7.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -5289,6 +5344,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g056"></a>
 
 ## 树木园（Arboretum）
+> 🌐 English version: [en/56_Arboretum.md](en/56_Arboretum.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -5380,6 +5436,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g057"></a>
 
 ## SCOUT!（スカウト！）
+> 🌐 English version: [en/57_SCOUT.md](en/57_SCOUT.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -5467,6 +5524,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g058"></a>
 
 ## ナナ Nana（英文重制版名 Trio）
+> 🌐 English version: [en/58_Nana_Trio.md](en/58_Nana_Trio.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -5556,6 +5614,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g059"></a>
 
 ## 折纸海洋（Sea Salt & Paper，盒面“折纸海洋”）
+> 🌐 English version: [en/59_Sea_Salt_Paper.md](en/59_Sea_Salt_Paper.md)
 
 > 货架位置：照片 155049 小盒堆（贴 C3 标签）
 
@@ -5648,6 +5707,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g060"></a>
 
 ## 德国心脏病（Halli Galli）——含“铃儿响叮当 全新扩充升级”版
+> 🌐 English version: [en/60_Halli_Galli.md](en/60_Halli_Galli.md)
 
 > 货架位置：照片 155053 C2 货架。印刷盒 5 盒，加上约 7 个贴 C2 标签、隐约可见心脏病印刷的红盒，合计约 12 套。
 
@@ -5728,6 +5788,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g061"></a>
 
 ## 不谢牌（No Thanks! / Geschenkt!，又名 不了不了 / 敬谢不敏）
+> 🌐 English version: [en/61_No_Thanks.md](en/61_No_Thanks.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“不谢牌”×2，蓝标“57 不谢牌”）
 
@@ -5813,6 +5874,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g062"></a>
 
 ## 情书（Love Letter）
+> 🌐 English version: [en/62_Love_Letter.md](en/62_Love_Letter.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“15 情书”）
 > 卡盒里是哪个版本看不到，下面同时列出**经典 16 张版**和 **2019 新版（21 张）** 的差异。
@@ -5905,6 +5967,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g063"></a>
 
 ## 矮人掘金（Saboteur，又名 矮人矿坑）
+> 🌐 English version: [en/63_Saboteur.md](en/63_Saboteur.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“矮人掘金”）
 
@@ -5992,6 +6055,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g064"></a>
 
 ## 吹牛（Cheat / Bluff / I Doubt It）
+> 🌐 English version: [en/64_Cheat.md](en/64_Cheat.md)
 
 > 货架位置：照片 155046 顶层卡盒（蓝标“10 吹牛”）
 > ⚠️ 标签只写“吹牛”。卡盒里可能是专用的吹牛卡牌，也可能是骰子版“吹牛骰 / Liar's Dice”。下面列出卡牌版通行规则，并附骰子版简要规则；**以盒内实物为准**。
@@ -6069,6 +6133,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g065"></a>
 
 ## UNO（优诺）
+> 🌐 English version: [en/65_UNO.md](en/65_UNO.md)
 
 > 货架位置：照片 155046 顶层卡盒（白标“UNO”）和底部塑料箱
 
@@ -6158,6 +6223,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g066"></a>
 
 ## 权力的游戏 桌游版（A Game of Thrones: The Board Game，第二版）
+> 🌐 English version: [en/66_A_Game_of_Thrones_The_Board_Game.md](en/66_A_Game_of_Thrones_The_Board_Game.md)
 
 > 货架位置：照片 155053 顶层（盒脊露出“…RONES THE BOARD GAME”和中文“…之…”）。是否第二版以盒面为准，下面按最常见的第二版整理。
 
@@ -6246,6 +6312,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g067"></a>
 
 ## Formula D（D 级方程式赛车）
+> 🌐 English version: [en/67_Formula_D.md](en/67_Formula_D.md)
 
 > 货架位置：照片 155053 顶层，盒脊上的汽车画面和残字“…FORMU…”。
 > ✅ 已确认：第三轮照片 155102 顶层大盒堆清楚拍到 Formula D（Asmodee 版）完整盒面。
@@ -6338,6 +6405,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g068"></a>
 
 ## CABO
+> 🌐 English version: [en/68_CABO.md](en/68_CABO.md)
 
 > 货架位置：照片 155049 小盒堆
 
@@ -6424,6 +6492,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g069"></a>
 
 ## 逻辑兽 LOGIC BEAST（黑色盒）——⚠️ 待确认具体是哪一款
+> 🌐 English version: [en/69_Logic_Beast.md](en/69_Logic_Beast.md)
 
 > 货架位置：照片 155046 B4 货架
 > 查到“逻辑兽”更像一个**品牌或系列名**，旗下至少有“逻辑兽黑故事集”等产品。照片里只看得到品牌字样，**具体是哪一款请核对盒面**。下面整理的是查到的“逻辑兽黑故事集”玩法（汤姆汤 / 海龟汤类）。
@@ -6493,6 +6562,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g070"></a>
 
 ## 心灵特工（MIND MGMT: The Psychic Espionage "Game."）
+> 🌐 English version: [en/70_MIND_MGMT.md](en/70_MIND_MGMT.md)
 
 > 货架位置：照片 155053 顶层黄色盒，只露出“MI / MG”字样。
 > ✅ 已确认：第三轮照片 155102 顶层清楚拍到中文版盒面“心灵特工”（副标“灵能谍报机构忠诚度测试”）。
@@ -6583,6 +6653,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g071"></a>
 
 ## 柯尔特快车 大盒版（Colt Express: Big Box）
+> 🌐 English version: [en/71_Colt_Express_Big_Box.md](en/71_Colt_Express_Big_Box.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（黄色长盒，盒侧印“柯尔特快车 大盒版”，署名 Christophe Raimbault、Jordi Valbuena）
 > 大盒版内容：基础游戏 + 两个大扩展《马匹与驿站马车》《警长与囚犯》+ 新角色 1 名（香港二手商品页也写“Base game + 2 扩充 + 1 新角色”）。
@@ -6682,6 +6753,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g072"></a>
 
 ## 魔戒：中土对决（The Lord of the Rings: Duel for Middle-earth）
+> 🌐 English version: [en/72_The_Lord_of_the_Rings_Duel_for_Middle_ea.md](en/72_The_Lord_of_the_Rings_Duel_for_Middle_ea.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆
 > 中文名各渠道译法不一（常见“魔戒：中土对决 / 中土之战”），以盒面为准。
@@ -6782,6 +6854,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g073"></a>
 
 ## 亚特兰蒂斯守卫 II（Guards of Atlantis II）
+> 🌐 English version: [en/73_Guards_of_Atlantis_II.md](en/73_Guards_of_Atlantis_II.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（英文盒）
 > 中文名为暂译。
@@ -6871,6 +6944,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g074"></a>
 
 ## 格格不入 / 角斗士（Blokus）
+> 🌐 English version: [en/74_Blokus.md](en/74_Blokus.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（盒面写“The … strategy for the whole family”，印有多格拼块棋盘）
 > 盒子没露出完整标题，按标语和棋盘判断为 Blokus（Blokus 的经典标语就是 *The strategy game for the whole family*）。⚠️ 也可能是同系列 Blokus 变体，请核对盒面。
@@ -6953,6 +7027,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g075"></a>
 
 ## 失落遗迹：阿纳克（Lost Ruins of Arnak）＋ 扩展《探险队领袖》（Expedition Leaders）
+> 🌐 English version: [en/75_Lost_Ruins_of_Arnak.md](en/75_Lost_Ruins_of_Arnak.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（“失落遗迹：阿纳克”本体，12+、30 分钟/人）；右上角那摞还有扩展“探险队领袖”。两者合并在本文档。
 
@@ -7047,6 +7122,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g076"></a>
 
 ## 王权困境（The King's Dilemma）
+> 🌐 English version: [en/76_The_King_s_Dilemma.md](en/76_The_King_s_Dilemma.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（一刻馆中文版，标签 D1）
 > ⚠️ 这是**传承（Legacy）**游戏：开封后贴纸、信封、签名会永久改变游戏。店里的这盒可能已经推进过剧情，借玩前请先问店员当前进度。
@@ -7128,6 +7204,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g077"></a>
 
 ## 军需官：第二次世界大战（Ian Brody's Quartermaster General WW2）
+> 🌐 English version: [en/77_Quartermaster_General_WW2.md](en/77_Quartermaster_General_WW2.md)
 
 > 货架位置：照片 155102，右上角那摞
 > 盒面没看出是一版还是二版，下面以 **第二版（2019）** 为主，并列出与一版的差异。
@@ -7218,6 +7295,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g078"></a>
 
 ## 潜航谍影 / 深海谍影（Captain Sonar）
+> 🌐 English version: [en/78_Captain_Sonar.md](en/78_Captain_Sonar.md)
 
 > 货架位置：照片 155102，右上角那摞
 
@@ -7312,6 +7390,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g079"></a>
 
 ## 工业革命 / 工业都市（Brass）
+> 🌐 English version: [en/79_Brass_Birmingham.md](en/79_Brass_Birmingham.md)
 
 > 货架位置：照片 155102，右上角那摞（白盒，“BR… 工业都市”）
 > 第四轮照片（155114 / 155121）又拍到 2 盒，盒侧能读出「工业都市：伯明翰」，**确认是 Brass: Birmingham（伯明翰）**。下面按伯明翰规则整理，文末保留兰开夏的主要差异供参考。
@@ -7399,6 +7478,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g080"></a>
 
 ## 忍者之夜（Night of the Ninja）
+> 🌐 English version: [en/80_Night_of_the_Ninja.md](en/80_Night_of_the_Ninja.md)
 
 > 货架位置：照片 155102，D1/D2 行，2 盒
 
@@ -7487,6 +7567,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g081"></a>
 
 ## 截码战（Decrypto）
+> 🌐 English version: [en/81_Decrypto.md](en/81_Decrypto.md)
 
 > 货架位置：照片 155102，D1/D2 行，共 4 盒（3 盒橙色收音机封面、1 盒白色版）
 
@@ -7575,6 +7656,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g082"></a>
 
 ## 乌邦果 3D（Ubongo 3D）
+> 🌐 English version: [en/82_Ubongo_3D.md](en/82_Ubongo_3D.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E1）
 
@@ -7660,6 +7742,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g083"></a>
 
 ## 小小城镇（Tiny Towns）
+> 🌐 English version: [en/83_Tiny_Towns.md](en/83_Tiny_Towns.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 F2）
 
@@ -7745,6 +7828,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g084"></a>
 
 ## 只言片语 / 妙语说书人 / 画物语（Dixit）＋ 星物语
+> 🌐 English version: [en/84_Dixit.md](en/84_Dixit.md)
 
 > 货架位置：照片 155102，D1/D2 行。一盒 **Dixit**，旁边一盒 **“星物语”**。
 > 星物语：B 站有“星物语 三分钟开箱+教学 画物语 只言片语新版”的教学视频标题，说明它是同类“说书人”玩法的中文产品。⚠️ 它的具体张数、计分细节没有查到公开文字规则，请以盒内说明书为准。
@@ -7831,6 +7915,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g085"></a>
 
 ## 现代艺术（Modern Art）
+> 🌐 English version: [en/85_Modern_Art.md](en/85_Modern_Art.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E2），2 盒
 
@@ -7917,6 +8002,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g086"></a>
 
 ## 山屋惊魂 第二版（Betrayal at House on the Hill, 2nd Edition）
+> 🌐 English version: [en/86_Betrayal_at_House_on_the_Hill.md](en/86_Betrayal_at_House_on_the_Hill.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E2），2 盒
 
@@ -8004,6 +8090,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g087"></a>
 
 ## 出包魔法师（Abracada...What!）
+> 🌐 English version: [en/87_Abracada_What.md](en/87_Abracada_What.md)
 
 > 货架位置：照片 155102，D1/D2 行（标签 E2），2–3 盒（巫师封面）；照片 155056 的 C3/C4 层还散放着一张印有“出包魔…”的卡片/说明书，应是同一款的配件。
 
@@ -8098,6 +8185,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g088"></a>
 
 ## 大富翁 世界之旅 银牌（银行游戏盘）
+> 🌐 English version: [en/88_Monopoly_World_Tour.md](en/88_Monopoly_World_Tour.md)
 
 > 货架位置：照片 155102 / 155106 D3 层约 6 盒，155056 右侧还有一大摞（同款蓝盒，侧面印“HAPPY TIME 大富翁 世界之旅 银牌 银行游戏盘”）。三张照片拍的是同一摞的不同角度，合计约 6–10 盒（被遮挡，无法精确计数）。
 
@@ -8180,6 +8268,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g089"></a>
 
 ## 古玩街（Antique Street）
+> 🌐 English version: [en/89_Antique_Street.md](en/89_Antique_Street.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（棕色盒，盒面“古玩街 ANTIQUE STREET”）
 
@@ -8250,6 +8339,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g090"></a>
 
 ## 熊熊公园（Bärenpark）
+> 🌐 English version: [en/90_B_renpark.md](en/90_B_renpark.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（盒侧“熊熊公园”，熊掌图标）
 
@@ -8335,6 +8425,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g091"></a>
 
 ## 寿司快递（Sushi Express）
+> 🌐 English version: [en/91_Sushi_Express.md](en/91_Sushi_Express.md)
 
 > 货架位置：照片 155102 / 155106 D3 层
 > 中文名为暂译，以盒面为准。
@@ -8426,6 +8517,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g092"></a>
 
 ## 脑洞量表（Top Ten）
+> 🌐 English version: [en/92_Top_Ten.md](en/92_Top_Ten.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（黑盒，“脑洞量表 TOP TEN”，粉色副标）
 
@@ -8506,6 +8598,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g093"></a>
 
 ## 郡主别怕（疑似）
+> 🌐 English version: [en/93_Don_t_Be_Afraid_Princess.md](en/93_Don_t_Be_Afraid_Princess.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（白色动漫风盒子，古装少女插画）
 > ⚠️ 盒侧字样不完整，按画风和可读字形判断**疑似**为《郡主别怕》，请核对盒面。
@@ -8570,6 +8663,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g094"></a>
 
 ## 大喜临门（中式恐怖题材卡牌游戏）
+> 🌐 English version: [en/94_Double_Happiness.md](en/94_Double_Happiness.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（红色盒，2 盒）
 
@@ -8630,6 +8724,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g095"></a>
 
 ## 纸牌帮 / 帮派（The Gang）
+> 🌐 English version: [en/95_The_Gang.md](en/95_The_Gang.md)
 
 > 货架位置：照片 155102 / 155106 D3 层，3 盒
 
@@ -8722,6 +8817,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g096"></a>
 
 ## 骷髅与玫瑰 / 骷髅（Skull, Skull & Roses）
+> 🌐 English version: [en/96_Skull.md](en/96_Skull.md)
 
 > 货架位置：照片 155102 / 155106 D3 层，共 2 盒：一盒骷髅花纹（墨西哥亡灵节风格），一盒蓝色“Un jeu de Hervé Marly”。两种都是 Skull 的不同封面版本。
 
@@ -8804,6 +8900,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g097"></a>
 
 ## 星际探险队：深海任务 / 深海探险队（The Crew: Mission Deep Sea）
+> 🌐 English version: [en/97_The_Crew_Mission_Deep_Sea.md](en/97_The_Crew_Mission_Deep_Sea.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（标签 E3）
 
@@ -8895,6 +8992,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g098"></a>
 
 ## 狼人真言（Werewords）
+> 🌐 English version: [en/98_Werewords.md](en/98_Werewords.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（标签 E3）
 
@@ -8979,6 +9077,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g099"></a>
 
 ## 终极狼人（Ultimate Werewolf）
+> 🌐 English version: [en/99_Ultimate_Werewolf.md](en/99_Ultimate_Werewolf.md)
 
 > 货架位置：照片 155102 / 155106 D3 层（标签 E3）
 
@@ -9063,6 +9162,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g100"></a>
 
 ## 我是大老板（I'm the Boss!）
+> 🌐 English version: [en/100_I_m_the_Boss.md](en/100_I_m_the_Boss.md)
 
 > 货架位置：照片 155102 E4 层，4 盒
 
@@ -9159,6 +9259,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g101"></a>
 
 ## 逃离亚特兰蒂斯（Survive: Escape from Atlantis!）
+> 🌐 English version: [en/101_Survive_Escape_from_Atlantis.md](en/101_Survive_Escape_from_Atlantis.md)
 
 > 货架位置：照片 155102 E4 层，5 盒
 
@@ -9242,6 +9343,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g102"></a>
 
 ## 卡卡颂（Carcassonne）
+> 🌐 English version: [en/102_Carcassonne.md](en/102_Carcassonne.md)
 
 > 货架位置：照片 155102 E4 层，2 盒
 
@@ -9332,6 +9434,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g103"></a>
 
 ## 诺丁汉警长 第二版（Sheriff of Nottingham, 2nd Edition）
+> 🌐 English version: [en/103_Sheriff_of_Nottingham.md](en/103_Sheriff_of_Nottingham.md)
 
 > 货架位置：照片 155102 / 155106 D4 层
 
@@ -9415,6 +9518,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g104"></a>
 
 ## 东京之王：暗黑无界（King of Tokyo: Dark Edition）
+> 🌐 English version: [en/104_King_of_Tokyo_Dark_Edition.md](en/104_King_of_Tokyo_Dark_Edition.md)
 
 > 货架位置：照片 155102 / 155106 D4 层，3 盒（CMON × iello 中文版）
 > 店里第一轮也许有普通版《东京之王》，规则基本相同；本篇以暗黑版为主，并说明暗黑版特有的**邪恶值**。
@@ -9508,6 +9612,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g105"></a>
 
 ## 卡坦岛（一百游 “Katan Island” 版）
+> 🌐 English version: [en/105_Catan.md](en/105_Catan.md)
 
 > 货架位置：照片 155102 / 155106 D4 层，2 盒（一百游出品，盒面“卡坦岛 KATAN ISLAND”）
 > 一百游这个版本是国内平价发行的卡坦岛类产品。⚠️ 下面按经典《卡坦岛》（Catan）基础规则编写；该版本若有简化或改动，以盒内说明书为准。
@@ -9598,6 +9703,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g106"></a>
 
 ## 地城勇士（Dungeon Fighter）
+> 🌐 English version: [en/106_Dungeon_Fighter.md](en/106_Dungeon_Fighter.md)
 
 > 货架位置：照片 155102 / 155106 D4 层
 
@@ -9678,6 +9784,7 @@ Clad 被击败或满足结束条件后结算：魔力碎片 + 任务分 − 伤�
 <a id="g107"></a>
 
 ## 拉斯维加斯 皇家版（Las Vegas Royale）
+> 🌐 English version: [en/107_Las_Vegas_Royale.md](en/107_Las_Vegas_Royale.md)
 
 > 货架位置：照片 155102 / 155106 D4 层 3 盒 + E5 层 1 盒 alea 版（可能是同系列的 *Las Vegas* 基础版）
 
@@ -9759,6 +9866,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g108"></a>
 
 ## 睡皇后（Sleeping Queens）
+> 🌐 English version: [en/108_Sleeping_Queens.md](en/108_Sleeping_Queens.md)
 
 > 货架位置：照片 155056 C3/C4 层，4 盒（橙色盒）
 
@@ -9853,6 +9961,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g109"></a>
 
 ## 真心话大冒险（卡牌版）
+> 🌐 English version: [en/109_Truth_or_Dare.md](en/109_Truth_or_Dare.md)
 
 > 货架位置：照片 155056 C3 层（小盒，“真心话大冒险”）
 > 市面上有许多不同厂商的“真心话大冒险”卡牌，题目各不相同，但玩法基本一致。
@@ -9930,6 +10039,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g110"></a>
 
 ## 变脸魔方（Cubeez）
+> 🌐 English version: [en/110_Cubeez.md](en/110_Cubeez.md)
 
 > 货架位置：照片 155056 C3 层（铁盒）
 
@@ -10007,6 +10117,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g111"></a>
 
 ## 王权暗战（Hidden Leaders）
+> 🌐 English version: [en/111_Hidden_Leaders.md](en/111_Hidden_Leaders.md)
 
 > 货架位置：照片 155056 C4 层（盒面“HIDDEN LEADERS”）
 
@@ -10101,6 +10212,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g112"></a>
 
 ## 幽灵快手：鬼影幢幢（Ghost Blitz: Spooky Doo / Geistesblitz: Spooky Doo）
+> 🌐 English version: [en/112_Ghost_Blitz_Spooky_Doo.md](en/112_Ghost_Blitz_Spooky_Doo.md)
 
 > 货架位置：照片 155056 C3/C4 层，2 盒（铁盒）
 > 这是 Zoch《幽灵快手 Geistesblitz》系列的一作，中文译名不一，以盒面为准。
@@ -10185,6 +10297,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g113"></a>
 
 ## 猫咖店长 2（⚠️ 资料待补）
+> 🌐 English version: [en/113_Cat_Caf_Manager_2.md](en/113_Cat_Caf_Manager_2.md)
 
 > 货架位置：照片 155102，D1/D2 上方大盒堆（盒侧可以读到“猫咖店长2”）
 > 第四轮照片 155114 / 155121 顶部大盒堆还有 1 盒小号的**初代《猫咖店长》**。同样没有找到公开规则，一并登记在这份文档里。⚠️ 资料待补。
@@ -10246,6 +10359,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g114"></a>
 
 ## 猜字解底（⚠️ 资料待补）
+> 🌐 English version: [en/114_Guess_the_Character.md](en/114_Guess_the_Character.md)
 
 > 货架位置：照片 155102，D1/D2 行（小盒，盒侧可以读到“猜字解底”）
 
@@ -10306,6 +10420,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g115"></a>
 
 ## 组词成语（⚠️ 资料待补）
+> 🌐 English version: [en/115_Idiom_Builder.md](en/115_Idiom_Builder.md)
 
 > 货架位置：照片 155102，D1/D2 行（小盒，盒侧可以读到“组词成语”）
 
@@ -10367,6 +10482,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g116"></a>
 
 ## 香料之路 / 香料世纪（Century 系列：香料之路 + 东方奇观 + 新世界）
+> 🌐 English version: [en/116_Century_Trilogy.md](en/116_Century_Trilogy.md)
 
 > 货架位置：照片 155109，E4 层右侧，一共 4 盒黑蓝色盒子：
 > - 「SPICE 香料世纪」基础 ×2
@@ -10508,6 +10624,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g117"></a>
 
 ## 签签入扣（Stick Stack）
+> 🌐 English version: [en/117_Stick_Stack.md](en/117_Stick_Stack.md)
 
 > 货架位置：照片 155109，E5 右下角，橙色盒 ×2。其中一盒贴 A2 标签，盒侧印「签签入扣 STICK STACK」和代理商标志。
 
@@ -10583,6 +10700,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g118"></a>
 
 ## SETI：地外文明（SETI: Search for Extraterrestrial Intelligence）
+> 🌐 English version: [en/118_SETI_Search_for_Extraterrestrial_Intelli.md](en/118_SETI_Search_for_Extraterrestrial_Intelli.md)
 
 > 货架位置：照片 155114 / 155121 顶部大盒堆，盒侧印「地外文明」和临龙（LIN LONG）标志
 > 临龙桌游代理的中文版就叫《SETI 地外文明》，另有扩展「太空机构」。
@@ -10703,6 +10821,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g119"></a>
 
 ## 疯狂诡宅 第二版（Mansions of Madness: Second Edition）
+> 🌐 English version: [en/119_Mansions_of_Madness.md](en/119_Mansions_of_Madness.md)
 
 > 货架位置：照片 155114 / 155121 顶部大盒堆，盒侧印「疯狂诡宅」和 FFG 标志
 
@@ -10802,6 +10921,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g120"></a>
 
 ## 同房异梦（Décorum）
+> 🌐 English version: [en/120_D_corum.md](en/120_D_corum.md)
 
 > 货架位置：照片 155121 中部，盒侧印「同房異夢 Décorum」，2–4 人 / 30–45 分钟 / 13+
 
@@ -10903,6 +11023,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g121"></a>
 
 ## 巴卡迪亚英雄（Heroes of Barcadia，Kickstarter 版）
+> 🌐 English version: [en/121_Heroes_of_Barcadia.md](en/121_Heroes_of_Barcadia.md)
 
 > 货架位置：照片 155121，盒侧印「Heroes of Barcadia」「Kickstarter Edition」，2–6 人 / 21+ / 30–90 分钟
 > 中文名为暂译，盒面只有英文。
@@ -10991,6 +11112,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g122"></a>
 
 ## 险恶迷航（Feed the Kraken）
+> 🌐 English version: [en/122_Feed_the_Kraken.md](en/122_Feed_the_Kraken.md)
 
 > 货架位置：照片 155121，G2 附近，盒侧印「险恶迷航」和标语「水手们最爱的推理游戏」
 > 台湾译名为《險惡疑航》。
@@ -11096,6 +11218,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g123"></a>
 
 ## 星弧航记（ARCS）
+> 🌐 English version: [en/123_Arcs.md](en/123_Arcs.md)
 
 > 货架位置：照片 155121 上部，盒侧印「ARCS 星弧航记」
 
@@ -11189,6 +11312,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g124"></a>
 
 ## 冠军挑战者（Challengers!）
+> 🌐 English version: [en/124_Challengers.md](en/124_Challengers.md)
 
 > 货架位置：照片 155121，D1 层，盒侧印「冠军挑战者」「Challengers!」和 Z-MAN 标志
 
@@ -11279,6 +11403,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g125"></a>
 
 ## 江湖郎中 / 郎中闯江湖（The Quacks of Quedlinburg）
+> 🌐 English version: [en/125_The_Quacks_of_Quedlinburg.md](en/125_The_Quacks_of_Quedlinburg.md)
 
 > 货架位置：照片 155114，F2 行，盒侧印「江湖郎中」和 100 GAMES（一百游）标志
 > 淘宝上“江湖郎中 桌游 一百游正版 庸医闯江湖”就是这个版本，玩法对应 Schmidt Spiele 的《Die Quacksalber von Quedlinburg》。正式中文版由新天鹅堡发行，名为《郎中闯江湖》。
@@ -11385,6 +11510,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g126"></a>
 
 ## 猜心俱乐部
+> 🌐 English version: [en/126_Mind_Reading_Club.md](en/126_Mind_Reading_Club.md)
 
 > 货架位置：照片 155114 / 155121 F2 行，白色长盒，绿色手写体标题「猜心俱樂部」，画着一个以花朵为头饰的女子。盒侧图标为 2–8 人 / 20–30 分钟 / 10+。
 
@@ -11478,6 +11604,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g127"></a>
 
 ## 七大奇迹（7 Wonders）
+> 🌐 English version: [en/127_7_Wonders.md](en/127_7_Wonders.md)
 
 > 货架位置：照片 155114，F2 行，盒侧印「7 Wonders」和 Repos Production 标志
 > 双人对决版《七大奇迹：对决》见文档 10。
@@ -11570,6 +11697,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g128"></a>
 
 ## 寿司狗 / 寿司 GO（Sushi Go!）
+> 🌐 English version: [en/128_Sushi_Go.md](en/128_Sushi_Go.md)
 
 > 货架位置：照片 155114，F2 行，带 Gamewright 标志的寿司主题小盒
 > 盒子标题没拍全，根据 Gamewright 标志和寿司画面判断为 Gamewright 的招牌作《Sushi Go!》。⚠️ 也可能是同系列的《Sushi Go Party!》（2–8 人大盒），请核对盒面。
@@ -11665,6 +11793,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g129"></a>
 
 ## 奶酪大盗（Cheese Thief / Käsedieb）
+> 🌐 English version: [en/129_Cheese_Thief.md](en/129_Cheese_Thief.md)
 
 > 货架位置：照片 155114，F2 行，蓝色小盒 ×3，盒侧印「CHEESE THIEF」「奶酪大盗」和 Jolly Thinkers 标志，侧面写着 8+
 
@@ -11757,6 +11886,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g130"></a>
 
 ## 女巫镇（Salem 1692 / 猎巫镇）
+> 🌐 English version: [en/130_Salem_1692.md](en/130_Salem_1692.md)
 
 > 货架位置：照片 155114 / 155121，F2 行，黑金色盒 ×5，盒侧印「女巫镇」
 > 女巫镇对应的就是 Facade Games 的《Salem 1692》，台湾版叫《獵巫鎮》。⚠️ 国内有多个版本，配件和人数配置以盒内说明书为准。
@@ -11858,6 +11988,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g131"></a>
 
 ## 无间风云（Good Cop Bad Cop）
+> 🌐 English version: [en/131_Good_Cop_Bad_Cop.md](en/131_Good_Cop_Bad_Cop.md)
 
 > 货架位置：照片 155114 / 155121，F2 行，盒 ×3，盒侧印「无间风云」「Good Cop Bad Cop」
 
@@ -11957,6 +12088,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g132"></a>
 
 ## 季节传说（即《四季物语》Seasons）
+> 🌐 English version: [en/132_Seasons.md](en/132_Seasons.md)
 
 > 货架位置：照片 155121，G2 层，盒侧印「季节传说」，时长 60 分钟
 > 百度贴吧有玩家指出，“季节传说”是《四季物语 Seasons》的**非正版版本**：玩法内容一样，美术和配件不同。下面按正版《四季物语》的规则整理。
@@ -12070,6 +12202,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g133"></a>
 
 ## 骆驼快跑 / 骆驼大赛（Camel Up）
+> 🌐 English version: [en/133_Camel_Up.md](en/133_Camel_Up.md)
 
 > 货架位置：照片 155114，F3 行，盒 ×2，盒侧印「骆驼快跑」「Camel Up」，3–8 人 / 8+ / 30 分钟
 > 3–8 人的标注对应 **2018 年第二版**。第一版是 2–8 人、只有 5 只骆驼、没有“疯骆驼”。
@@ -12156,6 +12289,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g134"></a>
 
 ## 马尼拉（Manila）
+> 🌐 English version: [en/134_Manila.md](en/134_Manila.md)
 
 > 货架位置：照片 155114 / 155125 / 155128，F4 层（贴 F3 标签），**一共 4 盒**：
 > - 2 盒蓝色，印有「MANILA 马尼拉」和 100 GAMES（一百游）标志，画着撑船的人；
@@ -12257,6 +12391,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g135"></a>
 
 ## 犯罪现场（Deception: Murder in Hong Kong）
+> 🌐 English version: [en/135_Deception_Murder_in_Hong_Kong.md](en/135_Deception_Murder_in_Hong_Kong.md)
 
 > 货架位置：照片 155121，G2 层，黑金色盒 ×2，盒侧印「犯罪现场 CSI」，带「千骐动漫 / 千智」标志。图标显示人数 2/4–9、时长 20 分钟、年龄 18+。
 > 原版是 Grey Fox Games 的《Deception: Murder in Hong Kong》，原版支持 4–12 人，这盒标注的人数配置与原版不同。⚠️ 角色和人数以盒内说明书为准。
@@ -12344,6 +12479,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g136"></a>
 
 ## 李智慧生存游戏
+> 🌐 English version: [en/136_Lee_Ji_hye_Survival_Game.md](en/136_Lee_Ji_hye_Survival_Game.md)
 
 > 货架位置：照片 155121，G2 层，浅紫蓝色长盒，盒侧有标签「李智慧生存游戏」
 
@@ -12442,6 +12578,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g137"></a>
 
 ## 以鹅传鹅
+> 🌐 English version: [en/137_Goose_Telephone.md](en/137_Goose_Telephone.md)
 
 > 货架位置：照片 155121，G2 层，粉色盒 ×2，盒侧印「以鹅传鹅」和一张鹅的卡牌图。另有一行小字，大意是“搞笑……聚会游戏”。
 
@@ -12519,6 +12656,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g138"></a>
 
 ## 浮生青云录
+> 🌐 English version: [en/138_Floating_Life_Rising_Clouds.md](en/138_Floating_Life_Rising_Clouds.md)
 
 > 货架位置：照片 155121，G2/G3 交界，压在 Dixit 大盒下面的灰白色长盒，盒面印「浮生青云录」和一行英文副标题
 
@@ -12606,6 +12744,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g139"></a>
 
 ## 四海好伙伴 / 四海好家伙（GoodCritters）
+> 🌐 English version: [en/139_Good_Critters.md](en/139_Good_Critters.md)
 
 > 货架位置：照片 155121，G4 层，盒侧印「四海好伙伴 Goodcritters」
 > 香港 WOB 有中英双语版，译名《四海好傢伙》。
@@ -12692,6 +12831,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g140"></a>
 
 ## 阿瓦隆（The Resistance: Avalon）
+> 🌐 English version: [en/140_The_Resistance_Avalon.md](en/140_The_Resistance_Avalon.md)
 
 > 货架位置：照片 155109，D3 层左侧，紫色盒，盒侧只露出「阿瓦…」和一个人物侧影
 > 按露出的字和紫色盒判断为国内常见的《阿瓦隆》。⚠️ 标题没拍全，请核对盒面。
@@ -12795,6 +12935,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g141"></a>
 
 ## 桌面战记 × 战舰少女R（旭翼文化 SUNWING）
+> 🌐 English version: [en/141_Tabletop_Senki_Warship_Girls_R.md](en/141_Tabletop_Senki_Warship_Girls_R.md)
 
 > 货架位置：
 > - 照片 155121 右上，大盒，盒侧印「…桌面战记」、SUNWING 和 MoeFantasy 标志，©2022；
@@ -12874,6 +13015,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g142"></a>
 
 ## 山居秋暝 ⚠️ 资料待补
+> 🌐 English version: [en/142_Shanju_Qiuming.md](en/142_Shanju_Qiuming.md)
 
 > 货架位置：照片 155114，D1 层，黑色盒，盒侧印「山居秋暝」和「甄元事务所」
 
@@ -12933,6 +13075,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g143"></a>
 
 ## 家宴Ⅱ 欢乐升级（Family Feast II） ⚠️ 资料待补
+> 🌐 English version: [en/143_Family_Feast_II.md](en/143_Family_Feast_II.md)
 
 > 货架位置：照片 155121，盒侧印「家宴Ⅱ」「欢乐升级」和英文 Family Feast II
 
@@ -12992,6 +13135,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g144"></a>
 
 ## 年夜饭（New Year Eve Dinner） ⚠️ 资料待补
+> 🌐 English version: [en/144_New_Year_s_Eve_Dinner.md](en/144_New_Year_s_Eve_Dinner.md)
 
 > 货架位置：照片 155121，盒侧印「年夜饭」和英文 New Year Eve Dinner
 
@@ -13051,6 +13195,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g145"></a>
 
 ## 权力对决 ⚠️ 资料待补
+> 🌐 English version: [en/145_Power_Showdown.md](en/145_Power_Showdown.md)
 
 > 货架位置：照片 155121，棕色盒，盒面有乌鸦图案，印「权力对决」
 
@@ -13110,6 +13255,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g146"></a>
 
 ## 乌邦果（Ubongo，基础版）
+> 🌐 English version: [en/146_Ubongo.md](en/146_Ubongo.md)
 
 > 货架位置：照片 155114，红色盒，盒侧露出「U…」和 KOSMOS 标志，1–4 人 / 30 分钟
 > 按 KOSMOS 标志、红色盒和露出的字母判断为平面版《Ubongo》。文档 82 是立体版《乌邦果 3D》，规则相近但不相同。⚠️ 标题没拍全，请核对盒面。
@@ -13195,6 +13341,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g147"></a>
 
 ## 风声（The Message，千骐动漫 / 千智）
+> 🌐 English version: [en/147_The_Message.md](en/147_The_Message.md)
 
 > 货架位置：照片 155125 G4 层，黑色盒 ×4（盒侧印「千骐动漫」「千智」标志，以及书法体「风声」）
 > 同一层另有 2 盒「犯罪现场」，同为千骐 / 千智出品，见文档 135。
@@ -13311,6 +13458,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g148"></a>
 
 ## 百万美金（Millions of Dollars）
+> 🌐 English version: [en/148_Millions_of_Dollars.md](en/148_Millions_of_Dollars.md)
 
 > 货架位置：照片 155125 F4 / G4 中间那摞，红黑色盒 ×6（盒侧印「MILLIONS of dollars 百万美金」）
 > 最上面还有一盒风格不同的「BAHAMAS」盒，是不是这款游戏的扩展无法确认，见 README 待确认。
@@ -13423,6 +13571,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g149"></a>
 
 ## K的游戏（盒装剧本杀系列，天津漫娱 / K的游戏工作室）
+> 🌐 English version: [en/149_K_s_Game.md](en/149_K_s_Game.md)
 
 > 货架位置：照片 155142，玻璃书柜上层，竖放的书本式盒子。盒脊上印着「K的游戏」、编号、标题和 K 字标志：
 >
@@ -13517,6 +13666,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g150"></a>
 
 ## 一夜终极狼人（One Night Ultimate Werewolf）
+> 🌐 English version: [en/150_One_Night_Ultimate_Werewolf.md](en/150_One_Night_Ultimate_Werewolf.md)
 
 > 货架位置：照片 155128，F5 层透明收纳箱，蓝框标签「38 一夜终极狼人…」（标签最后几个字看不清，可能是“一夜终极狼人”加上版本或扩展名）
 > 文档 99《终极狼人》（多夜版）和文档 98《狼人真言》是同系列的其他作品。
@@ -13623,6 +13773,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g151"></a>
 
 ## 僵尸商场 / 僵尸商城（Mall of Horror）
+> 🌐 English version: [en/151_Mall_of_Horror.md](en/151_Mall_of_Horror.md)
 
 > 货架位置：照片 155128，F5 层透明收纳箱，蓝框标签「01 僵尸商城」（店内手写为“商城”，常见译名是“僵尸商场”）
 > 游戏已经拆盒装在收纳箱里，所以版本无法确认。⚠️ 以箱内说明书和配件为准。
@@ -13743,6 +13894,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g152"></a>
 
 ## 森林之战 ⚠️ 资料不足
+> 🌐 English version: [en/152_Forest_Battle.md](en/152_Forest_Battle.md)
 
 > 货架位置：照片 155128，F5 层透明收纳箱，蓝框标签「07 森林之战」（箱内能看到绿色和蓝色的塑料小件，以及写有数字的方块）
 
@@ -13812,6 +13964,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g153"></a>
 
 ## 猜猜我是谁（Guess Who?）
+> 🌐 English version: [en/153_Guess_Who.md](en/153_Guess_Who.md)
 
 > 货架位置：照片 155128，F5 层下方，红色翻板式棋盘，装在透明收纳箱里，箱上贴着黄色便签（字迹看不清）
 > 从外形判断是经典的 Guess Who 翻板。⚠️ 可能是国产仿制版，人物和数量以实物为准。
@@ -13890,6 +14043,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g154"></a>
 
 ## 飞行棋（Aeroplane Chess）
+> 🌐 English version: [en/154_Aeroplane_Chess.md](en/154_Aeroplane_Chess.md)
 
 > 货架位置：照片 155128，左下角，黄边棋盘盒（盒边倒印「飞行棋」，四色航线上画着飞机图案）
 
@@ -13968,6 +14122,7 @@ Royale 是独立可玩的“豪华版”：保留上面的核心规则，另外�
 <a id="g155"></a>
 
 ## 叠叠乐（Jenga 类木块塔）
+> 🌐 English version: [en/155_Jenga.md](en/155_Jenga.md)
 
 > 货架位置：
 > - 照片 155128，F5 层下方：左边一个透明箱里装着散放的原木色长方木块；右边一个**黄色分格托盘**里装着木块，部分木块上写着数字（可以看到 30、38、48、49 等）。

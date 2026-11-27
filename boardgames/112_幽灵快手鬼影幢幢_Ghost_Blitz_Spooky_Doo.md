@@ -1,4 +1,5 @@
 # 幽灵快手：鬼影幢幢（Ghost Blitz: Spooky Doo / Geistesblitz: Spooky Doo）
+> 🌐 English version: [en/112_Ghost_Blitz_Spooky_Doo.md](en/112_Ghost_Blitz_Spooky_Doo.md)
 
 > 货架位置：照片 155056 C3/C4 层，2 盒（铁盒）
 > 这是 Zoch《幽灵快手 Geistesblitz》系列的一作，中文译名不一，以盒面为准。

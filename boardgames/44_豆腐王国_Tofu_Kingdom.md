@@ -1,4 +1,5 @@
 # 豆腐王国（Tofu Kingdom）
+> 🌐 English version: [en/44_Tofu_Kingdom.md](en/44_Tofu_Kingdom.md)
 
 > 货架位置：照片 155049 小盒堆，2 盒
 

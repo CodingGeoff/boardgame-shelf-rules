@@ -1,4 +1,5 @@
 # SETI：地外文明（SETI: Search for Extraterrestrial Intelligence）
+> 🌐 English version: [en/118_SETI_Search_for_Extraterrestrial_Intelli.md](en/118_SETI_Search_for_Extraterrestrial_Intelli.md)
 
 > 货架位置：照片 155114 / 155121 顶部大盒堆，盒侧印「地外文明」和临龙（LIN LONG）标志
 > 临龙桌游代理的中文版就叫《SETI 地外文明》，另有扩展「太空机构」。
