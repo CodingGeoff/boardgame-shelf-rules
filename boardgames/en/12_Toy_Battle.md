@@ -104,6 +104,33 @@ Before you start:
 
 - Double-sided board — see rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Two toy factions fight over a rug. Each turn choose: draw 2 toys, or deploy 1 to the rug. Toys have values; bigger ones push out or block. Hold medal spaces to claim medals; collect enough or invade the enemy base to win.
+
+### Strategy by phase
+
+- **Early:** Draw first so you have options; don't dump strong toys early.
+- **Mid:** Fight around medal spaces — small toys to occupy, big toys to dominate.
+- **Late:** Guard your base; block when the opponent is one medal away.
+
+### Extra FAQ
+
+- **Q: Can toys move after deployment?**  
+  A: See the rulebook.
+- **Q: How are ties resolved?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../12_%E7%8E%A9%E5%85%B7%E5%A4%A7%E6%88%98_Toy_Battle.md).*

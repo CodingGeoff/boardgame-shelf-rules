@@ -85,7 +85,7 @@ Before you start:
 
 ### Scoring example
 
-- Collected cards + tokens − cards left in hand.
+- Per round: 1 per captured card + 1 per Scout token − 1 per card left in hand (the player whose Show went unbeaten doesn't lose hand points). Play a round per player; highest total wins.
 
 ### Rules FAQ / rulings
 
@@ -99,6 +99,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> You may not reorder your hand — only flip it once at the start. On your turn: Show adjacent same-number or consecutive cards to beat the current set; or Scout one card from either end of the set into anywhere in your hand (the owner gets a token); or once per round Scout & Show. Beating a set lets you collect it as points.
+
+### Strategy by phase
+
+- **Early:** Decide on flipping your hand: pick the side with more adjacent sets.
+- **Mid:** Scout to build long runs, but each scout gives a point away.
+- **Late:** End the round when you can — each card left in hand is −1.
+
+### Extra FAQ
+
+- **Q: When does a round end?**  
+  A: When someone empties their hand, or when a Show goes unbeaten as everyone else Scouts.
+- **Q: Does the player whose set went unbeaten lose points for their hand?**  
+  A: No.
 
 ---
 

@@ -112,6 +112,33 @@ Before you start:
 
 - Each box has 3 standalone scenarios, difficulty shown by keys; start with the tutorial scenario. Boxes aren't connected.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> We're a team locked in a 'card escape room' with 60 minutes. Numbers you spot on revealed cards are cards you can flip. Red and blue numbers add together to form a new card number. Locks are opened by typing codes into the app. Wrong guesses cost time, so don't brute-force. The app gives hints when you're stuck.
+
+### Strategy by phase
+
+- **Early:** Flip every number visible at the start and lay cards out in zones everyone can see.
+- **Mid:** Split roles — machines, app, discard pile; say combinations aloud so others can check.
+- **Late:** Stuck for over 5 minutes? Use a hint. In the last 10 minutes focus on the main line.
+
+### Extra FAQ
+
+- **Q: What about penalty cards?**  
+  A: Apply the penalty in the app as the card says, then discard it.
+- **Q: Can we discard used cards?**  
+  A: Only those whose numbers are crossed out/marked as discardable; keep the rest.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../01_%E5%A4%A7%E6%90%9C%E6%9F%A5_Unlock%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1.md).*

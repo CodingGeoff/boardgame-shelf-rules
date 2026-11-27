@@ -96,6 +96,33 @@ Before you start:
 
 - Many house rules.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Using a standard deck, play cards face down in order A, 2, 3 ... K, announcing the count. Anyone may call 'Liar!'. Flip — the liar takes the pile, or the challenger if honest. First out wins.
+
+### Strategy by phase
+
+- **Early:** Build trust with honest plays.
+- **Mid:** Track cards to judge plausibility.
+- **Late:** Bluff boldly near the end.
+
+### Extra FAQ
+
+- **Q: Can I play multiple?**  
+  A: Yes, per house rules.
+- **Q: Challenge on last card?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../64_%E5%90%B9%E7%89%9B.md).*

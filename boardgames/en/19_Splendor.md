@@ -103,6 +103,33 @@ Before you start:
 
 - Expansions: Cities, Orient.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> On your turn: take 3 different gems, or 2 of the same (if 4+ remain), reserve a card and take gold, or buy a card. Cards give permanent discounts and some give points. Nobles visit when you meet their requirements. Someone hitting 15 points triggers the end of the round.
+
+### Strategy by phase
+
+- **Early:** Buy cheap level-1 cards for discounts matching nobles.
+- **Mid:** Pick main colours from nobles and level-2 cards; reserve key cards.
+- **Late:** Count points carefully — one level-3 card or noble often wins.
+
+### Extra FAQ
+
+- **Q: Gem limit?**  
+  A: 10.
+- **Q: Can two nobles visit at once?**  
+  A: No, one per turn.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../19_%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3_Splendor.md).*

@@ -98,6 +98,33 @@ Before you start:
 
 - Turn-based mode.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Two submarines in real time. Captain calls headings, radio operator tracks the enemy, first mate charges systems, engineer handles breakdowns. Sink the enemy first.
+
+### Strategy by phase
+
+- **Early:** Learn your role.
+- **Mid:** Radio operator: track calmly.
+- **Late:** Strike accurately.
+
+### Extra FAQ
+
+- **Q: Turn-based mode?**  
+  A: Yes, for beginners.
+- **Q: Breakdowns?**  
+  A: Systems fail or damage.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../78_%E6%BD%9C%E8%88%AA%E8%B0%8D%E5%BD%B1_Captain_Sonar.md).*

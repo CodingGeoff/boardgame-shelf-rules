@@ -99,6 +99,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> An 'I'm the Boss' series card game: run companies, trade shares, mergers and dividends. Only video explanations exist online (setup, actions, mergers, bankruptcy/dividends, simultaneous mergers). Follow the box rulebook.
+
+### Strategy by phase
+
+- **Early:** Buy shares in promising companies.
+- **Mid:** Time mergers.
+- **Late:** Calculate dividends late.
+
+### Extra FAQ
+
+- **Q: Pending info?**  
+  A: Follow the box.
+- **Q: Simultaneous mergers?**  
+  A: Per rulebook order.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../158_%E6%88%91%E6%98%AF%E5%A4%A7%E8%80%81%E6%9D%BF3_%E5%B9%B6%E8%B4%AD%E5%A4%A7%E4%BA%A8.md).*

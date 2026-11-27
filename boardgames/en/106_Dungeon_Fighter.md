@@ -99,6 +99,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> A co-op dungeon where you attack by tossing dice at a target with crazy throws — behind your back, eyes closed, bouncing. Closer to the centre deals more damage. Beat the boss together.
+
+### Strategy by phase
+
+- **Early:** Practise your throws.
+- **Mid:** Use skills and items.
+- **Late:** Focus the boss.
+
+### Extra FAQ
+
+- **Q: Dice off target?**  
+  A: Miss.
+- **Q: Use others' skills?**  
+  A: No.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../106_%E5%9C%B0%E5%9F%8E%E5%8B%87%E5%A3%AB_Dungeon_Fighter.md).*

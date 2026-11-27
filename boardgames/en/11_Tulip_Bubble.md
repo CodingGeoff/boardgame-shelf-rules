@@ -107,6 +107,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> We're 17th-century Dutch tulip traders. Events and auctions push prices up or down. Each round buy, sell, or bid. The key is cashing out before the bubble bursts. Most money at the end wins — greedy players end up holding worthless bulbs.
+
+### Strategy by phase
+
+- **Early:** Buy several varieties cheaply to spread risk.
+- **Mid:** Read events and others' holdings; pump what you hold, dump what they hold.
+- **Late:** Cash out a round or two before you think the bubble bursts.
+
+### Extra FAQ
+
+- **Q: When does the bubble burst?**  
+  A: When the event or rulebook condition triggers.
+- **Q: Can I borrow?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../11_%E9%83%81%E9%87%91%E9%A6%99%E6%B3%A1%E6%B2%AB_Tulip_Bubble.md).*

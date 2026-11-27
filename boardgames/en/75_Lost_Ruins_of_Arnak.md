@@ -98,6 +98,33 @@ Before you start:
 
 - Expedition Leaders.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 160 min.
+
+### Teaching script (read it aloud)
+
+> Deckbuilding plus worker placement. Send archaeologists to sites, gain resources, explore new sites and face guardians. Advance on the research track. Most points after five rounds wins.
+
+### Strategy by phase
+
+- **Early:** Buy movement and resource cards early.
+- **Mid:** Keep advancing research.
+- **Late:** Defeat guardians and push research at the end.
+
+### Extra FAQ
+
+- **Q: Must I fight guardians?**  
+  A: Leaving them gives fear cards.
+- **Q: More workers?**  
+  A: Via research.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../75_%E5%A4%B1%E8%90%BD%E9%81%97%E8%BF%B9%E9%98%BF%E7%BA%B3%E5%85%8B_Lost_Ruins_of_Arnak_%E5%90%AB%E6%8E%A2%E9%99%A9%E9%98%9F%E9%A2%86%E8%A2%96.md).*

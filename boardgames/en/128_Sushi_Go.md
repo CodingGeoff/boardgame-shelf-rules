@@ -109,6 +109,33 @@ Before you start:
 
 - Sushi Go Party.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Draft sushi: take one, pass. Tempura (2 = 5), sashimi (3 = 10), dumplings escalate, nigiri on wasabi triples. After three rounds most pudding gains, least loses.
+
+### Strategy by phase
+
+- **Early:** Wasabi before nigiri.
+- **Mid:** Watch others' sets.
+- **Late:** Mind pudding in round 3.
+
+### Extra FAQ
+
+- **Q: Chopsticks?**  
+  A: Take 2 next time, return chopsticks.
+- **Q: Maki scoring?**  
+  A: Most 6, second 3.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../128_%E5%AF%BF%E5%8F%B8%E7%8B%97_Sushi_Go.md).*

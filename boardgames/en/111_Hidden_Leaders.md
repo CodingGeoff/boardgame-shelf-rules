@@ -99,6 +99,33 @@ Before you start:
 
 - New edition.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Two markers fight on a power track. Each leader secretly serves two factions; steer the track to favour yours. At the end victory is checked in order: Undead, Water Folk, Empire, Tribes.
+
+### Strategy by phase
+
+- **Early:** Hide your factions.
+- **Mid:** Read others' pushes.
+- **Late:** Steer precisely at the end.
+
+### Extra FAQ
+
+- **Q: Two factions per player?**  
+  A: Yes.
+- **Q: Ties?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../111_%E7%8E%8B%E6%9D%83%E6%9A%97%E6%88%98_Hidden_Leaders.md).*

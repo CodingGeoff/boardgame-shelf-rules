@@ -106,6 +106,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Pure negotiation. Each deal needs certain investor families; haggle over shares and disrupt with cards — send families on holiday, swap them. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Collect families and cards.
+- **Mid:** Control key families.
+- **Late:** Max shares in the last deals.
+
+### Extra FAQ
+
+- **Q: Are deals binding?**  
+  A: Agreed shares must be paid.
+- **Q: Can the boss pass?**  
+  A: Yes, no profit.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../100_%E6%88%91%E6%98%AF%E5%A4%A7%E8%80%81%E6%9D%BF_Im_the_Boss.md).*

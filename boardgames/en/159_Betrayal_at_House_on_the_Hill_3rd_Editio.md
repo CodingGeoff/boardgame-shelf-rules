@@ -117,6 +117,33 @@ Before you start:
 
 - Expansion: The Werewolf's Journey: Blood on the Moon.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> Explore a haunted house. After drawing an omen, roll dice equal to the omen count; 5+ triggers the haunt (the last omen triggers automatically). The scenario card chooses the haunt; reveal the traitor or special setup, then sides pursue secret goals. Discovering a room ends your movement.
+
+### Strategy by phase
+
+- **Early:** Explore and grab items early.
+- **Mid:** Follow the haunt objective.
+- **Late:** Concentrate resources late.
+
+### Extra FAQ
+
+- **Q: Steal items?**  
+  A: Not by default.
+- **Q: Haunt roll?**  
+  A: Dice = omens; 5+ triggers.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../159_%E6%9E%97%E4%B8%AD%E5%B0%8F%E5%B1%8B%E7%AC%AC%E4%B8%89%E7%89%88_Betrayal_at_House_on_the_Hill_3rd.md).*

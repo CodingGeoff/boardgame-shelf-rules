@@ -92,6 +92,31 @@ Before you start:
 
 - Possibly a Gizmos edition.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> This 'Science Marbles' box is likely an edition of Gizmos — play with doc 21's rules (pick, file, build, research) and check the rulebook for differences.
+
+### Strategy by phase
+
+- **Early:** Check whether the rulebook matches Gizmos.
+- **Mid:** Play the Gizmos engine-building strategy.
+- **Late:** End conditions per the rulebook.
+
+### Extra FAQ
+
+- **Q: Can we use Gizmos rules?**  
+  A: As a start; the box rulebook wins on differences.
+- **Q: What does 'pending info' mean?**  
+  A: Public info is lacking; check the box.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../23_%E7%A7%91%E5%AD%A6%E7%88%86%E7%8F%A0.md).*

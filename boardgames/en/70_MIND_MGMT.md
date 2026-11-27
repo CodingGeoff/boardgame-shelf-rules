@@ -98,6 +98,33 @@ Before you start:
 
 - Campaign unlocks.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–75 min; budget about 90 min for a first game.
+- Total: about 105 min.
+
+### Teaching script (read it aloud)
+
+> One Recruiter moves secretly across the city, recording on a hidden sheet, recruiting. Rogue agents move and ask questions he must answer honestly. Catching him or reaching the recruit target decides it.
+
+### Strategy by phase
+
+- **Early:** Agents spread out.
+- **Mid:** Share info and eliminate.
+- **Late:** Recruiter fakes routes.
+
+### Extra FAQ
+
+- **Q: Can the Recruiter lie?**  
+  A: No.
+- **Q: How many turns?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../70_%E5%BF%83%E7%81%B5%E7%89%B9%E5%B7%A5_MIND_MGMT.md).*

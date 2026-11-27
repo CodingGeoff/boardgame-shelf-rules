@@ -85,7 +85,7 @@ Before you start:
 
 ### Scoring example
 
-- Paths of increasing numbers between same species score.
+- A species scores only for the player with the highest hand sum of it (your 8 counts 0 if an opponent holds the 1). Paths: 1 per card, 2 per card if 4+ cards all of that species; +1 starting on a 1, +2 ending on an 8.
 
 ### Rules FAQ / rulings
 
@@ -99,6 +99,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 50 min.
+
+### Teaching script (read it aloud)
+
+> Each turn draw 2 (from the deck or any discard pile top), play one card to your arboretum, then discard one. At the end, a species scores only for the player holding the highest sum of that species in hand. Paths start and end with that species and increase in value: 1 point per card, 2 per card if 4+ cards all of the species, +1 for starting on a 1, +2 for ending on an 8.
+
+### Strategy by phase
+
+- **Early:** Lay down path skeletons while keeping high cards of those species in hand.
+- **Mid:** Your discards feed others — don't give away high cards they need.
+- **Late:** Late on, compute who holds the highest sums and keep what you need.
+
+### Extra FAQ
+
+- **Q: What if I hold an 8 and someone holds the 1?**  
+  A: Your 8 counts as 0.
+- **Q: Ties on hand sums?**  
+  A: All tied players score.
 
 ---
 

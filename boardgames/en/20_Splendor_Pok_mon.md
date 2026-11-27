@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Mostly Splendor: take gems, buy cards, reserve. The twist is evolution — meet the requirement and stack a higher-stage Pokémon on top for more points. End condition as in the rules.
+
+### Strategy by phase
+
+- **Early:** Build discounts while eyeing evolvable Pokémon.
+- **Mid:** Evolving often beats buying new cards.
+- **Late:** Compare buying vs evolving for the final points.
+
+### Extra FAQ
+
+- **Q: Does evolving take an action?**  
+  A: See rulebook.
+- **Q: Do discounts remain after evolving?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../20_%E5%AE%9D%E5%8F%AF%E6%A2%A6%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3_Splendor_Pokemon.md).*

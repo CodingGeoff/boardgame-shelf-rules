@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–10 min; budget about 10 min for a first game.
+- Total: about 15 min.
+
+### Teaching script (read it aloud)
+
+> Flip character cards into the centre. Only when a character is doing their job do players race to do the matching action. Slowest or wrong player takes the pile. First to empty their hand wins.
+
+### Strategy by phase
+
+- **Early:** Stay focused.
+- **Mid:** Learn each character's action.
+- **Late:** Be extra careful with the last cards.
+
+### Extra FAQ
+
+- **Q: Wrong action?**  
+  A: Take the pile.
+- **Q: Should I act every time?**  
+  A: Only when the character is doing their job.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../47_%E9%80%9A%E7%BC%89%E4%BB%A4.md).*

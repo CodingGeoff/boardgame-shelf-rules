@@ -103,6 +103,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> We're painting spots on dogs. On your turn choose a trick card, roll, and place dice on dog cards. Unused dice go to the yard — if the yard totals over 7 you bust. Completed dogs are kept. Score dogs and bonuses at the end.
+
+### Strategy by phase
+
+- **Early:** Start with easy dogs.
+- **Mid:** Stop when the yard is nearly full.
+- **Late:** In late rounds finish the most valuable dog.
+
+### Extra FAQ
+
+- **Q: Can I play solo?**  
+  A: Yes, 1–4 players.
+- **Q: What do I lose on a bust?**  
+  A: Usually this turn's placements; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../15_%E7%8B%97%E8%BF%90%E5%BD%93%E9%AA%B0_SPOTS.md).*

@@ -83,7 +83,7 @@ Before you start:
 
 ### Scoring example
 
-- Score gems per rulebook.
+- After 9 rounds total gem values (red 4, blue 3, green 2, brown 1).
 
 ### Rules FAQ / rulings
 
@@ -98,6 +98,33 @@ Before you start:
 ### Official variants & expansions
 
 - Easy/hard puzzle sides.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Everyone has identical 3D pieces and a puzzle board. Roll to pick the piece set, flip the timer. Build simultaneously: cover the white area exactly, exactly 2 layers high. First shouts 'Ubongo' and takes a blue gem, second takes brown; everyone in time draws one from the bag. Highest gem value after 9 rounds wins.
+
+### Strategy by phase
+
+- **Early:** Warm up on the easy side.
+- **Mid:** Place the oddest piece first.
+- **Late:** Finish in time to secure bag draws.
+
+### Extra FAQ
+
+- **Q: Gem values?**  
+  A: Red 4, blue 3, green 2, brown 1.
+- **Q: Overhangs allowed?**  
+  A: No — exact coverage, 2 layers.
 
 ---
 

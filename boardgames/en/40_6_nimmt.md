@@ -103,6 +103,33 @@ Before you start:
 
 - Professional variant; Take 11 etc.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Everyone has 10 cards. Simultaneously choose a card; resolve lowest first, placing each after the row whose end is closest below it. The 6th card in a row takes the 5 before it. A card lower than all row ends must take a row of the player's choice. Fewest bull heads wins.
+
+### Strategy by phase
+
+- **Early:** Play middle numbers early; hold extremes.
+- **Mid:** Count rows — avoid rows with 5 cards.
+- **Late:** With a very low card, take the cheapest row.
+
+### Extra FAQ
+
+- **Q: After taking a row, where does my card go?**  
+  A: It starts the new row.
+- **Q: When does it end?**  
+  A: Commonly when someone reaches 66 bull heads.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../40_%E8%B0%81%E6%98%AF%E7%89%9B%E5%A4%B4%E7%8E%8B_6_nimmt.md).*

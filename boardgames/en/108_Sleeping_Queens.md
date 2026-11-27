@@ -91,7 +91,7 @@ Before you start:
 
 ### Scoring example
 
-- Win per rulebook queen/points goal.
+- 2–3 players: 5 queens or 50 points; 4–5 players: 4 queens or 40 points; if all queens are awake, highest points wins.
 
 ### Rules FAQ / rulings
 
@@ -105,6 +105,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Wake the Sleeping Queens. Kings wake a queen; Knights steal (Dragon blocks); Potions put queens back to sleep (Wand blocks); Jesters flip to decide; number equations let you discard several cards. 2–3 players: 5 queens or 50 points; 4–5: 4 queens or 40.
+
+### Strategy by phase
+
+- **Early:** Wake high-value queens first.
+- **Mid:** Keep Dragon and Wand for defence.
+- **Late:** Steal the last queens.
+
+### Extra FAQ
+
+- **Q: Rose Queen?**  
+  A: Wake another queen with her.
+- **Q: Cat and Dog queens together?**  
+  A: No.
 
 ---
 

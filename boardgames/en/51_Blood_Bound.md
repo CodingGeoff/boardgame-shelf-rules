@@ -103,6 +103,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Two vampire clans hunt each other's leader. Each player has a rank and clan. The dagger holder attacks; the wounded reveals a clan or rank symbol. A fourth wound means capture. Capture the enemy leader to win.
+
+### Strategy by phase
+
+- **Early:** Attack suspects to see what they reveal.
+- **Mid:** Use powers to protect or mislead.
+- **Late:** Focus the leader once identified.
+
+### Extra FAQ
+
+- **Q: Can I attack my own clan?**  
+  A: Yes, though rarely wise.
+- **Q: How does intervention work?**  
+  A: Others can take the wound instead; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../51_Blood_Bound.md).*

@@ -104,6 +104,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Two idols face off with card decks, playing songs and support cards to raise hype and win fans. Meet the victory condition first. Deckbuilding shapes your style — burst or steady.
+
+### Strategy by phase
+
+- **Early:** Play steady hype generators first.
+- **Mid:** Read the opponent's deck and hold answers.
+- **Late:** Burst at the end to grab the last fans.
+
+### Extra FAQ
+
+- **Q: Can decks be customised?**  
+  A: See rulebook.
+- **Q: Ties?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../24_%E6%98%9F%E8%80%80%E5%81%B6%E5%83%8F%E7%A5%AD_Idol_Alive.md).*

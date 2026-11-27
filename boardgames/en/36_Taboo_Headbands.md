@@ -99,6 +99,33 @@ Before you start:
 
 - Blank cards for custom words.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Each player wears a forbidden word they can't see. Chat freely, trying to trick others into saying their word while avoiding yours. Say yours and you're out or lose points.
+
+### Strategy by phase
+
+- **Early:** Study others' words and plan traps.
+- **Mid:** Keep your speech short.
+- **Late:** Set elaborate traps when few remain.
+
+### Extra FAQ
+
+- **Q: Do synonyms count?**  
+  A: Agree beforehand; usually only the exact word.
+- **Q: Can I guess my word?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../36_%E5%AE%B3%E4%BD%A0%E5%9C%A8%E5%BF%83%E5%8F%A3%E9%9A%BE%E5%BC%80.md).*

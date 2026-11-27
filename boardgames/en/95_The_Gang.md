@@ -100,6 +100,33 @@ Before you start:
 
 - Challenge and specialist cards.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Co-op Texas Hold'em. No talking about cards — take star chips to express your hand's strength. Re-take chips after each community reveal. At showdown, if rankings match, you crack a vault. 3 vaults win; 3 alarms lose.
+
+### Strategy by phase
+
+- **Early:** Take chips based on hole cards first.
+- **Mid:** Watch others' hesitation.
+- **Late:** Swap chips carefully at the end.
+
+### Extra FAQ
+
+- **Q: Can I take someone's chip?**  
+  A: Yes.
+- **Q: Can I say my hand is good?**  
+  A: No.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../95_%E7%BA%B8%E7%89%8C%E5%B8%AE_The_Gang.md).*

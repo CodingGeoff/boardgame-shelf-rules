@@ -106,6 +106,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Everyone has a revolver with live or blank chambers. Bid for rewards, then point guns, challenge and pull triggers. Getting shot hurts or eliminates you; surviving earns points. It's all about reading people — is that confidence real or a bluff? First to 15 VP wins.
+
+### Strategy by phase
+
+- **Early:** Play safe early and learn who bluffs.
+- **Mid:** The leader gets ganged up on — sitting second is fine.
+- **Late:** Near 15 VP, count what you need and commit on the key round.
+
+### Extra FAQ
+
+- **Q: Am I out if shot?**  
+  A: See the rulebook's damage rules.
+- **Q: Can I lie about my bullets?**  
+  A: Yes, bluffing is the game.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../09_%E8%B5%8C%E5%91%BD%E5%A4%A7%E8%B5%9B.md).*

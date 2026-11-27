@@ -97,6 +97,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–60 min; budget about 70 min for a first game.
+- Total: about 75 min.
+
+### Teaching script (read it aloud)
+
+> The host reads a strange riddle; players ask yes/no/irrelevant questions to reconstruct the truth. Solve it to win.
+
+### Strategy by phase
+
+- **Early:** Start with who, when, where.
+- **Mid:** Look for contradictions.
+- **Late:** Propose a full story.
+
+### Extra FAQ
+
+- **Q: Can the host hint?**  
+  A: Yes, to avoid stalls.
+- **Q: One question at a time?**  
+  A: Usually.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../69_%E9%80%BB%E8%BE%91%E5%85%BD_LOGIC_BEAST.md).*

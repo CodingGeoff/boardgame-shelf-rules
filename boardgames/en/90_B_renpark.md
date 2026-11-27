@@ -97,6 +97,33 @@ Before you start:
 
 - Achievement variant; expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Start with a park board. Place a polyomino tile; covered icons reward you: pencil new tile, wheelbarrow new park board, excavator bear statue. Earlier enclosures and statues score higher. When someone fills their parks, finish the round and score.
+
+### Strategy by phase
+
+- **Early:** Cover icons to snowball.
+- **Mid:** Grab high-value enclosures early.
+- **Late:** Fill parks quickly to end.
+
+### Extra FAQ
+
+- **Q: Can tiles overhang?**  
+  A: No.
+- **Q: Max park boards?**  
+  A: 4 (2×2).
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../90_%E7%86%8A%E7%86%8A%E5%85%AC%E5%9B%AD_Barenpark.md).*

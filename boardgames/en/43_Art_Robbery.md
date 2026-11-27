@@ -103,6 +103,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Four rounds of dividing loot. Play number cards to take or steal loot; bigger numbers act first. But whoever has the fewest alibis at the end is arrested. Most loot wins.
+
+### Strategy by phase
+
+- **Early:** Secure alibis first.
+- **Mid:** Use high numbers for key loot or theft.
+- **Late:** Count alibis carefully in the final round.
+
+### Extra FAQ
+
+- **Q: Tie for fewest alibis?**  
+  A: See rulebook.
+- **Q: Can stolen loot be stolen again?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../43_Art_Robbery.md).*

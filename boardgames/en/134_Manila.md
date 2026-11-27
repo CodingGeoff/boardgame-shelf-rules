@@ -98,6 +98,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 120 min.
+
+### Teaching script (read it aloud)
+
+> Auction to become harbourmaster, buy shares and set cargo. Everyone places workers on boats, ports, shipyards, pilots or pirates. Roll three times to move boats. Arriving boats pay out and raise share values.
+
+### Strategy by phase
+
+- **Early:** Bid for harbourmaster wisely.
+- **Mid:** Spread workers to reduce risk.
+- **Late:** Calculate before selling.
+
+### Extra FAQ
+
+- **Q: Pirates?**  
+  A: Board ships after roll 2.
+- **Q: Mortgage shares?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../134_%E9%A9%AC%E5%B0%BC%E6%8B%89_Manila.md).*

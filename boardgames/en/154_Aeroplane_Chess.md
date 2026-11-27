@@ -100,6 +100,33 @@ Before you start:
 
 - House rules.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 55 min.
+
+### Teaching script (read it aloud)
+
+> Ludo-style race. Roll a 6 to launch (some allow 5–6). Land on your colour to jump ahead; dashed lines let you fly across. Landing on an opponent sends them home. First to bring all 4 planes home wins.
+
+### Strategy by phase
+
+- **Early:** Launch several planes.
+- **Mid:** Bump opponents.
+- **Late:** Exact rolls to finish.
+
+### Extra FAQ
+
+- **Q: Need a 6 to launch?**  
+  A: Usually 6; some allow 5.
+- **Q: Roll again on 6?**  
+  A: Usually yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../154_%E9%A3%9E%E8%A1%8C%E6%A3%8B_Aeroplane_Chess.md).*

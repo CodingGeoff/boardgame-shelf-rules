@@ -102,6 +102,33 @@ Before you start:
 
 - 3D cards require stacking.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Rotate 3 wooden cubes to match a monster face on the card — fastest wins the card.
+
+### Strategy by phase
+
+- **Early:** Learn each cube's faces.
+- **Mid:** Start with the easiest feature.
+- **Late:** Stay calm.
+
+### Extra FAQ
+
+- **Q: Wrong match?**  
+  A: Penalty per rulebook.
+- **Q: Kids?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../110_%E5%8F%98%E8%84%B8%E9%AD%94%E6%96%B9_Cubeez.md).*

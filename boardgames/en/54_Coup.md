@@ -99,6 +99,33 @@ Before you start:
 
 - Reformation adds factions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Two hidden roles = two influence. On your turn take income, foreign aid, coup (7 coins), or claim a role (Duke tax, Assassin, Captain steal, Ambassador exchange). Others may challenge — liar loses an influence, else the challenger does. Last with influence wins.
+
+### Strategy by phase
+
+- **Early:** Take safe income and observe claims.
+- **Mid:** Pick a believable lie and stick to it.
+- **Late:** At 10 coins you must coup — plan ahead.
+
+### Extra FAQ
+
+- **Q: Can I claim roles I don't have?**  
+  A: Yes, that's the game.
+- **Q: Failed challenge?**  
+  A: Challenger loses an influence.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../54_%E6%94%BF%E5%8F%98_COUP.md).*

@@ -102,6 +102,33 @@ Before you start:
 
 - Carnival expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> We run a murderous inn in 19th-century rural France. Guests arrive each night: recruit them as accomplices, bribe, kill, bury and loot. Buildings hide bodies and launder money. Police may search — exposed corpses cost you. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Recruit accomplices early.
+- **Mid:** Build annexes to bury bodies and manage police risk.
+- **Late:** Convert everything to cash at the end.
+
+### Extra FAQ
+
+- **Q: Must I bury bodies?**  
+  A: Yes, or risk the police finding them.
+- **Q: How do loans work?**  
+  A: See rulebook; unpaid loans cost you.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../28_%E8%A1%80%E8%85%A5%E5%AE%A2%E6%A0%88_The_Bloody_Inn.md).*

@@ -101,6 +101,33 @@ Before you start:
 
 - Dark Edition adds wickedness.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Monsters brawl. Roll 6 dice with 2 rerolls: points, heal, energy, attack. Tokyo hits everyone outside; outsiders hit Tokyo. Staying in Tokyo scores but you can't heal with dice. First to 20 or last alive wins.
+
+### Strategy by phase
+
+- **Early:** Avoid Tokyo early; build energy.
+- **Mid:** Enter Tokyo with high HP.
+- **Late:** Race to 20 or eliminate.
+
+### Extra FAQ
+
+- **Q: Heal in Tokyo?**  
+  A: Not with dice.
+- **Q: Leave Tokyo when hit?**  
+  A: Yes, attacker enters.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../104_%E4%B8%9C%E4%BA%AC%E4%B9%8B%E7%8E%8B%E6%9A%97%E9%BB%91%E6%97%A0%E7%95%8C_King_of_Tokyo_Dark_Edition.md).*

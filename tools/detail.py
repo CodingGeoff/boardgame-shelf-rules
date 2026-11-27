@@ -10,6 +10,13 @@ sys.path.insert(0, HERE)
 D = {}
 for m in ('d1', 'd2', 'd3', 'd4', 'd5'):
     D.update(__import__(m).D)
+from dfix import F as _F
+for _i, _p in _F.items():
+    _t = list(D[_i])
+    for _k, _v in _p.items():
+        _t[_k] = _v
+    D[_i] = tuple(_t)
+import adv
 
 S, E = '<!-- detail:start -->', '<!-- detail:end -->'
 
@@ -76,7 +83,7 @@ def zh_section(i, text):
               '### 计分示例', '', '见盒内说明书。', '',
               '### 规则 FAQ', '', '- **问：网上能找到规则吗？** 答：本游戏公开资料很少，请以盒内说明书为准；如果知道出版社或英文名，可以补充本文档。', '',
               '### 不同人数', '', '见盒面人数标注。', '',
-              '### 变体与扩展', '', '见说明书。', '', E]
+              '### 变体与扩展', '', '见说明书。', '', *adv.zh(i), E]
         return '\n'.join(L)
     ex_zh, ex_en, sc_zh, sc_en, faq, pl_zh, pl_en, va_zh, va_en = d
     L += ['### 完整示例局（演示）', '', *[f'{k}. {x}' for k, x in enumerate(ex_zh, 1)], '',
@@ -87,7 +94,7 @@ def zh_section(i, text):
     else:
         L += ['- 常见疑问请参考上文“常见错误与容易混淆的规则”，其余以说明书为准。']
     L += ['', '### 不同人数的差异', '', f'- {pl_zh}', *([f'- 推荐人数：{best(i)} 人。'] if best(i) else []), '',
-          '### 官方变体与扩展', '', f'- {va_zh}', '', E]
+          '### 官方变体与扩展', '', f'- {va_zh}', '', *adv.zh(i), E]
     return '\n'.join(L)
 
 
@@ -110,7 +117,7 @@ def en_section(i, zh_text):
               '### Scoring example', '', 'See the rulebook.', '',
               '### Rules FAQ', '', '- **Q: Are the rules online?** A: Very little public info; use the box rulebook.', '',
               '### Player counts', '', 'See the box.', '',
-              '### Variants & expansions', '', 'See the rulebook.', '']
+              '### Variants & expansions', '', 'See the rulebook.', '', *adv.en(i)]
         return L
     ex_zh, ex_en, sc_zh, sc_en, faq, pl_zh, pl_en, va_zh, va_en = d
     L += ['### Worked example (illustrative)', '', *[f'{k}. {x}' for k, x in enumerate(ex_en, 1)], '',
@@ -121,7 +128,7 @@ def en_section(i, zh_text):
     else:
         L += ['- See “Common mistakes” above; anything else — check the rulebook.']
     L += ['', '### Player-count differences', '', f'- {pl_en}', *([f'- Best with: {best(i)} players.'] if best(i) else []), '',
-          '### Official variants & expansions', '', f'- {va_en}', '']
+          '### Official variants & expansions', '', f'- {va_en}', '', *adv.en(i)]
     return L
 
 

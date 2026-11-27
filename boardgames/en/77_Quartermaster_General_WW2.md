@@ -99,6 +99,33 @@ Before you start:
 
 - 1st/2nd editions differ; expansions exist.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 160 min.
+
+### Teaching script (read it aloud)
+
+> Axis vs Allies in WWII. Each of 6 nations has its own deck; build and fight via cards. Broken supply lines destroy units. Team score decides.
+
+### Strategy by phase
+
+- **Early:** Secure supply.
+- **Mid:** Coordinate attacks.
+- **Late:** Grab scoring regions late.
+
+### Extra FAQ
+
+- **Q: Can teammates share hands?**  
+  A: See rulebook.
+- **Q: Immediate supply loss?**  
+  A: Checked at turn end.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../77_%E5%86%9B%E9%9C%80%E5%AE%98_Quartermaster_General_WW2.md).*

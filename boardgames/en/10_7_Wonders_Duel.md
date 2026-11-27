@@ -108,6 +108,33 @@ Before you start:
 
 - Pantheon and Agora expansions add gods and new systems.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 50 min.
+
+### Teaching script (read it aloud)
+
+> Two players take turns picking available (uncovered) cards from a shared layout. Build them with resources, discard for coins, or use them to build a Wonder. After three Ages compare points — but you win instantly by pushing military into the enemy capital or collecting 6 different science symbols. Watch all three paths.
+
+### Strategy by phase
+
+- **Early:** Grab resources in Age I; cheap brown/grey cards save coins all game.
+- **Mid:** Every pick reveals cards for the opponent — don't uncover what they need.
+- **Late:** In Age III watch their military and science; hate-draft or burn cards to block.
+
+### Extra FAQ
+
+- **Q: How much does trading cost?**  
+  A: 2 coins + the number of that resource the opponent produces, per unit.
+- **Q: What happens after 7 Wonders are built?**  
+  A: Only 7 can be built; the last unbuilt one is removed.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../10_%E4%B8%83%E5%A4%A7%E5%A5%87%E8%BF%B9%E5%AF%B9%E5%86%B3_7_Wonders_Duel.md).*

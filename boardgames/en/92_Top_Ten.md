@@ -101,6 +101,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Fully cooperative. Everyone gets a secret 1–10; the captain reads a theme. Answer in a way that conveys your number; the captain orders everyone. Mistakes cost hearts.
+
+### Strategy by phase
+
+- **Early:** Answer within the theme.
+- **Mid:** Calibrate from others.
+- **Late:** Captain sorts from extremes.
+
+### Extra FAQ
+
+- **Q: Can I say my number?**  
+  A: No.
+- **Q: Does the captain rotate?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../92_%E8%84%91%E6%B4%9E%E9%87%8F%E8%A1%A8_Top_Ten.md).*

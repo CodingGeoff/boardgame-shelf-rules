@@ -102,6 +102,33 @@ Before you start:
 
 - Black edition adds instruction cards.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Roll for a colour and hang sticks of that colour on the tray. The tray tilts; drop sticks and you take them. First to place all wins.
+
+### Strategy by phase
+
+- **Early:** Hang near the balance point.
+- **Mid:** Watch the tilt.
+- **Late:** Steady hands late.
+
+### Extra FAQ
+
+- **Q: Dropped several?**  
+  A: Take them all.
+- **Q: Kids?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../117_%E7%AD%BE%E7%AD%BE%E5%85%A5%E6%89%A3_Stick_Stack.md).*

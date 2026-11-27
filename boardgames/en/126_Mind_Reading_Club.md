@@ -109,6 +109,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> A question with many answers; everyone writes one, then reveals and bets on matches. Score for thinking alike.
+
+### Strategy by phase
+
+- **Early:** Write common answers.
+- **Mid:** Read others' thinking.
+- **Late:** Bet on consensus.
+
+### Extra FAQ
+
+- **Q: Duplicate answers?**  
+  A: See rulebook.
+- **Q: Betting score?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../126_%E7%8C%9C%E5%BF%83%E4%BF%B1%E4%B9%90%E9%83%A8.md).*

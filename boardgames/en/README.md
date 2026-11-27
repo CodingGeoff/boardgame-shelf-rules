@@ -171,7 +171,7 @@
 | 159 | [Betrayal at House on the Hill 3rd Edition](159_Betrayal_at_House_on_the_Hill_3rd_Editio.md) | 林中小屋第三版 Betrayal at House on the Hill 3rd | 3–6 | 60–90 | ●●● | ≈ shelf behind the wire grid, upper level, left stack *(inferred)* |
 | 160 | [Warhammer Quest: The Adventure Card Game](160_Warhammer_Quest_The_Adventure_Card_Game.md) | 战锤任务：冒险卡牌游戏 Warhammer Quest ACG | 1–4 | 30–60 | ●●● | ≈ shelf behind the wire grid, upper level, left stack *(inferred)* |
 | 161 | [Cthulhu's Pact (K's Board Games 7)](161_Cthulhu_s_Pact.md) | 克苏鲁之约（K的桌游7） | 4–6 | 15–20 | ● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
-| 162 | [Apocalypse Revelation (zombie survival co-op)](162_Apocalypse_Revelation.md) | 末日启示录（僵尸生存合作） | ? | ? | ●●● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
+| 162 | [Apocalypse Revelation (zombie survival co-op)](162_Apocalypse_Revelation.md) | 末日启示录（僵尸生存合作） | 1–4 | 60–90 | ●●● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
 | 163 | [Magic Awakening (K's Board Games)](163_Magic_Awakening.md) | 魔法觉醒吧（K的桌游） | ? | ? | ● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
 | 164 | [Legendary Encounters: Alien](164_Legendary_Encounters_Alien.md) | 传奇冲突：异形 Legendary Encounters: Alien | 1–5 | 45–60 | ●●● | ≈ shelf behind the wire grid, upper level, middle *(inferred)* |
 | 165 | [MOMONEY](165_MOMONEY.md) | MOMONEY（大富翁类电子银行版） | ? | ? | ●● | ≈ shelf behind the wire grid, upper level, top right *(inferred)* |

@@ -102,6 +102,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Cheating is allowed! Play cards normally, but moth cards can only be discarded secretly. The bedbug guard watches for cheaters; caught cheaters draw penalties. First to empty their hand wins.
+
+### Strategy by phase
+
+- **Early:** Watch the guard before sneaking.
+- **Mid:** Use your space cleverly.
+- **Late:** Be careful with the last cards.
+
+### Extra FAQ
+
+- **Q: Penalty if caught?**  
+  A: Draw cards and become the guard; see rulebook.
+- **Q: Can I hide cards on me?**  
+  A: Agree on limits beforehand.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../52_%E4%BD%9C%E5%BC%8A%E9%A3%9E%E8%9B%BE_Mogel_Motte.md).*

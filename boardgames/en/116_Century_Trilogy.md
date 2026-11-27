@@ -98,6 +98,33 @@ Before you start:
 
 - Eastern Wonders, New World.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Start with merchant cards. On your turn: play a card (produce, upgrade, trade spices); acquire a new card (leave spices on skipped ones); claim a point card; or rest to return played cards. The 5th (4–5p) or 6th (2–3p) point card triggers the end.
+
+### Strategy by phase
+
+- **Early:** Get strong trade and upgrade cards early.
+- **Mid:** Build a steady spice engine.
+- **Late:** Grab point cards with coins late.
+
+### Extra FAQ
+
+- **Q: Spice limit?**  
+  A: 10.
+- **Q: Is resting an action?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../116_%E9%A6%99%E6%96%99%E4%B9%8B%E8%B7%AF_%E9%A6%99%E6%96%99%E4%B8%96%E7%BA%AA_Century_%E5%90%AB%E7%A5%9E%E7%A7%98%E4%B8%9C%E6%96%B9%E4%B8%8E%E6%96%B0%E4%B8%96%E7%95%8C.md).*

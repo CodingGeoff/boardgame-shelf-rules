@@ -94,6 +94,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> A historical court identity game: hidden roles, skills and discussion to achieve faction goals. Details pending — follow the box rulebook.
+
+### Strategy by phase
+
+- **Early:** Listen carefully.
+- **Mid:** Use skills wisely.
+- **Late:** Vote for your faction.
+
+### Extra FAQ
+
+- **Q: What does pending info mean?**  
+  A: Follow the box rulebook.
+- **Q: Player count?**  
+  A: See the box.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../93_%E9%83%A1%E4%B8%BB%E5%88%AB%E6%80%95_%E7%96%91%E4%BC%BC.md).*

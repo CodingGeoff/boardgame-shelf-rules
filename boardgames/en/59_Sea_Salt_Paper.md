@@ -98,6 +98,33 @@ Before you start:
 
 - Extra Salt expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Collect origami sea creatures. Draw (2 keep 1 from the deck, or the top discard), then play pairs for effects. At 7+ points you may call 'Stop' to end the round, or 'Last Chance' giving others one more turn while betting you're highest.
+
+### Strategy by phase
+
+- **Early:** Chase mermaids or high-value sets.
+- **Mid:** Play pairs for extra actions.
+- **Late:** Only call Last Chance if comfortably ahead.
+
+### Extra FAQ
+
+- **Q: What about 4 mermaids?**  
+  A: Instant win.
+- **Q: Failed Last Chance?**  
+  A: You only score colour bonus; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../59_%E6%8A%98%E7%BA%B8%E6%B5%B7%E6%B4%8B_Sea_Salt_and_Paper.md).*

@@ -99,6 +99,33 @@ Before you start:
 
 - Several editions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> Auction paintings using the method on each card: open, once-around, sealed, fixed price, double. The buyer pays the seller (or the bank if you buy your own). The 5th card of an artist ends the round. Rank artists: 30/20/10, cumulative. Sell to the bank; most cash after 4 rounds wins.
+
+### Strategy by phase
+
+- **Early:** Read which artists others hold.
+- **Mid:** Manipulate with doubles and sealed bids.
+- **Late:** Concentrate money on top artists in round 4.
+
+### Extra FAQ
+
+- **Q: Is the 5th card auctioned?**  
+  A: No.
+- **Q: Are artists outside top 3 worth anything?**  
+  A: Not this round.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../85_%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF_Modern_Art.md).*

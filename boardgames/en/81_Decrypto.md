@@ -102,6 +102,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Each team has 4 secret keywords numbered 1–4. Encryptor draws a 3-digit code and gives three clues. Teammates decode; opponents try to intercept from clue history. Two intercepts win; two miscommunications lose.
+
+### Strategy by phase
+
+- **Early:** Keep clues subtle early.
+- **Mid:** Log opponents' clues.
+- **Late:** Vary angles later.
+
+### Extra FAQ
+
+- **Q: Multilingual clues?**  
+  A: Agree beforehand.
+- **Q: Clue count?**  
+  A: One per digit.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../81_%E6%88%AA%E7%A0%81%E6%88%98_Decrypto.md).*

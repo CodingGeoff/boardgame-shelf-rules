@@ -101,6 +101,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Five spell stones face outward — you can't see your own. Name a spell number; if you have it, cast it; if not, lose life. The round ends when someone hits 0 life or empties their stones.
+
+### Strategy by phase
+
+- **Early:** Call low numbers first — there are more of them.
+- **Mid:** Deduce from visible and used stones.
+- **Late:** Play safe when low on life.
+
+### Extra FAQ
+
+- **Q: Can I see my stones?**  
+  A: No.
+- **Q: Where do cast stones go?**  
+  A: Face up in the centre.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../87_%E5%87%BA%E5%8C%85%E9%AD%94%E6%B3%95%E5%B8%88_Abracada_What.md).*

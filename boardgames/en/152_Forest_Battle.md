@@ -86,6 +86,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> Possibly from the show 'Forest Evolution': HP and poker identities with circular counters, predation and evolution auctions. Details per the box.
+
+### Strategy by phase
+
+- **Early:** Learn the counters.
+- **Mid:** Bid wisely.
+- **Late:** Protect HP.
+
+### Extra FAQ
+
+- **Q: Limited info?**  
+  A: Follow the box.
+- **Q: Players?**  
+  A: See box.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../152_%E6%A3%AE%E6%9E%97%E4%B9%8B%E6%88%98_%E8%B5%84%E6%96%99%E4%B8%8D%E8%B6%B3.md).*

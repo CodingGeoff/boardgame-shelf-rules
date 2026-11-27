@@ -100,6 +100,33 @@ Before you start:
 
 - Legacy campaign; an opened box may be mid-story.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> A legacy kingdom council game. Vote on dilemma cards; power and coin flow. Story branches across sessions and permanently change the kingdom.
+
+### Strategy by phase
+
+- **Early:** Learn your secret agenda.
+- **Mid:** Ally for key votes.
+- **Late:** Build power for the legacy.
+
+### Extra FAQ
+
+- **Q: Can we skip sessions?**  
+  A: Not recommended.
+- **Q: Tied votes?**  
+  A: Leader decides.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../76_%E7%8E%8B%E6%9D%83%E5%9B%B0%E5%A2%83_The_Kings_Dilemma.md).*

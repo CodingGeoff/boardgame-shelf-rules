@@ -99,6 +99,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Espionage card game with hidden factions. Intel cards are both hand and weapon — pass intel via direct, secret or text routes; others accept or refuse, or intercept, swap and expose with action cards. Three intel of a colour fulfils goals.
+
+### Strategy by phase
+
+- **Early:** Watch who accepts what colours.
+- **Mid:** Protect allies with actions.
+- **Late:** Intercept key intel late.
+
+### Extra FAQ
+
+- **Q: Three black intel?**  
+  A: Death.
+- **Q: When to use skills?**  
+  A: Per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../147_%E9%A3%8E%E5%A3%B0_The_Message.md).*

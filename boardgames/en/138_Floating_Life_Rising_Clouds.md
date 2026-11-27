@@ -111,6 +111,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Scholars rise and fall in court. Roll to move a scholar or guard, using the exact count. Grab good-fortune tiles, avoid misfortune.
+
+### Strategy by phase
+
+- **Early:** Grab fortune tiles.
+- **Mid:** Block with guards.
+- **Late:** Plan exact moves late.
+
+### Extra FAQ
+
+- **Q: Must I use the full roll?**  
+  A: Yes.
+- **Q: Can guards move?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../138_%E6%B5%AE%E7%94%9F%E9%9D%92%E4%BA%91%E5%BD%95.md).*

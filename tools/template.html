@@ -7,7 +7,7 @@
 <style>
 :root{--bg:#f6f3ee;--card:#fff;--ink:#1f2328;--mute:#6b7280;--line:#e6e0d6;--pri:#c2410c;--pri2:#fff1e8;--ok:#15803d;--warn:#b45309;--bad:#b91c1c;--chip:#f1ece4;--shadow:0 1px 2px rgba(0,0,0,.05),0 4px 14px rgba(0,0,0,.05)}
 *{box-sizing:border-box}
-html,body{overflow-x:hidden}
+html{overflow-x:hidden}body{overflow-x:hidden;overflow-x:clip}
 .grid>*,.card>*{min-width:0}
 .loc,.summ,.why span{overflow-wrap:anywhere}
 body{margin:0;font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif;background:var(--bg);color:var(--ink)}
@@ -24,7 +24,7 @@ main{max-width:1240px;margin:auto;padding:18px}
 @media(max-width:900px){.grid{grid-template-columns:1fr}.stat{display:none}}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:var(--shadow)}
 .panel h3{margin:0 0 8px;font-size:15px}
-.sticky{position:sticky;top:70px;max-height:calc(100vh - 86px);overflow:auto}
+.sticky{position:sticky;top:calc(var(--hh,59px) + 12px);max-height:calc(100vh - var(--hh,59px) - 24px);overflow:auto}
 textarea{width:100%;min-height:92px;border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit;resize:vertical;background:#fffdfa}
 textarea:focus,input:focus,select:focus{outline:2px solid #fdba74;border-color:#fdba74}
 .ex{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 2px}
@@ -72,9 +72,12 @@ details summary{cursor:pointer;color:var(--mute);font-size:13px;margin-top:8px}
 .brk.show{display:grid;grid-template-columns:70px 1fr 40px;gap:4px 8px;align-items:center}
 .brk .bar{margin:0}
 .empty{padding:40px;text-align:center;color:var(--mute)}
-table.list{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;font-size:13.5px}
+table.list{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:clip;font-size:13.5px}
+table.list tr:last-child>td{border-bottom:0}
+table.list thead th:first-child{border-top-left-radius:12px}table.list thead th:last-child{border-top-right-radius:12px}
 table.list th,table.list td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
-table.list th{background:#faf7f2;cursor:pointer;white-space:nowrap;position:sticky;top:57px}
+table.list td.nw{white-space:nowrap}
+table.list th{background:#faf7f2;cursor:pointer;white-space:nowrap;position:sticky;top:var(--hh,0px);z-index:3;box-shadow:0 1px 0 var(--line)}
 table.list tr:hover td{background:#fffaf3}
 .toolbar{display:flex;gap:10px;align-items:center;margin-bottom:12px;flex-wrap:wrap}
 .toolbar input{flex:1;min-width:200px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;font:inherit}
@@ -678,7 +681,7 @@ function renderAll(){const q=$('#fq').value.trim().toLowerCase();
  let L=G.filter(g=>!q||(g.name+' '+g.en.n+' '+g.title+' '+g.tags.join(' ')+' '+g.tags.map(tg).join(' ')+' '+g.summ+' '+g.en.s+' '+g.codes.join(' ')+' '+g.loc.map(l=>l.sec+l.row).join(' ')+' #'+g.id).toLowerCase().includes(q));
  L.sort((a,b)=>{const x=sortK==='name'?gname(a):sortK==='code'?(a.codes[0]||'~'):a[sortK],y=sortK==='name'?gname(b):sortK==='code'?(b.codes[0]||'~'):b[sortK];return (typeof x==='string'?x.localeCompare(y,LANG==='en'?'en':'zh'):x-y)*sortD});
  $('#fcnt').textContent=`${L.length} / ${G.length}`;
- $('#tbl tbody').innerHTML=L.map(g=>`<tr><td>${g.id}</td><td><a href="#doc/${g.id}" data-doc="${g.id}">${esc(gname(g))}</a> <span class="sub">${esc(gsub(g))}</span><div class="hint">${esc(gsumm(g).slice(0,LANG==='en'?90:46))}…</div></td><td>${g.unk?'?':g.mn+'–'+g.mx}</td><td>${g.unk?'?':g.t1+'–'+g.t2}′</td><td>${'●'.repeat(g.w)}</td><td>${g.tags.slice(0,4).map(t=>esc(tg(t))).join(' · ')}</td><td class="hint">${codeHTML(g)}<div>${g.loc.map(l=>esc(l.sec.split('（')[0])).filter((v,i,a)=>a.indexOf(v)===i).join('<br>')}</div></td></tr>`).join('');
+ $('#tbl tbody').innerHTML=L.map(g=>`<tr><td>${g.id}</td><td><a href="#doc/${g.id}" data-doc="${g.id}">${esc(gname(g))}</a> <span class="sub">${esc(gsub(g))}</span><div class="hint">${esc(gsumm(g).slice(0,LANG==='en'?90:46))}…</div></td><td class="nw">${g.unk?'?':(g.mn===g.mx?g.mn:g.mn+'–'+g.mx)}</td><td class="nw">${g.unk?'?':(g.t1===g.t2?g.t1:g.t1+'–'+g.t2)}′</td><td>${'●'.repeat(g.w)}</td><td>${g.tags.slice(0,4).map(t=>esc(tg(t))).join(' · ')}</td><td class="hint">${codeHTML(g)}<div>${g.loc.map(l=>esc(l.sec.split('（')[0])).filter((v,i,a)=>a.indexOf(v)===i).join('<br>')}</div></td></tr>`).join('');
 }
 $('#fq').oninput=renderAll;
 $$('#tbl th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;sortD=sortK===k?-sortD:1;sortK=k;renderAll()});
@@ -787,6 +790,10 @@ $('#ex').addEventListener('click',e=>{if(e.target.tagName==='BUTTON')goRes()});
 addEventListener('scroll',()=>$('#fab').classList.toggle('show',scrollY>600),{passive:true});
 $('#fab').onclick=()=>scrollTo({top:0,behavior:'smooth'});
 applyLang();buildStaticLists();upd();render();route();condCount();
+</script>
+<script>
+(function(){function hh(){var h=document.querySelector('header');if(!h)return;var s=getComputedStyle(h).position==='sticky';document.documentElement.style.setProperty('--hh',(s?Math.round(h.getBoundingClientRect().height):0)+'px')}
+hh();addEventListener('resize',hh);addEventListener('load',hh);if(window.ResizeObserver){var h=document.querySelector('header');if(h)new ResizeObserver(hh).observe(h)}})();
 </script>
 </body>
 </html>

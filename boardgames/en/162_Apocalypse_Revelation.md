@@ -2,15 +2,13 @@
 
 > Chinese name: **末日启示录（僵尸生存合作）** · Doc #162 · [中文原文 / Chinese doc](../162_%E6%9C%AB%E6%97%A5%E5%90%AF%E7%A4%BA%E5%BD%95.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/162)
 
-> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
-
 ## At a glance
 
 | Item | Value |
 |---|---|
-| Players | see box (best: 2-4) |
-| Play time | see box |
-| Age | see box |
+| Players | 1–4 (best: 2-4) |
+| Play time | 60–90 min |
+| Age | 14+ |
 | Complexity | ●●●○○ Medium (3/5) |
 | Tags | co-op, survival, card-driven, exploration, horror |
 
@@ -114,6 +112,33 @@ Before you start:
 ### Official variants & expansions
 
 - A dozen-plus scenarios and 4 monster decks.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> A small co-op survival game. Each character has a unique deck. Each round roll to spawn zombies, draw, and take 4 actions (move, draw, play, card actions). Lose at 0 HP or an empty deck.
+
+### Strategy by phase
+
+- **Early:** Spend actions wisely.
+- **Mid:** Watch your deck size.
+- **Late:** Rush the objective late.
+
+### Extra FAQ
+
+- **Q: Empty deck?**  
+  A: Loss.
+- **Q: Solo?**  
+  A: Yes, 1–4.
 
 ---
 

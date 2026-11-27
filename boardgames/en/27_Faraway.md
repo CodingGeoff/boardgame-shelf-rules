@@ -104,6 +104,33 @@ Before you start:
 
 - Expansions exist.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Over 8 turns each player plays one Region card in a row, then drafts a new one. Playing a higher number than your previous card earns a Sanctuary. Scoring runs backwards — flip card 8, then 7, … — each card only sees cards already revealed (to its right), so the last-played card sees everything.
+
+### Strategy by phase
+
+- **Early:** Early cards score last, so play demanding high-value cards early.
+- **Mid:** Collect colours and symbols; Sanctuaries help meet conditions.
+- **Late:** Finish with cards whose conditions are already met.
+
+### Extra FAQ
+
+- **Q: Who reveals first?**  
+  A: Everyone flips card 8 together, then 7, etc.
+- **Q: When do Sanctuaries score?**  
+  A: After all regions, seeing everything.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../27_%E9%81%A5%E8%BF%9C%E4%B9%8B%E5%9C%B0_Faraway.md).*

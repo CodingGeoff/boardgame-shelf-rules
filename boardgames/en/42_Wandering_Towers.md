@@ -106,6 +106,33 @@ Before you start:
 
 - Solo mode; 2 random spells per game.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> A moving tower traps wizards. Roll to move your wizards or the tower, which can cover others' wizards. Trapped wizards can't move. Get all your wizards into the raven castle and fill all potion bottles.
+
+### Strategy by phase
+
+- **Early:** Spread your wizards.
+- **Mid:** Use the tower to trap the leader.
+- **Late:** Sprint your last wizard home.
+
+### Extra FAQ
+
+- **Q: How are trapped wizards freed?**  
+  A: When the tower moves off.
+- **Q: How are potion bottles filled?**  
+  A: Per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../42_%E9%A3%9E%E5%A1%94%E5%B7%AB%E5%B8%88_Wandering_Towers.md).*

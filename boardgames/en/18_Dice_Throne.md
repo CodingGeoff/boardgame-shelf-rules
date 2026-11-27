@@ -100,6 +100,33 @@ Before you start:
 
 - Seasons of heroes mix freely.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Each player picks a hero with unique dice and an ability board. Roll 5 dice up to 3 times, Yahtzee-style, to trigger abilities and deal damage. Cards modify dice and add effects. Reduce your opponent to 0 HP to win.
+
+### Strategy by phase
+
+- **Early:** Learn what your big abilities need.
+- **Mid:** Spend CP wisely and use defence abilities.
+- **Late:** Finish the opponent off with a combo before they recover.
+
+### Extra FAQ
+
+- **Q: Can I skip attacking?**  
+  A: Yes.
+- **Q: What is undefendable damage?**  
+  A: It can't be reduced by defensive abilities.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../18_Dice_Throne_%E9%87%8D%E5%88%B6%E7%89%88%E7%AC%AC%E4%B8%80%E5%AD%A3.md).*

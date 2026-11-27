@@ -103,6 +103,33 @@ Before you start:
 
 - See variants.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Passengers belong to two hidden factions: the Order wants 3 keys, the Brotherhood 3 goblets. On your turn trade an item or attack. Use trades and fights to find teammates. Declare victory when you think your side qualifies — a wrong declaration loses.
+
+### Strategy by phase
+
+- **Early:** Probe with trades — those passing keys may be allies.
+- **Mid:** Attacks reveal items and identity hints.
+- **Late:** Declare as soon as you're sure your team qualifies.
+
+### Extra FAQ
+
+- **Q: What's needed to declare?**  
+  A: Your team collectively holds 3 matching items (see rulebook).
+- **Q: Odd player counts?**  
+  A: A neutral Hermit is used; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../33_%E9%AD%94%E5%9F%8E%E9%A9%AC%E8%BD%A6_The_Carriage_to_Magic_City.md).*

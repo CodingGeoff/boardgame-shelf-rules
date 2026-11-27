@@ -98,6 +98,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> A three-way struggle aboard a ship: sailors want the blue port, pirates the red waters, the cult leader wants the Kraken. Each round elect a captain and officers; the captain passes navigation cards; the navigator steers. Mutiny and feeding people to the Kraken are possible.
+
+### Strategy by phase
+
+- **Early:** Watch who plays what during navigation.
+- **Mid:** Control key positions via elections.
+- **Late:** Flip the course with mutiny late.
+
+### Extra FAQ
+
+- **Q: Can the captain be removed?**  
+  A: Mutiny, per rulebook.
+- **Q: Cult win?**  
+  A: Special conditions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../122_%E9%99%A9%E6%81%B6%E8%BF%B7%E8%88%AA_Feed_the_Kraken.md).*

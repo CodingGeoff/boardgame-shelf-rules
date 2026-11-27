@@ -98,6 +98,33 @@ Before you start:
 
 - Many roles.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–90 min; budget about 110 min for a first game.
+- Total: about 120 min.
+
+### Teaching script (read it aloud)
+
+> Classic werewolf. At night wolves kill and specials act (seer checks, witch potions, guard protects). By day discuss and exile. Good wins by eliminating wolves; wolves win by parity.
+
+### Strategy by phase
+
+- **Early:** Good: find logic holes.
+- **Mid:** Wolves: fake claims and confuse.
+- **Late:** Coordinate key votes.
+
+### Extra FAQ
+
+- **Q: Can the dead speak?**  
+  A: Last words usually.
+- **Q: Tied vote?**  
+  A: Tiebreak or no exile.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../99_%E7%BB%88%E6%9E%81%E7%8B%BC%E4%BA%BA_Ultimate_Werewolf.md).*

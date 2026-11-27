@@ -105,6 +105,33 @@ Before you start:
 
 - Scenario book.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> Housemates redecorate cooperatively. Each has secret conditions. On your turn change something (add, remove, swap); others can only react with approval or displeasure. Win when all conditions are met.
+
+### Strategy by phase
+
+- **Early:** Meet your easiest conditions first.
+- **Mid:** Read reactions to infer others' needs.
+- **Late:** Fine-tune at the end.
+
+### Extra FAQ
+
+- **Q: Can I state my conditions?**  
+  A: No.
+- **Q: How many scenarios?**  
+  A: Many, increasing difficulty.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../120_%E5%90%8C%E6%88%BF%E5%BC%82%E6%A2%A6_Decorum.md).*

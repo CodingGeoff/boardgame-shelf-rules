@@ -106,6 +106,33 @@ Before you start:
 
 - No expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 50 min.
+
+### Teaching script (read it aloud)
+
+> Two players share a gem board. On your turn take gems, buy a card, or reserve for gold. Cards give permanent discounts. Win by 20 points, 10 crowns, or 10 points in one colour. Privileges let you take extra gems — and the opponent gives you one when they take certain actions.
+
+### Strategy by phase
+
+- **Early:** Build discounts early and read the opponent's path.
+- **Mid:** Refilling the board gives them a privilege — time it.
+- **Late:** Buy or reserve the card they need to finish.
+
+### Extra FAQ
+
+- **Q: Can I take 3 of one colour?**  
+  A: You take up to 3 in a line; 3 same colour or both pearls gives the opponent a privilege.
+- **Q: Gem limit?**  
+  A: 10.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../16_%E7%92%80%E7%92%A8%E5%AE%9D%E7%9F%B3%E5%AF%B9%E5%86%B3_Splendor_Duel.md).*

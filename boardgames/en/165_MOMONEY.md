@@ -100,6 +100,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> A Monopoly-like Chinese game with an electronic bank card reader and dice tower. Roll, buy, rent, build, draw chance cards, bankrupt opponents. Follow the box.
+
+### Strategy by phase
+
+- **Early:** Buy early.
+- **Mid:** Complete sets and build.
+- **Late:** Collect high rents.
+
+### Extra FAQ
+
+- **Q: Card reader dead?**  
+  A: Replace batteries or use paper.
+- **Q: Pending info?**  
+  A: Follow the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../165_MOMONEY_%E5%A4%A7%E5%AF%8C%E7%BF%81%E7%B1%BB.md).*

@@ -98,6 +98,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 120–180 min; budget about 215 min for a first game.
+- Total: about 230 min.
+
+### Teaching script (read it aloud)
+
+> A fully co-op Cthulhu adventure. The app is keeper — map, monsters, puzzles. Each investigator has two actions: move, search, interact, attack. The Mythos phase resolves events. Complete the scenario.
+
+### Strategy by phase
+
+- **Early:** Explore for clues.
+- **Mid:** Spread actions; protect sanity.
+- **Late:** Focus on the objective.
+
+### Extra FAQ
+
+- **Q: Investigator death?**  
+  A: May lose; see scenario.
+- **Q: Need internet?**  
+  A: Download once; offline after.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../119_%E7%96%AF%E7%8B%82%E8%AF%A1%E5%AE%85%E7%AC%AC%E4%BA%8C%E7%89%88_Mansions_of_Madness_2nd.md).*

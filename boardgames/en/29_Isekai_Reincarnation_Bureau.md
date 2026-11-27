@@ -83,6 +83,22 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../29_%E8%BF%99%E9%87%8C%E6%98%AF%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%94%9F%E5%B1%80.md).*

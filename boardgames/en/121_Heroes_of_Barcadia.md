@@ -105,6 +105,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–90 min; budget about 110 min for a first game.
+- Total: about 115 min.
+
+### Teaching script (read it aloud)
+
+> Dungeon crawl drinking game: your drink is your HP. Take damage, take a sip; empty means out. Cooperate or betray. Drink responsibly or use soft drinks.
+
+### Strategy by phase
+
+- **Early:** Learn your hero.
+- **Mid:** Manage damage.
+- **Late:** Beat the boss.
+
+### Extra FAQ
+
+- **Q: Soft drinks?**  
+  A: Of course.
+- **Q: Age limit?**  
+  A: 21+ for alcohol per local law.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../121_%E5%B7%B4%E5%8D%A1%E8%BF%AA%E4%BA%9A%E8%8B%B1%E9%9B%84_Heroes_of_Barcadia.md).*

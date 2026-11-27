@@ -97,6 +97,33 @@ Before you start:
 
 - Expansions available.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 120–240 min; budget about 290 min for a first game.
+- Total: about 315 min.
+
+### Teaching script (read it aloud)
+
+> Play a Westeros house fighting for castles. Simultaneously place orders (march, support, defend, raid, consolidate), then resolve. Influence tracks are auctioned for turn order and powers. Win with 7 castles or the most after 10 rounds.
+
+### Strategy by phase
+
+- **Early:** Secure your area and supply.
+- **Mid:** Use diplomacy and guard your back.
+- **Late:** Strike decisively late.
+
+### Extra FAQ
+
+- **Q: Are deals binding?**  
+  A: No.
+- **Q: Over supply limit?**  
+  A: Disband excess units.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../66_%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E6%A1%8C%E6%B8%B8_A_Game_of_Thrones_The_Board_Game.md).*

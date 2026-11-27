@@ -103,6 +103,33 @@ Before you start:
 
 - Bull card usage differs between editions — check the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Play a card onto a pile if it fits; if not, take an entire pile. When you collect more than 3 cards you may use a bull card to gain extra plays. Fewest bull heads wins.
+
+### Strategy by phase
+
+- **Early:** Play cards that fit easily.
+- **Mid:** When forced, take the cheapest pile.
+- **Late:** Use bull cards for extra plays late.
+
+### Extra FAQ
+
+- **Q: Can I choose to take a pile?**  
+  A: Only when you can't play.
+- **Q: How do I get bull cards?**  
+  A: Per rulebook conditions.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../41_%E8%B6%85%E7%BA%A7%E7%89%9B%E5%A4%B4%E7%8E%8B_11_nimmt_Take_11.md).*

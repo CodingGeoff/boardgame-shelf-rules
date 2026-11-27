@@ -101,6 +101,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Wrestler colours start with no ranking. As players beat one colour with another, the hierarchy is established permanently. Like a climbing game, first to empty their hand wins.
+
+### Strategy by phase
+
+- **Early:** Play to set rankings in your favour.
+- **Mid:** Track the established hierarchy.
+- **Late:** Save an unbeatable combo for the finish.
+
+### Extra FAQ
+
+- **Q: Can rankings change?**  
+  A: Once set they're fixed.
+- **Q: Can I pass?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../46_maskmen.md).*

@@ -98,6 +98,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Reveal a number card. On your turn pay 1 chip to say 'No Thanks', or take the card and all chips on it. Runs only count their lowest card. Score = card sum − chips; lowest wins.
+
+### Strategy by phase
+
+- **Early:** Take cards that build runs.
+- **Mid:** Let chips accumulate before taking.
+- **Late:** Low on chips? Avoid being forced.
+
+### Extra FAQ
+
+- **Q: Out of chips?**  
+  A: You must take the card.
+- **Q: How many cards are removed?**  
+  A: 9, unseen.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../61_%E4%B8%8D%E8%B0%A2_No_Thanks.md).*

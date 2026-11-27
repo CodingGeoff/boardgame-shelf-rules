@@ -102,6 +102,33 @@ Before you start:
 
 - Many expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Draw a tile and place it matching edges. Optionally place a meeple as a thief, knight, monk or farmer. Completed roads, cities and monasteries score immediately and return meeples. Cities 2 per tile (+2 per shield), roads 1 per tile, monastery 9. Endgame scores incomplete features and farms.
+
+### Strategy by phase
+
+- **Early:** Keep meeples in reserve.
+- **Mid:** Farmers on big fields score big.
+- **Late:** Place last meeples on near-complete features.
+
+### Extra FAQ
+
+- **Q: Can I join an occupied city directly?**  
+  A: No, but connections can merge.
+- **Q: Tied majority?**  
+  A: All tied players score fully.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../102_%E5%8D%A1%E5%8D%A1%E9%A2%82_Carcassonne.md).*

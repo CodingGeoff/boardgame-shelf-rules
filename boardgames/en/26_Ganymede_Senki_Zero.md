@@ -95,6 +95,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Build mechs by stacking transparent cards — head, body, arms, legs. Draft parts, assemble, then brawl with dice. Parts define dice and abilities.
+
+### Strategy by phase
+
+- **Early:** Draft for a core attack style.
+- **Mid:** Look for synergy, not just raw power.
+- **Late:** Focus fire on the weakest opponent.
+
+### Extra FAQ
+
+- **Q: Can parts be swapped?**  
+  A: See rulebook.
+- **Q: How is combat resolved?**  
+  A: Dice per the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../26_%E5%8A%A0%E5%B0%BC%E9%87%87%E5%BE%B7%E6%88%98%E8%AE%B0_ZERO_PLUS.md).*

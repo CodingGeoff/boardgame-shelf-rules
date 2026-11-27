@@ -98,6 +98,33 @@ Before you start:
 
 - Editions like Drecksau Total add cards; Dirty Pig supports up to 6.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Get all your pigs dirty. Mud dirties a pig; barns protect pigs from rain; lightning rods protect barns. Rain cleans every unbarned dirty pig; the farmer washes someone's pig. First with all pigs dirty wins.
+
+### Strategy by phase
+
+- **Early:** Barn first, then mud.
+- **Mid:** Use the farmer on the leader.
+- **Late:** Keep a lightning rod for lightning.
+
+### Extra FAQ
+
+- **Q: Does rain affect everyone?**  
+  A: Every dirty pig outside a barn.
+- **Q: Cards per turn?**  
+  A: Usually one.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../50_%E8%84%8F%E5%B0%8F%E7%8C%AA_Drecksau.md).*

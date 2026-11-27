@@ -107,6 +107,33 @@ Before you start:
 
 - Advanced roles per rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> We're all in a lift and someone is the Farter. Each round eyes close, the Farter acts, then everyone opens their eyes, argues and votes. Good players hunt the Farter; the Farter blends in. Role cards give odd powers — sniffing direction, misdirection. It's more comedy than logic, so ham it up.
+
+### Strategy by phase
+
+- **Early:** Share what you noticed before accusing anyone.
+- **Mid:** Watch for inconsistent stories and cross-check role powers.
+- **Late:** Coordinate the final vote so it doesn't split.
+
+### Extra FAQ
+
+- **Q: What if we vote out an innocent?**  
+  A: See rulebook — usually the Farter scores or play continues.
+- **Q: Can we laugh?**  
+  A: Absolutely — that's the point.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../06_%E5%B1%81%E8%80%85%E5%85%88%E7%9F%A5.md).*

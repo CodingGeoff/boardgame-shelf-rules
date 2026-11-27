@@ -97,6 +97,33 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Antique dealers buy, sell, trade and auction items that may be real or fake. Better collections score more. Highest value wins.
+
+### Strategy by phase
+
+- **Early:** Buy early to learn the fake distribution.
+- **Mid:** Exploit information gaps.
+- **Late:** Assemble the best sets.
+
+### Extra FAQ
+
+- **Q: Can fakes be detected?**  
+  A: Per the rulebook.
+- **Q: Auction rules?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../89_%E5%8F%A4%E7%8E%A9%E8%A1%97_Antique_Street.md).*

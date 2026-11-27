@@ -104,6 +104,33 @@ Before you start:
 
 - Several sets can be mixed.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Each player has a 10-card deck, 5 in hand and 3 life. On your turn play a creature or attack with one. The defender may block — higher power survives; unblocked deals 1 damage. Twist: each player has 2 Mindbugs — when the opponent plays a creature you may take it for yourself. Reduce the opponent to 0 life.
+
+### Strategy by phase
+
+- **Early:** Lead with mid-power creatures to bait the opponent's Mindbugs.
+- **Mid:** Save your bombs until their Mindbugs are gone; master Poisonous, Tough, Frenzy, Hunter.
+- **Late:** Count life: at 1 life a Hunter or Frenzy creature can close it out.
+
+### Extra FAQ
+
+- **Q: After my creature is Mindbugged, do I get another turn?**  
+  A: Yes, you take another turn (per rulebook).
+- **Q: What if my deck runs out?**  
+  A: Play on from hand; a player who can't act loses (see rulebook).
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../05_%E5%BF%83%E7%81%B5%E8%99%AB_Mindbug.md).*

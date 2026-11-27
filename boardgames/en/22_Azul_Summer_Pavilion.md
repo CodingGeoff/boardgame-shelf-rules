@@ -105,6 +105,33 @@ Before you start:
 
 - Third Azul title; see rulebook for expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> Draft tiles from factory displays, taking all of one colour. Each round one colour is wild. Place tiles on star-shaped pavilions to score. Six rounds, highest score wins.
+
+### Strategy by phase
+
+- **Early:** Focus on 2–3 colours and use wilds well.
+- **Mid:** Plan your stars to avoid useless tiles.
+- **Late:** Place everything in the last round.
+
+### Extra FAQ
+
+- **Q: How do wilds work?**  
+  A: Per the rulebook.
+- **Q: Are leftover tiles penalised?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../22_%E5%BD%A9%E7%A0%96%E5%A4%A7%E5%B8%88%E5%A4%8F%E5%AE%AB_Azul_Summer_Pavilion.md).*

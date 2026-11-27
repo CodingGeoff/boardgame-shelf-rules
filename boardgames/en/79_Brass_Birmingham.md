@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 170 min.
+
+### Teaching script (read it aloud)
+
+> British Industrial Revolution in canal and rail eras. Build industries, links, sell goods, take loans. Networks drive scoring.
+
+### Strategy by phase
+
+- **Early:** Build networks in the canal era.
+- **Mid:** Use loans wisely.
+- **Late:** Upgrade in the rail era.
+
+### Extra FAQ
+
+- **Q: End of canal era?**  
+  A: Level-1 industries and canals are removed.
+- **Q: Repay loans?**  
+  A: No, income drops.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../79_%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD_Brass.md).*

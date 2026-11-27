@@ -98,6 +98,33 @@ Before you start:
 
 - 5–6 player expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> The island sinks — get your people to safety. Move people and boats, remove a tile (with effects), then roll to move sharks, sea serpents or whales to harass others. Score the values on rescued people.
+
+### Strategy by phase
+
+- **Early:** Move high-value people toward the edge.
+- **Mid:** Use boats for multiple people.
+- **Late:** Send monsters at the leader.
+
+### Extra FAQ
+
+- **Q: Can I see people values?**  
+  A: Only your own.
+- **Q: Can serpents sink boats?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../101_%E9%80%83%E7%A6%BB%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF_Survive_Escape_from_Atlantis.md).*

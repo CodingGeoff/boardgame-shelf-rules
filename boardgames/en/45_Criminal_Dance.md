@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Deal 4 cards each. The First Discoverer leads; players play one card at a time. The Culprit can only be played as your last card. A Detective card accuses someone — correct guesses win. Trade and Rumour cards shuffle cards around.
+
+### Strategy by phase
+
+- **Early:** Watch who holds onto a card — maybe the Culprit.
+- **Mid:** Use trades and rumours to move or track the Culprit.
+- **Late:** Hold the Detective until confident.
+
+### Extra FAQ
+
+- **Q: What about Alibi?**  
+  A: An Alibi holder can deny the accusation.
+- **Q: How does the Accomplice win?**  
+  A: With the Culprit.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../45_%E7%8A%AF%E4%BA%BA%E5%9C%A8%E8%B7%B3%E8%88%9E_Criminal_Dance.md).*

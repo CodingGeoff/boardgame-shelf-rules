@@ -98,6 +98,33 @@ Before you start:
 
 - Extra tracks.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 155 min.
+
+### Teaching script (read it aloud)
+
+> F1 racing. Choose a gear each turn — higher gears roll bigger dice. Corners require stops; overshooting costs tyres and brakes. Run out and you're out. First across wins.
+
+### Strategy by phase
+
+- **Early:** Stay mid-gear early to save wear.
+- **Mid:** Downshift before corners.
+- **Late:** Max out on the last straight.
+
+### Extra FAQ
+
+- **Q: Can I skip gears?**  
+  A: Downshifting multiple costs wear; upshift one at a time.
+- **Q: Side by side?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../67_D%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%B5%9B%E8%BD%A6_Formula_D.md).*

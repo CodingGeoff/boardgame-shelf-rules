@@ -111,6 +111,33 @@ Before you start:
 
 - A 2.0 edition adjusts some roles and spell cards.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Each player holds 3 role cards; any red means Blade side. Each round play cards secretly into a ritual; blades kill, roses and blades are revealed together. Deduce the Blade side; win per rulebook conditions.
+
+### Strategy by phase
+
+- **Early:** Watch talk and plays.
+- **Mid:** Deduce from reveals.
+- **Late:** Focus votes late.
+
+### Extra FAQ
+
+- **Q: Is there a 2.0?**  
+  A: Yes, rules may differ.
+- **Q: Players?**  
+  A: 5–10.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../157_%E8%A1%80%E4%B8%8E%E5%88%83%E7%9A%84%E7%99%BD%E8%94%B7%E8%96%87_Blades_Rose.md).*

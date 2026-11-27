@@ -99,6 +99,33 @@ Before you start:
 
 - Duo and Trigon versions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Each player has pieces of one colour. Start in a corner; your pieces must touch corner-to-corner, never edge-to-edge. Play until you can't. Fewest leftover squares wins.
+
+### Strategy by phase
+
+- **Early:** Play big pieces first.
+- **Mid:** Expand to the centre.
+- **Late:** Save small pieces for gaps.
+
+### Extra FAQ
+
+- **Q: Bonus for ending with a monomino?**  
+  A: Yes.
+- **Q: Can I block others?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../74_%E6%A0%BC%E6%A0%BC%E4%B8%8D%E5%85%A5_Blokus.md).*

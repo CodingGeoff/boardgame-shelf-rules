@@ -99,6 +99,33 @@ Before you start:
 
 - Beach Cup expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> An auto-battler card game. Each round draft cards into your deck, then auto-battle on a schedule — flip cards and compare power. Win trophies. Top two meet in the final.
+
+### Strategy by phase
+
+- **Early:** Take cheap good cards early.
+- **Mid:** Build synergy.
+- **Late:** Trim before the final.
+
+### Extra FAQ
+
+- **Q: Deck limit?**  
+  A: See rulebook.
+- **Q: Solo?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../124_%E5%86%A0%E5%86%9B%E6%8C%91%E6%88%98%E8%80%85_Challengers.md).*

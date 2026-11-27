@@ -101,6 +101,33 @@ Before you start:
 
 - Many editions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Match colour or number, or draw. Action cards: Skip, Reverse, +2, Wild, +4. Shout 'UNO' at one card or draw 2 if caught. First out wins and scores others' hands.
+
+### Strategy by phase
+
+- **Early:** Hold Wilds and +4s.
+- **Mid:** Track colours others lack.
+- **Late:** Disrupt others near the end.
+
+### Extra FAQ
+
+- **Q: Can I play +4 anytime?**  
+  A: Officially only without the current colour; it can be challenged.
+- **Q: Can +2 stack?**  
+  A: Not officially; common house rule.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../65_UNO.md).*

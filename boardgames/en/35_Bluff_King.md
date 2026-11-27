@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> One player is the guesser and reads an odd word. One other player has the true explanation; the rest invent fake ones. Everyone explains; the guesser picks the one they believe. Points go to the guesser and truth-teller if right, or to the convincing liar if wrong.
+
+### Strategy by phase
+
+- **Early:** Liars: add detail and confidence.
+- **Mid:** Truth-tellers can sound bland to confuse.
+- **Late:** Guessers read tone, not just content.
+
+### Extra FAQ
+
+- **Q: Can the guesser ask questions?**  
+  A: Usually yes; see rulebook.
+- **Q: How is it scored?**  
+  A: Per the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../35_%E7%9E%8E%E6%8E%B0%E7%8E%8B.md).*

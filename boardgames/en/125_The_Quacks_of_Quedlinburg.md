@@ -114,6 +114,33 @@ Before you start:
 
 - Herb Witches expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Bag-building potion making. Draw ingredients one at a time; white cherry bombs over 7 explode the pot. Stop anytime to score and buy. If you explode you choose points or shopping, not both. Most VP after 9 rounds wins.
+
+### Strategy by phase
+
+- **Early:** Buy cheap ingredients early.
+- **Mid:** Add strong colours mid-game.
+- **Late:** Push harder late.
+
+### Extra FAQ
+
+- **Q: Explode loses everything?**  
+  A: No — choose one.
+- **Q: What are rubies for?**  
+  A: Move droplet or refill flask.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../125_%E6%B1%9F%E6%B9%96%E9%83%8E%E4%B8%AD_%E9%83%8E%E4%B8%AD%E9%97%AF%E6%B1%9F%E6%B9%96_Quacks_of_Quedlinburg.md).*

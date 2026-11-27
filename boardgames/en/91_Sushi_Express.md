@@ -107,6 +107,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> A dice race delivering sushi. Bet how far you'll roll, attempt deliveries, avoid park sections, and collect sushi sets.
+
+### Strategy by phase
+
+- **Early:** Learn the betting risks.
+- **Mid:** Route around parks.
+- **Late:** Complete sushi sets.
+
+### Extra FAQ
+
+- **Q: Failed bet?**  
+  A: See rulebook.
+- **Q: Sushi scoring?**  
+  A: By sets.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../91_%E5%AF%BF%E5%8F%B8%E5%BF%AB%E9%80%92_Sushi_Express.md).*

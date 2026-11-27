@@ -98,6 +98,33 @@ Before you start:
 
 - Mild/Wild track sides.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Dozens of racers with wild powers. Snake-draft racers, then run 4 races, entering one per race. Roll to move; powers bend the rules. A race ends when the second racer crosses the line. Score by placement.
+
+### Strategy by phase
+
+- **Early:** Draft a few generally strong racers plus counters.
+- **Mid:** Use powers for tempo and watch counters.
+- **Late:** Pick safe or risky for the last race based on standings.
+
+### Extra FAQ
+
+- **Q: Can a racer be reused?**  
+  A: One per race; see rulebook.
+- **Q: Conflicting powers?**  
+  A: Use rulebook priority.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../39_Magical_Athlete.md).*

@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> The forensic scientist knows the truth but only marks clue tiles. Investigators deduce the means and key evidence; the murderer misleads. Correct guess wins for investigators.
+
+### Strategy by phase
+
+- **Early:** Forensic: pick clear clues.
+- **Mid:** Investigators: cross-reference.
+- **Late:** Guess carefully.
+
+### Extra FAQ
+
+- **Q: Guesses per player?**  
+  A: One.
+- **Q: Can the murderer guess?**  
+  A: Yes, to mislead.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../135_%E7%8A%AF%E7%BD%AA%E7%8E%B0%E5%9C%BA_Deception_Murder_in_Hong_Kong.md).*

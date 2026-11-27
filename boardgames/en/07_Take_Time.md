@@ -110,6 +110,33 @@ Before you start:
 
 - 10 chapters, 40 levels; a final Rebirth envelope.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> A fully silent co-op. A clock has 6 sectors and everyone holds number cards. Place them so each sector's sum increases clockwise and none exceeds 24. No talking — read each other's placements. Clear all cards legally to win the level.
+
+### Strategy by phase
+
+- **Early:** Play extremes first — small cards early sectors, big ones late — as signals.
+- **Mid:** Notice where teammates hesitate; that hints their cards don't fit.
+- **Late:** With the last cards, double-check the 24 cap and ordering before placing.
+
+### Extra FAQ
+
+- **Q: Can we use facial expressions?**  
+  A: No communication of any kind is allowed.
+- **Q: Can a sector equal the previous one?**  
+  A: No, it must strictly increase.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../07_Take_Time.md).*

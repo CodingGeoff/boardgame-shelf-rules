@@ -99,6 +99,33 @@ Before you start:
 
 - Team play.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Each picks a mystery person. Take turns asking yes/no questions like 'Glasses?' and flip down non-matches. First to guess wins.
+
+### Strategy by phase
+
+- **Early:** Ask questions that cut half.
+- **Mid:** Watch their board.
+- **Late:** Guess when sure.
+
+### Extra FAQ
+
+- **Q: Wrong guess?**  
+  A: You lose.
+- **Q: Multiple traits?**  
+  A: One at a time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../153_%E7%8C%9C%E7%8C%9C%E6%88%91%E6%98%AF%E8%B0%81_Guess_Who.md).*

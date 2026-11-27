@@ -102,6 +102,33 @@ Before you start:
 
 - Widow's Walk; 3rd ed differs.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Explorers start in the entrance hall. Opening unexplored doors reveals rooms. Omen symbols draw omen cards and trigger haunt rolls: roll 6 dice; if the total is less than the omen count, the haunt begins. Look up the scenario and traitor; each side reads its book and pursues its goal.
+
+### Strategy by phase
+
+- **Early:** Gather items and boost traits early.
+- **Mid:** Read your book separately after the haunt.
+- **Late:** Focus on the scenario objective.
+
+### Extra FAQ
+
+- **Q: How many dice for haunt rolls?**  
+  A: Six; trigger if below the omen count.
+- **Q: Trait to skull before the haunt?**  
+  A: You can't die before the haunt.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../86_%E5%B1%B1%E5%B1%8B%E6%83%8A%E9%AD%82%E7%AC%AC%E4%BA%8C%E7%89%88_Betrayal_at_House_on_the_Hill.md).*

@@ -107,6 +107,33 @@ Before you start:
 
 - 3p variant.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Gang loot split: everyone secretly picks a role simultaneously; duplicated roles are all eliminated. Survivors split money by role abilities. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Learn others' habits.
+- **Mid:** Avoid collisions.
+- **Late:** Pick the best role late.
+
+### Extra FAQ
+
+- **Q: Can we negotiate?**  
+  A: Yes, not binding.
+- **Q: Money split?**  
+  A: By role abilities.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../148_%E7%99%BE%E4%B8%87%E7%BE%8E%E9%87%91_Millions_of_Dollars.md).*

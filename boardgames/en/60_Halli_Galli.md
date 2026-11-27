@@ -99,6 +99,33 @@ Before you start:
 
 - Many variants.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Flip fruit cards in turn. When exactly 5 of one fruit are visible, race to ring the bell. The winner takes all revealed cards; a wrong ring costs one card to each player. Last with cards wins.
+
+### Strategy by phase
+
+- **Early:** Only top cards count — keep a running tally.
+- **Mid:** Keep your hand ready.
+- **Late:** When low on cards, avoid mistakes.
+
+### Extra FAQ
+
+- **Q: Which way do I flip?**  
+  A: Away from yourself.
+- **Q: Can I ring at 4 or 6?**  
+  A: No, exactly 5.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../60_%E5%BE%B7%E5%9B%BD%E5%BF%83%E8%84%8F%E7%97%85_Halli_Galli_%E5%90%AB%E9%93%83%E5%84%BF%E5%93%8D%E5%8F%AE%E5%BD%93%E6%89%A9%E5%85%85.md).*

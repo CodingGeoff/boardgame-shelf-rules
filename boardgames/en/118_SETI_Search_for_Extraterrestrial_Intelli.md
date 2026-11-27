@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 40–160 min; budget about 190 min for a first game.
+- Total: about 215 min.
+
+### Teaching script (read it aloud)
+
+> Run a research institute. Launch probes, scan stars, analyse data, land on planets and moons, search for alien life. The solar system rotates, shifting probes. Score points and alien discoveries.
+
+### Strategy by phase
+
+- **Early:** Launch probes and build income.
+- **Mid:** Chain scans and analysis.
+- **Late:** Grab alien species rewards late.
+
+### Extra FAQ
+
+- **Q: When does the system rotate?**  
+  A: Per rulebook triggers.
+- **Q: How are aliens revealed?**  
+  A: Per species rules.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../118_%E5%9C%B0%E5%A4%96%E6%96%87%E6%98%8E_SETI.md).*

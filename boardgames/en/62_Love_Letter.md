@@ -97,6 +97,33 @@ Before you start:
 
 - Many themed editions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Hold one card. Draw one, play one and resolve: Guard guesses a hand; Priest peeks; Baron compares; Handmaid protects; Prince forces a discard; King swaps; Countess must be played with King/Prince; discarding the Princess eliminates you. Last standing or highest card wins a token.
+
+### Strategy by phase
+
+- **Early:** Use Guards and Priests early for info.
+- **Mid:** Track played cards to deduce what's left.
+- **Late:** Holding the Princess? Beware the Prince.
+
+### Extra FAQ
+
+- **Q: Can a Guard name Guard?**  
+  A: No.
+- **Q: Tokens to win?**  
+  A: Depends on player count.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../62_%E6%83%85%E4%B9%A6_Love_Letter.md).*

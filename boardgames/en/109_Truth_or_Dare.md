@@ -97,6 +97,33 @@ Before you start:
 
 - Combine with other games.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–60 min; budget about 70 min for a first game.
+- Total: about 75 min.
+
+### Teaching script (read it aloud)
+
+> The chosen player picks truth or dare. Use cards or a spinner to choose. Play within agreed limits.
+
+### Strategy by phase
+
+- **Early:** Agree on limits.
+- **Mid:** Keep it fun, not offensive.
+- **Late:** End while it's still fun.
+
+### Extra FAQ
+
+- **Q: Can I refuse?**  
+  A: Take a forfeit instead.
+- **Q: Best size?**  
+  A: The more the merrier.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../109_%E7%9C%9F%E5%BF%83%E8%AF%9D%E5%A4%A7%E5%86%92%E9%99%A9_Truth_or_Dare.md).*

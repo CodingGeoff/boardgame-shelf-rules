@@ -103,6 +103,33 @@ Before you start:
 
 - Bomb expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 10–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Undercover cops: each has 3 integrity cards, honest or crooked. Investigate, equip, aim or shoot. Take down the enemy leader (Agent or Kingpin) to win.
+
+### Strategy by phase
+
+- **Early:** Investigate neighbours.
+- **Mid:** Protect your leader.
+- **Late:** Shoot decisively.
+
+### Extra FAQ
+
+- **Q: Shoot the wrong person?**  
+  A: They're wounded or out.
+- **Q: Equipment?**  
+  A: Special abilities.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../131_%E6%97%A0%E9%97%B4%E9%A3%8E%E4%BA%91_Good_Cop_Bad_Cop.md).*

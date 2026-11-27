@@ -101,6 +101,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Animal gang splits loot. The boss divides as they like; everyone simultaneously votes, steals, robs or guards. 'The cops are here' ends the game. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Read the boss's splits.
+- **Mid:** Time your robberies.
+- **Late:** Protect your lead.
+
+### Extra FAQ
+
+- **Q: Reject the split?**  
+  A: Vote no.
+- **Q: When do cops arrive?**  
+  A: Per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../139_%E5%9B%9B%E6%B5%B7%E5%A5%BD%E4%BC%99%E4%BC%B4_GoodCritters.md).*

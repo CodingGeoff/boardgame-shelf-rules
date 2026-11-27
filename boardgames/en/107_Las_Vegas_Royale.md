@@ -98,6 +98,33 @@ Before you start:
 
 - Royale adds modules.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Roll 8 dice and place all of one number in the matching casino. When all dice are placed, the player with most dice in a casino takes the biggest bill; ties cancel out. Most money after four rounds wins.
+
+### Strategy by phase
+
+- **Early:** Place in high-value casinos.
+- **Mid:** Create ties to cancel opponents.
+- **Late:** Use last dice for key spots.
+
+### Extra FAQ
+
+- **Q: Must I place all dice of a number?**  
+  A: Yes.
+- **Q: Ties?**  
+  A: They cancel out.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../107_%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9A%87%E5%AE%B6_Las_Vegas_Royale.md).*

@@ -99,6 +99,33 @@ Before you start:
 
 - Blighted Reach campaign.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 170 min.
+
+### Teaching script (read it aloud)
+
+> Sci-fi conflict driven by trick-taking: lead a card for actions; others surpass, copy or pivot. Declare ambitions that score at the chapter's end. Highest after three chapters wins.
+
+### Strategy by phase
+
+- **Early:** Expand early.
+- **Mid:** Declare ambitions fitting your hand.
+- **Late:** Focus scoring ambitions late.
+
+### Extra FAQ
+
+- **Q: When to declare?**  
+  A: When leading.
+- **Q: Fixed chapters?**  
+  A: Up to three.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../123_%E6%98%9F%E5%BC%A7%E8%88%AA%E8%AE%B0_ARCS.md).*

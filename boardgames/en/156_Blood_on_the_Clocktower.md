@@ -114,6 +114,33 @@ Before you start:
 
 - Three base scripts (Trouble Brewing, Bad Moon Rising, Sects & Violets), teensy scripts, Travellers and many community scripts.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 160 min.
+
+### Teaching script (read it aloud)
+
+> A Storyteller runs the game; everyone has a unique role. Good finds and executes the Demon; evil wins when only 2 players live. At night the Demon kills and roles get info; by day discuss, nominate and vote. The dead stay in, keep talking and have one ghost vote. Info can be wrong due to drunkenness or poison.
+
+### Strategy by phase
+
+- **Early:** Good: share info carefully.
+- **Mid:** Cross-check info and death patterns.
+- **Late:** At final three, every vote matters — use ghost votes.
+
+### Extra FAQ
+
+- **Q: Can the dead vote?**  
+  A: One ghost vote per game.
+- **Q: Vote threshold?**  
+  A: ≥ half the living; tie means no execution.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../156_%E8%A1%80%E6%9F%93%E9%92%9F%E6%A5%BC_Blood_on_the_Clocktower.md).*

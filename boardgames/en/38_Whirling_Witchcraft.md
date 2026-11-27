@@ -98,6 +98,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Witches simultaneously play recipe cards and transform ingredients on their workbenches, then pass their cauldron's contents to the next player. Plan both what you need and what you'll receive.
+
+### Strategy by phase
+
+- **Early:** Learn the conversion chains.
+- **Mid:** Watch what you pass on.
+- **Late:** Convert everything to points at the end.
+
+### Extra FAQ
+
+- **Q: How does simultaneous play resolve?**  
+  A: Reveal together, resolve per rulebook.
+- **Q: Is the cauldron limited?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../38_%E6%AF%92%E9%80%97%E9%AD%94%E8%8D%AF%E5%B8%88_Whirling_Witchcraft.md).*

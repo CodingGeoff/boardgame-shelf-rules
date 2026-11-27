@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> The Mochi Prince must find the Tofu Princess. Princess and Chef tell the truth; Queen, Minister and Guard lie; Spy and Maid answer freely. The prince asks questions and deduces. Correct pick wins for the prince's side.
+
+### Strategy by phase
+
+- **Early:** Prince: ask questions that separate truth-tellers from liars.
+- **Mid:** Use contradictions to eliminate.
+- **Late:** Confirm once more before choosing.
+
+### Extra FAQ
+
+- **Q: Must liars always lie?**  
+  A: Yes, by role.
+- **Q: Can the Spy tell the truth?**  
+  A: Yes, the Spy is free.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../44_%E8%B1%86%E8%85%90%E7%8E%8B%E5%9B%BD_Tofu_Kingdom.md).*

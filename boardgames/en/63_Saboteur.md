@@ -98,6 +98,33 @@ Before you start:
 
 - Expansion adds roles.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Dwarves dig tunnels for gold, but saboteurs lurk. Play a path card or action (break/repair tools, peek at a goal). Reach the gold and miners share it; if cards run out first, saboteurs win. Most gold after three rounds wins.
+
+### Strategy by phase
+
+- **Early:** Peek at goals early.
+- **Mid:** Watch who breaks paths.
+- **Late:** Break suspects' tools.
+
+### Extra FAQ
+
+- **Q: Broken tool?**  
+  A: You can't play paths until repaired.
+- **Q: How many saboteurs?**  
+  A: Varies by count.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../63_%E7%9F%AE%E4%BA%BA%E6%8E%98%E9%87%91_Saboteur.md).*

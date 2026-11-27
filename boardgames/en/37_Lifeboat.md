@@ -101,6 +101,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> A lifeboat crammed with survivors — each has a secret love and a secret enemy. Each day row, drink and share supplies; people get thirsty, fight, or are thrown overboard. When land is reached, score for survivors you love, yourself, items, and dead enemies.
+
+### Strategy by phase
+
+- **Early:** Watch who favours whom to read loves and enemies.
+- **Mid:** Grab useful items and form alliances.
+- **Late:** Near land, decide whether to betray.
+
+### Extra FAQ
+
+- **Q: Can I score if dead?**  
+  A: Yes, from loves/enemies; see rulebook.
+- **Q: What if the boat is overloaded?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../37_%E9%AA%87%E6%B5%AA%E6%B1%82%E7%94%9F_Lifeboat.md).*

@@ -104,6 +104,33 @@ Before you start:
 
 - Expansions add heroes and maps.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> A two-act co-op dungeon crawl. Heroes explore rooms, meet monsters and roll dice to fight. The torch track advances; reach Act 2 before it burns out, then destroy the altar and defeat the boss. Loot powers you up. If all heroes fall, you lose.
+
+### Strategy by phase
+
+- **Early:** Explore quickly in Act 1 and grab loot.
+- **Mid:** Position well — tank up front, don't let weak heroes wander.
+- **Late:** In Act 2 burn everything on the boss.
+
+### Extra FAQ
+
+- **Q: Can heroes be revived?**  
+  A: See rulebook.
+- **Q: What happens when the torch runs out?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../17_%E5%B0%8F%E5%B0%8F%E5%9C%B0%E5%9F%8E%E4%BC%A0%E8%AF%B4_Tiny_Epic_Dungeons.md).*

@@ -104,6 +104,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> A mall surrounded by zombies. Each round choose a destination secretly. When zombies break into a weak area, vote on who gets thrown out. Score surviving characters.
+
+### Strategy by phase
+
+- **Early:** Read others' moves.
+- **Mid:** Protect high-value characters.
+- **Late:** Ally for key votes.
+
+### Extra FAQ
+
+- **Q: Abstain?**  
+  A: See rulebook.
+- **Q: Items?**  
+  A: Defence or effects.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../151_%E5%83%B5%E5%B0%B8%E5%95%86%E5%9C%BA_Mall_of_Horror.md).*

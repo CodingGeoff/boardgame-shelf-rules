@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Draw an Exploding Kitten and you're out unless you have a Defuse. On your turn play any number of action cards, then draw to end your turn. Skip (no draw), Attack (next player takes 2 turns), See the Future, Shuffle, Favour... Last one alive wins.
+
+### Strategy by phase
+
+- **Early:** Protect your Defuse.
+- **Mid:** See the Future, then Skip/Attack to dodge.
+- **Late:** Late game, hoard Skips and Attacks.
+
+### Extra FAQ
+
+- **Q: Where does a defused kitten go?**  
+  A: Anywhere in the deck, secretly.
+- **Q: Can Nope cancel Nope?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../34_%E7%82%B8%E5%BC%B9%E7%8C%AB_Bomb_Kittens.md).*

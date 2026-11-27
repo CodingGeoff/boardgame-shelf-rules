@@ -97,6 +97,33 @@ Before you start:
 
 - 2nd ed adds crazy camels.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Bet on a camel race. Each turn: take a leg bet, roll a pyramid die, place a spectator tile, or bet on overall winner/loser. Camels stack and carry those above. Settle bets each leg and at the end.
+
+### Strategy by phase
+
+- **Early:** Take leg bets early.
+- **Mid:** Use stacking to predict.
+- **Late:** Bet on the overall winner late.
+
+### Extra FAQ
+
+- **Q: Reward for rolling?**  
+  A: 1 coin.
+- **Q: Crazy camels?**  
+  A: Move backwards.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../133_%E9%AA%86%E9%A9%BC%E5%BF%AB%E8%B7%91_Camel_Up.md).*

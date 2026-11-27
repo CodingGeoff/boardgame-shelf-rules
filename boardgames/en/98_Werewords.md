@@ -99,6 +99,33 @@ Before you start:
 
 - Uses an app.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–10 min; budget about 10 min for a first game.
+- Total: about 15 min.
+
+### Teaching script (read it aloud)
+
+> Twenty questions plus werewolves. The mayor picks a word and answers yes/no. Werewolves know it and mislead; the seer knows and guides. If guessed, werewolves try to find the seer; if not, villagers try to find a werewolf.
+
+### Strategy by phase
+
+- **Early:** Ask category questions first.
+- **Mid:** Watch for too-accurate or misleading questions.
+- **Late:** Seer stay low-key.
+
+### Extra FAQ
+
+- **Q: Can the mayor be a werewolf?**  
+  A: Yes.
+- **Q: Need the app?**  
+  A: For timing; substitutes exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../98_%E7%8B%BC%E4%BA%BA%E7%9C%9F%E8%A8%80_Werewords.md).*

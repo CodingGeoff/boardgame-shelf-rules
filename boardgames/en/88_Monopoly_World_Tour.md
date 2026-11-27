@@ -101,6 +101,33 @@ Before you start:
 
 - Time-limit house rule.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 60–180 min; budget about 215 min for a first game.
+- Total: about 220 min.
+
+### Teaching script (read it aloud)
+
+> Roll and move around the board; buy unowned cities or pay rent. Complete colour sets to build houses. Chance and Community cards add surprises. Bankrupt opponents or compare assets at a time limit.
+
+### Strategy by phase
+
+- **Early:** Buy aggressively early.
+- **Mid:** Complete colour sets.
+- **Late:** Build for high rents.
+
+### Extra FAQ
+
+- **Q: Can we trade properties?**  
+  A: Yes.
+- **Q: How to leave jail?**  
+  A: Roll doubles, pay, or use a card.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../88_%E5%A4%A7%E5%AF%8C%E7%BF%81%E4%B8%96%E7%95%8C%E4%B9%8B%E6%97%85%E9%93%B6%E7%89%8C_Uncle_Wang.md).*

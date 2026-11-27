@@ -114,6 +114,33 @@ Before you start:
 
 - For a first game use location cards only, then add tactic cards.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Each side has 6 agents facing away from the opponent, each showing a strength number or a true/false intel mark. On your turn play a movement card to move one agent; landing on an enemy agent captures it and reveals it. Collect enough of the opponent's real intel (or meet the other win conditions on the rules sheet) to win. Movement cards cycle: once used they come back after the set is spent.
+
+### Strategy by phase
+
+- **Early:** Keep real intel in the back and big numbers forward; probe with small agents.
+- **Mid:** Track the opponent's spent movement cards to know where they can reach next.
+- **Late:** When ahead, protect your intel; when behind, bait captures with fake intel.
+
+### Extra FAQ
+
+- **Q: What if I capture fake intel?**  
+  A: Check the win conditions on the rules sheet — capturing fakes can backfire.
+- **Q: Can I pass?**  
+  A: Normally you must play a card and move; see the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../02_%E4%BA%AC%E9%83%BD%E8%B0%8D%E5%BD%B1_Shadows_in_Kyoto.md).*

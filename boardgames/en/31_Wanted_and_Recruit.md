@@ -88,6 +88,31 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> A Chinese duel card game where each card is an action, movement or resource ('one card, three uses'). Heroes manoeuvre and attack on a battlefield. Start with the intro mode using only basic mechanics.
+
+### Strategy by phase
+
+- **Early:** Learn when to use cards for movement vs attacks.
+- **Mid:** Use positioning to stay out of range.
+- **Late:** Strike when the opponent runs dry.
+
+### Extra FAQ
+
+- **Q: Intro vs full mode?**  
+  A: Intro uses core mechanics only.
+- **Q: Pending info?**  
+  A: Rulebook details apply.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../31_%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BAII_%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E6%B5%B7_Wanted_and_Recruit.md).*

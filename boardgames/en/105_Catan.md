@@ -101,6 +101,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 120 min.
+
+### Teaching script (read it aloud)
+
+> Rolls produce wood, brick, sheep, wheat, ore. Build roads, settlements, cities, buy development cards. Trade with players, bank 4:1, ports 3:1/2:1. A 7 moves the robber. Settlement 1, city 2, longest road/largest army 2 each; first to 10 wins.
+
+### Strategy by phase
+
+- **Early:** Pick diverse numbers; 6 and 8 are best.
+- **Mid:** Trade for what you lack.
+- **Late:** Grab longest road or largest army.
+
+### Extra FAQ
+
+- **Q: Trade with the bank?**  
+  A: 4:1, ports 3:1 or 2:1.
+- **Q: Over 7 cards on a 7?**  
+  A: Discard half.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../105_%E5%8D%A1%E5%9D%A6%E5%B2%9B_%E4%B8%80%E7%99%BE%E6%B8%B8%E7%89%88_Catan.md).*

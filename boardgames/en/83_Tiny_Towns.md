@@ -99,6 +99,33 @@ Before you start:
 
 - Solo mode; expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> The master builder names a resource; everyone places it in their 4x4 town. Arrange resources in a building's pattern to replace them with that building. When your town is full you're done. Score buildings; −1 per empty square.
+
+### Strategy by phase
+
+- **Early:** Plan building spots.
+- **Mid:** Name resources that hurt others.
+- **Late:** Fill every square late.
+
+### Extra FAQ
+
+- **Q: Can I refuse a resource?**  
+  A: No; if you can't place, you're done.
+- **Q: Can buildings be removed?**  
+  A: No.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../83_%E5%B0%8F%E5%B0%8F%E5%9F%8E%E9%95%87_Tiny_Towns.md).*

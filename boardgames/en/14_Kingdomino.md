@@ -105,6 +105,33 @@ Before you start:
 
 - Optional: centred castle +10, complete 5×5 +5. Age of Giants expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Each player has a castle tile. Each round pick a domino from the line; bigger-numbered dominoes are better but you pick later next round. Place it so at least one side matches terrain or touches your castle, within a 5×5 kingdom. Score each connected region: squares × crowns.
+
+### Strategy by phase
+
+- **Early:** Pick 1–2 main terrains and chase crowns.
+- **Mid:** Watch what others need; taking a low tile gets you first pick next round.
+- **Late:** Mind the 5×5 limit so late tiles still fit.
+
+### Extra FAQ
+
+- **Q: What if a domino doesn't fit?**  
+  A: Discard it.
+- **Q: Do regions without crowns score?**  
+  A: No — × 0 is 0.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../14_%E5%A4%9A%E7%B1%B3%E8%AF%BA%E7%8E%8B%E5%9B%BD_Kingdomino.md).*

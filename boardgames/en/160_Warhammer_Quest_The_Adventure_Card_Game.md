@@ -113,6 +113,33 @@ Before you start:
 
 - Hero packs (e.g. Witch Hunter, Troll Slayer) and delve mode.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Fully co-op dungeon cards. Each hero has four actions: explore, rest, aid, attack; roll for successes. Explore locations, clear enemies, manage peril, complete the quest.
+
+### Strategy by phase
+
+- **Early:** Clear big threats first.
+- **Mid:** Balance aid and rest.
+- **Late:** Focus on the quest late.
+
+### Extra FAQ
+
+- **Q: Exhausted actions?**  
+  A: Rest to ready.
+- **Q: Hero death?**  
+  A: May lose.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../160_%E6%88%98%E9%94%A4%E4%BB%BB%E5%8A%A1_Warhammer_Quest_Adventure_Card_Game.md).*

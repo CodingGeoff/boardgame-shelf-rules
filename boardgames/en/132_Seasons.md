@@ -105,6 +105,33 @@ Before you start:
 
 - Seasons expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Three years, twelve seasons. Draft 9 power cards and split them across the years. Each turn take a season die for energy, crystals, summoning, cards. Summon items and familiars. Score crystals + cards − penalties.
+
+### Strategy by phase
+
+- **Early:** Plan your three-year split in the draft.
+- **Mid:** Exploit season changes.
+- **Late:** Push crystals in year 3.
+
+### Extra FAQ
+
+- **Q: Season dice?**  
+  A: First player rolls; pick in turn.
+- **Q: Unused cards penalised?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../132_%E5%AD%A3%E8%8A%82%E4%BC%A0%E8%AF%B4_%E5%9B%9B%E5%AD%A3%E7%89%A9%E8%AF%AD_Seasons.md).*

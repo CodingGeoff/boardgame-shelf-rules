@@ -102,6 +102,33 @@ Before you start:
 
 - House rules for streak bonuses exist.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Everyone arranges black and white number tiles in ascending order (black left on ties). Each turn draw a tile, then point at an opponent's tile and guess its number. Correct: it's revealed and you may guess again or stop and hide your drawn tile. Wrong: reveal your drawn tile into your row. Fully revealed players are out; last one standing wins.
+
+### Strategy by phase
+
+- **Early:** Start at the ends — far-left tiles are often 0–1, far-right 10–11.
+- **Mid:** Use revealed tiles to narrow ranges; your guesses leak info too.
+- **Late:** When ahead, stop guessing to keep your new tile hidden.
+
+### Extra FAQ
+
+- **Q: Where does the joker go?**  
+  A: Anywhere in your row (advanced rule).
+- **Q: Black or white first on ties?**  
+  A: Black goes left.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../08_%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81_Da_Vinci_Code.md).*

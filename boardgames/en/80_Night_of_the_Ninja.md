@@ -102,6 +102,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Lotus and Crane clans assassinate each other. Draft ninja cards, act at night in order: peek, swap, kill. Reveal at dawn.
+
+### Strategy by phase
+
+- **Early:** Draft info cards.
+- **Mid:** Read identities at night.
+- **Late:** Kill key targets.
+
+### Extra FAQ
+
+- **Q: Multiple rounds?**  
+  A: Three, by honour.
+- **Q: Ronin win?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../80_%E5%BF%8D%E8%80%85%E4%B9%8B%E5%A4%9C_Night_of_the_Ninja.md).*

@@ -101,6 +101,33 @@ Before you start:
 
 - Spicy variant; 2p rules in the Japanese edition.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Cards are split between hands and a face-down centre. On your turn ask anyone to reveal their lowest or highest card, or flip a centre card. Three matching numbers in a row wins a trio; a mismatch ends your turn and cards go back. Win with 3 trios, the 7 trio, or two trios summing/differing to 7 (check edition).
+
+### Strategy by phase
+
+- **Early:** Start with safe reveals of your own extremes.
+- **Mid:** Memorise every revealed card's location.
+- **Late:** Track where the 7s are.
+
+### Extra FAQ
+
+- **Q: What happens after a mismatch?**  
+  A: All cards return face down.
+- **Q: Can I ask again?**  
+  A: Yes, though extremes may have changed.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../58_Nana_%E3%83%8A%E3%83%8A_Trio.md).*

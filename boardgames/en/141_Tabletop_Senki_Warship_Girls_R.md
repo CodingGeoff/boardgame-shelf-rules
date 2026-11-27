@@ -87,6 +87,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> Warship Girls R two-player battle: build fleets within an agreed point total (up to 2 fleets) and trade attacks. Details per the box rulebook.
+
+### Strategy by phase
+
+- **Early:** Balance your fleet.
+- **Mid:** Focus on weaknesses.
+- **Late:** Protect your flagship.
+
+### Extra FAQ
+
+- **Q: Point total?**  
+  A: Agreed by players.
+- **Q: Pending info?**  
+  A: Follow the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../141_%E6%A1%8C%E9%9D%A2%E6%88%98%E8%AE%B0_%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3R_SUNWING.md).*

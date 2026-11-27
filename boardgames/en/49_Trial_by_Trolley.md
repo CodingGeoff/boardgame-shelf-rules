@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 55 min.
+
+### Teaching script (read it aloud)
+
+> The conductor decides which track to hit. Two teams place good guys on their own track and villains on the other, then twist stories with trait cards. Both teams argue; the conductor chooses.
+
+### Strategy by phase
+
+- **Early:** Lead with the most compelling good guys.
+- **Mid:** Use traits to twist the opposing track.
+- **Late:** Argue with flair.
+
+### Extra FAQ
+
+- **Q: Can the conductor abstain?**  
+  A: No.
+- **Q: Can we pander to the conductor?**  
+  A: Yes, that's strategy.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../49_%E7%BB%88%E6%9E%81%E5%AE%A1%E5%88%A4%E7%94%B5%E8%BD%A6%E9%9A%BE%E9%A2%98_Trial_by_Trolley.md).*

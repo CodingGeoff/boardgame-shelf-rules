@@ -99,6 +99,33 @@ Before you start:
 
 - Big Box includes expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–40 min; budget about 50 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> A Wild West train heist. Each round, first program actions by playing cards in order (move, change floor, shoot, rob, punch, move marshal), then resolve. Chaos ensues. Most money wins; best shooter bonus.
+
+### Strategy by phase
+
+- **Early:** Rob first, shoot later.
+- **Mid:** Predict others and avoid the marshal.
+- **Late:** Grab jewels and the strongbox late.
+
+### Extra FAQ
+
+- **Q: Getting shot?**  
+  A: Bullet cards clog your deck.
+- **Q: Face-down plays?**  
+  A: Some rounds require it.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../71_%E6%9F%AF%E5%B0%94%E7%89%B9%E5%BF%AB%E8%BD%A6%E5%A4%A7%E7%9B%92%E7%89%88_Colt_Express_Big_Box.md).*

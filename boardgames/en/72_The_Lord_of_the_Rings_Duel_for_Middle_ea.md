@@ -97,6 +97,33 @@ Before you start:
 
 - None.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 50 min.
+
+### Teaching script (read it aloud)
+
+> From the 7 Wonders Duel team. Draft from a pyramid; three win paths: carry the Ring to Mount Doom, gather 6 races, or conquer Middle-earth. Switch paths to exploit weaknesses.
+
+### Strategy by phase
+
+- **Early:** Develop evenly and read the opponent.
+- **Mid:** Use the pyramid to leave bad picks.
+- **Late:** Sprint the closest path.
+
+### Extra FAQ
+
+- **Q: Are sides symmetric?**  
+  A: No, asymmetric.
+- **Q: Discard for coins?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../72_%E9%AD%94%E6%88%92%E4%B8%AD%E5%9C%9F%E5%AF%B9%E5%86%B3_LOTR_Duel_for_Middle-earth.md).*

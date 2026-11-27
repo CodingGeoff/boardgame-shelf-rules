@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 40–50 min; budget about 60 min for a first game.
+- Total: about 75 min.
+
+### Teaching script (read it aloud)
+
+> A marble dispenser holds energy. Each turn pick a marble, file a card, build a machine, or research. Machines trigger each other — e.g. 'when you pick a red marble, take another'. Build chain reactions so one action cascades. The game ends at a machine or level-3 card threshold.
+
+### Strategy by phase
+
+- **Early:** Build level-1 machines early.
+- **Mid:** Grow the engine around one trigger type.
+- **Late:** Build high-value level-3 machines and end it.
+
+### Extra FAQ
+
+- **Q: Is there a file limit?**  
+  A: Yes, see rulebook.
+- **Q: Energy limit?**  
+  A: Yes, per your energy ring capacity.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../21_%E7%88%86%E7%8F%A0%E5%8F%91%E6%98%8E_Gizmos.md).*

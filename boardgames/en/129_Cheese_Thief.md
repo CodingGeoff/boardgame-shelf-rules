@@ -103,6 +103,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Mice roll to choose when they wake. The thief steals the cheese at their hour; a mouse awake alone may peek at others' dice. Vote at dawn. Catch the thief to win.
+
+### Strategy by phase
+
+- **Early:** Remember what you saw.
+- **Mid:** Cross-check stories.
+- **Late:** Coordinate the vote.
+
+### Extra FAQ
+
+- **Q: Can the thief lie?**  
+  A: Yes.
+- **Q: Accomplices?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../129_%E5%A5%B6%E9%85%AA%E5%A4%A7%E7%9B%97_Cheese_Thief.md).*

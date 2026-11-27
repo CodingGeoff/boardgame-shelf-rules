@@ -85,8 +85,8 @@ Before you start:
 
 ### Rules FAQ / rulings
 
-- **Q: No wolves in play?**  
-  A: Village wins if no one dies.
+- **Q: What if no werewolves are among players?**  
+  A: If both are in the centre, the village wins only if nobody dies (each player gets exactly one vote).
 
 ### Player-count differences
 
@@ -96,6 +96,33 @@ Before you start:
 ### Official variants & expansions
 
 - Daybreak etc.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–10 min; budget about 10 min for a first game.
+- Total: about 15 min.
+
+### Teaching script (read it aloud)
+
+> One-night werewolf. Three extra role cards in the centre. Night actions in order: werewolves, seer, robber, troublemaker, drunk... At dawn discuss and vote simultaneously. Village wins by killing a werewolf; if no werewolves are among players, the village wins only if nobody dies.
+
+### Strategy by phase
+
+- **Early:** Remember your night info.
+- **Mid:** Share info and find contradictions.
+- **Late:** Consider wolves in the centre.
+
+### Extra FAQ
+
+- **Q: No werewolves among players?**  
+  A: Village wins only if nobody dies (each gets one vote).
+- **Q: Can my role change?**  
+  A: Robber or Troublemaker may swap it; your final card counts.
 
 ---
 

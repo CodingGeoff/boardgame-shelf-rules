@@ -9,7 +9,7 @@ def docfile(i):
     return os.path.basename(f[0])
 LOC=json.load(open('/home/user/site/loc.json'))
 WL={1:'入门',2:'轻度',3:'中度',4:'中重度',5:'重度'}
-UNKNOWN_P={29,89,93,94,113,114,115,141,142,143,144,145,152,158,162,163,165}
+UNKNOWN_P={29,89,93,94,113,114,115,141,142,143,144,145,152,158,163,165}
 def fit_text(g):
     i,name,mn,mx,best,t1,t2,age,w,tags,*_=g
     tg=set(tags.split())

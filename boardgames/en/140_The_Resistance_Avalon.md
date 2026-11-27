@@ -97,6 +97,33 @@ Before you start:
 
 - Optional roles.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Loyal knights versus Mordred's minions. The leader proposes a team; everyone votes. Approved team members secretly play success or fail — one fail sinks a quest (two on quest 4 with 7+). Three successes win for good unless the Assassin finds Merlin; three fails win for evil.
+
+### Strategy by phase
+
+- **Early:** Good: track vote history.
+- **Mid:** Merlin: hint subtly.
+- **Late:** Evil: hunt Merlin at the end.
+
+### Extra FAQ
+
+- **Q: Five rejected votes?**  
+  A: Evil wins.
+- **Q: What does Percival see?**  
+  A: Merlin and Morgana, indistinguishable.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../140_%E9%98%BF%E7%93%A6%E9%9A%86_The_Resistance_Avalon.md).*

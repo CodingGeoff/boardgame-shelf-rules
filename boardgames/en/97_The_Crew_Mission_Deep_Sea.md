@@ -101,6 +101,33 @@ Before you start:
 
 - Difficulty-rated missions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Co-op trick-taking. Complete task cards like 'win all pink tricks'. Follow suit; submarines are trump. Communication is limited — once per mission show a card with a token meaning highest/only/lowest of that colour.
+
+### Strategy by phase
+
+- **Early:** Pick tasks that fit your hand.
+- **Mid:** Save communication for key cards.
+- **Late:** Control every trick late.
+
+### Extra FAQ
+
+- **Q: Can I say I have no yellow?**  
+  A: No.
+- **Q: Difficulty in Deep Sea?**  
+  A: By mission difficulty values.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../97_%E6%98%9F%E9%99%85%E6%8E%A2%E9%99%A9%E9%98%9F%E6%B7%B1%E6%B5%B7_The_Crew_Mission_Deep_Sea.md).*

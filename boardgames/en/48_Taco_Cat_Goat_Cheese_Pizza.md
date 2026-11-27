@@ -99,6 +99,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Play a card while saying the next word: Taco, Cat, Goat, Cheese, Pizza. When the card matches the word, everyone slaps; the last to slap takes the pile. Special cards (gorilla, narwhal, groundhog) require gestures first. First to empty their hand wins.
+
+### Strategy by phase
+
+- **Early:** Keep the rhythm and say words clearly.
+- **Mid:** Do the gesture before slapping on specials.
+- **Late:** Stay calm as your hand empties.
+
+### Extra FAQ
+
+- **Q: Mistaken slap?**  
+  A: Take the pile.
+- **Q: How do I win with my last card?**  
+  A: You must not lose the next slap; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../48_%E7%8C%AB%E5%92%AA%E5%8D%B7%E9%A5%BC%E7%BE%8A_Taco_Cat_Goat_Cheese_Pizza.md).*

@@ -96,6 +96,33 @@ Before you start:
 
 - Several scripts.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 120–240 min; budget about 290 min for a first game.
+- Total: about 305 min.
+
+### Teaching script (read it aloud)
+
+> Boxed murder mystery: fixed player count, single play. Choose characters, read scripts, search evidence, discuss, vote. The murderer hides; others seek truth.
+
+### Strategy by phase
+
+- **Early:** Read your script carefully.
+- **Mid:** Record clues.
+- **Late:** Build a timeline before voting.
+
+### Extra FAQ
+
+- **Q: Read others' scripts?**  
+  A: No.
+- **Q: Replay?**  
+  A: One-time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../149_K%E7%9A%84%E6%B8%B8%E6%88%8F_%E7%9B%92%E8%A3%85%E5%89%A7%E6%9C%AC%E6%9D%80%E7%B3%BB%E5%88%97.md).*

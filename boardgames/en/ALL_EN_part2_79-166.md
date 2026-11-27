@@ -192,6 +192,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 170 min.
+
+### Teaching script (read it aloud)
+
+> British Industrial Revolution in canal and rail eras. Build industries, links, sell goods, take loans. Networks drive scoring.
+
+### Strategy by phase
+
+- **Early:** Build networks in the canal era.
+- **Mid:** Use loans wisely.
+- **Late:** Upgrade in the rail era.
+
+### Extra FAQ
+
+- **Q: End of canal era?**  
+  A: Level-1 industries and canals are removed.
+- **Q: Repay loans?**  
+  A: No, income drops.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../79_%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD_Brass.md).*
@@ -302,6 +329,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Lotus and Crane clans assassinate each other. Draft ninja cards, act at night in order: peek, swap, kill. Reveal at dawn.
+
+### Strategy by phase
+
+- **Early:** Draft info cards.
+- **Mid:** Read identities at night.
+- **Late:** Kill key targets.
+
+### Extra FAQ
+
+- **Q: Multiple rounds?**  
+  A: Three, by honour.
+- **Q: Ronin win?**  
+  A: See rulebook.
 
 ---
 
@@ -414,6 +468,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Each team has 4 secret keywords numbered 1–4. Encryptor draws a 3-digit code and gives three clues. Teammates decode; opponents try to intercept from clue history. Two intercepts win; two miscommunications lose.
+
+### Strategy by phase
+
+- **Early:** Keep clues subtle early.
+- **Mid:** Log opponents' clues.
+- **Late:** Vary angles later.
+
+### Extra FAQ
+
+- **Q: Multilingual clues?**  
+  A: Agree beforehand.
+- **Q: Clue count?**  
+  A: One per digit.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../81_%E6%88%AA%E7%A0%81%E6%88%98_Decrypto.md).*
@@ -506,7 +587,7 @@ Before you start:
 
 ### Scoring example
 
-- Score gems per rulebook.
+- After 9 rounds total gem values (red 4, blue 3, green 2, brown 1).
 
 ### Rules FAQ / rulings
 
@@ -521,6 +602,33 @@ Before you start:
 ### Official variants & expansions
 
 - Easy/hard puzzle sides.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Everyone has identical 3D pieces and a puzzle board. Roll to pick the piece set, flip the timer. Build simultaneously: cover the white area exactly, exactly 2 layers high. First shouts 'Ubongo' and takes a blue gem, second takes brown; everyone in time draws one from the bag. Highest gem value after 9 rounds wins.
+
+### Strategy by phase
+
+- **Early:** Warm up on the easy side.
+- **Mid:** Place the oddest piece first.
+- **Late:** Finish in time to secure bag draws.
+
+### Extra FAQ
+
+- **Q: Gem values?**  
+  A: Red 4, blue 3, green 2, brown 1.
+- **Q: Overhangs allowed?**  
+  A: No — exact coverage, 2 layers.
 
 ---
 
@@ -629,6 +737,33 @@ Before you start:
 ### Official variants & expansions
 
 - Solo mode; expansions.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> The master builder names a resource; everyone places it in their 4x4 town. Arrange resources in a building's pattern to replace them with that building. When your town is full you're done. Score buildings; −1 per empty square.
+
+### Strategy by phase
+
+- **Early:** Plan building spots.
+- **Mid:** Name resources that hurt others.
+- **Late:** Fill every square late.
+
+### Extra FAQ
+
+- **Q: Can I refuse a resource?**  
+  A: No; if you can't place, you're done.
+- **Q: Can buildings be removed?**  
+  A: No.
 
 ---
 
@@ -741,6 +876,33 @@ Before you start:
 
 - Many expansion decks.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Storyteller picks a card and gives a clue. Others give their best match; shuffle, reveal and vote. Some correct: storyteller and correct guessers +3, owners +1 per vote. All or none: storyteller 0, others +2.
+
+### Strategy by phase
+
+- **Early:** Clues should be neither too obvious nor obscure.
+- **Mid:** Match the clue's mood.
+- **Late:** Maximise your storyteller turns late.
+
+### Extra FAQ
+
+- **Q: Does the storyteller vote?**  
+  A: No.
+- **Q: Can I vote for my own?**  
+  A: No.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../84_%E5%8F%AA%E8%A8%80%E7%89%87%E8%AF%AD_Dixit_%E5%90%AB%E6%98%9F%E7%89%A9%E8%AF%AD.md).*
@@ -848,6 +1010,33 @@ Before you start:
 ### Official variants & expansions
 
 - Several editions.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> Auction paintings using the method on each card: open, once-around, sealed, fixed price, double. The buyer pays the seller (or the bank if you buy your own). The 5th card of an artist ends the round. Rank artists: 30/20/10, cumulative. Sell to the bank; most cash after 4 rounds wins.
+
+### Strategy by phase
+
+- **Early:** Read which artists others hold.
+- **Mid:** Manipulate with doubles and sealed bids.
+- **Late:** Concentrate money on top artists in round 4.
+
+### Extra FAQ
+
+- **Q: Is the 5th card auctioned?**  
+  A: No.
+- **Q: Are artists outside top 3 worth anything?**  
+  A: Not this round.
 
 ---
 
@@ -960,6 +1149,33 @@ Before you start:
 
 - Widow's Walk; 3rd ed differs.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Explorers start in the entrance hall. Opening unexplored doors reveals rooms. Omen symbols draw omen cards and trigger haunt rolls: roll 6 dice; if the total is less than the omen count, the haunt begins. Look up the scenario and traitor; each side reads its book and pursues its goal.
+
+### Strategy by phase
+
+- **Early:** Gather items and boost traits early.
+- **Mid:** Read your book separately after the haunt.
+- **Late:** Focus on the scenario objective.
+
+### Extra FAQ
+
+- **Q: How many dice for haunt rolls?**  
+  A: Six; trigger if below the omen count.
+- **Q: Trait to skull before the haunt?**  
+  A: You can't die before the haunt.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../86_%E5%B1%B1%E5%B1%8B%E6%83%8A%E9%AD%82%E7%AC%AC%E4%BA%8C%E7%89%88_Betrayal_at_House_on_the_Hill.md).*
@@ -1069,6 +1285,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Five spell stones face outward — you can't see your own. Name a spell number; if you have it, cast it; if not, lose life. The round ends when someone hits 0 life or empties their stones.
+
+### Strategy by phase
+
+- **Early:** Call low numbers first — there are more of them.
+- **Mid:** Deduce from visible and used stones.
+- **Late:** Play safe when low on life.
+
+### Extra FAQ
+
+- **Q: Can I see my stones?**  
+  A: No.
+- **Q: Where do cast stones go?**  
+  A: Face up in the centre.
 
 ---
 
@@ -1180,6 +1423,33 @@ Before you start:
 
 - Time-limit house rule.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 60–180 min; budget about 215 min for a first game.
+- Total: about 220 min.
+
+### Teaching script (read it aloud)
+
+> Roll and move around the board; buy unowned cities or pay rent. Complete colour sets to build houses. Chance and Community cards add surprises. Bankrupt opponents or compare assets at a time limit.
+
+### Strategy by phase
+
+- **Early:** Buy aggressively early.
+- **Mid:** Complete colour sets.
+- **Late:** Build for high rents.
+
+### Extra FAQ
+
+- **Q: Can we trade properties?**  
+  A: Yes.
+- **Q: How to leave jail?**  
+  A: Roll doubles, pay, or use a card.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../88_%E5%A4%A7%E5%AF%8C%E7%BF%81%E4%B8%96%E7%95%8C%E4%B9%8B%E6%97%85%E9%93%B6%E7%89%8C_Uncle_Wang.md).*
@@ -1286,6 +1556,33 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Antique dealers buy, sell, trade and auction items that may be real or fake. Better collections score more. Highest value wins.
+
+### Strategy by phase
+
+- **Early:** Buy early to learn the fake distribution.
+- **Mid:** Exploit information gaps.
+- **Late:** Assemble the best sets.
+
+### Extra FAQ
+
+- **Q: Can fakes be detected?**  
+  A: Per the rulebook.
+- **Q: Auction rules?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../89_%E5%8F%A4%E7%8E%A9%E8%A1%97_Antique_Street.md).*
@@ -1391,6 +1688,33 @@ Before you start:
 ### Official variants & expansions
 
 - Achievement variant; expansions.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Start with a park board. Place a polyomino tile; covered icons reward you: pencil new tile, wheelbarrow new park board, excavator bear statue. Earlier enclosures and statues score higher. When someone fills their parks, finish the round and score.
+
+### Strategy by phase
+
+- **Early:** Cover icons to snowball.
+- **Mid:** Grab high-value enclosures early.
+- **Late:** Fill parks quickly to end.
+
+### Extra FAQ
+
+- **Q: Can tiles overhang?**  
+  A: No.
+- **Q: Max park boards?**  
+  A: 4 (2×2).
 
 ---
 
@@ -1508,6 +1832,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> A dice race delivering sushi. Bet how far you'll roll, attempt deliveries, avoid park sections, and collect sushi sets.
+
+### Strategy by phase
+
+- **Early:** Learn the betting risks.
+- **Mid:** Route around parks.
+- **Late:** Complete sushi sets.
+
+### Extra FAQ
+
+- **Q: Failed bet?**  
+  A: See rulebook.
+- **Q: Sushi scoring?**  
+  A: By sets.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../91_%E5%AF%BF%E5%8F%B8%E5%BF%AB%E9%80%92_Sushi_Express.md).*
@@ -1618,6 +1969,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Fully cooperative. Everyone gets a secret 1–10; the captain reads a theme. Answer in a way that conveys your number; the captain orders everyone. Mistakes cost hearts.
+
+### Strategy by phase
+
+- **Early:** Answer within the theme.
+- **Mid:** Calibrate from others.
+- **Late:** Captain sorts from extremes.
+
+### Extra FAQ
+
+- **Q: Can I say my number?**  
+  A: No.
+- **Q: Does the captain rotate?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../92_%E8%84%91%E6%B4%9E%E9%87%8F%E8%A1%A8_Top_Ten.md).*
@@ -1721,6 +2099,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> A historical court identity game: hidden roles, skills and discussion to achieve faction goals. Details pending — follow the box rulebook.
+
+### Strategy by phase
+
+- **Early:** Listen carefully.
+- **Mid:** Use skills wisely.
+- **Late:** Vote for your faction.
+
+### Extra FAQ
+
+- **Q: What does pending info mean?**  
+  A: Follow the box rulebook.
+- **Q: Player count?**  
+  A: See the box.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../93_%E9%83%A1%E4%B8%BB%E5%88%AB%E6%80%95_%E7%96%91%E4%BC%BC.md).*
@@ -1816,6 +2219,22 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
 
 ---
 
@@ -1925,6 +2344,33 @@ Before you start:
 ### Official variants & expansions
 
 - Challenge and specialist cards.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Co-op Texas Hold'em. No talking about cards — take star chips to express your hand's strength. Re-take chips after each community reveal. At showdown, if rankings match, you crack a vault. 3 vaults win; 3 alarms lose.
+
+### Strategy by phase
+
+- **Early:** Take chips based on hole cards first.
+- **Mid:** Watch others' hesitation.
+- **Late:** Swap chips carefully at the end.
+
+### Extra FAQ
+
+- **Q: Can I take someone's chip?**  
+  A: Yes.
+- **Q: Can I say my hand is good?**  
+  A: No.
 
 ---
 
@@ -2036,6 +2482,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Three roses and a skull each. Place discs face down or bid how many you can flip without a skull. The challenger flips all their own first, then others'. Two successes win; failure loses a disc.
+
+### Strategy by phase
+
+- **Early:** Read others' placing habits.
+- **Mid:** Plant skulls to bait.
+- **Late:** Bid considering your own discs.
+
+### Extra FAQ
+
+- **Q: Must I flip my own first?**  
+  A: Yes.
+- **Q: Hit my own skull?**  
+  A: I choose which disc to lose.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../96_%E9%AA%B7%E9%AB%85%E4%B8%8E%E7%8E%AB%E7%91%B0_Skull.md).*
@@ -2146,6 +2619,33 @@ Before you start:
 
 - Difficulty-rated missions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Co-op trick-taking. Complete task cards like 'win all pink tricks'. Follow suit; submarines are trump. Communication is limited — once per mission show a card with a token meaning highest/only/lowest of that colour.
+
+### Strategy by phase
+
+- **Early:** Pick tasks that fit your hand.
+- **Mid:** Save communication for key cards.
+- **Late:** Control every trick late.
+
+### Extra FAQ
+
+- **Q: Can I say I have no yellow?**  
+  A: No.
+- **Q: Difficulty in Deep Sea?**  
+  A: By mission difficulty values.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../97_%E6%98%9F%E9%99%85%E6%8E%A2%E9%99%A9%E9%98%9F%E6%B7%B1%E6%B5%B7_The_Crew_Mission_Deep_Sea.md).*
@@ -2254,6 +2754,33 @@ Before you start:
 
 - Uses an app.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–10 min; budget about 10 min for a first game.
+- Total: about 15 min.
+
+### Teaching script (read it aloud)
+
+> Twenty questions plus werewolves. The mayor picks a word and answers yes/no. Werewolves know it and mislead; the seer knows and guides. If guessed, werewolves try to find the seer; if not, villagers try to find a werewolf.
+
+### Strategy by phase
+
+- **Early:** Ask category questions first.
+- **Mid:** Watch for too-accurate or misleading questions.
+- **Late:** Seer stay low-key.
+
+### Extra FAQ
+
+- **Q: Can the mayor be a werewolf?**  
+  A: Yes.
+- **Q: Need the app?**  
+  A: For timing; substitutes exist.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../98_%E7%8B%BC%E4%BA%BA%E7%9C%9F%E8%A8%80_Werewords.md).*
@@ -2360,6 +2887,33 @@ Before you start:
 ### Official variants & expansions
 
 - Many roles.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–90 min; budget about 110 min for a first game.
+- Total: about 120 min.
+
+### Teaching script (read it aloud)
+
+> Classic werewolf. At night wolves kill and specials act (seer checks, witch potions, guard protects). By day discuss and exile. Good wins by eliminating wolves; wolves win by parity.
+
+### Strategy by phase
+
+- **Early:** Good: find logic holes.
+- **Mid:** Wolves: fake claims and confuse.
+- **Late:** Coordinate key votes.
+
+### Extra FAQ
+
+- **Q: Can the dead speak?**  
+  A: Last words usually.
+- **Q: Tied vote?**  
+  A: Tiebreak or no exile.
 
 ---
 
@@ -2476,6 +3030,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Pure negotiation. Each deal needs certain investor families; haggle over shares and disrupt with cards — send families on holiday, swap them. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Collect families and cards.
+- **Mid:** Control key families.
+- **Late:** Max shares in the last deals.
+
+### Extra FAQ
+
+- **Q: Are deals binding?**  
+  A: Agreed shares must be paid.
+- **Q: Can the boss pass?**  
+  A: Yes, no profit.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../100_%E6%88%91%E6%98%AF%E5%A4%A7%E8%80%81%E6%9D%BF_Im_the_Boss.md).*
@@ -2582,6 +3163,33 @@ Before you start:
 ### Official variants & expansions
 
 - 5–6 player expansion.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> The island sinks — get your people to safety. Move people and boats, remove a tile (with effects), then roll to move sharks, sea serpents or whales to harass others. Score the values on rescued people.
+
+### Strategy by phase
+
+- **Early:** Move high-value people toward the edge.
+- **Mid:** Use boats for multiple people.
+- **Late:** Send monsters at the leader.
+
+### Extra FAQ
+
+- **Q: Can I see people values?**  
+  A: Only your own.
+- **Q: Can serpents sink boats?**  
+  A: Yes.
 
 ---
 
@@ -2694,6 +3302,33 @@ Before you start:
 
 - Many expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Draw a tile and place it matching edges. Optionally place a meeple as a thief, knight, monk or farmer. Completed roads, cities and monasteries score immediately and return meeples. Cities 2 per tile (+2 per shield), roads 1 per tile, monastery 9. Endgame scores incomplete features and farms.
+
+### Strategy by phase
+
+- **Early:** Keep meeples in reserve.
+- **Mid:** Farmers on big fields score big.
+- **Late:** Place last meeples on near-complete features.
+
+### Extra FAQ
+
+- **Q: Can I join an occupied city directly?**  
+  A: No, but connections can merge.
+- **Q: Tied majority?**  
+  A: All tied players score fully.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../102_%E5%8D%A1%E5%8D%A1%E9%A2%82_Carcassonne.md).*
@@ -2802,6 +3437,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Smuggle contraband into the city. Bag goods and declare (truth or lie); the Sheriff inspects or lets it pass. Caught? Pay fines. Wrong? Sheriff pays you. Bribes and deals allowed. Score goods, contraband, coins and king/queen bonuses.
+
+### Strategy by phase
+
+- **Early:** Be honest early to build trust.
+- **Mid:** As sheriff, note who lies.
+- **Late:** Smuggle big late.
+
+### Extra FAQ
+
+- **Q: Can a bribe be a promise?**  
+  A: Yes, not enforced.
+- **Q: Max cards in bag?**  
+  A: 5.
 
 ---
 
@@ -2913,6 +3575,33 @@ Before you start:
 
 - Dark Edition adds wickedness.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Monsters brawl. Roll 6 dice with 2 rerolls: points, heal, energy, attack. Tokyo hits everyone outside; outsiders hit Tokyo. Staying in Tokyo scores but you can't heal with dice. First to 20 or last alive wins.
+
+### Strategy by phase
+
+- **Early:** Avoid Tokyo early; build energy.
+- **Mid:** Enter Tokyo with high HP.
+- **Late:** Race to 20 or eliminate.
+
+### Extra FAQ
+
+- **Q: Heal in Tokyo?**  
+  A: Not with dice.
+- **Q: Leave Tokyo when hit?**  
+  A: Yes, attacker enters.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../104_%E4%B8%9C%E4%BA%AC%E4%B9%8B%E7%8E%8B%E6%9A%97%E9%BB%91%E6%97%A0%E7%95%8C_King_of_Tokyo_Dark_Edition.md).*
@@ -3023,6 +3712,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 120 min.
+
+### Teaching script (read it aloud)
+
+> Rolls produce wood, brick, sheep, wheat, ore. Build roads, settlements, cities, buy development cards. Trade with players, bank 4:1, ports 3:1/2:1. A 7 moves the robber. Settlement 1, city 2, longest road/largest army 2 each; first to 10 wins.
+
+### Strategy by phase
+
+- **Early:** Pick diverse numbers; 6 and 8 are best.
+- **Mid:** Trade for what you lack.
+- **Late:** Grab longest road or largest army.
+
+### Extra FAQ
+
+- **Q: Trade with the bank?**  
+  A: 4:1, ports 3:1 or 2:1.
+- **Q: Over 7 cards on a 7?**  
+  A: Discard half.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../105_%E5%8D%A1%E5%9D%A6%E5%B2%9B_%E4%B8%80%E7%99%BE%E6%B8%B8%E7%89%88_Catan.md).*
@@ -3131,6 +3847,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> A co-op dungeon where you attack by tossing dice at a target with crazy throws — behind your back, eyes closed, bouncing. Closer to the centre deals more damage. Beat the boss together.
+
+### Strategy by phase
+
+- **Early:** Practise your throws.
+- **Mid:** Use skills and items.
+- **Late:** Focus the boss.
+
+### Extra FAQ
+
+- **Q: Dice off target?**  
+  A: Miss.
+- **Q: Use others' skills?**  
+  A: No.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../106_%E5%9C%B0%E5%9F%8E%E5%8B%87%E5%A3%AB_Dungeon_Fighter.md).*
@@ -3238,6 +3981,33 @@ Before you start:
 
 - Royale adds modules.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Roll 8 dice and place all of one number in the matching casino. When all dice are placed, the player with most dice in a casino takes the biggest bill; ties cancel out. Most money after four rounds wins.
+
+### Strategy by phase
+
+- **Early:** Place in high-value casinos.
+- **Mid:** Create ties to cancel opponents.
+- **Late:** Use last dice for key spots.
+
+### Extra FAQ
+
+- **Q: Must I place all dice of a number?**  
+  A: Yes.
+- **Q: Ties?**  
+  A: They cancel out.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../107_%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9A%87%E5%AE%B6_Las_Vegas_Royale.md).*
@@ -3338,7 +4108,7 @@ Before you start:
 
 ### Scoring example
 
-- Win per rulebook queen/points goal.
+- 2–3 players: 5 queens or 50 points; 4–5 players: 4 queens or 40 points; if all queens are awake, highest points wins.
 
 ### Rules FAQ / rulings
 
@@ -3352,6 +4122,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Wake the Sleeping Queens. Kings wake a queen; Knights steal (Dragon blocks); Potions put queens back to sleep (Wand blocks); Jesters flip to decide; number equations let you discard several cards. 2–3 players: 5 queens or 50 points; 4–5: 4 queens or 40.
+
+### Strategy by phase
+
+- **Early:** Wake high-value queens first.
+- **Mid:** Keep Dragon and Wand for defence.
+- **Late:** Steal the last queens.
+
+### Extra FAQ
+
+- **Q: Rose Queen?**  
+  A: Wake another queen with her.
+- **Q: Cat and Dog queens together?**  
+  A: No.
 
 ---
 
@@ -3458,6 +4255,33 @@ Before you start:
 ### Official variants & expansions
 
 - Combine with other games.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–60 min; budget about 70 min for a first game.
+- Total: about 75 min.
+
+### Teaching script (read it aloud)
+
+> The chosen player picks truth or dare. Use cards or a spinner to choose. Play within agreed limits.
+
+### Strategy by phase
+
+- **Early:** Agree on limits.
+- **Mid:** Keep it fun, not offensive.
+- **Late:** End while it's still fun.
+
+### Extra FAQ
+
+- **Q: Can I refuse?**  
+  A: Take a forfeit instead.
+- **Q: Best size?**  
+  A: The more the merrier.
 
 ---
 
@@ -3570,6 +4394,33 @@ Before you start:
 
 - 3D cards require stacking.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Rotate 3 wooden cubes to match a monster face on the card — fastest wins the card.
+
+### Strategy by phase
+
+- **Early:** Learn each cube's faces.
+- **Mid:** Start with the easiest feature.
+- **Late:** Stay calm.
+
+### Extra FAQ
+
+- **Q: Wrong match?**  
+  A: Penalty per rulebook.
+- **Q: Kids?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../110_%E5%8F%98%E8%84%B8%E9%AD%94%E6%96%B9_Cubeez.md).*
@@ -3677,6 +4528,33 @@ Before you start:
 ### Official variants & expansions
 
 - New edition.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Two markers fight on a power track. Each leader secretly serves two factions; steer the track to favour yours. At the end victory is checked in order: Undead, Water Folk, Empire, Tribes.
+
+### Strategy by phase
+
+- **Early:** Hide your factions.
+- **Mid:** Read others' pushes.
+- **Late:** Steer precisely at the end.
+
+### Extra FAQ
+
+- **Q: Two factions per player?**  
+  A: Yes.
+- **Q: Ties?**  
+  A: See rulebook.
 
 ---
 
@@ -3787,6 +4665,33 @@ Before you start:
 
 - Spooky Doo variant.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Flip a card and grab the right wooden object: if one object appears in its true colour, grab it; otherwise grab the one whose shape and colour are both absent. Correct grabs win the card; wrong grabs cost a card. Most cards wins.
+
+### Strategy by phase
+
+- **Early:** Learn the five objects and colours.
+- **Mid:** Use elimination fast.
+- **Late:** Avoid false grabs.
+
+### Extra FAQ
+
+- **Q: Wrong grab?**  
+  A: Give up a won card.
+- **Q: What does the sequel add?**  
+  A: New objects and rules.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../112_%E5%B9%BD%E7%81%B5%E5%BF%AB%E6%89%8B%E9%AC%BC%E5%BD%B1%E5%B9%A2%E5%B9%A2_Ghost_Blitz_Spooky_Doo.md).*
@@ -3885,6 +4790,22 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../113_%E7%8C%AB%E5%92%96%E5%BA%97%E9%95%BF2_%E8%B5%84%E6%96%99%E5%BE%85%E8%A1%A5.md).*
@@ -3980,6 +4901,22 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../114_%E7%8C%9C%E5%AD%97%E8%A7%A3%E5%BA%95_%E8%B5%84%E6%96%99%E5%BE%85%E8%A1%A5.md).*
@@ -4074,6 +5011,22 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
 
 ---
 
@@ -4181,6 +5134,33 @@ Before you start:
 ### Official variants & expansions
 
 - Eastern Wonders, New World.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Start with merchant cards. On your turn: play a card (produce, upgrade, trade spices); acquire a new card (leave spices on skipped ones); claim a point card; or rest to return played cards. The 5th (4–5p) or 6th (2–3p) point card triggers the end.
+
+### Strategy by phase
+
+- **Early:** Get strong trade and upgrade cards early.
+- **Mid:** Build a steady spice engine.
+- **Late:** Grab point cards with coins late.
+
+### Extra FAQ
+
+- **Q: Spice limit?**  
+  A: 10.
+- **Q: Is resting an action?**  
+  A: Yes.
 
 ---
 
@@ -4293,6 +5273,33 @@ Before you start:
 
 - Black edition adds instruction cards.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Roll for a colour and hang sticks of that colour on the tray. The tray tilts; drop sticks and you take them. First to place all wins.
+
+### Strategy by phase
+
+- **Early:** Hang near the balance point.
+- **Mid:** Watch the tilt.
+- **Late:** Steady hands late.
+
+### Extra FAQ
+
+- **Q: Dropped several?**  
+  A: Take them all.
+- **Q: Kids?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../117_%E7%AD%BE%E7%AD%BE%E5%85%A5%E6%89%A3_Stick_Stack.md).*
@@ -4401,6 +5408,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 40–160 min; budget about 190 min for a first game.
+- Total: about 215 min.
+
+### Teaching script (read it aloud)
+
+> Run a research institute. Launch probes, scan stars, analyse data, land on planets and moons, search for alien life. The solar system rotates, shifting probes. Score points and alien discoveries.
+
+### Strategy by phase
+
+- **Early:** Launch probes and build income.
+- **Mid:** Chain scans and analysis.
+- **Late:** Grab alien species rewards late.
+
+### Extra FAQ
+
+- **Q: When does the system rotate?**  
+  A: Per rulebook triggers.
+- **Q: How are aliens revealed?**  
+  A: Per species rules.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../118_%E5%9C%B0%E5%A4%96%E6%96%87%E6%98%8E_SETI.md).*
@@ -4507,6 +5541,33 @@ Before you start:
 ### Official variants & expansions
 
 - Expansions.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 120–180 min; budget about 215 min for a first game.
+- Total: about 230 min.
+
+### Teaching script (read it aloud)
+
+> A fully co-op Cthulhu adventure. The app is keeper — map, monsters, puzzles. Each investigator has two actions: move, search, interact, attack. The Mythos phase resolves events. Complete the scenario.
+
+### Strategy by phase
+
+- **Early:** Explore for clues.
+- **Mid:** Spread actions; protect sanity.
+- **Late:** Focus on the objective.
+
+### Extra FAQ
+
+- **Q: Investigator death?**  
+  A: May lose; see scenario.
+- **Q: Need internet?**  
+  A: Download once; offline after.
 
 ---
 
@@ -4622,6 +5683,33 @@ Before you start:
 
 - Scenario book.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> Housemates redecorate cooperatively. Each has secret conditions. On your turn change something (add, remove, swap); others can only react with approval or displeasure. Win when all conditions are met.
+
+### Strategy by phase
+
+- **Early:** Meet your easiest conditions first.
+- **Mid:** Read reactions to infer others' needs.
+- **Late:** Fine-tune at the end.
+
+### Extra FAQ
+
+- **Q: Can I state my conditions?**  
+  A: No.
+- **Q: How many scenarios?**  
+  A: Many, increasing difficulty.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../120_%E5%90%8C%E6%88%BF%E5%BC%82%E6%A2%A6_Decorum.md).*
@@ -4736,6 +5824,33 @@ Before you start:
 
 - Expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–90 min; budget about 110 min for a first game.
+- Total: about 115 min.
+
+### Teaching script (read it aloud)
+
+> Dungeon crawl drinking game: your drink is your HP. Take damage, take a sip; empty means out. Cooperate or betray. Drink responsibly or use soft drinks.
+
+### Strategy by phase
+
+- **Early:** Learn your hero.
+- **Mid:** Manage damage.
+- **Late:** Beat the boss.
+
+### Extra FAQ
+
+- **Q: Soft drinks?**  
+  A: Of course.
+- **Q: Age limit?**  
+  A: 21+ for alcohol per local law.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../121_%E5%B7%B4%E5%8D%A1%E8%BF%AA%E4%BA%9A%E8%8B%B1%E9%9B%84_Heroes_of_Barcadia.md).*
@@ -4842,6 +5957,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> A three-way struggle aboard a ship: sailors want the blue port, pirates the red waters, the cult leader wants the Kraken. Each round elect a captain and officers; the captain passes navigation cards; the navigator steers. Mutiny and feeding people to the Kraken are possible.
+
+### Strategy by phase
+
+- **Early:** Watch who plays what during navigation.
+- **Mid:** Control key positions via elections.
+- **Late:** Flip the course with mutiny late.
+
+### Extra FAQ
+
+- **Q: Can the captain be removed?**  
+  A: Mutiny, per rulebook.
+- **Q: Cult win?**  
+  A: Special conditions.
 
 ---
 
@@ -4951,6 +6093,33 @@ Before you start:
 
 - Blighted Reach campaign.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 170 min.
+
+### Teaching script (read it aloud)
+
+> Sci-fi conflict driven by trick-taking: lead a card for actions; others surpass, copy or pivot. Declare ambitions that score at the chapter's end. Highest after three chapters wins.
+
+### Strategy by phase
+
+- **Early:** Expand early.
+- **Mid:** Declare ambitions fitting your hand.
+- **Late:** Focus scoring ambitions late.
+
+### Extra FAQ
+
+- **Q: When to declare?**  
+  A: When leading.
+- **Q: Fixed chapters?**  
+  A: Up to three.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../123_%E6%98%9F%E5%BC%A7%E8%88%AA%E8%AE%B0_ARCS.md).*
@@ -5058,6 +6227,33 @@ Before you start:
 ### Official variants & expansions
 
 - Beach Cup expansion.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> An auto-battler card game. Each round draft cards into your deck, then auto-battle on a schedule — flip cards and compare power. Win trophies. Top two meet in the final.
+
+### Strategy by phase
+
+- **Early:** Take cheap good cards early.
+- **Mid:** Build synergy.
+- **Late:** Trim before the final.
+
+### Extra FAQ
+
+- **Q: Deck limit?**  
+  A: See rulebook.
+- **Q: Solo?**  
+  A: Yes.
 
 ---
 
@@ -5182,6 +6378,33 @@ Before you start:
 
 - Herb Witches expansion.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> Bag-building potion making. Draw ingredients one at a time; white cherry bombs over 7 explode the pot. Stop anytime to score and buy. If you explode you choose points or shopping, not both. Most VP after 9 rounds wins.
+
+### Strategy by phase
+
+- **Early:** Buy cheap ingredients early.
+- **Mid:** Add strong colours mid-game.
+- **Late:** Push harder late.
+
+### Extra FAQ
+
+- **Q: Explode loses everything?**  
+  A: No — choose one.
+- **Q: What are rubies for?**  
+  A: Move droplet or refill flask.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../125_%E6%B1%9F%E6%B9%96%E9%83%8E%E4%B8%AD_%E9%83%8E%E4%B8%AD%E9%97%AF%E6%B1%9F%E6%B9%96_Quacks_of_Quedlinburg.md).*
@@ -5300,6 +6523,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> A question with many answers; everyone writes one, then reveals and bets on matches. Score for thinking alike.
+
+### Strategy by phase
+
+- **Early:** Write common answers.
+- **Mid:** Read others' thinking.
+- **Late:** Bet on consensus.
+
+### Extra FAQ
+
+- **Q: Duplicate answers?**  
+  A: See rulebook.
+- **Q: Betting score?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../126_%E7%8C%9C%E5%BF%83%E4%BF%B1%E4%B9%90%E9%83%A8.md).*
@@ -5407,6 +6657,33 @@ Before you start:
 ### Official variants & expansions
 
 - Leaders, Cities etc.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Three ages of simultaneous drafting: pick one, pass the rest. Build resource, military, science, commerce, civic, guild buildings and wonders. Buy resources from neighbours at 2 coins each. Score 7 categories.
+
+### Strategy by phase
+
+- **Early:** Grab resources in Age I.
+- **Mid:** Focus 1–2 paths.
+- **Late:** Grab guilds and civics in Age III.
+
+### Extra FAQ
+
+- **Q: Buy neighbours' resources?**  
+  A: 2 coins each.
+- **Q: Science scoring?**  
+  A: Squares per symbol + 7 per set.
 
 ---
 
@@ -5526,6 +6803,33 @@ Before you start:
 
 - Sushi Go Party.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Draft sushi: take one, pass. Tempura (2 = 5), sashimi (3 = 10), dumplings escalate, nigiri on wasabi triples. After three rounds most pudding gains, least loses.
+
+### Strategy by phase
+
+- **Early:** Wasabi before nigiri.
+- **Mid:** Watch others' sets.
+- **Late:** Mind pudding in round 3.
+
+### Extra FAQ
+
+- **Q: Chopsticks?**  
+  A: Take 2 next time, return chopsticks.
+- **Q: Maki scoring?**  
+  A: Most 6, second 3.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../128_%E5%AF%BF%E5%8F%B8%E7%8B%97_Sushi_Go.md).*
@@ -5637,6 +6941,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Mice roll to choose when they wake. The thief steals the cheese at their hour; a mouse awake alone may peek at others' dice. Vote at dawn. Catch the thief to win.
+
+### Strategy by phase
+
+- **Early:** Remember what you saw.
+- **Mid:** Cross-check stories.
+- **Late:** Coordinate the vote.
+
+### Extra FAQ
+
+- **Q: Can the thief lie?**  
+  A: Yes.
+- **Q: Accomplices?**  
+  A: See rulebook.
 
 ---
 
@@ -5752,6 +7083,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Salem witch trials. Each player has trial cards, maybe a Witch. Accusation cards add up; at 7 reveal a trial card. Witches convert at night. Town finds all witches; witches eliminate the town.
+
+### Strategy by phase
+
+- **Early:** Watch accusations.
+- **Mid:** Protect key players.
+- **Late:** Focus accusations late.
+
+### Extra FAQ
+
+- **Q: Revealing a Witch?**  
+  A: Eliminated.
+- **Q: Black cat?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../130_%E5%A5%B3%E5%B7%AB%E9%95%87_Salem_1692.md).*
@@ -5863,6 +7221,33 @@ Before you start:
 ### Official variants & expansions
 
 - Bomb expansion.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 10–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Undercover cops: each has 3 integrity cards, honest or crooked. Investigate, equip, aim or shoot. Take down the enemy leader (Agent or Kingpin) to win.
+
+### Strategy by phase
+
+- **Early:** Investigate neighbours.
+- **Mid:** Protect your leader.
+- **Late:** Shoot decisively.
+
+### Extra FAQ
+
+- **Q: Shoot the wrong person?**  
+  A: They're wounded or out.
+- **Q: Equipment?**  
+  A: Special abilities.
 
 ---
 
@@ -5978,6 +7363,33 @@ Before you start:
 
 - Seasons expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Three years, twelve seasons. Draft 9 power cards and split them across the years. Each turn take a season die for energy, crystals, summoning, cards. Summon items and familiars. Score crystals + cards − penalties.
+
+### Strategy by phase
+
+- **Early:** Plan your three-year split in the draft.
+- **Mid:** Exploit season changes.
+- **Late:** Push crystals in year 3.
+
+### Extra FAQ
+
+- **Q: Season dice?**  
+  A: First player rolls; pick in turn.
+- **Q: Unused cards penalised?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../132_%E5%AD%A3%E8%8A%82%E4%BC%A0%E8%AF%B4_%E5%9B%9B%E5%AD%A3%E7%89%A9%E8%AF%AD_Seasons.md).*
@@ -6083,6 +7495,33 @@ Before you start:
 ### Official variants & expansions
 
 - 2nd ed adds crazy camels.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Bet on a camel race. Each turn: take a leg bet, roll a pyramid die, place a spectator tile, or bet on overall winner/loser. Camels stack and carry those above. Settle bets each leg and at the end.
+
+### Strategy by phase
+
+- **Early:** Take leg bets early.
+- **Mid:** Use stacking to predict.
+- **Late:** Bet on the overall winner late.
+
+### Extra FAQ
+
+- **Q: Reward for rolling?**  
+  A: 1 coin.
+- **Q: Crazy camels?**  
+  A: Move backwards.
 
 ---
 
@@ -6191,6 +7630,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 120 min.
+
+### Teaching script (read it aloud)
+
+> Auction to become harbourmaster, buy shares and set cargo. Everyone places workers on boats, ports, shipyards, pilots or pirates. Roll three times to move boats. Arriving boats pay out and raise share values.
+
+### Strategy by phase
+
+- **Early:** Bid for harbourmaster wisely.
+- **Mid:** Spread workers to reduce risk.
+- **Late:** Calculate before selling.
+
+### Extra FAQ
+
+- **Q: Pirates?**  
+  A: Board ships after roll 2.
+- **Q: Mortgage shares?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../134_%E9%A9%AC%E5%B0%BC%E6%8B%89_Manila.md).*
@@ -6298,6 +7764,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> The forensic scientist knows the truth but only marks clue tiles. Investigators deduce the means and key evidence; the murderer misleads. Correct guess wins for investigators.
+
+### Strategy by phase
+
+- **Early:** Forensic: pick clear clues.
+- **Mid:** Investigators: cross-reference.
+- **Late:** Guess carefully.
+
+### Extra FAQ
+
+- **Q: Guesses per player?**  
+  A: One.
+- **Q: Can the murderer guess?**  
+  A: Yes, to mislead.
 
 ---
 
@@ -6413,6 +7906,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> A real-life experience game: vote on choices in Lee Ji-hye's life; each player guards one attribute. Focus on experience and discussion.
+
+### Strategy by phase
+
+- **Early:** Learn the background.
+- **Mid:** Respect differing views.
+- **Late:** Share reflections.
+
+### Extra FAQ
+
+- **Q: Is there a winner?**  
+  A: Experience-focused.
+- **Q: Length?**  
+  A: See box.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../136_%E6%9D%8E%E6%99%BA%E6%85%A7%E7%94%9F%E5%AD%98%E6%B8%B8%E6%88%8F.md).*
@@ -6519,6 +8039,33 @@ Before you start:
 ### Official variants & expansions
 
 - Sequel exists.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Charades telephone with hidden roles. The lead goose sees the case and passes it by gestures and honks; evil geese sabotage. Vote out the evil goose.
+
+### Strategy by phase
+
+- **Early:** Gesture clearly.
+- **Mid:** Find where the message changed.
+- **Late:** Vote on evidence.
+
+### Extra FAQ
+
+- **Q: Talking?**  
+  A: No — gestures and honks only.
+- **Q: Evil geese count?**  
+  A: By player count.
 
 ---
 
@@ -6640,6 +8187,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Scholars rise and fall in court. Roll to move a scholar or guard, using the exact count. Grab good-fortune tiles, avoid misfortune.
+
+### Strategy by phase
+
+- **Early:** Grab fortune tiles.
+- **Mid:** Block with guards.
+- **Late:** Plan exact moves late.
+
+### Extra FAQ
+
+- **Q: Must I use the full roll?**  
+  A: Yes.
+- **Q: Can guards move?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../138_%E6%B5%AE%E7%94%9F%E9%9D%92%E4%BA%91%E5%BD%95.md).*
@@ -6750,6 +8324,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Animal gang splits loot. The boss divides as they like; everyone simultaneously votes, steals, robs or guards. 'The cops are here' ends the game. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Read the boss's splits.
+- **Mid:** Time your robberies.
+- **Late:** Protect your lead.
+
+### Extra FAQ
+
+- **Q: Reject the split?**  
+  A: Vote no.
+- **Q: When do cops arrive?**  
+  A: Per rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../139_%E5%9B%9B%E6%B5%B7%E5%A5%BD%E4%BC%99%E4%BC%B4_GoodCritters.md).*
@@ -6856,6 +8457,33 @@ Before you start:
 
 - Optional roles.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Loyal knights versus Mordred's minions. The leader proposes a team; everyone votes. Approved team members secretly play success or fail — one fail sinks a quest (two on quest 4 with 7+). Three successes win for good unless the Assassin finds Merlin; three fails win for evil.
+
+### Strategy by phase
+
+- **Early:** Good: track vote history.
+- **Mid:** Merlin: hint subtly.
+- **Late:** Evil: hunt Merlin at the end.
+
+### Extra FAQ
+
+- **Q: Five rejected votes?**  
+  A: Evil wins.
+- **Q: What does Percival see?**  
+  A: Merlin and Morgana, indistinguishable.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../140_%E9%98%BF%E7%93%A6%E9%9A%86_The_Resistance_Avalon.md).*
@@ -6952,6 +8580,31 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> Warship Girls R two-player battle: build fleets within an agreed point total (up to 2 fleets) and trade attacks. Details per the box rulebook.
+
+### Strategy by phase
+
+- **Early:** Balance your fleet.
+- **Mid:** Focus on weaknesses.
+- **Late:** Protect your flagship.
+
+### Extra FAQ
+
+- **Q: Point total?**  
+  A: Agreed by players.
+- **Q: Pending info?**  
+  A: Follow the rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../141_%E6%A1%8C%E9%9D%A2%E6%88%98%E8%AE%B0_%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3R_SUNWING.md).*
@@ -7046,6 +8699,22 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
 
 ---
 
@@ -7142,6 +8811,22 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../143_%E5%AE%B6%E5%AE%B4II%E6%AC%A2%E4%B9%90%E5%8D%87%E7%BA%A7_%E8%B5%84%E6%96%99%E5%BE%85%E8%A1%A5.md).*
@@ -7237,6 +8922,22 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../144_%E5%B9%B4%E5%A4%9C%E9%A5%AD_%E8%B5%84%E6%96%99%E5%BE%85%E8%A1%A5.md).*
@@ -7331,6 +9032,22 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
 
 ---
 
@@ -7429,7 +9146,7 @@ Before you start:
 
 ### Scoring example
 
-- Score gems.
+- After 9 rounds, most gems of a single colour wins; ties by total gems (see rulebook).
 
 ### Rules FAQ / rulings
 
@@ -7443,6 +9160,33 @@ Before you start:
 ### Official variants & expansions
 
 - Easy/hard sides.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 25–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Each player gets a puzzle card. Roll the symbol die to choose the row of 3 (or 4) pieces; flip the timer. Everyone fills the blank area exactly. Shout 'Ubongo!' to claim reward gems in order; anyone done in time takes gems. After 9 rounds the player with the most gems of one colour wins; ties by total gems.
+
+### Strategy by phase
+
+- **Early:** Warm up on the 3-piece side.
+- **Mid:** Place the biggest piece first.
+- **Late:** Focus on one gem colour.
+
+### Extra FAQ
+
+- **Q: Can pieces overhang?**  
+  A: No.
+- **Q: How is the winner decided?**  
+  A: Most of one colour; ties by total.
 
 ---
 
@@ -7551,6 +9295,33 @@ Before you start:
 ### Official variants & expansions
 
 - Expansions.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Espionage card game with hidden factions. Intel cards are both hand and weapon — pass intel via direct, secret or text routes; others accept or refuse, or intercept, swap and expose with action cards. Three intel of a colour fulfils goals.
+
+### Strategy by phase
+
+- **Early:** Watch who accepts what colours.
+- **Mid:** Protect allies with actions.
+- **Late:** Intercept key intel late.
+
+### Extra FAQ
+
+- **Q: Three black intel?**  
+  A: Death.
+- **Q: When to use skills?**  
+  A: Per rulebook.
 
 ---
 
@@ -7668,6 +9439,33 @@ Before you start:
 
 - 3p variant.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Gang loot split: everyone secretly picks a role simultaneously; duplicated roles are all eliminated. Survivors split money by role abilities. Most money wins.
+
+### Strategy by phase
+
+- **Early:** Learn others' habits.
+- **Mid:** Avoid collisions.
+- **Late:** Pick the best role late.
+
+### Extra FAQ
+
+- **Q: Can we negotiate?**  
+  A: Yes, not binding.
+- **Q: Money split?**  
+  A: By role abilities.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../148_%E7%99%BE%E4%B8%87%E7%BE%8E%E9%87%91_Millions_of_Dollars.md).*
@@ -7773,6 +9571,33 @@ Before you start:
 
 - Several scripts.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 120–240 min; budget about 290 min for a first game.
+- Total: about 305 min.
+
+### Teaching script (read it aloud)
+
+> Boxed murder mystery: fixed player count, single play. Choose characters, read scripts, search evidence, discuss, vote. The murderer hides; others seek truth.
+
+### Strategy by phase
+
+- **Early:** Read your script carefully.
+- **Mid:** Record clues.
+- **Late:** Build a timeline before voting.
+
+### Extra FAQ
+
+- **Q: Read others' scripts?**  
+  A: No.
+- **Q: Replay?**  
+  A: One-time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../149_K%E7%9A%84%E6%B8%B8%E6%88%8F_%E7%9B%92%E8%A3%85%E5%89%A7%E6%9C%AC%E6%9D%80%E7%B3%BB%E5%88%97.md).*
@@ -7867,8 +9692,8 @@ Before you start:
 
 ### Rules FAQ / rulings
 
-- **Q: No wolves in play?**  
-  A: Village wins if no one dies.
+- **Q: What if no werewolves are among players?**  
+  A: If both are in the centre, the village wins only if nobody dies (each player gets exactly one vote).
 
 ### Player-count differences
 
@@ -7878,6 +9703,33 @@ Before you start:
 ### Official variants & expansions
 
 - Daybreak etc.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–10 min; budget about 10 min for a first game.
+- Total: about 15 min.
+
+### Teaching script (read it aloud)
+
+> One-night werewolf. Three extra role cards in the centre. Night actions in order: werewolves, seer, robber, troublemaker, drunk... At dawn discuss and vote simultaneously. Village wins by killing a werewolf; if no werewolves are among players, the village wins only if nobody dies.
+
+### Strategy by phase
+
+- **Early:** Remember your night info.
+- **Mid:** Share info and find contradictions.
+- **Late:** Consider wolves in the centre.
+
+### Extra FAQ
+
+- **Q: No werewolves among players?**  
+  A: Village wins only if nobody dies (each gets one vote).
+- **Q: Can my role change?**  
+  A: Robber or Troublemaker may swap it; your final card counts.
 
 ---
 
@@ -7992,6 +9844,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> A mall surrounded by zombies. Each round choose a destination secretly. When zombies break into a weak area, vote on who gets thrown out. Score surviving characters.
+
+### Strategy by phase
+
+- **Early:** Read others' moves.
+- **Mid:** Protect high-value characters.
+- **Late:** Ally for key votes.
+
+### Extra FAQ
+
+- **Q: Abstain?**  
+  A: See rulebook.
+- **Q: Items?**  
+  A: Defence or effects.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../151_%E5%83%B5%E5%B0%B8%E5%95%86%E5%9C%BA_Mall_of_Horror.md).*
@@ -8086,6 +9965,31 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> Possibly from the show 'Forest Evolution': HP and poker identities with circular counters, predation and evolution auctions. Details per the box.
+
+### Strategy by phase
+
+- **Early:** Learn the counters.
+- **Mid:** Bid wisely.
+- **Late:** Protect HP.
+
+### Extra FAQ
+
+- **Q: Limited info?**  
+  A: Follow the box.
+- **Q: Players?**  
+  A: See box.
 
 ---
 
@@ -8194,6 +10098,33 @@ Before you start:
 ### Official variants & expansions
 
 - Team play.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 10–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Each picks a mystery person. Take turns asking yes/no questions like 'Glasses?' and flip down non-matches. First to guess wins.
+
+### Strategy by phase
+
+- **Early:** Ask questions that cut half.
+- **Mid:** Watch their board.
+- **Late:** Guess when sure.
+
+### Extra FAQ
+
+- **Q: Wrong guess?**  
+  A: You lose.
+- **Q: Multiple traits?**  
+  A: One at a time.
 
 ---
 
@@ -8304,6 +10235,33 @@ Before you start:
 
 - House rules.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 55 min.
+
+### Teaching script (read it aloud)
+
+> Ludo-style race. Roll a 6 to launch (some allow 5–6). Land on your colour to jump ahead; dashed lines let you fly across. Landing on an opponent sends them home. First to bring all 4 planes home wins.
+
+### Strategy by phase
+
+- **Early:** Launch several planes.
+- **Mid:** Bump opponents.
+- **Late:** Exact rolls to finish.
+
+### Extra FAQ
+
+- **Q: Need a 6 to launch?**  
+  A: Usually 6; some allow 5.
+- **Q: Roll again on 6?**  
+  A: Usually yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../154_%E9%A3%9E%E8%A1%8C%E6%A3%8B_Aeroplane_Chess.md).*
@@ -8412,6 +10370,33 @@ Before you start:
 ### Official variants & expansions
 
 - See rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 5–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Build an 18-level tower. Take turns removing a block (below the top level) with one hand and placing it on top. Topple it and you lose.
+
+### Strategy by phase
+
+- **Early:** Pull loose middle blocks.
+- **Mid:** Watch the centre of gravity.
+- **Late:** Be careful late.
+
+### Extra FAQ
+
+- **Q: Two hands?**  
+  A: One hand only.
+- **Q: Can I pull from the top?**  
+  A: Not from the top level or the one below if incomplete.
 
 ---
 
@@ -8536,6 +10521,33 @@ Before you start:
 
 - Three base scripts (Trouble Brewing, Bad Moon Rising, Sects & Violets), teensy scripts, Travellers and many community scripts.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–120 min; budget about 145 min for a first game.
+- Total: about 160 min.
+
+### Teaching script (read it aloud)
+
+> A Storyteller runs the game; everyone has a unique role. Good finds and executes the Demon; evil wins when only 2 players live. At night the Demon kills and roles get info; by day discuss, nominate and vote. The dead stay in, keep talking and have one ghost vote. Info can be wrong due to drunkenness or poison.
+
+### Strategy by phase
+
+- **Early:** Good: share info carefully.
+- **Mid:** Cross-check info and death patterns.
+- **Late:** At final three, every vote matters — use ghost votes.
+
+### Extra FAQ
+
+- **Q: Can the dead vote?**  
+  A: One ghost vote per game.
+- **Q: Vote threshold?**  
+  A: ≥ half the living; tie means no execution.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../156_%E8%A1%80%E6%9F%93%E9%92%9F%E6%A5%BC_Blood_on_the_Clocktower.md).*
@@ -8656,6 +10668,33 @@ Before you start:
 
 - A 2.0 edition adjusts some roles and spell cards.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–40 min; budget about 50 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Each player holds 3 role cards; any red means Blade side. Each round play cards secretly into a ritual; blades kill, roses and blades are revealed together. Deduce the Blade side; win per rulebook conditions.
+
+### Strategy by phase
+
+- **Early:** Watch talk and plays.
+- **Mid:** Deduce from reveals.
+- **Late:** Focus votes late.
+
+### Extra FAQ
+
+- **Q: Is there a 2.0?**  
+  A: Yes, rules may differ.
+- **Q: Players?**  
+  A: 5–10.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../157_%E8%A1%80%E4%B8%8E%E5%88%83%E7%9A%84%E7%99%BD%E8%94%B7%E8%96%87_Blades_Rose.md).*
@@ -8763,6 +10802,31 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> An 'I'm the Boss' series card game: run companies, trade shares, mergers and dividends. Only video explanations exist online (setup, actions, mergers, bankruptcy/dividends, simultaneous mergers). Follow the box rulebook.
+
+### Strategy by phase
+
+- **Early:** Buy shares in promising companies.
+- **Mid:** Time mergers.
+- **Late:** Calculate dividends late.
+
+### Extra FAQ
+
+- **Q: Pending info?**  
+  A: Follow the box.
+- **Q: Simultaneous mergers?**  
+  A: Per rulebook order.
 
 ---
 
@@ -8890,6 +10954,33 @@ Before you start:
 
 - Expansion: The Werewolf's Journey: Blood on the Moon.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> Explore a haunted house. After drawing an omen, roll dice equal to the omen count; 5+ triggers the haunt (the last omen triggers automatically). The scenario card chooses the haunt; reveal the traitor or special setup, then sides pursue secret goals. Discovering a room ends your movement.
+
+### Strategy by phase
+
+- **Early:** Explore and grab items early.
+- **Mid:** Follow the haunt objective.
+- **Late:** Concentrate resources late.
+
+### Extra FAQ
+
+- **Q: Steal items?**  
+  A: Not by default.
+- **Q: Haunt roll?**  
+  A: Dice = omens; 5+ triggers.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../159_%E6%9E%97%E4%B8%AD%E5%B0%8F%E5%B1%8B%E7%AC%AC%E4%B8%89%E7%89%88_Betrayal_at_House_on_the_Hill_3rd.md).*
@@ -9012,6 +11103,33 @@ Before you start:
 
 - Hero packs (e.g. Witch Hunter, Troll Slayer) and delve mode.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Fully co-op dungeon cards. Each hero has four actions: explore, rest, aid, attack; roll for successes. Explore locations, clear enemies, manage peril, complete the quest.
+
+### Strategy by phase
+
+- **Early:** Clear big threats first.
+- **Mid:** Balance aid and rest.
+- **Late:** Focus on the quest late.
+
+### Extra FAQ
+
+- **Q: Exhausted actions?**  
+  A: Rest to ready.
+- **Q: Hero death?**  
+  A: May lose.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../160_%E6%88%98%E9%94%A4%E4%BB%BB%E5%8A%A1_Warhammer_Quest_Adventure_Card_Game.md).*
@@ -9117,6 +11235,22 @@ See the box.
 
 See the rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../161_%E5%85%8B%E8%8B%8F%E9%B2%81%E4%B9%8B%E7%BA%A6_K%E7%9A%84%E6%A1%8C%E6%B8%B8.md).*
@@ -9128,15 +11262,13 @@ See the rulebook.
 
 > Chinese name: **末日启示录（僵尸生存合作）** · Doc #162 · [中文原文 / Chinese doc](../162_%E6%9C%AB%E6%97%A5%E5%90%AF%E7%A4%BA%E5%BD%95.md) · [Open in the web app](https://codinggeoff.github.io/boardgame-shelf-rules/#doc/162)
 
-> ⚠️ Public rules data for this game is limited; treat this page as a pointer and read the rulebook in the box.
-
 ## At a glance
 
 | Item | Value |
 |---|---|
-| Players | see box (best: 2-4) |
-| Play time | see box |
-| Age | see box |
+| Players | 1–4 (best: 2-4) |
+| Play time | 60–90 min |
+| Age | 14+ |
 | Complexity | ●●●○○ Medium (3/5) |
 | Tags | co-op, survival, card-driven, exploration, horror |
 
@@ -9241,6 +11373,33 @@ Before you start:
 
 - A dozen-plus scenarios and 4 monster decks.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> A small co-op survival game. Each character has a unique deck. Each round roll to spawn zombies, draw, and take 4 actions (move, draw, play, card actions). Lose at 0 HP or an empty deck.
+
+### Strategy by phase
+
+- **Early:** Spend actions wisely.
+- **Mid:** Watch your deck size.
+- **Late:** Rush the objective late.
+
+### Extra FAQ
+
+- **Q: Empty deck?**  
+  A: Loss.
+- **Q: Solo?**  
+  A: Yes, 1–4.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../162_%E6%9C%AB%E6%97%A5%E5%90%AF%E7%A4%BA%E5%BD%95.md).*
@@ -9344,6 +11503,22 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### How to learn it fast from the rulebook
+
+1. Find the goal / win condition and say it in one sentence.
+2. Break one turn into 3–5 steps on paper.
+3. Count components and set up following the rulebook pictures.
+4. Play one open-handed practice round; note doubts and check them afterwards.
+5. Write your house rules into this doc for next time.
 
 ---
 
@@ -9467,6 +11642,33 @@ Before you start:
 
 - Player Aliens and Hidden Agenda variants; expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Co-op deckbuilding: use attack to scan and kill aliens advancing from the hive, recruit points to buy cards from HQ. Complete three film objectives. Beware facehuggers and hidden aliens.
+
+### Strategy by phase
+
+- **Early:** Buy balanced recruit/attack cards.
+- **Mid:** Scan unknowns promptly.
+- **Late:** Focus attacks late.
+
+### Extra FAQ
+
+- **Q: Facehuggers?**  
+  A: Per rulebook, may cause chestbursters.
+- **Q: Objective decks?**  
+  A: 9/11/13 cards, 1 Drone per player.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../164_%E4%BC%A0%E5%A5%87%E5%86%B2%E7%AA%81_%E5%BC%82%E5%BD%A2_Legendary_Encounters_Alien.md).*
@@ -9575,6 +11777,31 @@ See the box.
 ### Variants & expansions
 
 See the rulebook.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Public data is limited — see the box for play time; allow an extra 15–20 minutes to read the rules.
+
+### Teaching script (read it aloud)
+
+> A Monopoly-like Chinese game with an electronic bank card reader and dice tower. Roll, buy, rent, build, draw chance cards, bankrupt opponents. Follow the box.
+
+### Strategy by phase
+
+- **Early:** Buy early.
+- **Mid:** Complete sets and build.
+- **Late:** Collect high rents.
+
+### Extra FAQ
+
+- **Q: Card reader dead?**  
+  A: Replace batteries or use paper.
+- **Q: Pending info?**  
+  A: Follow the rulebook.
 
 ---
 
@@ -9694,6 +11921,33 @@ Before you start:
 ### Official variants & expansions
 
 - No expansions; kids can drop the daimyo line for stealing as a house rule.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Knizia's samurai dice game. Roll 7 dice; each roll you must complete one battle line on a castle card or lose a die. Complete a castle to claim it; collect a whole clan for a bonus. Highest castle points wins.
+
+### Strategy by phase
+
+- **Early:** Attack easy castles.
+- **Mid:** Aim to complete clans.
+- **Late:** Steal unprotected castles late.
+
+### Extra FAQ
+
+- **Q: Steal castles?**  
+  A: Yes, with an extra line (complete clans are protected).
+- **Q: Out of dice?**  
+  A: Fail; turn ends.
 
 ---
 

@@ -100,6 +100,33 @@ Before you start:
 
 - Related titles exist.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–25 min; budget about 30 min for a first game.
+- Total: about 35 min.
+
+### Teaching script (read it aloud)
+
+> Pass a bug card face down to someone and claim what it is (truth or lie). They call true/false or peek and pass it on. Whoever is wrong takes the card face up. First with 4 of a kind (or no cards to play) loses.
+
+### Strategy by phase
+
+- **Early:** Learn others' bluffing tells.
+- **Mid:** Don't let one bug type pile up on you.
+- **Late:** Push the type a player is close to on them.
+
+### Extra FAQ
+
+- **Q: Can it come back to someone who saw it?**  
+  A: No.
+- **Q: Everyone has seen it?**  
+  A: The last must call.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../53_%E8%9F%91%E8%9E%82%E6%89%91%E5%85%8B_Kakerlaken_Poker.md).*

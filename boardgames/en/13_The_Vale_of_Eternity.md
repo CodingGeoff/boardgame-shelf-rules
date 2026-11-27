@@ -102,6 +102,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–45 min; budget about 55 min for a first game.
+- Total: about 70 min.
+
+### Teaching script (read it aloud)
+
+> Each round draft monster cards — take one, pass the rest. Captured monsters go to your hand; pay elemental points to summon them. Summoned monsters produce or chain effects. The game ends after 10 rounds or when someone hits 60 points. The core is combos: make each summon trigger several effects.
+
+### Strategy by phase
+
+- **Early:** Prioritise resource-producing monsters early.
+- **Mid:** Focus on 1–2 elements; hate-draft what your neighbour needs.
+- **Late:** Late game, summon every point-maker and count to 60.
+
+### Extra FAQ
+
+- **Q: Can I mix elements to pay?**  
+  A: Pay as printed on the card; see rulebook.
+- **Q: Is there a limit on summoned monsters?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../13_%E6%B0%B8%E6%81%92%E4%B9%8B%E8%B0%B7_Vale_of_Eternity.md).*

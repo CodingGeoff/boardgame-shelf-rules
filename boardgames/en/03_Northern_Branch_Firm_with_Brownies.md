@@ -107,6 +107,33 @@ Before you start:
 
 - A standalone entry in its series; mixing rules per rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 50 min.
+
+### Teaching script (read it aloud)
+
+> Your cards are both resources and buildings. Each turn gather, refine resources into higher-value goods, or pay to construct buildings that keep producing or refining for you — elves working for you. Goods become money or points. Highest score at the end wins. The plan: build capacity first, then process at scale.
+
+### Strategy by phase
+
+- **Early:** Build long-term producers first; don't rush selling.
+- **Mid:** Find the production chain your buildings support and specialise.
+- **Late:** In the last rounds stop building and convert everything to the most valuable goods.
+
+### Extra FAQ
+
+- **Q: Are resources and buildings the same cards?**  
+  A: Yes — each card is used one way or the other.
+- **Q: Is there a hand limit?**  
+  A: Yes, discard down to the rulebook limit at end of turn.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../03_%E5%8C%97%E6%96%B9%E5%88%86%E9%83%A8_Northern_Branch_Firm_with_Brownies.md).*

@@ -96,6 +96,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 60–90 min; budget about 110 min for a first game.
+- Total: about 125 min.
+
+### Teaching script (read it aloud)
+
+> A team-based tabletop MOBA. Everyone selects cards simultaneously, resolving by initiative: move, attack, skills. Push minions, kill heroes, control lanes. No dice — prediction and teamwork.
+
+### Strategy by phase
+
+- **Early:** Learn hero roles.
+- **Mid:** Coordinate initiative and positioning.
+- **Late:** Push hard late.
+
+### Extra FAQ
+
+- **Q: Hero death?**  
+  A: Opponent scores; respawn later.
+- **Q: Can we share hands?**  
+  A: Talk but don't show; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../73_%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E5%AE%88%E5%8D%ABII_Guards_of_Atlantis_II.md).*

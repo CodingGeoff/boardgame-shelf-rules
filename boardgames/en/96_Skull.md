@@ -101,6 +101,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–45 min; budget about 55 min for a first game.
+- Total: about 60 min.
+
+### Teaching script (read it aloud)
+
+> Three roses and a skull each. Place discs face down or bid how many you can flip without a skull. The challenger flips all their own first, then others'. Two successes win; failure loses a disc.
+
+### Strategy by phase
+
+- **Early:** Read others' placing habits.
+- **Mid:** Plant skulls to bait.
+- **Late:** Bid considering your own discs.
+
+### Extra FAQ
+
+- **Q: Must I flip my own first?**  
+  A: Yes.
+- **Q: Hit my own skull?**  
+  A: I choose which disc to lose.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../96_%E9%AA%B7%E9%AB%85%E4%B8%8E%E7%8E%AB%E7%91%B0_Skull.md).*

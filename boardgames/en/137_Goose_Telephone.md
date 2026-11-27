@@ -98,6 +98,33 @@ Before you start:
 
 - Sequel exists.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Charades telephone with hidden roles. The lead goose sees the case and passes it by gestures and honks; evil geese sabotage. Vote out the evil goose.
+
+### Strategy by phase
+
+- **Early:** Gesture clearly.
+- **Mid:** Find where the message changed.
+- **Late:** Vote on evidence.
+
+### Extra FAQ
+
+- **Q: Talking?**  
+  A: No — gestures and honks only.
+- **Q: Evil geese count?**  
+  A: By player count.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../137_%E4%BB%A5%E9%B9%85%E4%BC%A0%E9%B9%85.md).*

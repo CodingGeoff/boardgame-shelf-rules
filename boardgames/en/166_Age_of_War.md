@@ -110,6 +110,33 @@ Before you start:
 
 - No expansions; kids can drop the daimyo line for stealing as a house rule.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–30 min; budget about 35 min for a first game.
+- Total: about 40 min.
+
+### Teaching script (read it aloud)
+
+> Knizia's samurai dice game. Roll 7 dice; each roll you must complete one battle line on a castle card or lose a die. Complete a castle to claim it; collect a whole clan for a bonus. Highest castle points wins.
+
+### Strategy by phase
+
+- **Early:** Attack easy castles.
+- **Mid:** Aim to complete clans.
+- **Late:** Steal unprotected castles late.
+
+### Extra FAQ
+
+- **Q: Steal castles?**  
+  A: Yes, with an extra line (complete clans are protected).
+- **Q: Out of dice?**  
+  A: Fail; turn ends.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../166_%E6%88%98%E5%9B%BD%E6%97%B6%E4%BB%A3_Age_of_War.md).*

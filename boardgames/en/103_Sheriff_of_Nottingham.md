@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 60–60 min; budget about 70 min for a first game.
+- Total: about 80 min.
+
+### Teaching script (read it aloud)
+
+> Smuggle contraband into the city. Bag goods and declare (truth or lie); the Sheriff inspects or lets it pass. Caught? Pay fines. Wrong? Sheriff pays you. Bribes and deals allowed. Score goods, contraband, coins and king/queen bonuses.
+
+### Strategy by phase
+
+- **Early:** Be honest early to build trust.
+- **Mid:** As sheriff, note who lies.
+- **Late:** Smuggle big late.
+
+### Extra FAQ
+
+- **Q: Can a bribe be a promise?**  
+  A: Yes, not enforced.
+- **Q: Max cards in bag?**  
+  A: 5.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../103_%E8%AF%BA%E4%B8%81%E6%B1%89%E8%AD%A6%E9%95%BF%E7%AC%AC%E4%BA%8C%E7%89%88_Sheriff_of_Nottingham.md).*

@@ -100,6 +100,33 @@ Before you start:
 
 - Spooky Doo variant.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Flip a card and grab the right wooden object: if one object appears in its true colour, grab it; otherwise grab the one whose shape and colour are both absent. Correct grabs win the card; wrong grabs cost a card. Most cards wins.
+
+### Strategy by phase
+
+- **Early:** Learn the five objects and colours.
+- **Mid:** Use elimination fast.
+- **Late:** Avoid false grabs.
+
+### Extra FAQ
+
+- **Q: Wrong grab?**  
+  A: Give up a won card.
+- **Q: What does the sequel add?**  
+  A: New objects and rules.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../112_%E5%B9%BD%E7%81%B5%E5%BF%AB%E6%89%8B%E9%AC%BC%E5%BD%B1%E5%B9%A2%E5%B9%A2_Ghost_Blitz_Spooky_Doo.md).*

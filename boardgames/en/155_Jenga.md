@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 5–15 min; budget about 20 min for a first game.
+- Total: about 25 min.
+
+### Teaching script (read it aloud)
+
+> Build an 18-level tower. Take turns removing a block (below the top level) with one hand and placing it on top. Topple it and you lose.
+
+### Strategy by phase
+
+- **Early:** Pull loose middle blocks.
+- **Mid:** Watch the centre of gravity.
+- **Late:** Be careful late.
+
+### Extra FAQ
+
+- **Q: Two hands?**  
+  A: One hand only.
+- **Q: Can I pull from the top?**  
+  A: Not from the top level or the one below if incomplete.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../155_%E5%8F%A0%E5%8F%A0%E4%B9%90_Jenga.md).*

@@ -97,6 +97,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> One player is the detective, one the phantom thief. The thief secretly disguises as one of six suspects and tries to open the real treasure chest; the detective watches movements to identify the thief. Thief wins with the treasure; detective wins by catching the right suspect.
+
+### Strategy by phase
+
+- **Early:** Thief: make suspects behave alike; don't rush the chest.
+- **Mid:** Detective: track each suspect's path and eliminate.
+- **Late:** Thief sprints late; detective accuses only when confident.
+
+### Extra FAQ
+
+- **Q: How many accusations?**  
+  A: Limited; see rulebook.
+- **Q: Are some chests fake?**  
+  A: Yes, the thief needs the real one.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../30_%E5%BC%97%E6%8B%89%E5%88%87%E8%AF%BA%E7%9A%84%E7%A7%98%E5%AE%9D_Sarau_Abaku.md).*

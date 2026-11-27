@@ -113,6 +113,33 @@ Before you start:
 
 - Player Aliens and Hidden Agenda variants; expansions.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 15 min (weight ●●●).
+- Play: 45–60 min; budget about 70 min for a first game.
+- Total: about 85 min.
+
+### Teaching script (read it aloud)
+
+> Co-op deckbuilding: use attack to scan and kill aliens advancing from the hive, recruit points to buy cards from HQ. Complete three film objectives. Beware facehuggers and hidden aliens.
+
+### Strategy by phase
+
+- **Early:** Buy balanced recruit/attack cards.
+- **Mid:** Scan unknowns promptly.
+- **Late:** Focus attacks late.
+
+### Extra FAQ
+
+- **Q: Facehuggers?**  
+  A: Per rulebook, may cause chestbursters.
+- **Q: Objective decks?**  
+  A: 9/11/13 cards, 1 Drone per player.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../164_%E4%BC%A0%E5%A5%87%E5%86%B2%E7%AA%81_%E5%BC%82%E5%BD%A2_Legendary_Encounters_Alien.md).*

@@ -88,7 +88,7 @@ Before you start:
 
 ### Scoring example
 
-- Score gems.
+- After 9 rounds, most gems of a single colour wins; ties by total gems (see rulebook).
 
 ### Rules FAQ / rulings
 
@@ -102,6 +102,33 @@ Before you start:
 ### Official variants & expansions
 
 - Easy/hard sides.
+
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 25–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Each player gets a puzzle card. Roll the symbol die to choose the row of 3 (or 4) pieces; flip the timer. Everyone fills the blank area exactly. Shout 'Ubongo!' to claim reward gems in order; anyone done in time takes gems. After 9 rounds the player with the most gems of one colour wins; ties by total gems.
+
+### Strategy by phase
+
+- **Early:** Warm up on the 3-piece side.
+- **Mid:** Place the biggest piece first.
+- **Late:** Focus on one gem colour.
+
+### Extra FAQ
+
+- **Q: Can pieces overhang?**  
+  A: No.
+- **Q: How is the winner decided?**  
+  A: Most of one colour; ties by total.
 
 ---
 

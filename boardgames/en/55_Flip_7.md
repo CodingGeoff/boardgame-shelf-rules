@@ -100,6 +100,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 20–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> Flip number cards one at a time and stop whenever you like. A duplicate busts you for 0 this round. Seven different numbers ends the round with +15. Modifiers and actions (Freeze, Flip Three, Second Chance) spice it up. First to 200 wins.
+
+### Strategy by phase
+
+- **Early:** Consider stopping at 4–5 numbers.
+- **Mid:** Freeze the leader's hot streak.
+- **Late:** Near 200, play safe.
+
+### Extra FAQ
+
+- **Q: How does Second Chance work?**  
+  A: Discard it and the duplicate, then continue.
+- **Q: Does 0 count as a number?**  
+  A: Yes.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../55_FLIP_7.md).*

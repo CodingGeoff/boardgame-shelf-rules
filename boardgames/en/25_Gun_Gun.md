@@ -100,6 +100,33 @@ Before you start:
 
 - OVERHEAT adds heat and guns.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 20–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Each player dual-wields two personified guns with unique abilities. Reload, then fire each gun once per turn. Some excel at range, some at burst. First to drain the opponent's 30 HP wins.
+
+### Strategy by phase
+
+- **Early:** Learn your guns' synergy — steady plus burst.
+- **Mid:** Manage ammo; don't empty out and get punished.
+- **Late:** Burst when the opponent is low.
+
+### Extra FAQ
+
+- **Q: One shot per gun per turn?**  
+  A: Yes, by the basic rules.
+- **Q: Ammo limit?**  
+  A: See rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../25_%E6%9E%AA%E4%B8%8E%E6%9E%AA_Gun_and_Gun_%E5%90%ABOVERHEAT%E6%89%A9%E5%B1%95.md).*

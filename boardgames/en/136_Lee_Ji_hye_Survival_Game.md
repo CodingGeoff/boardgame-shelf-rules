@@ -105,6 +105,33 @@ Before you start:
 
 - See rulebook.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 45–45 min; budget about 55 min for a first game.
+- Total: about 65 min.
+
+### Teaching script (read it aloud)
+
+> A real-life experience game: vote on choices in Lee Ji-hye's life; each player guards one attribute. Focus on experience and discussion.
+
+### Strategy by phase
+
+- **Early:** Learn the background.
+- **Mid:** Respect differing views.
+- **Late:** Share reflections.
+
+### Extra FAQ
+
+- **Q: Is there a winner?**  
+  A: Experience-focused.
+- **Q: Length?**  
+  A: See box.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../136_%E6%9D%8E%E6%99%BA%E6%85%A7%E7%94%9F%E5%AD%98%E6%B8%B8%E6%88%8F.md).*

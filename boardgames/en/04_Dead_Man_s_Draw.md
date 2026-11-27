@@ -103,6 +103,33 @@ Before you start:
 
 - Digital versions exist; expansions add suits and character powers.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 5 min (weight ●).
+- Play: 15–20 min; budget about 25 min for a first game.
+- Total: about 30 min.
+
+### Teaching script (read it aloud)
+
+> On your turn flip cards one by one into your play area; stop whenever you like and bank them all. Flip a suit already in front of you and you bust — everything is discarded. Each suit has an ability (steal, draw again, peek...) that triggers when flipped. At the end only your highest card of each suit scores.
+
+### Strategy by phase
+
+- **Early:** Bank early after 2–3 cards to start every suit.
+- **Mid:** Use abilities to steal opponents' top cards and fill your gaps.
+- **Late:** Near the end count what's left per suit and push your luck for key high cards.
+
+### Extra FAQ
+
+- **Q: Do abilities trigger on a bust?**  
+  A: No, the busting card doesn't trigger and all cards in play are discarded.
+- **Q: Does every banked card score?**  
+  A: Only your highest card in each suit.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../04_%E4%BA%A1%E8%80%85%E7%A5%9E%E6%8A%BD_Dead_Mans_Draw.md).*

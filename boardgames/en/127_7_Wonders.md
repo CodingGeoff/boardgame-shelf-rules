@@ -99,6 +99,33 @@ Before you start:
 
 - Leaders, Cities etc.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 10 min (weight ●●).
+- Play: 30–30 min; budget about 35 min for a first game.
+- Total: about 45 min.
+
+### Teaching script (read it aloud)
+
+> Three ages of simultaneous drafting: pick one, pass the rest. Build resource, military, science, commerce, civic, guild buildings and wonders. Buy resources from neighbours at 2 coins each. Score 7 categories.
+
+### Strategy by phase
+
+- **Early:** Grab resources in Age I.
+- **Mid:** Focus 1–2 paths.
+- **Late:** Grab guilds and civics in Age III.
+
+### Extra FAQ
+
+- **Q: Buy neighbours' resources?**  
+  A: 2 coins each.
+- **Q: Science scoring?**  
+  A: Squares per symbol + 7 per set.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../127_%E4%B8%83%E5%A4%A7%E5%A5%87%E8%BF%B9_7_Wonders.md).*

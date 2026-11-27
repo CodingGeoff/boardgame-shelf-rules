@@ -105,6 +105,33 @@ Before you start:
 
 - CROSS×FATE adds witches and Clads.
 
+## Advanced guide: teaching script, time budget, phase strategy, extra FAQ
+
+> Summarised by the editor from the rules above for teaching and improving; the rulebook wins on conflicts.
+
+### First-game time budget
+
+- Teaching: about 25 min (weight ●●●●).
+- Play: 90–120 min; budget about 145 min for a first game.
+- Total: about 170 min.
+
+### Teaching script (read it aloud)
+
+> Witches fight the giant Clad together, but compete for the highest score. Each player deckbuilds, moving around the arena, attacking and acquiring cards. The Clad strikes back via its action deck. Score when it's defeated or time runs out.
+
+### Strategy by phase
+
+- **Early:** Buy draw and movement early.
+- **Mid:** Mind the Clad's attack zones and position before striking.
+- **Late:** Push damage and bonuses at the end.
+
+### Extra FAQ
+
+- **Q: Co-op or competitive?**  
+  A: Semi-co-op: shared boss, individual scores.
+- **Q: What if I'm knocked down?**  
+  A: Usually a penalty; see rulebook.
+
 ---
 
 *English summary written from the Chinese doc and public rules. If anything conflicts with the rulebook in the box, the rulebook wins. Sources are listed in the [Chinese doc](../32_HacKClaD_%E5%90%ABCROSS_FATE%E6%89%A9%E5%B1%95.md).*
